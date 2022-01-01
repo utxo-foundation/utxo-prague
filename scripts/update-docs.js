@@ -37,7 +37,7 @@ const speakersLeads = `_(abecedně)_\n\n` + speakersLeadsArr.join('\n\n')
 // SPEAKERS - write file
 const speakersDocFile = './docs/prednasejici.md'
 const speakersText = await Deno.readTextFile(speakersDocFile)
-let output = speakersText.replace(/## Seznam všech přednášejících([\s\S]*)/m, `## Seznam všech přednášejících\n\n${speakersTable}`)
-output = speakersText.replace(/## Významní hosté([\s\S]*)## /m, `## Významní hosté\n\n${speakersLeads}\n\n## `)
+let output = speakersText.replace(/## Seznam všech přednášejících([\s\S]+)/m, `## Seznam všech přednášejících\n\n${speakersTable}`)
+output = output.replace(/## Významní hosté([\s\S]*)## /m, `## Významní hosté\n\n${speakersLeads}\n\n## `)
 await Deno.writeTextFile(speakersDocFile, output)
 
