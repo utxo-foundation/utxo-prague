@@ -1,5 +1,16 @@
+id: utxo22
 name: UTXO.22
 shortname: UTXO
-lists:
+description: Otevřená komunitní kryptoměnová konference
+dates: [ 2022-06-04, 2022-06-05 ]
+place: Gabriel Loci, Praha
+country: Czech Republic
+links:
+  web: https://utxo.cz
+  docs: https://docs.utxo.cz
+  twitter: https://twitter.com/utxocz
+  telegram: https://t.me/utxocz
+  discord: https://discord.gg/5k9dEtVhnv
+api:
   speakers: https://spec.utxo.cz/speakers.json
   events: https://spec.utxo.cz/events.json
