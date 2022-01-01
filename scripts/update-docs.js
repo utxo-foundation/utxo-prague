@@ -17,7 +17,7 @@ const methods = {
         speaker.orgs ? speaker.orgs.trim() : ''
       ])
     }
-    const speakersTable = `_(abecedně)_\n\n` + markdownTable(speakersTableArr)
+    const speakersTable = `Celkem přednášejících: **${speakers.length}**\n\n_(abecedně)_\n\n` + markdownTable(speakersTableArr)
     //console.log(speakersTable)
     return speakersTable
   },
