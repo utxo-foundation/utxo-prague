@@ -50,8 +50,9 @@ const methods = {
   async speakersBuild () {
     const speakersDocFile = './docs/prednasejici.md'
     const speakersText = await Deno.readTextFile(speakersDocFile)
-    let output = speakersText.replace(/## Seznam všech přednášejících([\s\S]+)/m, `## Seznam všech přednášejících\n\n${await methods.speakersTableGen()}`)
-    output = output.replace(/## Významní hosté([\s\S]*)## /m, `## Významní hosté\n\n${await methods.speakersLeadsGen()}\n\n## `)
+    let output = speakersText
+    output = output.replace(/## Významní hosté([\s\S]+)## Seznam/m, `## Významní hosté\n\n${await methods.speakersLeadsGen()}\n\n## Seznam`)
+    output = output.replace(/## Seznam všech přednášejících([\s\S]+)### Datový/m, `## Seznam všech přednášejících\n\n${await methods.speakersTableGen()}\n\n### Datový`)
     await Deno.writeTextFile(speakersDocFile, output)
   }
 }
