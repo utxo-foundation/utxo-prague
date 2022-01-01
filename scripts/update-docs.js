@@ -12,7 +12,7 @@ for (const speaker of speakers) {
     speaker.orgs
   ])
 }
-const speakersTable = `_(abecedně)_\n\n` + markdownTable(speakersTableArr)
+const speakersTable = `_(abecedně)_\n\n` + markdownTable(speakersTableArr, { alignDelimiters: false })
 //console.log(speakersTable)
 
 // SPEAKERS - leads
