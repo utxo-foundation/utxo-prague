@@ -1,0 +1,47 @@
+[
+  {
+    "id": "zaklady",
+    "name": "Základy kryptoměnx",
+    "examples": "* principy otevřených projektů (blockchainů)\n* základy bezpečnosti a soukromí\n* peněženky - SW, HW\n* základy obchodování - DCA\n* odluka peněz od státu\n"
+  },
+  {
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "examples": "* Bitcoin jako peníze\n* Lightning Network - adopce, implementace\n* Taproot\n* Bitcoin mining\n* smart-kontrakty na bitcoinu (RGB)\n"
+  },
+  {
+    "id": "ethereum",
+    "name": "Ethereum & smart-kontrakty obecně",
+    "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
+  },
+  {
+    "id": "defi",
+    "name": "DeFi - decentralizované finance",
+    "examples": "* stablecoiny\n* lending protokoly\n* DEX - decentralizované burzy\n* predikční trhy\n* futures/options kontrakty\n* tokenizace\n"
+  },
+  {
+    "id": "dao",
+    "name": "DAOs - decentralizované organizace",
+    "examples": "* budoucnost organizací\n* showcase jednotlivých DAOs\n"
+  },
+  {
+    "id": "nft",
+    "name": "NFTs & Metaverse",
+    "examples": "* NFT umění\n* NFT collectibles\n* gaming\n* Metaverse\n"
+  },
+  {
+    "id": "alts",
+    "name": "Experimentální blockchainy & další altcoiny",
+    "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
+  },
+  {
+    "id": "regulace",
+    "name": "Regulace & fiat rampy",
+    "examples": "* legislativa\n* směnárny a burzy\n* darování kryptoměn\n* insitucionální peníze v kryptoměnách\n"
+  },
+  {
+    "id": "spolecnost",
+    "name": "Krypto-společnost",
+    "examples": "* představení lokálních krypto-komunit\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* fenomén maximalismu\n"
+  }
+]

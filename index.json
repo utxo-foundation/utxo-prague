@@ -18,6 +18,7 @@
   },
   "api": {
     "speakers": "https://spec.utxo.cz/speakers.json",
+    "tracks": "https://spec.utxo.cz/tracks.json",
     "events": "https://spec.utxo.cz/events.json"
   }
 }
