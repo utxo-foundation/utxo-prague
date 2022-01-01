@@ -5,7 +5,6 @@
     * základy bezpečnosti a soukromí
     * peněženky - SW, HW
     * základy obchodování - DCA
-    * odluka peněz od státu
 
 - id: bitcoin
   name: Bitcoin
@@ -71,7 +70,8 @@
 - id: spolecnost
   name: Krypto-společnost
   examples: |
-    * představení lokálních krypto-komunit
+    * odluka peněz od státu
     * kryptoanarchismus, anarchokapitalismus, meritokracie
+    * představení lokálních krypto-komunit
     * fenomén maximalismu
     
