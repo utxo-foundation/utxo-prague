@@ -27,8 +27,8 @@ Zdrojové soubory jsou umístěny v adresáři [`spec`](./spec).
 ## HTTP Endpoint
 Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese: 
 
-- [http://spec.utxo.cz/](https://spec.utxo.cz/)
-- [http://spec.utxo.cz/22/](https://spec.utxo.cz/22/) - ročník 2022
+- [https://spec.utxo.cz/](https://spec.utxo.cz/)
+- [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/) - ročník 2022
 
 
 ## Ročníky
