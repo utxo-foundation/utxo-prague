@@ -1,4 +1,8 @@
 {
   "name": "UTXO.22",
-  "shortname": "UTXO"
+  "shortname": "UTXO",
+  "lists": {
+    "speakers": "https://spec.utxo.cz/speakers.json",
+    "events": "https://spec.utxo.cz/events.json"
+  }
 }
