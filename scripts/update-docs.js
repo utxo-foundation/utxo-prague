@@ -13,7 +13,7 @@ const methods = {
     const speakersTableArr = [[ 'Jméno', 'Organizace' ]]
     for (const speaker of speakers) {
       speakersTableArr.push([ 
-        (speaker.twitter ? `[${speaker.name}](https://twitter.com/${speaker.twitter})` : speaker.name) + (speaker.nickname ? ` (${speaker.nickname})` : ''),
+        ('**' + (speaker.twitter ? `[${speaker.name}](https://twitter.com/${speaker.twitter})` : speaker.name) + '**') + (speaker.nickname ? ` (${speaker.nickname})` : ''),
         speaker.orgs ? speaker.orgs.trim() : ''
       ])
     }
@@ -27,7 +27,7 @@ const methods = {
 
     const speakersLeadsArr = []
     for (const speaker of speakers.filter(speaker => speaker.lead)) {
-      const orgs = speaker.orgs ? `\n* ${speaker.orgs}` : `\n`
+      const orgs = speaker.orgs ? `\n* ${speaker.orgs.trim('\n')}` : ''
       const socials = []
       if (speaker.twitter) {
         socials.push(`Twitter: [@${speaker.twitter}](https://twitter.com/${speaker.twitter})`)
@@ -36,7 +36,7 @@ const methods = {
         socials.push(`Web: [${speaker.web.name ? speaker.web.name : speaker.name}](${speaker.web.url})`)
       }
       const img = `![](https://spec.utxo.cz/photos/speakers/${speaker.id}-sm.png)`
-      const item = `### ${img} ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs ? orgs.trim("\n") : ''}* ${socials.join(', ')}`;
+      const item = `### ${img} ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs}\n* ${socials.join(', ')}`;
       speakersLeadsArr.push(item)
     }
 
