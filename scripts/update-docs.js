@@ -26,7 +26,7 @@ for (const speaker of speakers.filter(speaker => speaker.lead)) {
   if (speaker.web) {
     socials.push(`Web: [${speaker.web.name ? speaker.web.name : speaker.name}](${speaker.web.url})`)
   }
-  const img = `![](https://spec.utxo.cz/src/photos/speakers/${speaker.id}.png)`
+  const img = `![](https://spec.utxo.cz/photos/speakers/${speaker.id}.png)`
   const item = `### ${img} ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs}* ${socials.join(', ')}`;
   speakersLeadsArr.push(item)
 }
