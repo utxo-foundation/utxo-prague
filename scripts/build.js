@@ -1,4 +1,5 @@
 import { ensureDir } from "https://deno.land/std/fs/mod.ts";
+import { copy } from "https://deno.land/std/fs/copy.ts";
 import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 
 const srcDir = './src'
@@ -16,5 +17,8 @@ for await (const f of Deno.readDir(srcDir)) {
   await Deno.writeTextFile(outputFn, JSON.stringify(yaml, null, 2))
   console.log(`${outputFn} writed`)
 }
+
+console.log('Copying photos..')
+copy(srcDir + '/photos', outputDir + '/photos', { overwrite: true })
 
 console.log('done')
