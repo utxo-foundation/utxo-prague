@@ -1,4 +1,4 @@
-name: Deploy spec to docs
+name: Update Documentation
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
       - run: deno run --allow-read --allow-write scripts/update-docs.js
       - uses: stefanzweifel/git-auto-commit-action@v2.3.0
         with:
-          repository: ./docs
+          entryPoint: ./docs
           commit_message: Specs update
           branch: master
         env:
