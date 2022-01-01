@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Add custom domain
-        run: "touch public/CNAME && echo \"spec.utxo.cz\" >> public/CNAME"
+        run: "touch CNAME && echo \"spec.utxo.cz\" >> CNAME"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
