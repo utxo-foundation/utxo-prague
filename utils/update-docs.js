@@ -3,7 +3,7 @@ import {markdownTable} from 'https://cdn.skypack.dev/markdown-table@3?dts'
 
 // SPEAKERS
 const speakers = load(await Deno.readTextFile('./spec/speakers.yaml'))
-
+const tracks = load(await Deno.readTextFile('./spec/tracks.yaml'))
 
 const methods = {
 
@@ -54,11 +54,31 @@ const methods = {
     output = output.replace(/## Významní hosté([\s\S]+)## Seznam/m, `## Významní hosté\n\n${await methods.speakersLeadsGen()}\n\n## Seznam`)
     output = output.replace(/## Seznam všech přednášejících([\s\S]+)### Datový/m, `## Seznam všech přednášejících\n\n${await methods.speakersTableGen()}\n\n### Datový`)
     await Deno.writeTextFile(speakersDocFile, output)
+  },
+
+  // TRACKS
+  async tracksGen () {
+
+    const output = []
+    for (const track of tracks) {
+      output.push(`<details>\n\n<summary>${track.name}</summary>\n\n${track.examples.trim()}\n\n</details>`)
+    }
+
+    return `Přednášky a workshopy budou rozděleny do **${tracks.length} tématických programových sekcí**. Níže naleznete jejich přehled a relevantní příklady.\n\n` + output.join('\n\n')
+  },
+
+  async tracksBuild () {
+    const sourceFile = './docs/hlavni-program.md'
+    const sourceText = await Deno.readTextFile(sourceFile)
+    let output = sourceText
+    output = output.replace(/## Programové sekce([\s\S]+)## Časová/m, `## Programové sekce\n\n${await methods.tracksGen()}\n\n## Časová`)
+    await Deno.writeTextFile(sourceFile, output)
   }
 }
 
 if (!Deno.args[0]) {
   await methods.speakersBuild()
+  await methods.tracksBuild()
   console.log('done')
 } else {
   console.log(await methods[Deno.args[0]]())

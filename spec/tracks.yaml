@@ -1,0 +1,77 @@
+- id: zaklady
+  name: Základy kryptoměnx
+  examples: |
+    * principy otevřených projektů (blockchainů)
+    * základy bezpečnosti a soukromí
+    * peněženky - SW, HW
+    * základy obchodování - DCA
+    * odluka peněz od státu
+
+- id: bitcoin
+  name: Bitcoin
+  examples: |
+    * Bitcoin jako peníze
+    * Lightning Network - adopce, implementace
+    * Taproot
+    * Bitcoin mining
+    * smart-kontrakty na bitcoinu (RGB)
+
+- id: ethereum
+  name: Ethereum & smart-kontrakty obecně
+  examples: |
+    * Ethereum 2.0
+    * Layer2 - rollupy
+    * (EVM) Sidechainy
+    * vývoj smart-kontraktů (solidity)
+    * MEV - Miner Extractable Value
+
+- id: defi
+  name: DeFi - decentralizované finance
+  examples: |
+    * stablecoiny
+    * lending protokoly
+    * DEX - decentralizované burzy
+    * predikční trhy
+    * futures/options kontrakty
+    * tokenizace
+
+- id: dao
+  name: DAOs - decentralizované organizace
+  examples: |
+    * budoucnost organizací
+    * showcase jednotlivých DAOs
+
+- id: nft
+  name: NFTs & Metaverse
+  examples: |
+    * NFT umění
+    * NFT collectibles
+    * gaming
+    * Metaverse
+
+- id: alts
+  name: Experimentální blockchainy & další altcoiny
+  examples: |
+    * Polkadot
+    * Cardano
+    * Cosmos (Secret Network..)
+    * Solana
+    * NEAR
+    * Monero
+    * ...
+
+- id: regulace
+  name: Regulace & fiat rampy
+  examples: |
+    * legislativa
+    * směnárny a burzy
+    * darování kryptoměn
+    * insitucionální peníze v kryptoměnách
+
+- id: spolecnost
+  name: Krypto-společnost
+  examples: |
+    * představení lokálních krypto-komunit
+    * kryptoanarchismus, anarchokapitalismus, meritokracie
+    * fenomén maximalismu
+    
