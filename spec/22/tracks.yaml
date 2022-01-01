@@ -16,7 +16,7 @@
     * smart-kontrakty na bitcoinu (RGB)
 
 - id: ethereum
-  name: Ethereum &#x26; smart-kontrakty obecně
+  name: Ethereum a smart-kontrakty obecně
   examples: |
     * Ethereum 2.0
     * Layer2 - rollupy
@@ -41,7 +41,7 @@
     * showcase jednotlivých DAOs
 
 - id: nft
-  name: NFTs &#x26; Metaverse
+  name: NFTs a Metaverse
   examples: |
     * NFT umění
     * NFT collectibles
@@ -49,7 +49,7 @@
     * Metaverse
 
 - id: alts
-  name: Experimentální blockchainy &#x26; další altcoiny
+  name: Experimentální blockchainy a další altcoiny
   examples: |
     * Polkadot
     * Cardano
@@ -60,7 +60,7 @@
     * ...
 
 - id: regulace
-  name: Regulace &#x26; fiat rampy
+  name: Regulace a fiat rampy
   examples: |
     * legislativa
     * směnárny a burzy
