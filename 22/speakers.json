@@ -36,9 +36,9 @@
     "name": "Juraj Bednár",
     "twitter": "jurbed",
     "bio": "Podnikatel, hacker a milovník svobody",
-    "orgs": "Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk/)\n",
+    "orgs": "Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)\n",
     "web": {
-      "url": "https://juraj.bednar.io/"
+      "url": "https://juraj.bednar.io"
     },
     "lead": true
   },
@@ -70,7 +70,7 @@
     "twitter": "petrmara",
     "bio": "Technologický optimista, sběratel NFT",
     "web": {
-      "url": "https://www.petrmara.com/"
+      "url": "https://www.petrmara.com"
     },
     "lead": true
   },
@@ -93,7 +93,7 @@
     "orgs": "Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)\n",
     "web": {
       "name": "Pokrok bez povolenia (newsletter)",
-      "url": "https://robertchovanculiak.substack.com/"
+      "url": "https://robertchovanculiak.substack.com"
     },
     "lead": true
   },
