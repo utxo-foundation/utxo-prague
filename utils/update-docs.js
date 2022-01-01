@@ -35,7 +35,7 @@ const methods = {
       if (speaker.web) {
         socials.push(`Web: [${speaker.web.name ? speaker.web.name : speaker.name}](${speaker.web.url})`)
       }
-      const img = `![](https://spec.utxo.cz/photos/speakers/${speaker.id}-sm.png)`
+      const img = `![](https://spec.utxo.cz/22/photos/speakers/${speaker.id}-sm.png)`
       const item = `### ${img} ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs}\n* ${socials.join(', ')}`;
       speakersLeadsArr.push(item)
     }
