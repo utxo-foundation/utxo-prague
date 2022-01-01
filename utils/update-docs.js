@@ -12,8 +12,8 @@ const methods = {
 
     const speakersTableArr = [[ 'Jméno', 'Organizace' ]]
     for (const speaker of speakers) {
+      const name = `**${speaker.name}**`
       speakersTableArr.push([ 
-        const name = `**${speaker.name}**`
         (speaker.twitter ? `[${name}](https://twitter.com/${speaker.twitter})` : name) + (speaker.nickname ? ` (${speaker.nickname})` : ''),
         speaker.orgs ? speaker.orgs.trim() : ''
       ])
