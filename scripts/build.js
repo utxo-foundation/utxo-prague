@@ -1,5 +1,5 @@
-import { ensureDir } from "https://deno.land/std/fs/mod.ts";
-import { copy } from "https://deno.land/std/fs/copy.ts";
+import { ensureDir } from "https://deno.land/std@0.119.0/fs/mod.ts";
+import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts";
 import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 
 const srcDir = './src'
