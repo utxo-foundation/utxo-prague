@@ -17,6 +17,7 @@ jobs:
           repository: gweicz/utxo22-docs
           ref: master
           path: docs
+          token: ${{ secrets.TOKEN_DOCS }}
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
@@ -26,6 +27,4 @@ jobs:
           repository: ./docs
           commit_message: Specs update
           branch: master
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN_DOCS }}
 
