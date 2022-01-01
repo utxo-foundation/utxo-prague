@@ -3,7 +3,8 @@ import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts";
 import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 
 const srcDir = './spec'
-const outputDir = './dist'
+const outputDirBase = './dist'
+const outputDir = outputDirBase + '/22'
 
 await ensureDir(outputDir)
 
@@ -20,5 +21,6 @@ for await (const f of Deno.readDir(srcDir)) {
 
 console.log('Copying photos..')
 copy(srcDir + '/photos', outputDir + '/photos', { overwrite: true })
+copy('./index.json', outputDirBase + '/index.json', { overwrite: true })
 
 console.log('done')

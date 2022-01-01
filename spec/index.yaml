@@ -12,6 +12,7 @@ links:
   telegram: https://t.me/utxocz
   discord: https://discord.gg/5k9dEtVhnv
 api:
-  speakers: https://spec.utxo.cz/speakers.json
-  tracks: https://spec.utxo.cz/tracks.json
-  events: https://spec.utxo.cz/events.json
+  index: https://spec.utxo.cz/22/index.json
+  speakers: https://spec.utxo.cz/22/speakers.json
+  tracks: https://spec.utxo.cz/22/tracks.json
+  events: https://spec.utxo.cz/22/events.json
