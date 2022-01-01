@@ -11,7 +11,7 @@
   },
   {
     "id": "ethereum",
-    "name": "Ethereum & smart-kontrakty obecně",
+    "name": "Ethereum &#x26; smart-kontrakty obecně",
     "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
   },
   {
@@ -26,17 +26,17 @@
   },
   {
     "id": "nft",
-    "name": "NFTs & Metaverse",
+    "name": "NFTs &#x26; Metaverse",
     "examples": "* NFT umění\n* NFT collectibles\n* gaming\n* Metaverse\n"
   },
   {
     "id": "alts",
-    "name": "Experimentální blockchainy & další altcoiny",
+    "name": "Experimentální blockchainy &#x26; další altcoiny",
     "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
   },
   {
     "id": "regulace",
-    "name": "Regulace & fiat rampy",
+    "name": "Regulace &#x26; fiat rampy",
     "examples": "* legislativa\n* směnárny a burzy\n* darování kryptoměn\n* insitucionální peníze v kryptoměnách\n"
   },
   {
