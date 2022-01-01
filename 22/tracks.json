@@ -2,7 +2,7 @@
   {
     "id": "zaklady",
     "name": "Základy kryptoměn",
-    "examples": "* principy otevřených projektů (blockchainů)\n* základy bezpečnosti a soukromí\n* peněženky - SW, HW\n* základy obchodování - DCA\n* odluka peněz od státu\n"
+    "examples": "* principy otevřených projektů (blockchainů)\n* základy bezpečnosti a soukromí\n* peněženky - SW, HW\n* základy obchodování - DCA\n"
   },
   {
     "id": "bitcoin",
@@ -42,6 +42,6 @@
   {
     "id": "spolecnost",
     "name": "Krypto-společnost",
-    "examples": "* představení lokálních krypto-komunit\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* fenomén maximalismu\n"
+    "examples": "* odluka peněz od státu\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* představení lokálních krypto-komunit\n* fenomén maximalismu\n"
   }
 ]
