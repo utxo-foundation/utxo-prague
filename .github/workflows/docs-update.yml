@@ -22,7 +22,7 @@ jobs:
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-      - run: deno run --allow-read --allow-write scripts/update-docs.js
+      - run: deno run --allow-read --allow-write utils/update-docs.js
       - uses: stefanzweifel/git-auto-commit-action@v4.12.0
         with:
           repository: ./docs

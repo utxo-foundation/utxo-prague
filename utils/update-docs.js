@@ -2,7 +2,7 @@ import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 import {markdownTable} from 'https://cdn.skypack.dev/markdown-table@3?dts'
 
 // SPEAKERS
-const speakers = load(await Deno.readTextFile('./src/speakers.yaml'))
+const speakers = load(await Deno.readTextFile('./spec/speakers.yaml'))
 
 
 const methods = {
