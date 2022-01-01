@@ -2,7 +2,7 @@ import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 import {markdownTable} from 'https://cdn.skypack.dev/markdown-table@3?dts'
 
 // SPEAKERS
-const speakers = load(await Deno.readTextFile('./spec/speakers.yaml'))
+const speakers = load(await Deno.readTextFile('./src/speakers.yaml'))
 
 // SPEAKERS - table
 const speakersTableArr = [[ 'Jméno', 'Organizace' ]]
@@ -12,8 +12,8 @@ for (const speaker of speakers) {
     speaker.orgs
   ])
 }
-const speakersTable = markdownTable(speakersTableArr)
-console.log(speakersTable)
+const speakersTable = `_(abecedně)_\n\n` + markdownTable(speakersTableArr)
+//console.log(speakersTable)
 
 // SPEAKERS - leads
 const speakersLeadsArr = []
@@ -26,9 +26,18 @@ for (const speaker of speakers.filter(speaker => speaker.lead)) {
   if (speaker.web) {
     socials.push(`Web: [${speaker.web.name ? speaker.web.name : speaker.name}](${speaker.web.url})`)
   }
-  const item = `### ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs}* ${socials.join(', ')}`;
+  const img = `![](https://spec.utxo.cz/src/photos/speakers/${speaker.id}.png)`
+  const item = `### ${img} ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs}* ${socials.join(', ')}`;
   speakersLeadsArr.push(item)
 }
 
-const speakersLeads = speakersLeadsArr.join('\n\n')
-console.log(speakersLeads)
+const speakersLeads = `_(abecedně)_\n\n` + speakersLeadsArr.join('\n\n')
+//console.log(speakersLeads)
+
+// SPEAKERS - write file
+const speakersDocFile = './docs/prednasejici.md'
+const speakersText = await Deno.readTextFile(speakersDocFile)
+let output = speakersText.replace(/## Seznam všech přednášejících([\s\S]*)/m, `## Seznam všech přednášejících\n\n${speakersTable}`)
+output = speakersText.replace(/## Významní hosté([\s\S]*)## /m, `## Významní hosté\n\n${speakersLeads}\n\n## `)
+await Deno.writeTextFile(speakersDocFile, output)
+

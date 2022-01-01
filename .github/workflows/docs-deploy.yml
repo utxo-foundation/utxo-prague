@@ -20,5 +20,12 @@ jobs:
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-      - run: deno run --allow-read scripts/update-docs-deno.js
+      - run: deno run --allow-read --allow-write scripts/update-docs-deno.js
+      - uses: stefanzweifel/git-auto-commit-action@v2.3.0
+        working-directory: ./docs
+        with:
+          commit_message: Specs update
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
