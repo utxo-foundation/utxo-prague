@@ -14,12 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Build sources
+        run: deno run --allow-read --allow-write scripts/build.js
+
       - name: Add custom domain
-        run: "touch CNAME && echo \"spec.utxo.cz\" >> CNAME"
+        run: "touch dist/CNAME && echo \"spec.utxo.cz\" >> dist/CNAME"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./dist
