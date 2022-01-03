@@ -77,3 +77,13 @@
 - name: Tomáš
   orgs: |
     Člen [KryptoVláďa komunity](https://www.kryptovlada.win)
+- id: urza
+  name: Urza
+  twitter: urzanarchy
+  bio: Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)
+  orgs: |
+    Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/)
+  web:
+    name: Urza.cz
+    url: https://urza.cz
+  lead: true
