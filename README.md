@@ -16,7 +16,10 @@ Veškeré informace o konferenci naleznete na [docs.utxo.cz](https://docs.utxo.c
 
 ## Specifikace
 
-Zdrojové soubory jsou umístěny v adresáři [`spec`](./spec).
+* Zdrojové soubory ve formátu [YAML](https://yaml.org/) jsou umístěny v adresáři [`spec`](./spec).
+* Validační schéma ([JSON Schema](https://json-schema.org/)) najdete v adresáři [`utils/schema`](./utils/schema)
+
+Jako runtime se využívá Javascriptové [Deno](https://deno.land/).
 
 ## Ročníky
 | Ročník | Název | Datum konání | Místo |
