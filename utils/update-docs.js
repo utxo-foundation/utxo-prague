@@ -1,10 +1,16 @@
-import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
-import {markdownTable} from 'https://cdn.skypack.dev/markdown-table@3?dts'
+import { UTXO } from "./utxo.lib.js"
+import { markdownTable } from 'https://cdn.skypack.dev/markdown-table@3?dts'
+
+const utxo = new UTXO({ silent: true })
+await utxo.init()
+
+// get 2022
+const entry = utxo.entries['22']
 
 // SPEAKERS
-const speakers = load(await Deno.readTextFile('./spec/22/speakers.yaml'))
+const speakers = entry.specs.speakers
 const sortedSpeakers = speakers.sort((a, b) => a.name.localeCompare(b.name))
-const tracks = load(await Deno.readTextFile('./spec/22/tracks.yaml'))
+const tracks = entry.specs.tracks
 
 const methods = {
 

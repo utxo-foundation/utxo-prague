@@ -1,26 +1,7 @@
-import { ensureDir } from "https://deno.land/std@0.119.0/fs/mod.ts";
-import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts";
-import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
+import { UTXO } from "./utxo.lib.js"
 
-const srcDir = './spec/22'
-const outputDirBase = './dist'
-const outputDir = outputDirBase + '/22'
+const utxo = new UTXO({ srcDir: './spec' })
+await utxo.init()
 
-await ensureDir(outputDir)
+await utxo.build('./dist')
 
-for await (const f of Deno.readDir(srcDir)) {
-  const m = f.name.match(/^(.+)\.yaml$/)
-  if (!m) {
-    continue
-  }
-  const yaml = load(await Deno.readTextFile(srcDir + '/' + f.name))
-  const outputFn = outputDir + '/' + m[1] + '.json'
-  await Deno.writeTextFile(outputFn, JSON.stringify(yaml, null, 2))
-  console.log(`${outputFn} writed`)
-}
-
-console.log('Copying photos..')
-copy(srcDir + '/photos', outputDir + '/photos', { overwrite: true })
-copy('./index.json', outputDirBase + '/index.json', { overwrite: true })
-
-console.log('done')

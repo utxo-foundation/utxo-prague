@@ -19,7 +19,7 @@ jobs:
           deno-version: v1.x
 
       - name: Build sources
-        run: deno run --unstable --allow-read --allow-write utils/build.js
+        run: make build
 
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"spec.utxo.cz\" >> dist/CNAME"
