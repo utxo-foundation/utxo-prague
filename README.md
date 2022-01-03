@@ -23,13 +23,17 @@ Zdrojové soubory jsou umístěny v adresáři [`spec`](./spec).
 | **speakers** | Přednášející |
 | **tracks** | Programové sekce |
 | **events** | Události |
+| **bundle** | Vše v jednom souboru |
 
 ## HTTP Endpoint
 Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese: 
 
 - [https://spec.utxo.cz/](https://spec.utxo.cz/)
-- [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/) - ročník 2022
 
+### Příklad - ročník 2022
+- [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/) - index
+- [https://spec.utxo.cz/22/speakers.json](https://spec.utxo.cz/22/speakers.json) - seznam přednášejících
+- ...
 
 ## Ročníky
 ### UTXO.22
