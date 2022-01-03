@@ -163,6 +163,12 @@
         "name": "Michael Repetný",
         "twitter": "repetny",
         "orgs": "[Marinade.finance](https://marinade.finance/)\n"
+      },
+      {
+        "id": "jan-cerny",
+        "name": "Jan Černý",
+        "nickname": "-HoNY-",
+        "orgs": "Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity\n"
       }
     ],
     "tracks": [
@@ -216,7 +222,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 23,
+    "speakers": 24,
     "events": 0
   }
 }
