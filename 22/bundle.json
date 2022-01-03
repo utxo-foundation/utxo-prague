@@ -151,6 +151,13 @@
         "twitter": "jilm",
         "bio": "Eurofederalista, neoliberál, globalista",
         "orgs": "Spoluzakladatel spolku [Pro euro](https://proeuro.cz)\n"
+      },
+      {
+        "id": "jaromir-tesar",
+        "name": "Jaromír Tesař",
+        "twitter": "JaromirTesar",
+        "bio": "Blockchain expert, Cardano Ambassador",
+        "orgs": "[Cardanians](https://cardanians.io/cs)\n"
       }
     ],
     "tracks": [
@@ -204,7 +211,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 21,
+    "speakers": 22,
     "events": 0
   }
 }
