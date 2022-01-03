@@ -46,7 +46,7 @@
     "name": "Vladimír Pinker",
     "nickname": "KryptoVláďa",
     "twitter": "KryptoVlada",
-    "orgs": "[KryptoVláďa](https://www.kryptovlada.win)\n"
+    "orgs": "YT kanál [KryptoVláďa](https://www.kryptovlada.win)\n"
   },
   {
     "id": "mario-havel",
@@ -117,5 +117,11 @@
       "url": "https://urza.cz"
     },
     "lead": true
+  },
+  {
+    "id": "martin-gregor",
+    "name": "Martin Gregor",
+    "twitter": "ZaujaloMa",
+    "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n"
   }
 ]
