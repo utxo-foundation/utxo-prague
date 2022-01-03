@@ -32,7 +32,7 @@
   nickname: KryptoVláďa
   twitter: KryptoVlada
   orgs: |
-    [KryptoVláďa](https://www.kryptovlada.win)
+    YT kanál [KryptoVláďa](https://www.kryptovlada.win)
 - id: mario-havel
   name: Mario Havel
   twitter: TMIYChao
@@ -87,3 +87,8 @@
     name: Urza.cz
     url: https://urza.cz
   lead: true
+- id: martin-gregor
+  name: Martin Gregor
+  twitter: ZaujaloMa
+  orgs: |
+    YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)

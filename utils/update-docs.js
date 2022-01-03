@@ -3,6 +3,7 @@ import {markdownTable} from 'https://cdn.skypack.dev/markdown-table@3?dts'
 
 // SPEAKERS
 const speakers = load(await Deno.readTextFile('./spec/22/speakers.yaml'))
+const sortedSpeakers = speakers.sort((a, b) => a.name.localeCompare(b.name))
 const tracks = load(await Deno.readTextFile('./spec/22/tracks.yaml'))
 
 const methods = {
@@ -11,7 +12,7 @@ const methods = {
   async speakersTableGen () {
 
     const speakersTableArr = [[ 'Jméno', 'Organizace' ]]
-    for (const speaker of speakers) {
+    for (const speaker of sortedSpeakers) {
       const name = `**${speaker.name}**`
       speakersTableArr.push([ 
         (speaker.twitter ? `[${name}](https://twitter.com/${speaker.twitter})` : name) + (speaker.nickname ? ` (${speaker.nickname})` : ''),
@@ -27,7 +28,7 @@ const methods = {
   async speakersLeadsGen () {
 
     const speakersLeadsArr = []
-    for (const speaker of speakers.filter(speaker => speaker.lead)) {
+    for (const speaker of sortedSpeakers.filter(speaker => speaker.lead)) {
       const orgs = speaker.orgs ? `\n* ${speaker.orgs.trim('\n')}` : ''
       const socials = []
       if (speaker.twitter) {
