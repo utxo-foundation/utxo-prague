@@ -2,6 +2,8 @@ import { emptyDir } from "https://deno.land/std@0.119.0/fs/mod.ts"
 import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts"
 import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 
+const baseUrl = 'https://spec.utxo.cz'
+
 const banner = `
 ██╗░░░██╗████████╗██╗░░██╗░█████╗░
 ██║░░░██║╚══██╔══╝╚██╗██╔╝██╔══██╗
@@ -48,6 +50,7 @@ export class UTXO {
   async build (outputDir) {
 
     await emptyDir(outputDir)
+    const entriesIndex = []
 
     for (const entryId of Object.keys(this.entries)) {
       if (!this.options.silent) {
@@ -61,7 +64,7 @@ export class UTXO {
       const specEndpoints = {}
       for (const specName of Object.keys(entry.specs)) {
         await this._jsonWrite([ entryDir, `${specName}.json` ], entry.specs[specName])
-        specEndpoints[specName] = `https://spec.utxo.cz/${entryId}/${specName}.json`
+        specEndpoints[specName] = `${baseUrl}/${entryId}/${specName}.json`
       }
 
       // write index
@@ -88,7 +91,16 @@ export class UTXO {
         console.log(`copying photos to ${outputPhotosDir}`)
       }
       await copy([ this.srcDir, entryId, 'photos'].join('/'), outputPhotosDir, { overwrite: true })
+
+      entriesIndex.push({
+        id: `utxo${entryId}`,
+        entryId,
+        url: `${baseUrl}/${entryId}`
+      })
     }
+
+    // write global index
+    await this._jsonWrite([ outputDir, 'index.json' ], entriesIndex)
 
     if (!this.options.silent) {
       console.log('\nBuild done')
