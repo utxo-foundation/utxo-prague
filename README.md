@@ -10,11 +10,19 @@
 
 > Otevřená komunitní kryptoměnová konference
 
-## 
+Tento repozitář obsahuje základní specifikace (datové zdroje) všech ročníků konference. 
 
-Tento repozitář obsahuje základní specifikace (datové zdroje) všech ročníků konference.
+Veškeré informace o konferenci naleznete na [docs.utxo.cz](https://docs.utxo.cz).
+
+## Specifikace
 
 Zdrojové soubory jsou umístěny v adresáři [`spec`](./spec).
+
+## Ročníky
+| Ročník | Název | Datum konání | Místo |
+| --- | --- | --- | --- |
+| 2022 | **UTXO.22** | 4.-5.6.2022 | Gabriel Loci, Praha |
+
 
 ## HTTP Endpoint
 Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese: 
@@ -30,11 +38,10 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 | **events** | Události | [https://spec.utxo.cz/22/events.json](https://spec.utxo.cz/22/events.json) |
 | **bundle** | Vše v jednom souboru | [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json) |
 
-## Ročníky
+## Detaily k jednotlivým ročníkům
+
 ### UTXO.22
 > 4.-5. června 2022, Gabriel Loci (Praha)
-
-Veškeré informace o konferenci naleznete na [docs.utxo.cz](https://docs.utxo.cz).
 
 #### Související repozitáře
 
