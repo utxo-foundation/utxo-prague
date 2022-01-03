@@ -13,7 +13,7 @@ const banner = `
 ░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░
 `
 
-export class UTXO {
+export class UTXOEngine {
   constructor (options = {}) {
     this.options = options
     this.srcDir = this.options.srcDir || './spec'

@@ -1,7 +1,7 @@
-import { UTXO } from "./utxo.lib.js"
+import { UTXOEngine } from "./engine.js"
 import { markdownTable } from 'https://cdn.skypack.dev/markdown-table@3?dts'
 
-const utxo = new UTXO({ silent: true })
+const utxo = new UTXOEngine({ silent: true })
 await utxo.init()
 
 // get 2022

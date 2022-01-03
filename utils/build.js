@@ -1,6 +1,6 @@
-import { UTXO } from "./utxo.lib.js"
+import { UTXOEngine } from "./engine.js"
 
-const utxo = new UTXO({ srcDir: './spec' })
+const utxo = new UTXOEngine({ srcDir: './spec' })
 await utxo.init()
 
 await utxo.build('./dist')
