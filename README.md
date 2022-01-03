@@ -16,25 +16,19 @@ Tento repozitář obsahuje základní specifikace (datové zdroje) všech ročn�
 
 Zdrojové soubory jsou umístěny v adresáři [`spec`](./spec).
 
-## Datové sady
-| | Popis |
-| --- | --- |
-| **index** | Základní údaje o ročníku |
-| **speakers** | Přednášející |
-| **tracks** | Programové sekce |
-| **events** | Události |
-| **bundle** | Vše v jednom souboru |
-
 ## HTTP Endpoint
 Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese: 
 
 - [https://spec.utxo.cz/](https://spec.utxo.cz/)
 
-### Příklad - ročník 2022
-- [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/) - index
-- [https://spec.utxo.cz/22/speakers.json](https://spec.utxo.cz/22/speakers.json) - seznam přednášejících
-- [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json) - všechny datasety dohromady
-- ...
+## Datové sady
+| | Popis | Příklad |
+| --- | --- | --- |
+| **index** | Základní údaje o ročníku | [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/) |
+| **speakers** | Přednášející | [https://spec.utxo.cz/22/speakers.json](https://spec.utxo.cz/22/speakers.json) |
+| **tracks** | Programové sekce | [https://spec.utxo.cz/22/tracks.json](https://spec.utxo.cz/22/tracks.json) |
+| **events** | Události | [https://spec.utxo.cz/22/events.json](https://spec.utxo.cz/22/events.json) |
+| **bundle** | Vše v jednom souboru | [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json) |
 
 ## Ročníky
 ### UTXO.22
