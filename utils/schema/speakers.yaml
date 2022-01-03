@@ -1,0 +1,29 @@
+type: array
+items:
+  type: object
+  additionalProperties: false
+  properties:
+    id:
+      type: string
+      pattern: "^[a-z0-9-]+$"
+    name:
+      type: string
+    nickname:
+      type: string
+    twitter:
+      type: string
+      pattern: "^[a-zA-Z0-9_]+$"
+    orgs:
+      type: string
+    bio:
+      type: string
+    web:
+      type: object
+      properties:
+        url:
+          type: string
+          format: uri
+        name:
+          type: string
+    lead:
+      type: boolean

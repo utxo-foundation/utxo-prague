@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Test, build, deploy 
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
           deno-version: v1.x
 
       - name: Build sources
-        run: make build
+        run: make
 
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"spec.utxo.cz\" >> dist/CNAME"

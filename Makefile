@@ -3,7 +3,10 @@ VERSION = 0.1.0
 
 .PHONY: all build
 
-all: build
+all: test build
+
+test:
+	deno test --unstable --allow-read utils/test.js
 
 build:
 	deno run --unstable --allow-read --allow-write utils/build.js

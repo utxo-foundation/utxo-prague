@@ -1,0 +1,12 @@
+type: array
+items:
+  type: object
+  additionalProperties: false
+  properties:
+    id:
+      type: string
+      pattern: "^[a-z0-9-]+$"
+    name:
+      type: string
+    examples:
+      type: string

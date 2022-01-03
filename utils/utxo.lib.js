@@ -1,5 +1,5 @@
-import { emptyDir } from "https://deno.land/std@0.119.0/fs/mod.ts"
-import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts"
+import { emptyDir } from 'https://deno.land/std@0.119.0/fs/mod.ts'
+import { copy } from 'https://deno.land/std@0.119.0/fs/copy.ts'
 import { load } from 'https://deno.land/x/js_yaml_port/js-yaml.js'
 
 const baseUrl = 'https://spec.utxo.cz'
@@ -14,7 +14,6 @@ const banner = `
 `
 
 export class UTXO {
-
   constructor (options = {}) {
     this.options = options
     this.srcDir = this.options.srcDir || './spec'
@@ -30,16 +29,16 @@ export class UTXO {
       if (!f.name.match(/^\d+$/)) {
         continue
       }
-      const specDir = [ this.srcDir, f.name ].join('/')
+      const specDir = [this.srcDir, f.name].join('/')
 
       const entry = this.entries[f.name] = {}
       // load index
-      entry.index = await this._yamlLoad([ specDir, 'index.yaml' ].join('/'))
+      entry.index = await this._yamlLoad([specDir, 'index.yaml'].join('/'))
 
       // load sub-specs
       entry.specs = {}
       for (const sp of entry.index.specDef) {
-        entry.specs[sp.type] = await this._yamlLoad([ specDir, `${sp.type}.yaml` ].join('/'))
+        entry.specs[sp.type] = await this._yamlLoad([specDir, `${sp.type}.yaml`].join('/'))
       }
     }
     if (!this.options.silent) {
@@ -47,8 +46,11 @@ export class UTXO {
     }
   }
 
-  async build (outputDir) {
+  entriesList () {
+    return Object.keys(this.entries)
+  }
 
+  async build (outputDir) {
     await emptyDir(outputDir)
     const entriesIndex = []
 
@@ -57,32 +59,32 @@ export class UTXO {
         console.log(`UTXO.${entryId}: building specs ..`)
       }
       const entry = this.entries[entryId]
-      const entryDir = [ outputDir, entryId ].join('/')
+      const entryDir = [outputDir, entryId].join('/')
       await emptyDir(entryDir)
 
       // write sub-specs
       const specEndpoints = {}
       for (const specName of Object.keys(entry.specs)) {
-        await this._jsonWrite([ entryDir, `${specName}.json` ], entry.specs[specName])
+        await this._jsonWrite([entryDir, `${specName}.json`], entry.specs[specName])
         specEndpoints[specName] = `${baseUrl}/${entryId}/${specName}.json`
       }
 
       // write index
-      let index = JSON.parse(JSON.stringify(entry.index))
+      const index = JSON.parse(JSON.stringify(entry.index))
       delete index.specDef
       index.spec = specEndpoints
       index.stats = {
         tracks: entry.specs.tracks.length,
         speakers: entry.specs.speakers.length,
-        events: entry.specs.events.length,
+        events: entry.specs.events.length
       }
 
-      await this._jsonWrite([ entryDir, 'index.json' ], index)
+      await this._jsonWrite([entryDir, 'index.json'], index)
 
       // write bundle
-      let bundle = JSON.parse(JSON.stringify(index))
+      const bundle = JSON.parse(JSON.stringify(index))
       bundle.spec = entry.specs
-      await this._jsonWrite([ entryDir, 'bundle.json' ], bundle)
+      await this._jsonWrite([entryDir, 'bundle.json'], bundle)
 
       // copy photos
       const outputPhotosDir = [entryDir, 'photos'].join('/')
@@ -90,7 +92,7 @@ export class UTXO {
         console.log(`UTXO.${entryId}: copying photos ..`)
         console.log(`copying photos to ${outputPhotosDir}`)
       }
-      await copy([ this.srcDir, entryId, 'photos'].join('/'), outputPhotosDir, { overwrite: true })
+      await copy([this.srcDir, entryId, 'photos'].join('/'), outputPhotosDir, { overwrite: true })
 
       entriesIndex.push({
         id: `utxo${entryId}`,
@@ -100,11 +102,24 @@ export class UTXO {
     }
 
     // write global index
-    await this._jsonWrite([ outputDir, 'index.json' ], entriesIndex)
+    await this._jsonWrite([outputDir, 'index.json'], entriesIndex)
 
     if (!this.options.silent) {
       console.log('\nBuild done')
     }
+  }
+
+  async schemas () {
+    const schemaDir = './utils/schema'
+    const arr = []
+    for await (const f of Deno.readDir(schemaDir)) {
+      const m = f.name.match(/^(.+)\.yaml$/)
+      if (!m) {
+        continue
+      }
+      arr.push({ name: m[1], schema: await this._yamlLoad([schemaDir, f.name].join('/')) })
+    }
+    return arr
   }
 
   async _yamlLoad (fn) {
@@ -121,5 +136,4 @@ export class UTXO {
     }
     return true
   }
-
 }
