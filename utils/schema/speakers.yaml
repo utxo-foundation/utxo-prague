@@ -27,3 +27,7 @@ items:
           type: string
     lead:
       type: boolean
+    tracks:
+      type: array
+      items:
+        type: string

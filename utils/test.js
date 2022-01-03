@@ -10,6 +10,7 @@ addFormats(ajv)
 const utxo = new UTXOEngine({ silent: true })
 await utxo.init()
 const schemas = await utxo.schemas()
+
 const validators = {}
 for (const item of schemas) {
   validators[item.name] = ajv.compile(item.schema)

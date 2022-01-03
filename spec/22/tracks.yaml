@@ -6,7 +6,7 @@
     * peněženky - SW, HW
     * základy obchodování - DCA
 
-- id: bitcoin
+- id: btc
   name: Bitcoin
   examples: |
     * Bitcoin jako peníze
@@ -15,7 +15,7 @@
     * Bitcoin mining
     * smart-kontrakty na bitcoinu (RGB)
 
-- id: ethereum
+- id: eth
   name: Ethereum a smart-kontrakty obecně
   examples: |
     * Ethereum 2.0
@@ -48,7 +48,7 @@
     * gaming
     * Metaverse
 
-- id: alts
+- id: alty
   name: Experimentální blockchainy a další altcoiny
   examples: |
     * Polkadot
