@@ -2,7 +2,7 @@ import { assertEquals } from "https://deno.land/std@0.119.0/testing/asserts.ts"
 import { UTXOEngine } from './engine.js'
 
 // initialize ajv JSON Schema validator
-import Ajv from 'https://esm.sh/ajv@8.8.1'
+import Ajv from 'https://esm.sh/ajv@8.7.1'
 import addFormats from 'https://esm.sh/ajv-formats@2.1.0'
 
 const ajv = new Ajv({allErrors: true})
