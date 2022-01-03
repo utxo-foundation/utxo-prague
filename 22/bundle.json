@@ -142,6 +142,13 @@
         "name": "Martin Gregor",
         "twitter": "ZaujaloMa",
         "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n"
+      },
+      {
+        "id": "david-antos",
+        "name": "David Antoš",
+        "twitter": "jilm",
+        "bio": "Eurofederalista, neoliberál, globalista",
+        "orgs": "Spoluzakladatel spolku (Pro euro)[https://proeuro.cz/o-nas]\n"
       }
     ],
     "tracks": [
@@ -195,7 +202,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 20,
+    "speakers": 21,
     "events": 0
   }
 }
