@@ -33,6 +33,7 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 ### Příklad - ročník 2022
 - [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/) - index
 - [https://spec.utxo.cz/22/speakers.json](https://spec.utxo.cz/22/speakers.json) - seznam přednášejících
+- [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json) - všechny datasety dohromady
 - ...
 
 ## Ročníky
