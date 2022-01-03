@@ -20,35 +20,69 @@
   "spec": {
     "speakers": [
       {
-        "name": "Adam Kracík"
+        "name": "Adam Kracík",
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi",
+          "alty"
+        ]
       },
       {
         "name": "Adam Studeník",
-        "twitter": "adamstudenik"
+        "twitter": "adamstudenik",
+        "tracks": [
+          "eth",
+          "defi"
+        ]
       },
       {
         "name": "Anett Rohlikova",
         "twitter": "anettrolikova",
-        "orgs": "[Ethereum Magicians](https://ethereum-magicians.org/)\n"
+        "orgs": "[Ethereum Magicians](https://ethereum-magicians.org/)\n",
+        "tracks": [
+          "eth",
+          "nft"
+        ]
       },
       {
         "name": "damsky",
-        "twitter": "CryptoDamSky"
+        "twitter": "CryptoDamSky",
+        "tracks": [
+          "eth",
+          "defi",
+          "dao",
+          "spolecnost"
+        ]
       },
       {
         "name": "DavidBankless",
         "twitter": "davidbankless",
-        "orgs": "[Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)\n"
+        "orgs": "[Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)\n",
+        "tracks": [
+          "zaklady",
+          "dao",
+          "nft"
+        ]
       },
       {
         "name": "Honza Dvořák",
         "nickname": "Gorrdy",
         "twitter": "_Honza_Dvorak",
-        "orgs": "[btcplatby.cz](https://btcplatby.cz)\n"
+        "orgs": "[btcplatby.cz](https://btcplatby.cz)\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ]
       },
       {
         "name": "Jiří Čepelka",
-        "twitter": "JiriCepelka"
+        "twitter": "JiriCepelka",
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ]
       },
       {
         "id": "juraj-bednar",
@@ -59,13 +93,24 @@
         "web": {
           "url": "https://juraj.bednar.io"
         },
-        "lead": true
+        "lead": true,
+        "tracks": [
+          "btc",
+          "dao",
+          "spolecnost"
+        ]
       },
       {
         "name": "Vladimír Pinker",
         "nickname": "KryptoVláďa",
         "twitter": "KryptoVlada",
-        "orgs": "YT kanál [KryptoVláďa](https://www.kryptovlada.win)\n"
+        "orgs": "YT kanál [KryptoVláďa](https://www.kryptovlada.win)\n",
+        "tracks": [
+          "zaklady",
+          "defi",
+          "nft",
+          "alt"
+        ]
       },
       {
         "id": "mario-havel",
@@ -73,15 +118,31 @@
         "twitter": "TMIYChao",
         "bio": "Kryptoanarchista, libertarián a hacker",
         "orgs": "Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)\n",
-        "lead": true
+        "lead": true,
+        "tracks": [
+          "zaklady",
+          "btc",
+          "eth",
+          "defi"
+        ]
       },
       {
         "name": "m0xt",
-        "twitter": "m0xt_"
+        "twitter": "m0xt_",
+        "tracks": [
+          "eth",
+          "defi",
+          "dao"
+        ]
       },
       {
         "name": "Petr Klein",
-        "twitter": "kleinpetr_com"
+        "twitter": "kleinpetr_com",
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ]
       },
       {
         "id": "petr-mara",
@@ -91,18 +152,32 @@
         "web": {
           "url": "https://www.petrmara.com"
         },
-        "lead": true
+        "lead": true,
+        "tracks": [
+          "defi",
+          "nft",
+          "spolecnost"
+        ]
       },
       {
         "name": "Petr Menšík",
         "twitter": "petr_mensik",
-        "orgs": "[Polkadotters](https://twitter.com/polkadotterss)\n"
+        "orgs": "[Polkadotters](https://twitter.com/polkadotterss)\n",
+        "tracks": [
+          "alt",
+          "defi"
+        ]
       },
       {
         "name": "Pavel Přecechtěl",
         "nickname": "HomΞr Shillson",
         "twitter": "homershillson",
-        "orgs": "[VR Education](https://vreducation.cz)\n"
+        "orgs": "[VR Education](https://vreducation.cz)\n",
+        "tracks": [
+          "eth",
+          "defi",
+          "dao"
+        ]
       },
       {
         "id": "robert-chovanculiak",
@@ -114,16 +189,28 @@
           "name": "Pokrok bez povolenia (newsletter)",
           "url": "https://robertchovanculiak.substack.com"
         },
-        "lead": true
+        "lead": true,
+        "tracks": [
+          "spolecnost"
+        ]
       },
       {
         "name": "Tomáš Zdražil",
         "twitter": "investree_cz",
-        "orgs": "[Investree](https://investree.cz)\n"
+        "orgs": "[Investree](https://investree.cz)\n",
+        "tracks": [
+          "eth",
+          "defi"
+        ]
       },
       {
         "name": "Tomáš",
-        "orgs": "Člen [KryptoVláďa komunity](https://www.kryptovlada.win)\n"
+        "orgs": "Člen [KryptoVláďa komunity](https://www.kryptovlada.win)\n",
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ]
       },
       {
         "id": "urza",
@@ -135,13 +222,22 @@
           "name": "Urza.cz",
           "url": "https://urza.cz"
         },
-        "lead": true
+        "lead": true,
+        "tracks": [
+          "spolecnost",
+          "btc"
+        ]
       },
       {
         "id": "martin-gregor",
         "name": "Martin Gregor",
         "twitter": "ZaujaloMa",
-        "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n"
+        "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n",
+        "tracks": [
+          "bitcoin",
+          "spolecnost",
+          "alty"
+        ]
       },
       {
         "id": "david-antos",
@@ -149,26 +245,46 @@
         "nickname": "jilm",
         "twitter": "jilm",
         "bio": "Eurofederalista, neoliberál, globalista",
-        "orgs": "Spoluzakladatel spolku [Pro euro](https://proeuro.cz)\n"
+        "orgs": "Spoluzakladatel spolku [Pro euro](https://proeuro.cz)\n",
+        "tracks": [
+          "eth",
+          "btc",
+          "defi",
+          "spolecnost"
+        ]
       },
       {
         "id": "jaromir-tesar",
         "name": "Jaromír Tesař",
         "twitter": "JaromirTesar",
         "bio": "Blockchain expert, Cardano Ambassador",
-        "orgs": "[Cardanians](https://cardanians.io/cs)\n"
+        "orgs": "[Cardanians](https://cardanians.io/cs)\n",
+        "tracks": [
+          "zaklady",
+          "defi",
+          "alty"
+        ]
       },
       {
         "id": "michal-repetny",
         "name": "Michael Repetný",
         "twitter": "repetny",
-        "orgs": "[Marinade.finance](https://marinade.finance/)\n"
+        "orgs": "[Marinade.finance](https://marinade.finance/)\n",
+        "tracks": [
+          "zaklady",
+          "defi",
+          "alty"
+        ]
       },
       {
         "id": "jan-cerny",
         "name": "Jan Černý",
         "nickname": "-HoNY-",
-        "orgs": "Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity\n"
+        "orgs": "Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ]
       }
     ],
     "tracks": [
@@ -178,12 +294,12 @@
         "examples": "* principy otevřených projektů (blockchainů)\n* základy bezpečnosti a soukromí\n* peněženky - SW, HW\n* základy obchodování - DCA\n"
       },
       {
-        "id": "bitcoin",
+        "id": "btc",
         "name": "Bitcoin",
         "examples": "* Bitcoin jako peníze\n* Lightning Network - adopce, implementace\n* Taproot\n* Bitcoin mining\n* smart-kontrakty na bitcoinu (RGB)\n"
       },
       {
-        "id": "ethereum",
+        "id": "eth",
         "name": "Ethereum a smart-kontrakty obecně",
         "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
       },
@@ -203,7 +319,7 @@
         "examples": "* NFT umění\n* NFT collectibles\n* gaming\n* Metaverse\n"
       },
       {
-        "id": "alts",
+        "id": "alty",
         "name": "Experimentální blockchainy a další altcoiny",
         "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
       },

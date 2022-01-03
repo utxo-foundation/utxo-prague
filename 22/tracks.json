@@ -5,12 +5,12 @@
     "examples": "* principy otevřených projektů (blockchainů)\n* základy bezpečnosti a soukromí\n* peněženky - SW, HW\n* základy obchodování - DCA\n"
   },
   {
-    "id": "bitcoin",
+    "id": "btc",
     "name": "Bitcoin",
     "examples": "* Bitcoin jako peníze\n* Lightning Network - adopce, implementace\n* Taproot\n* Bitcoin mining\n* smart-kontrakty na bitcoinu (RGB)\n"
   },
   {
-    "id": "ethereum",
+    "id": "eth",
     "name": "Ethereum a smart-kontrakty obecně",
     "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
   },
@@ -30,7 +30,7 @@
     "examples": "* NFT umění\n* NFT collectibles\n* gaming\n* Metaverse\n"
   },
   {
-    "id": "alts",
+    "id": "alty",
     "name": "Experimentální blockchainy a další altcoiny",
     "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
   },
