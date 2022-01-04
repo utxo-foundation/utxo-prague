@@ -109,7 +109,7 @@
 
 - name: Tomáš
   orgs: |
-    Člen [KryptoVláďa komunity](https://www.kryptovlada.win)
+    Člen [KryptoVláďa](https://www.kryptovlada.win) komunity
   tracks: [ zaklady, eth, defi ]
 
 - id: urza
@@ -161,4 +161,10 @@
   orgs: |
     Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity
   tracks: [ zaklady, btc ]
+
+- id: mirek-h
+  name: Mirek H
+  orgs: |
+    Člen [KryptoVláďa](https://www.kryptovlada.win) komunity
+  tracks: [ alty ]
 

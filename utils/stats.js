@@ -16,12 +16,12 @@ for (const sp of entry.specs.speakers) {
     tracksCount[tr]++
   }
 }
-const tracks = entry.specs.tracks.map(t => [t.id, '+'.repeat(tracksCount[t.id] || '0' ) ])
+const tracks = entry.specs.tracks.map(t => [t.id, '|' + '+'.repeat(tracksCount[t.id] || '0' ) ])
 
 const table = Table.from(tracks)
-table.border(true)
+//table.border(true)
 
-console.log('\nRozložení jednotlivých tématických sekcí dle přednášejících:')
-console.log(table.toString())
+console.log('\nRozložení jednotlivých tématických sekcí dle přednášejících:\n' + '-'.repeat(60))
+console.log(table.toString() + '\n')
 
 

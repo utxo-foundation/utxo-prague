@@ -22,3 +22,6 @@ speakers-leads:
 
 stats:
 	deno run --unstable --allow-read utils/stats.js
+
+twitter:
+	deno run --unstable --allow-read --allow-env --allow-net utils/twitter.js
