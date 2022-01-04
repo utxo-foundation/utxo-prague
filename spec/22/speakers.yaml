@@ -168,3 +168,10 @@
     Člen [KryptoVláďa](https://www.kryptovlada.win) komunity
   tracks: [ alty ]
 
+- id: adam-lokaj
+  name: Adam Lokaj
+  bio: Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)
+  orgs: |
+    [adopcebtc.cz](https://www.adopcebtc.cz/)
+  tracks: [ btc, regulace ]
+    
