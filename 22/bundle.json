@@ -293,6 +293,16 @@
         "tracks": [
           "alty"
         ]
+      },
+      {
+        "id": "adam-lokaj",
+        "name": "Adam Lokaj",
+        "bio": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)",
+        "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/)\n",
+        "tracks": [
+          "btc",
+          "regulace"
+        ]
       }
     ],
     "tracks": [
@@ -346,7 +356,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 25,
+    "speakers": 26,
     "events": 0
   }
 }
