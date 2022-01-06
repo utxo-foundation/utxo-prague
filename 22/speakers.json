@@ -43,6 +43,7 @@
     "name": "damsky",
     "twitter": "CryptoDamSky",
     "tracks": [
+      "zaklady",
       "eth",
       "defi",
       "dao",
@@ -217,7 +218,8 @@
     "tracks": [
       "eth",
       "defi",
-      "dao"
+      "dao",
+      "nft"
     ],
     "photos": [
       "twitter:jpg"
@@ -295,7 +297,7 @@
     "twitter": "ZaujaloMa",
     "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n",
     "tracks": [
-      "bitcoin",
+      "btc",
       "spolecnost",
       "alty"
     ],
@@ -367,6 +369,8 @@
     "name": "Mirek H",
     "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
     "tracks": [
+      "btc",
+      "defi",
       "alty"
     ],
     "photos": [
@@ -405,6 +409,7 @@
     "tracks": [
       "zaklady",
       "eth",
+      "dao",
       "defi"
     ],
     "photos": [
