@@ -136,7 +136,7 @@
     name: Urza.cz
     url: https://urza.cz
   lead: true
-  tracks: [ spolecnost, btc ]
+  tracks: [ spolecnost, regulace, btc ]
 
 - id: martin-gregor
   name: Martin Gregor
