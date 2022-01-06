@@ -145,7 +145,8 @@
           "zaklady",
           "defi",
           "nft",
-          "alty"
+          "alty",
+          "spolecnost"
         ],
         "photos": [
           "twitter:jpg"
@@ -190,7 +191,9 @@
         "tracks": [
           "zaklady",
           "eth",
-          "defi"
+          "defi",
+          "dao",
+          "alts"
         ],
         "photos": [
           "twitter:jpg"
@@ -273,7 +276,8 @@
         "orgs": "[Investree](https://investree.cz)\n",
         "tracks": [
           "eth",
-          "defi"
+          "defi",
+          "spolecnost"
         ],
         "photos": [
           "twitter:jpg"
@@ -365,6 +369,7 @@
         "orgs": "[Marinade.finance](https://marinade.finance/)\n",
         "tracks": [
           "zaklady",
+          "eth",
           "defi",
           "alty"
         ],
