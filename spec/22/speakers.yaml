@@ -48,7 +48,7 @@
   web:
     url: https://juraj.bednar.io
   lead: true
-  tracks: [ btc, dao, spolecnost ]
+  tracks: [ zaklady, btc, dao, spolecnost ]
 
 - id: vladimir-pinker
   name: Vladimír Pinker
