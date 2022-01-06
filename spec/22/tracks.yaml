@@ -54,7 +54,7 @@
 
 - id: alty
   name: Experimentální L1 blockchainy a další altcoiny
-  shortname: Experimenální L1
+  shortname: Alternativní L1
   examples: |
     * Polkadot
     * Cardano
@@ -66,6 +66,7 @@
 
 - id: regulace
   name: Regulace a fiat rampy
+  shortname: Regulace
   examples: |
     * legislativa
     * směnárny a burzy
@@ -74,6 +75,7 @@
 
 - id: spolecnost
   name: Krypto-společnost
+  shortname: Společnost
   examples: |
     * odluka peněz od státu
     * kryptoanarchismus, anarchokapitalismus, meritokracie
