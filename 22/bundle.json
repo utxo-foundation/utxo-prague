@@ -308,6 +308,7 @@
         "lead": true,
         "tracks": [
           "spolecnost",
+          "regulace",
           "btc"
         ],
         "photos": [
