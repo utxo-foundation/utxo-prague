@@ -1,6 +1,6 @@
 - id: adam-kracik
   name: Adam Kracík
-  tracks: [ zaklady, eth, defi, alty ]
+  tracks: [ zaklady, btc, eth, defi, alty ]
 
 - id: adam-studenik
   name: Adam Studeník
@@ -56,7 +56,7 @@
   twitter: KryptoVlada
   orgs: |
     YT kanál [KryptoVláďa](https://www.kryptovlada.win)
-  tracks: [ zaklady, defi, nft, alt ]
+  tracks: [ zaklady, defi, nft, alty ]
 
 - id: mario-havel
   name: Mario Havel
@@ -91,7 +91,7 @@
   twitter: petr_mensik
   orgs: |
     [Polkadotters](https://twitter.com/polkadotterss)
-  tracks: [ alt, defi ]
+  tracks: [ alty, defi ]
 
 - id: pavel-precechtel
   name: Pavel Přecechtěl
@@ -124,7 +124,7 @@
   name: Tomáš
   orgs: |
     Člen [KryptoVláďa](https://www.kryptovlada.win) komunity
-  tracks: [ zaklady, eth, defi ]
+  tracks: [ zaklady, defi ]
 
 - id: urza
   name: Urza
