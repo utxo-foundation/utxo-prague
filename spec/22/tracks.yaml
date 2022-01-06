@@ -1,5 +1,6 @@
 - id: zaklady
   name: Základy kryptoměn
+  shortname: Základy
   examples: |
     * principy otevřených projektů (blockchainů)
     * základy bezpečnosti a soukromí
@@ -17,6 +18,7 @@
 
 - id: eth
   name: Ethereum a smart-kontrakty obecně
+  shortname: Ethereum
   examples: |
     * Ethereum 2.0
     * Layer2 - rollupy
@@ -26,6 +28,7 @@
 
 - id: defi
   name: Decentralizované finance (DeFi)
+  shortname: DeFi
   examples: |
     * stablecoiny
     * lending protokoly
@@ -36,6 +39,7 @@
 
 - id: dao
   name: Decentralizované organizace (DAO)
+  shortname: DAOs
   examples: |
     * budoucnost organizací
     * showcase jednotlivých DAOs
@@ -49,7 +53,8 @@
     * Metaverse
 
 - id: alty
-  name: Experimenální L1
+  name: Experimentální L1 blockchainy a další altcoiny
+  shortname: Experimenální L1
   examples: |
     * Polkadot
     * Cardano
