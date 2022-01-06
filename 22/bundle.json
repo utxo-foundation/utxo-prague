@@ -27,6 +27,9 @@
           "eth",
           "defi",
           "alty"
+        ],
+        "photos": [
+          "sm:png"
         ]
       },
       {
@@ -36,6 +39,9 @@
         "tracks": [
           "eth",
           "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -46,6 +52,9 @@
         "tracks": [
           "eth",
           "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -57,6 +66,9 @@
           "defi",
           "dao",
           "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -68,6 +80,9 @@
           "zaklady",
           "dao",
           "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -79,6 +94,9 @@
         "tracks": [
           "zaklady",
           "btc"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -89,6 +107,9 @@
           "zaklady",
           "eth",
           "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -105,6 +126,10 @@
           "btc",
           "dao",
           "spolecnost"
+        ],
+        "photos": [
+          "sm:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -118,6 +143,9 @@
           "defi",
           "nft",
           "alt"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -132,6 +160,10 @@
           "btc",
           "eth",
           "defi"
+        ],
+        "photos": [
+          "sm:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -142,6 +174,9 @@
           "eth",
           "defi",
           "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -152,6 +187,9 @@
           "zaklady",
           "eth",
           "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -167,6 +205,10 @@
           "defi",
           "nft",
           "spolecnost"
+        ],
+        "photos": [
+          "sm:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -177,6 +219,9 @@
         "tracks": [
           "alt",
           "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -189,6 +234,9 @@
           "eth",
           "defi",
           "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -204,6 +252,10 @@
         "lead": true,
         "tracks": [
           "spolecnost"
+        ],
+        "photos": [
+          "sm:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -214,6 +266,9 @@
         "tracks": [
           "eth",
           "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -224,7 +279,8 @@
           "zaklady",
           "eth",
           "defi"
-        ]
+        ],
+        "photos": []
       },
       {
         "id": "urza",
@@ -240,6 +296,10 @@
         "tracks": [
           "spolecnost",
           "btc"
+        ],
+        "photos": [
+          "sm:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -251,6 +311,9 @@
           "bitcoin",
           "spolecnost",
           "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -265,6 +328,9 @@
           "btc",
           "defi",
           "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -277,6 +343,9 @@
           "zaklady",
           "defi",
           "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -288,6 +357,9 @@
           "zaklady",
           "defi",
           "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -298,7 +370,8 @@
         "tracks": [
           "zaklady",
           "btc"
-        ]
+        ],
+        "photos": []
       },
       {
         "id": "mirek-h",
@@ -306,7 +379,8 @@
         "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
         "tracks": [
           "alty"
-        ]
+        ],
+        "photos": []
       },
       {
         "id": "adam-lokaj",
@@ -316,7 +390,8 @@
         "tracks": [
           "btc",
           "regulace"
-        ]
+        ],
+        "photos": []
       },
       {
         "id": "fetyas",
@@ -325,6 +400,9 @@
         "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
         "tracks": [
           "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       }
     ],
