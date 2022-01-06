@@ -17,7 +17,7 @@
 - id: damsky
   name: damsky
   twitter: CryptoDamSky
-  tracks: [ eth, defi, dao, spolecnost ]
+  tracks: [ zaklady, eth, defi, dao, spolecnost ]
 
 - id: david-bankless
   name: DavidBankless
@@ -63,7 +63,7 @@
   twitter: TMIYChao
   bio: Kryptoanarchista, libertarián a hacker
   orgs: |
-    Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
+    takladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
   lead: true
   tracks: [ zaklady, btc, eth, defi ]
 
@@ -99,7 +99,7 @@
   twitter: homershillson
   orgs: |
     [VR Education](https://vreducation.cz)
-  tracks: [ eth, defi, dao ]
+  tracks: [ eth, defi, dao, nft ]
 
 - id: robert-chovanculiak
   name: Róbert Chovanculiak
@@ -143,7 +143,7 @@
   twitter: ZaujaloMa
   orgs: |
     YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)
-  tracks: [ bitcoin, spolecnost, alty ]
+  tracks: [ btc, spolecnost, alty ]
 
 - id: david-antos
   name: David Antoš
@@ -180,7 +180,7 @@
   name: Mirek H
   orgs: |
     Člen [KryptoVláďa](https://www.kryptovlada.win) komunity
-  tracks: [ alty ]
+  tracks: [ btc, defi, alty ]
 
 - id: adam-lokaj
   name: Adam Lokaj
@@ -202,5 +202,5 @@
   twitter: StudenyVojta
   orgs: |
     [Bankless.cz](https://bankless.cz/)
-  tracks: [ zaklady, eth, defi ]
+  tracks: [ zaklady, eth, dao, defi ]
 
