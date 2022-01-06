@@ -36,17 +36,19 @@
   {
     "id": "alty",
     "name": "Experimentální L1 blockchainy a další altcoiny",
-    "shortname": "Experimenální L1",
+    "shortname": "Alternativní L1",
     "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
   },
   {
     "id": "regulace",
     "name": "Regulace a fiat rampy",
+    "shortname": "Regulace",
     "examples": "* legislativa\n* směnárny a burzy\n* darování kryptoměn\n* insitucionální peníze v kryptoměnách\n"
   },
   {
     "id": "spolecnost",
     "name": "Krypto-společnost",
+    "shortname": "Společnost",
     "examples": "* odluka peněz od státu\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* představení lokálních krypto-komunit\n* fenomén maximalismu\n"
   }
 ]
