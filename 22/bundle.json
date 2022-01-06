@@ -125,6 +125,7 @@
         },
         "lead": true,
         "tracks": [
+          "zaklady",
           "btc",
           "dao",
           "spolecnost"
