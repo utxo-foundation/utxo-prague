@@ -35,13 +35,16 @@ for (const sp of entry.specs.speakers) {
     continue
   }
 
-  const url = tw.profile_image_url_https.replace('_normal', '')
-  console.log(url)
-  const res = await fetch(url)
-  const file = await Deno.open(twitterImagesPath + sp.id + '-twitter.jpg', { create: true, write: true })
-  const reader = fromStreamReader(res.body.getReader())
-  await Deno.copy(reader, file)
-  file.close()
+  const imageFn = twitterImagesPath + sp.id + '-twitter.jpg'
+  if (!await exists(imageFn)) {
+    const url = tw.profile_image_url_https.replace('_normal', '')
+    console.log(url)
+    const res = await fetch(url)
+    const file = await Deno.open(imageFn, { create: true, write: true })
+    const reader = fromStreamReader(res.body.getReader())
+    await Deno.copy(reader, file)
+    file.close()
+  }
 
   arr.push([ tw.screen_name, tw.followers_count ])
   total += tw.followers_count

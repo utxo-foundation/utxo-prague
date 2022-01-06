@@ -2,6 +2,9 @@ type: array
 items:
   type: object
   additionalProperties: false
+  required:
+    - id
+    - name
   properties:
     id:
       type: string
@@ -31,3 +34,5 @@ items:
       type: array
       items:
         type: string
+    photos:
+      type: array

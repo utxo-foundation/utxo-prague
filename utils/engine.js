@@ -1,4 +1,4 @@
-import { emptyDir } from 'https://deno.land/std@0.119.0/fs/mod.ts'
+import { emptyDir, exists } from 'https://deno.land/std@0.119.0/fs/mod.ts'
 import { copy } from 'https://deno.land/std@0.119.0/fs/copy.ts'
 import { load } from 'https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js'
 
@@ -20,6 +20,10 @@ export class UTXOEngine {
     if (!this.options.silent) {
       console.log(banner)
     }
+    this.imageTypes = [
+      [ 'sm', 'png' ],
+      [ 'twitter', 'jpg' ]
+    ]
   }
 
   async init () {
@@ -39,6 +43,22 @@ export class UTXOEngine {
       entry.specs = {}
       for (const sp of entry.index.specDef) {
         entry.specs[sp.type] = await this._yamlLoad([specDir, `${sp.type}.yaml`].join('/'))
+
+        // post processing of sub-specs
+        switch(sp.type) {
+          case 'speakers':
+            for (const s of entry.specs[sp.type]) {
+              if (!s.photos) {
+                s.photos = []
+              }
+              for (const [ it, format ] of this.imageTypes) {
+                if(await exists([ this.srcDir, f.name, 'photos', 'speakers', `${s.id}-${it}.${format}` ].join('/'))) {
+                  s.photos.push(`${it}:${format}`)
+                }
+              }
+            }
+            break
+        }
       }
     }
     if (!this.options.silent) {
