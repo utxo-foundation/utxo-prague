@@ -415,6 +415,21 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "vojtch",
+        "name": "Vojtěch Studený",
+        "nickname": "vojtch",
+        "twitter": "StudenyVojta",
+        "orgs": "[Bankless.cz](https://bankless.cz/)\n",
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
       }
     ],
     "tracks": [
@@ -468,7 +483,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 27,
+    "speakers": 28,
     "events": 0
   }
 }
