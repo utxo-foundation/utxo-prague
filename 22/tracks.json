@@ -16,12 +16,12 @@
   },
   {
     "id": "defi",
-    "name": "DeFi - decentralizované finance",
+    "name": "Decentralizované finance (DeFi)",
     "examples": "* stablecoiny\n* lending protokoly\n* DEX - decentralizované burzy\n* predikční trhy\n* futures/options kontrakty\n* tokenizace\n"
   },
   {
     "id": "dao",
-    "name": "DAOs - decentralizované organizace",
+    "name": "Decentralizované organizace (DAO)",
     "examples": "* budoucnost organizací\n* showcase jednotlivých DAOs\n"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "id": "alty",
-    "name": "Experimentální blockchainy a další altcoiny",
+    "name": "Experimenální L1",
     "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
   },
   {
