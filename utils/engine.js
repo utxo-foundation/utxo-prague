@@ -21,8 +21,9 @@ export class UTXOEngine {
       console.log(banner)
     }
     this.imageTypes = [
-      [ 'sm', 'png' ],
-      [ 'twitter', 'jpg' ]
+      ['sm', 'png'],
+      ['sm', 'webp'],
+      ['twitter', 'jpg']
     ]
   }
 
@@ -45,14 +46,14 @@ export class UTXOEngine {
         entry.specs[sp.type] = await this._yamlLoad([specDir, `${sp.type}.yaml`].join('/'))
 
         // post processing of sub-specs
-        switch(sp.type) {
+        switch (sp.type) {
           case 'speakers':
             for (const s of entry.specs[sp.type]) {
               if (!s.photos) {
                 s.photos = []
               }
-              for (const [ it, format ] of this.imageTypes) {
-                if(await exists([ this.srcDir, f.name, 'photos', 'speakers', `${s.id}-${it}.${format}` ].join('/'))) {
+              for (const [it, format] of this.imageTypes) {
+                if (await exists([this.srcDir, f.name, 'photos', 'speakers', `${s.id}-${it}.${format}`].join('/'))) {
                   s.photos.push(`${it}:${format}`)
                 }
               }
