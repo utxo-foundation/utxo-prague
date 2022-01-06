@@ -56,7 +56,7 @@
   twitter: KryptoVlada
   orgs: |
     YT kanál [KryptoVláďa](https://www.kryptovlada.win)
-  tracks: [ zaklady, defi, nft, alty ]
+  tracks: [ zaklady, defi, nft, alty, spolecnost ]
 
 - id: mario-havel
   name: Mario Havel
@@ -75,7 +75,7 @@
 - id: petr-klein
   name: Petr Klein
   twitter: kleinpetr_com
-  tracks: [ zaklady, eth, defi ]
+  tracks: [ zaklady, eth, defi, dao, alts ]
 
 - id: petr-mara
   name: Petr Mára
@@ -118,7 +118,7 @@
   twitter: investree_cz
   orgs: |
     [Investree](https://investree.cz)
-  tracks: [ eth, defi ]
+  tracks: [ eth, defi, spolecnost ]
 
 - id: tomas-kryptovlada
   name: Tomáš
@@ -167,7 +167,7 @@
   twitter: repetny
   orgs: |
     [Marinade.finance](https://marinade.finance/)
-  tracks: [ zaklady, defi, alty ]
+  tracks: [ zaklady, eth, defi, alty ]
 
 - id: jan-cerny
   name: Jan Černý
