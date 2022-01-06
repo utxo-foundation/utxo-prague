@@ -29,7 +29,7 @@
           "alty"
         ],
         "photos": [
-          "sm:png"
+          "web:jpg"
         ]
       },
       {
@@ -128,6 +128,7 @@
           "spolecnost"
         ],
         "photos": [
+          "web:jpg",
           "sm:png",
           "twitter:jpg"
         ]
@@ -162,6 +163,7 @@
           "defi"
         ],
         "photos": [
+          "web:jpg",
           "sm:png",
           "twitter:jpg"
         ]
@@ -207,6 +209,7 @@
           "spolecnost"
         ],
         "photos": [
+          "web:jpg",
           "sm:png",
           "twitter:jpg"
         ]
@@ -254,6 +257,7 @@
           "spolecnost"
         ],
         "photos": [
+          "web:jpg",
           "sm:png",
           "twitter:jpg"
         ]
@@ -300,6 +304,7 @@
           "btc"
         ],
         "photos": [
+          "web:jpg",
           "sm:png",
           "twitter:jpg"
         ]
@@ -373,7 +378,9 @@
           "zaklady",
           "btc"
         ],
-        "photos": []
+        "photos": [
+          "web:webp"
+        ]
       },
       {
         "id": "mirek-h",
@@ -383,7 +390,7 @@
           "alty"
         ],
         "photos": [
-          "sm:webp"
+          "web:webp"
         ]
       },
       {
