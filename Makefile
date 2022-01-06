@@ -24,4 +24,4 @@ stats:
 	deno run --unstable --allow-read utils/stats.js
 
 twitter:
-	deno run --unstable --allow-read --allow-env --allow-net utils/twitter.js
+	deno run --unstable --allow-read --allow-write --allow-env --allow-net utils/twitter.js

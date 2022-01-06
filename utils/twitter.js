@@ -2,11 +2,15 @@ import { config } from "https://deno.land/x/dotenv/mod.ts"
 import SimpleTwitter from "https://deno.land/x/simple_twitter_deno@0.05/simple_twitter_deno.ts"
 import { Table } from "https://deno.land/x/cliffy@v0.20.1/table/mod.ts"
 import { UTXOEngine } from './engine.js'
+import { exists } from "https://deno.land/std/fs/mod.ts"
+import { fromStreamReader } from "https://deno.land/std@0.60.0/io/streams.ts"
 
 const utxo = new UTXOEngine({ silent: true })
 await utxo.init()
 
 config({ path: ".env", export: true })
+
+const twitterImagesPath = './spec/22/photos/speakers/'
 
 const simple_twitter = new SimpleTwitter({
   consumer_key: Deno.env.get("CONSUMER_KEY"),
@@ -30,6 +34,15 @@ for (const sp of entry.specs.speakers) {
   if (!tw) {
     continue
   }
+
+  const url = tw.profile_image_url_https.replace('_normal', '')
+  console.log(url)
+  const res = await fetch(url)
+  const file = await Deno.open(twitterImagesPath + sp.id + '-twitter.jpg', { create: true, write: true })
+  const reader = fromStreamReader(res.body.getReader())
+  await Deno.copy(reader, file)
+  file.close()
+
   arr.push([ tw.screen_name, tw.followers_count ])
   total += tw.followers_count
 }
