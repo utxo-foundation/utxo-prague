@@ -260,7 +260,9 @@
       "eth",
       "defi"
     ],
-    "photos": []
+    "photos": [
+      "sm:webp"
+    ]
   },
   {
     "id": "urza",
@@ -360,7 +362,9 @@
     "tracks": [
       "alty"
     ],
-    "photos": []
+    "photos": [
+      "sm:webp"
+    ]
   },
   {
     "id": "adam-lokaj",
