@@ -1,5 +1,6 @@
 [
   {
+    "id": "adam-kracik",
     "name": "Adam Kracík",
     "tracks": [
       "zaklady",
@@ -9,6 +10,7 @@
     ]
   },
   {
+    "id": "adam-studenik",
     "name": "Adam Studeník",
     "twitter": "adamstudenik",
     "tracks": [
@@ -17,6 +19,7 @@
     ]
   },
   {
+    "id": "anett-rohlikova",
     "name": "Anett Rohlikova",
     "twitter": "anettrolikova",
     "orgs": "[Ethereum Magicians](https://ethereum-magicians.org/)\n",
@@ -26,6 +29,7 @@
     ]
   },
   {
+    "id": "damsky",
     "name": "damsky",
     "twitter": "CryptoDamSky",
     "tracks": [
@@ -36,6 +40,7 @@
     ]
   },
   {
+    "id": "david-bankless",
     "name": "DavidBankless",
     "twitter": "davidbankless",
     "orgs": "[Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)\n",
@@ -46,6 +51,7 @@
     ]
   },
   {
+    "id": "honza-dvorak",
     "name": "Honza Dvořák",
     "nickname": "Gorrdy",
     "twitter": "_Honza_Dvorak",
@@ -56,6 +62,7 @@
     ]
   },
   {
+    "id": "jiri-cepelka",
     "name": "Jiří Čepelka",
     "twitter": "JiriCepelka",
     "tracks": [
@@ -81,6 +88,7 @@
     ]
   },
   {
+    "id": "vladimir-pinker",
     "name": "Vladimír Pinker",
     "nickname": "KryptoVláďa",
     "twitter": "KryptoVlada",
@@ -107,6 +115,7 @@
     ]
   },
   {
+    "id": "m0xt",
     "name": "m0xt",
     "twitter": "m0xt_",
     "tracks": [
@@ -116,6 +125,7 @@
     ]
   },
   {
+    "id": "petr-klein",
     "name": "Petr Klein",
     "twitter": "kleinpetr_com",
     "tracks": [
@@ -140,6 +150,7 @@
     ]
   },
   {
+    "id": "petr-mensik",
     "name": "Petr Menšík",
     "twitter": "petr_mensik",
     "orgs": "[Polkadotters](https://twitter.com/polkadotterss)\n",
@@ -149,6 +160,7 @@
     ]
   },
   {
+    "id": "pavel-precechtel",
     "name": "Pavel Přecechtěl",
     "nickname": "HomΞr Shillson",
     "twitter": "homershillson",
@@ -175,6 +187,7 @@
     ]
   },
   {
+    "id": "tomas-zdrazil",
     "name": "Tomáš Zdražil",
     "twitter": "investree_cz",
     "orgs": "[Investree](https://investree.cz)\n",
@@ -184,6 +197,7 @@
     ]
   },
   {
+    "id": "tomas-kryptovlada",
     "name": "Tomáš",
     "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
     "tracks": [
