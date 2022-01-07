@@ -81,12 +81,34 @@ const methods = {
     let output = sourceText
     output = output.replace(/## Programové sekce([\s\S]+)## Časová/m, `## Programové sekce\n\n${await methods.tracksGen()}\n\n## Časová`)
     await Deno.writeTextFile(sourceFile, output)
+  },
+
+  // FAQs
+  async faqsGen () {
+    const output = []
+    for (const item of entry.specs.faqs) {
+      output.push(`<details>\n\n<summary>${item.question.trim()}</summary>\n\n${item.answer.trim()}\n\n</details>`)
+    }
+    return output.join("\n\n")
+  },
+
+  async faqsBuild () {
+    const docFile = './docs/faq.md'
+    const docText = await Deno.readTextFile(docFile)
+    const faqs = await this.faqsGen()
+    let output = docText
+    output = output.replace(/# FAQ[\s\S]+/m, `# FAQ\n\n${faqs}\n`)
+
+    // TODO replace
+    await Deno.writeTextFile(docFile, output)
   }
 }
+  
 
 if (!Deno.args[0]) {
   await methods.speakersBuild()
   await methods.tracksBuild()
+  await methods.faqsBuild()
   console.log('done')
 } else {
   console.log(await methods[Deno.args[0]]())

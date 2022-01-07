@@ -20,6 +20,9 @@ speakers-table:
 speakers-leads:
 	deno run --unstable --allow-read utils/update-docs.js speakersLeadsGen
 
+faqs:
+	deno run --unstable --allow-read utils/update-docs.js faqsGen
+
 stats:
 	deno run --unstable --allow-read utils/stats.js
 
