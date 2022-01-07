@@ -100,7 +100,8 @@ export class UTXOEngine {
       index.stats = {
         tracks: entry.specs.tracks.length,
         speakers: entry.specs.speakers.length,
-        events: entry.specs.events.length
+        events: entry.specs.events.length,
+        faqs: entry.specs.faqs.length
       }
 
       await this._jsonWrite([entryDir, 'index.json'], index)

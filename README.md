@@ -39,6 +39,7 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 | **speakers** | Přednášející | [https://spec.utxo.cz/22/speakers.json](https://spec.utxo.cz/22/speakers.json) |
 | **tracks** | Programové sekce | [https://spec.utxo.cz/22/tracks.json](https://spec.utxo.cz/22/tracks.json) |
 | **events** | Události | [https://spec.utxo.cz/22/events.json](https://spec.utxo.cz/22/events.json) |
+| **faqs** | Často kladené dotazy (FAQ) | [https://spec.utxo.cz/22/faqs.json](https://spec.utxo.cz/22/faqs.json) |
 | **bundle** | Vše v jednom souboru | [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json) |
 
 ## Detaily k jednotlivým ročníkům

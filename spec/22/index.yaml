@@ -16,3 +16,4 @@ specDef:
   - type: speakers
   - type: tracks
   - type: events
+  - type: faqs
