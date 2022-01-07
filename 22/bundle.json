@@ -478,6 +478,7 @@
       {
         "id": "nft",
         "name": "NFTs a Metaverse",
+        "shortname": "NFTs/Metaverse",
         "examples": "* NFT umění\n* NFT collectibles\n* gaming\n* Metaverse\n"
       },
       {
