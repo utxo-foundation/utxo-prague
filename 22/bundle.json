@@ -502,8 +502,12 @@
     "events": [],
     "faqs": [
       {
+        "question": "Kde se akce bude odehrávat?",
+        "answer": "První ročník konference se uskuteční v unikátní komplexu bývalého kláštera [Gabriel Loci](https://goo.gl/maps/2j9XNPSRQePZNLuz5) na pražském Smíchově. K dispozici bude hlavní přednáškový sál, dva středně velké přednáškové sály a další menší sály pro workshopy. Obsah ve všech sálech bude probíhat paralelně. K dispozici bude také spousta dalších prostor, například chill-out zóna nebo venkovní posezení s food-trucky a dalšími stánky.\n"
+      },
+      {
         "question": "Jak získám vstupenku?",
-        "answer": "První vstupenky plánujeme uvolnit do prodeje v průběhu února 2022.\n"
+        "answer": "První vstupenky plánujeme uvolnit do prodeje v průběhu února 2022. Vstupné bude nízké a platit budete moci jak platební kartou, tak samozřejmě kryptoměnami (především Lightning Network).\n"
       },
       {
         "question": "Budou přednášky vysílané živě?",
@@ -527,6 +531,6 @@
     "tracks": 9,
     "speakers": 28,
     "events": 0,
-    "faqs": 5
+    "faqs": 6
   }
 }
