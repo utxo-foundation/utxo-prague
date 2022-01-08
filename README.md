@@ -57,7 +57,7 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 ## Kontakt
 * Web: [utxo.cz](https://utxo.cz)
 * Dokumentace: [docs.utxo.cz](https://docs.utxo.cz)
-* Twitter: [@utxocz](https://twitter.com/utxocz)
+* Twitter: [@utxoprague](https://twitter.com/utxoprague)
 * Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
-* Telegram: [t.me/utxocz](https://t.me/utxocz)
+* Telegram: [t.me/utxoprague](https://t.me/utxoprague)
 * Facebook: [Facebook událost](https://www.facebook.com/events/276727151106692)
