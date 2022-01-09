@@ -13,17 +13,17 @@
   type: community
   twitter: banklesscz
 
-- id: kryptovlada-komunita
-  name: KryptoVláďa komunita
-  type: community
-  web:
-    url: https://discord.gg/RHmhNGN
-
 - id: czsk-nft-community
   name: CZ/SK NFT Community
   type: community
   web:
     url: https://discord.gg/X4MV9Pn5P8
+
+- id: kryptovlada-komunita
+  name: KryptoVláďa komunita
+  type: community
+  web:
+    url: https://discord.gg/RHmhNGN
 
 - id: polkadotters-czsk
   name: Polkadotters
