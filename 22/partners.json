@@ -38,6 +38,17 @@
     ]
   },
   {
+    "id": "kryptovlada-komunita",
+    "name": "KryptoVláďa komunita",
+    "type": "community",
+    "web": {
+      "url": "https://discord.gg/RHmhNGN"
+    },
+    "photos": [
+      "web:webp"
+    ]
+  },
+  {
     "id": "polkadotters-czsk",
     "name": "Polkadotters",
     "type": "community",
