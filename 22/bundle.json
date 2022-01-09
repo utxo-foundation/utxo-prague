@@ -563,22 +563,22 @@
         ]
       },
       {
-        "id": "kryptovlada-komunita",
-        "name": "KryptoVláďa komunita",
+        "id": "czsk-nft-community",
+        "name": "CZ/SK NFT Community",
         "type": "community",
         "web": {
-          "url": "https://discord.gg/RHmhNGN"
+          "url": "https://discord.gg/X4MV9Pn5P8"
         },
         "photos": [
           "web:webp"
         ]
       },
       {
-        "id": "czsk-nft-community",
-        "name": "CZ/SK NFT Community",
+        "id": "kryptovlada-komunita",
+        "name": "KryptoVláďa komunita",
         "type": "community",
         "web": {
-          "url": "https://discord.gg/X4MV9Pn5P8"
+          "url": "https://discord.gg/RHmhNGN"
         },
         "photos": [
           "web:webp"
