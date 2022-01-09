@@ -26,4 +26,17 @@
 - id: kryptoinsider-podcast
   name: Krypto Insider Podcast
   type: medium
+  web:
+    url: https://podcasty.hn.cz/krypto-insider/
 
+- id: investree
+  name: Investree
+  type: medium
+  web:
+    url: https://investree.cz/
+
+- id: kryptoplatby
+  name: KryptoPlatby CZ/SK
+  type: medium
+  web:
+    url: https://linktr.ee/kryptoplatby
