@@ -556,10 +556,30 @@
         ]
       },
       {
+        "id": "czsk-nft-community",
+        "name": "CZ/SK NFT Community",
+        "type": "community",
+        "web": {
+          "url": "https://discord.gg/X4MV9Pn5P8"
+        },
+        "photos": [
+          "web:webp"
+        ]
+      },
+      {
         "id": "polkadotters-czsk",
-        "name": "Polkadotter CZ/SK",
+        "name": "Polkadotters",
         "type": "community",
         "twitter": "PolkadottersS",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "cardanians",
+        "name": "Cardanians",
+        "type": "community",
+        "twitter": "Cardanians_io",
         "photos": [
           "twitter:jpg"
         ]
