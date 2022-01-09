@@ -1,6 +1,6 @@
 - id: gweicz
   name: Gwei.cz
-  type: community
+  yype: community
   twitter: gweicz
 
 - id: holky-v-kryptu
@@ -41,7 +41,7 @@
   twitter: mitoncfund
 
 - id: kryptoinsider-podcast
-  name: Krypto Insider Podcast
+  name: Podcast Krypto Insider (Hospodářské noviny)
   type: medium
   web:
     url: https://podcasty.hn.cz/krypto-insider/
