@@ -390,11 +390,17 @@
     "name": "Adam Lokaj",
     "bio": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)",
     "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/) ([Instagram](https://www.instagram.com/adopcebitcoinu/))\n",
+    "web": {
+      "name": "adopcebtc.cz",
+      "url": "https://adopcebtc.cz/"
+    },
     "tracks": [
       "btc",
       "regulace"
     ],
-    "photos": []
+    "photos": [
+      "web:png"
+    ]
   },
   {
     "id": "fetyas",
