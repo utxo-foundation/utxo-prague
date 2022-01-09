@@ -533,21 +533,27 @@
         "name": "Gwei.cz",
         "type": "community",
         "twitter": "gweicz",
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "holky-v-kryptu",
         "name": "Holky v kryptu",
         "type": "community",
         "twitter": "holkyvkryptu",
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "bankless-cz",
         "name": "Bankless Czech",
         "type": "community",
         "twitter": "banklesscz",
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "polkadotters-czsk",
