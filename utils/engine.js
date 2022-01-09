@@ -51,12 +51,13 @@ export class UTXOEngine {
         // post processing of sub-specs
         switch (sp.type) {
           case 'speakers':
+          case 'partners':
             for (const s of entry.specs[sp.type]) {
               if (!s.photos) {
                 s.photos = []
               }
               for (const [it, format] of this.imageTypes) {
-                if (await exists([this.srcDir, f.name, 'photos', 'speakers', `${s.id}-${it}.${format}`].join('/'))) {
+                if (await exists([this.srcDir, f.name, 'photos', sp.type, `${s.id}-${it}.${format}`].join('/'))) {
                   s.photos.push(`${it}:${format}`)
                 }
               }

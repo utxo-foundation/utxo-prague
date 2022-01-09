@@ -22,3 +22,5 @@ items:
     twitter:
       type: string
       pattern: '^[a-zA-Z0-9_]+$'
+    photos:
+      type: array
