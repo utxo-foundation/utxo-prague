@@ -53,12 +53,8 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 | Repozitář | Popis |
 | --- | --- |
 | [gweicz/utxo22-docs](https://github.com/gweicz/utxo22-docs) | GitBook dokumentace |
-| [gweicz/utxo22-web](https://github.com/gweicz/utxo22-web) | Dočasná landing page na utxo.cz |
+| [gweicz/utxo22-landing](https://github.com/gweicz/utxo22-landing) | Dočasná landing page na utxo.cz |
 
 ## Kontakt
 * Web: [utxo.cz](https://utxo.cz)
 * Dokumentace: [docs.utxo.cz](https://docs.utxo.cz)
-* Twitter: [@utxoprague](https://twitter.com/utxoprague)
-* Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
-* Telegram: [t.me/utxoprague](https://t.me/utxoprague)
-* Facebook: [Facebook událost](https://www.facebook.com/events/276727151106692)
