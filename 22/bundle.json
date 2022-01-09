@@ -529,6 +529,36 @@
     ],
     "partners": [
       {
+        "id": "gweicz",
+        "name": "Gwei.cz",
+        "type": "community",
+        "twitter": "gweicz",
+        "photos": []
+      },
+      {
+        "id": "holky-v-kryptu",
+        "name": "Holky v kryptu",
+        "type": "community",
+        "twitter": "holkyvkryptu",
+        "photos": []
+      },
+      {
+        "id": "bankless-cz",
+        "name": "Bankless Czech",
+        "type": "community",
+        "twitter": "banklesscz",
+        "photos": []
+      },
+      {
+        "id": "polkadotters-czsk",
+        "name": "Polkadotter CZ/SK",
+        "type": "community",
+        "twitter": "PolkadottersS",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "mitonc",
         "name": "MitonC",
         "type": "sponsor",
@@ -538,12 +568,11 @@
         ]
       },
       {
-        "id": "polkadotters-czsk",
-        "name": "Polkadotter CZ/SK",
-        "type": "community",
-        "twitter": "PolkadottersS",
+        "id": "kryptoinsider-podcast",
+        "name": "Krypto Insider Podcast",
+        "type": "medium",
         "photos": [
-          "twitter:jpg"
+          "web:jpg"
         ]
       }
     ]
