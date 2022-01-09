@@ -577,8 +577,33 @@
         "id": "kryptoinsider-podcast",
         "name": "Krypto Insider Podcast",
         "type": "medium",
+        "web": {
+          "url": "https://podcasty.hn.cz/krypto-insider/"
+        },
         "photos": [
           "web:jpg"
+        ]
+      },
+      {
+        "id": "investree",
+        "name": "Investree",
+        "type": "medium",
+        "web": {
+          "url": "https://investree.cz/"
+        },
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
+        "id": "kryptoplatby",
+        "name": "KryptoPlatby CZ/SK",
+        "type": "medium",
+        "web": {
+          "url": "https://linktr.ee/kryptoplatby"
+        },
+        "photos": [
+          "twitter:jpg"
         ]
       }
     ]
