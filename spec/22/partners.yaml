@@ -1,10 +1,29 @@
-- id: mitonc
-  name: MitonC
-  type: sponsor
-  twitter: mitoncfund
+- id: gweicz
+  name: Gwei.cz
+  type: community
+  twitter: gweicz
+
+- id: holky-v-kryptu
+  name: Holky v kryptu
+  type: community
+  twitter: holkyvkryptu
+
+- id: bankless-cz
+  name: Bankless Czech
+  type: community
+  twitter: banklesscz
 
 - id: polkadotters-czsk
   name: Polkadotter CZ/SK
   type: community
   twitter: PolkadottersS
+
+- id: mitonc
+  name: MitonC
+  type: sponsor
+  twitter: mitoncfund
+
+- id: kryptoinsider-podcast
+  name: Krypto Insider Podcast
+  type: medium
 
