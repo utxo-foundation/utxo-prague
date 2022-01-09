@@ -15,7 +15,8 @@
     "twitter": "https://twitter.com/utxoprague",
     "telegram": "https://t.me/utxoprague",
     "discord": "https://discord.gg/5k9dEtVhnv",
-    "fbevent": "https://www.facebook.com/events/276727151106692"
+    "fbevent": "https://www.facebook.com/events/276727151106692",
+    "substack": "https://utxoprague.substack.com/"
   },
   "spec": {
     "speakers": "https://spec.utxo.cz/22/speakers.json",

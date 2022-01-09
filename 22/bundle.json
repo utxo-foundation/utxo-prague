@@ -15,7 +15,8 @@
     "twitter": "https://twitter.com/utxoprague",
     "telegram": "https://t.me/utxoprague",
     "discord": "https://discord.gg/5k9dEtVhnv",
-    "fbevent": "https://www.facebook.com/events/276727151106692"
+    "fbevent": "https://www.facebook.com/events/276727151106692",
+    "substack": "https://utxoprague.substack.com/"
   },
   "spec": {
     "speakers": [
@@ -613,7 +614,7 @@
       },
       {
         "id": "kryptoinsider-podcast",
-        "name": "Krypto Insider Podcast",
+        "name": "Podcast Krypto Insider (Hospodářské noviny)",
         "type": "medium",
         "web": {
           "url": "https://podcasty.hn.cz/krypto-insider/"
