@@ -187,6 +187,9 @@
   bio: Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)
   orgs: |
     [adopcebtc.cz](https://www.adopcebtc.cz/) ([Instagram](https://www.instagram.com/adopcebitcoinu/))
+  web:
+    name: adopcebtc.cz
+    url: https://adopcebtc.cz/
   tracks: [ btc, regulace ]
 
 - id: fetyas
