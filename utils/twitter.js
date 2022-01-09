@@ -11,6 +11,7 @@ await utxo.init()
 config({ path: ".env", export: true })
 
 const twitterImagesPath = './spec/22/photos/speakers/'
+const twitterPartnersImagesPath = './spec/22/photos/partners/'
 
 const simple_twitter = new SimpleTwitter({
   consumer_key: Deno.env.get("CONSUMER_KEY"),
@@ -25,6 +26,33 @@ const entry = utxo.entries[entryId]
 
 const arr = []
 let total = 0
+
+// partners
+for (const sp of entry.specs.partners) {
+  if (!sp.twitter) {
+    continue
+  }
+  const tw = await twitterUser(sp.twitter)
+  if (!tw) {
+    continue
+  }
+
+  const imageFn = twitterPartnersImagesPath + sp.id + '-twitter.jpg'
+  if (!await exists(imageFn)) {
+    const url = tw.profile_image_url_https.replace('_normal', '')
+    console.log(url)
+    const res = await fetch(url)
+    const file = await Deno.open(imageFn, { create: true, write: true })
+    const reader = fromStreamReader(res.body.getReader())
+    await Deno.copy(reader, file)
+    file.close()
+  }
+
+  arr.push([ `partner:${sp.type}`, tw.screen_name, tw.followers_count ])
+  total += tw.followers_count
+}
+
+// speakers
 
 for (const sp of entry.specs.speakers) {
   if (!sp.twitter) {
@@ -46,7 +74,7 @@ for (const sp of entry.specs.speakers) {
     file.close()
   }
 
-  arr.push([ tw.screen_name, tw.followers_count ])
+  arr.push([ 'speaker', tw.screen_name, tw.followers_count ])
   total += tw.followers_count
 }
 
