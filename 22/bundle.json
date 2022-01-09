@@ -526,6 +526,20 @@
         "question": "Budou dostupné záznamy přednášek?",
         "answer": "Ano, všechny přednášky budou po konferenci dostupné zdarma na UTXO.TV nebo našem YouTube kanálu.\n"
       }
+    ],
+    "partners": [
+      {
+        "id": "mitonc",
+        "name": "MitonC",
+        "type": "sponsor",
+        "twitter": "mitoncfund"
+      },
+      {
+        "id": "polkadotters-czsk",
+        "name": "Polkadotter CZ/SK",
+        "type": "community",
+        "twitter": "PolkadottersS"
+      }
     ]
   },
   "stats": {

@@ -21,7 +21,8 @@
     "speakers": "https://spec.utxo.cz/22/speakers.json",
     "tracks": "https://spec.utxo.cz/22/tracks.json",
     "events": "https://spec.utxo.cz/22/events.json",
-    "faqs": "https://spec.utxo.cz/22/faqs.json"
+    "faqs": "https://spec.utxo.cz/22/faqs.json",
+    "partners": "https://spec.utxo.cz/22/partners.json"
   },
   "stats": {
     "tracks": 9,
