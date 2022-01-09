@@ -532,13 +532,19 @@
         "id": "mitonc",
         "name": "MitonC",
         "type": "sponsor",
-        "twitter": "mitoncfund"
+        "twitter": "mitoncfund",
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "polkadotters-czsk",
         "name": "Polkadotter CZ/SK",
         "type": "community",
-        "twitter": "PolkadottersS"
+        "twitter": "PolkadottersS",
+        "photos": [
+          "twitter:jpg"
+        ]
       }
     ]
   },
