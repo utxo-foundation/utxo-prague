@@ -75,6 +75,7 @@
     "orgs": "Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)\n",
     "lead": true,
     "tracks": [
+      "zaklady",
       "btc",
       "spolecnost",
       "regulace"
