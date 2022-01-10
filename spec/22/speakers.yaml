@@ -217,3 +217,9 @@
     [Bankless.cz](https://bankless.cz/)
   tracks: [ zaklady, eth, dao, defi ]
 
+- id: hynek-jina
+  name: Hynek Jína
+  twitter: HynekJina
+  orgs: |
+    [SatoshiLabs](https://satoshilabs.com/)
+  tracks: [ btc, zaklady, spolecnost ]
