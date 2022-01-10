@@ -13,6 +13,12 @@
   type: community
   twitter: banklesscz
 
+- id: btcknl
+  name: Bitcoinovej Kanál komunita (BTCKNL)
+  type: community
+  web:
+    url: https://discord.gg/HWG9Erm
+
 - id: czsk-nft-community
   name: CZ/SK NFT Community
   type: community
@@ -45,6 +51,12 @@
   type: medium
   web:
     url: https://podcasty.hn.cz/krypto-insider/
+
+- id: kryptodoupe
+  name: KryptoDoupě.cz
+  type: medium
+  web:
+    url: https://www.kryptodoupe.cz/
 
 - id: investree
   name: Investree
