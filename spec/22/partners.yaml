@@ -52,6 +52,12 @@
   web:
     url: https://podcasty.hn.cz/krypto-insider/
 
+- id: kryptonovinky-sk
+  name: Kryptonovinky.sk (.cz)
+  type: medium
+  web:
+    url: https://www.kryptonovinky.sk/
+
 - id: kryptodoupe
   name: KryptoDoupě.cz
   type: medium
