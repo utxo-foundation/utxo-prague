@@ -327,6 +327,19 @@
         ]
       },
       {
+        "id": "michaela-malatin",
+        "name": "Michala Malatin",
+        "twitter": "malatinmichaela",
+        "bio": "Crypto NFT Enthusiast",
+        "orgs": "Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)\n",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "mirek-h",
         "name": "Mirek H",
         "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
@@ -735,7 +748,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 31,
+    "speakers": 32,
     "events": 0,
     "faqs": 6
   }
