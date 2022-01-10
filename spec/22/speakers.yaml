@@ -26,6 +26,14 @@
     [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)
   tracks: [ zaklady, dao, nft ]
 
+- id: dominik-stroukal
+  name: Dominik Stroukal
+  twitter: stroukal
+  bio: Ekonom, libertarián, autor první české knihy o kryptoměnách
+  orgs: |
+    Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)
+  tracks: [ btc, spolecnost, regulace ]
+
 - id: honza-dvorak
   name: Honza Dvořák
   nickname: Gorrdy
