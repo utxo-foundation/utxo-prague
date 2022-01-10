@@ -110,6 +110,25 @@
         ]
       },
       {
+        "id": "david-stancel",
+        "name": "David Stancel",
+        "nickname": "Ape Dogen",
+        "twitter": "dave_stancel",
+        "orgs": "Autor [Coin Story](https://coinstory.tech/)\n",
+        "tracks": [
+          "defi",
+          "alty",
+          "spolecnost"
+        ],
+        "web": {
+          "name": "stanceldavid.sk",
+          "url": "https://stanceldavid.sk/"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "david-bankless",
         "name": "DavidBankless",
         "twitter": "davidbankless",
@@ -716,7 +735,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 30,
+    "speakers": 31,
     "events": 0,
     "faqs": 6
   }
