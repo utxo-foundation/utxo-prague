@@ -469,6 +469,20 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "hynek-jina",
+        "name": "Hynek Jína",
+        "twitter": "HynekJina",
+        "orgs": "[SatoshiLabs](https://satoshilabs.com/)\n",
+        "tracks": [
+          "btc",
+          "zaklady",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
       }
     ],
     "tracks": [
@@ -689,7 +703,7 @@
   },
   "stats": {
     "tracks": 9,
-    "speakers": 29,
+    "speakers": 30,
     "events": 0,
     "faqs": 6
   }
