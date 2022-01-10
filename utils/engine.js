@@ -62,6 +62,9 @@ export class UTXOEngine {
                 }
               }
             }
+            if (sp.type === 'speakers') {
+              entry.specs[sp.type] = entry.specs[sp.type].sort((x, y) => x.name.localeCompare(y.name))
+            }
             break
         }
       }
