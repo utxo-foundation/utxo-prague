@@ -36,6 +36,23 @@
         ]
       },
       {
+        "id": "adam-lokaj",
+        "name": "Adam Lokaj",
+        "bio": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)",
+        "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/) ([Instagram](https://www.instagram.com/adopcebitcoinu/))\n",
+        "web": {
+          "name": "adopcebtc.cz",
+          "url": "https://adopcebtc.cz/"
+        },
+        "tracks": [
+          "btc",
+          "regulace"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "adam-studenik",
         "name": "Adam Studeník",
         "twitter": "adamstudenik",
@@ -76,6 +93,23 @@
         ]
       },
       {
+        "id": "david-antos",
+        "name": "David Antoš",
+        "nickname": "jilm",
+        "twitter": "jilm",
+        "bio": "Eurofederalista, neoliberál, globalista",
+        "orgs": "Spoluzakladatel spolku [Pro euro](https://proeuro.cz)\n",
+        "tracks": [
+          "eth",
+          "btc",
+          "defi",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "david-bankless",
         "name": "DavidBankless",
         "twitter": "davidbankless",
@@ -108,6 +142,18 @@
         ]
       },
       {
+        "id": "fetyas",
+        "name": "Fetyas",
+        "twitter": "hernakrypto",
+        "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "honza-dvorak",
         "name": "Honza Dvořák",
         "nickname": "Gorrdy",
@@ -116,6 +162,48 @@
         "tracks": [
           "zaklady",
           "btc"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "hynek-jina",
+        "name": "Hynek Jína",
+        "twitter": "HynekJina",
+        "orgs": "[SatoshiLabs](https://satoshilabs.com/)\n",
+        "tracks": [
+          "btc",
+          "zaklady",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "jan-cerny",
+        "name": "Jan Černý",
+        "nickname": "-HoNY-",
+        "orgs": "Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
+        "photos": [
+          "web:webp"
+        ]
+      },
+      {
+        "id": "jaromir-tesar",
+        "name": "Jaromír Tesař",
+        "twitter": "JaromirTesar",
+        "bio": "Blockchain expert, Cardano Ambassador",
+        "orgs": "[Cardanians](https://cardanians.io/cs)\n",
+        "tracks": [
+          "zaklady",
+          "defi",
+          "alty"
         ],
         "photos": [
           "twitter:jpg"
@@ -157,17 +245,13 @@
         ]
       },
       {
-        "id": "vladimir-pinker",
-        "name": "Vladimír Pinker",
-        "nickname": "KryptoVláďa",
-        "twitter": "KryptoVlada",
-        "orgs": "YT kanál [KryptoVláďa](https://www.kryptovlada.win)\n",
+        "id": "m0xt",
+        "name": "m0xt",
+        "twitter": "m0xt_",
         "tracks": [
-          "zaklady",
+          "eth",
           "defi",
-          "nft",
-          "alty",
-          "spolecnost"
+          "dao"
         ],
         "photos": [
           "twitter:jpg"
@@ -193,13 +277,60 @@
         ]
       },
       {
-        "id": "m0xt",
-        "name": "m0xt",
-        "twitter": "m0xt_",
+        "id": "martin-gregor",
+        "name": "Martin Gregor",
+        "nickname": "ZaujaloMa",
+        "twitter": "ZaujaloMa",
+        "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n",
+        "tracks": [
+          "btc",
+          "spolecnost",
+          "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "michal-repetny",
+        "name": "Michael Repetný",
+        "twitter": "repetny",
+        "orgs": "[Marinade.finance](https://marinade.finance/)\n",
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi",
+          "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "mirek-h",
+        "name": "Mirek H",
+        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
+        "tracks": [
+          "btc",
+          "defi",
+          "alty"
+        ],
+        "photos": [
+          "web:webp"
+        ]
+      },
+      {
+        "id": "pavel-precechtel",
+        "name": "Pavel Přecechtěl",
+        "nickname": "HomΞr Shillson",
+        "twitter": "homershillson",
+        "orgs": "[VR Education](https://vreducation.cz)\n",
         "tracks": [
           "eth",
           "defi",
-          "dao"
+          "dao",
+          "alty",
+          "nft"
         ],
         "photos": [
           "twitter:jpg"
@@ -254,23 +385,6 @@
         ]
       },
       {
-        "id": "pavel-precechtel",
-        "name": "Pavel Přecechtěl",
-        "nickname": "HomΞr Shillson",
-        "twitter": "homershillson",
-        "orgs": "[VR Education](https://vreducation.cz)\n",
-        "tracks": [
-          "eth",
-          "defi",
-          "dao",
-          "alty",
-          "nft"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "robert-chovanculiak",
         "name": "Róbert Chovanculiak",
         "twitter": "RChovanculiak",
@@ -291,6 +405,18 @@
         ]
       },
       {
+        "id": "tomas-kryptovlada",
+        "name": "Tomáš",
+        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
+        "tracks": [
+          "zaklady",
+          "defi"
+        ],
+        "photos": [
+          "web:webp"
+        ]
+      },
+      {
         "id": "tomas-zdrazil",
         "name": "Tomáš Zdražil",
         "twitter": "investree_cz",
@@ -302,18 +428,6 @@
         ],
         "photos": [
           "twitter:jpg"
-        ]
-      },
-      {
-        "id": "tomas-kryptovlada",
-        "name": "Tomáš",
-        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
-        "tracks": [
-          "zaklady",
-          "defi"
-        ],
-        "photos": [
-          "web:webp"
         ]
       },
       {
@@ -339,117 +453,17 @@
         ]
       },
       {
-        "id": "martin-gregor",
-        "name": "Martin Gregor",
-        "nickname": "ZaujaloMa",
-        "twitter": "ZaujaloMa",
-        "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n",
+        "id": "vladimir-pinker",
+        "name": "Vladimír Pinker",
+        "nickname": "KryptoVláďa",
+        "twitter": "KryptoVlada",
+        "orgs": "YT kanál [KryptoVláďa](https://www.kryptovlada.win)\n",
         "tracks": [
-          "btc",
-          "spolecnost",
-          "alty"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "david-antos",
-        "name": "David Antoš",
-        "nickname": "jilm",
-        "twitter": "jilm",
-        "bio": "Eurofederalista, neoliberál, globalista",
-        "orgs": "Spoluzakladatel spolku [Pro euro](https://proeuro.cz)\n",
-        "tracks": [
-          "eth",
-          "btc",
+          "zaklady",
           "defi",
+          "nft",
+          "alty",
           "spolecnost"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "jaromir-tesar",
-        "name": "Jaromír Tesař",
-        "twitter": "JaromirTesar",
-        "bio": "Blockchain expert, Cardano Ambassador",
-        "orgs": "[Cardanians](https://cardanians.io/cs)\n",
-        "tracks": [
-          "zaklady",
-          "defi",
-          "alty"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "michal-repetny",
-        "name": "Michael Repetný",
-        "twitter": "repetny",
-        "orgs": "[Marinade.finance](https://marinade.finance/)\n",
-        "tracks": [
-          "zaklady",
-          "eth",
-          "defi",
-          "alty"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "jan-cerny",
-        "name": "Jan Černý",
-        "nickname": "-HoNY-",
-        "orgs": "Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity\n",
-        "tracks": [
-          "zaklady",
-          "btc"
-        ],
-        "photos": [
-          "web:webp"
-        ]
-      },
-      {
-        "id": "mirek-h",
-        "name": "Mirek H",
-        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
-        "tracks": [
-          "btc",
-          "defi",
-          "alty"
-        ],
-        "photos": [
-          "web:webp"
-        ]
-      },
-      {
-        "id": "adam-lokaj",
-        "name": "Adam Lokaj",
-        "bio": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)",
-        "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/) ([Instagram](https://www.instagram.com/adopcebitcoinu/))\n",
-        "web": {
-          "name": "adopcebtc.cz",
-          "url": "https://adopcebtc.cz/"
-        },
-        "tracks": [
-          "btc",
-          "regulace"
-        ],
-        "photos": [
-          "web:jpg"
-        ]
-      },
-      {
-        "id": "fetyas",
-        "name": "Fetyas",
-        "twitter": "hernakrypto",
-        "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-        "tracks": [
-          "nft"
         ],
         "photos": [
           "twitter:jpg"
@@ -466,20 +480,6 @@
           "eth",
           "dao",
           "defi"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "hynek-jina",
-        "name": "Hynek Jína",
-        "twitter": "HynekJina",
-        "orgs": "[SatoshiLabs](https://satoshilabs.com/)\n",
-        "tracks": [
-          "btc",
-          "zaklady",
-          "spolecnost"
         ],
         "photos": [
           "twitter:jpg"
