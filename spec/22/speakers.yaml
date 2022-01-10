@@ -223,3 +223,15 @@
   orgs: |
     [SatoshiLabs](https://satoshilabs.com/)
   tracks: [ btc, zaklady, spolecnost ]
+
+- id: david-stancel
+  name: David Stancel
+  nickname: Ape Dogen
+  twitter: dave_stancel
+  orgs: |
+    Autor [Coin Story](https://coinstory.tech/)
+  tracks: [ defi, alty, spolecnost ]
+  web:
+    name: stanceldavid.sk
+    url: https://stanceldavid.sk/
+
