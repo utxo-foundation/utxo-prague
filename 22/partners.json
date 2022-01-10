@@ -27,6 +27,17 @@
     ]
   },
   {
+    "id": "btcknl",
+    "name": "Bitcoinovej Kanál komunita (BTCKNL)",
+    "type": "community",
+    "web": {
+      "url": "https://discord.gg/HWG9Erm"
+    },
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "czsk-nft-community",
     "name": "CZ/SK NFT Community",
     "type": "community",
@@ -84,6 +95,17 @@
     },
     "photos": [
       "web:jpg"
+    ]
+  },
+  {
+    "id": "kryptodoupe",
+    "name": "KryptoDoupě.cz",
+    "type": "medium",
+    "web": {
+      "url": "https://www.kryptodoupe.cz/"
+    },
+    "photos": [
+      "web:png"
     ]
   },
   {
