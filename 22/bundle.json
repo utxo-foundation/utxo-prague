@@ -95,6 +95,7 @@
         "twitter": "stroukal",
         "bio": "Ekonom, libertarián, autor první české knihy o kryptoměnách",
         "orgs": "Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)\n",
+        "lead": true,
         "tracks": [
           "btc",
           "spolecnost",
