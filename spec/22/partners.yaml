@@ -41,6 +41,11 @@
   type: community
   twitter: Cardanians_io
 
+- id: kryptoherna
+  name: KryptoHerna
+  type: community
+  twitter: hernakrypto
+
 - id: mitonc
   name: MitonC
   type: sponsor
