@@ -140,5 +140,16 @@
     "photos": [
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "svet-androida",
+    "name": "Svět Androida",
+    "type": "medium",
+    "web": {
+      "url": "https://www.svetandroida.cz/"
+    },
+    "photos": [
+      "web:jpg"
+    ]
   }
 ]
