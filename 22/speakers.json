@@ -140,18 +140,6 @@
     ]
   },
   {
-    "id": "fetyas",
-    "name": "Fetyas",
-    "twitter": "hernakrypto",
-    "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-    "tracks": [
-      "nft"
-    ],
-    "photos": [
-      "twitter:jpg"
-    ]
-  },
-  {
     "id": "honza-dvorak",
     "name": "Honza Dvořák",
     "nickname": "Gorrdy",
@@ -425,6 +413,19 @@
     ],
     "photos": [
       "web:webp"
+    ]
+  },
+  {
+    "id": "fetyas",
+    "name": "Tomáš Kalabis",
+    "nickname": "Fetyas",
+    "twitter": "hernakrypto",
+    "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+    "tracks": [
+      "nft"
+    ],
+    "photos": [
+      "web:jpg"
     ]
   },
   {

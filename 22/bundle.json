@@ -162,18 +162,6 @@
         ]
       },
       {
-        "id": "fetyas",
-        "name": "Fetyas",
-        "twitter": "hernakrypto",
-        "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-        "tracks": [
-          "nft"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "honza-dvorak",
         "name": "Honza Dvořák",
         "nickname": "Gorrdy",
@@ -450,6 +438,19 @@
         ]
       },
       {
+        "id": "fetyas",
+        "name": "Tomáš Kalabis",
+        "nickname": "Fetyas",
+        "twitter": "hernakrypto",
+        "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "tomas-zdrazil",
         "name": "Tomáš Zdražil",
         "twitter": "investree_cz",
@@ -676,6 +677,15 @@
         "name": "Cardanians",
         "type": "community",
         "twitter": "Cardanians_io",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "kryptoherna",
+        "name": "KryptoHerna",
+        "type": "community",
+        "twitter": "hernakrypto",
         "photos": [
           "twitter:jpg"
         ]

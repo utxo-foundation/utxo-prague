@@ -78,6 +78,15 @@
     ]
   },
   {
+    "id": "kryptoherna",
+    "name": "KryptoHerna",
+    "type": "community",
+    "twitter": "hernakrypto",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "mitonc",
     "name": "MitonC",
     "type": "sponsor",
