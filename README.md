@@ -7,9 +7,9 @@
 ╚██████╔╝░░░██║░░░██╔╝╚██╗╚█████╔╝
 ░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░
 ```
-[![Test, build, deploy](https://github.com/gweicz/utxo/actions/workflows/deploy.yml/badge.svg)](https://github.com/gweicz/utxo/actions/workflows/deploy.yml)
-
 > Otevřená komunitní kryptoměnová konference
+
+[![Test, build, deploy](https://github.com/gweicz/utxo/actions/workflows/deploy.yml/badge.svg)](https://github.com/gweicz/utxo/actions/workflows/deploy.yml)
 
 Tento repozitář obsahuje základní specifikace (datové zdroje) všech ročníků konference. 
 
