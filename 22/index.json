@@ -27,9 +27,12 @@
     "partners": "https://spec.utxo.cz/22/partners.json"
   },
   "stats": {
-    "tracks": 9,
-    "speakers": 32,
-    "events": 0,
-    "faqs": 6
+    "counts": {
+      "speakers": 32,
+      "tracks": 9,
+      "events": 0,
+      "faqs": 6,
+      "partners": 16
+    }
   }
 }
