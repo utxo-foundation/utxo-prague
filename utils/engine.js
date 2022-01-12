@@ -105,6 +105,7 @@ export class UTXOEngine {
       for (const sc of Object.keys(entry.specs)) {
         index.stats.counts[sc] = entry.specs[sc].length
       }
+      index.time = new Date()
 
       await this._jsonWrite([entryDir, 'index.json'], index)
 
