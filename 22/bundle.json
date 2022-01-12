@@ -447,7 +447,8 @@
           "nft"
         ],
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -696,7 +697,7 @@
         "type": "sponsor",
         "twitter": "mitoncfund",
         "photos": [
-          "web:png"
+          "twitter:jpg"
         ]
       },
       {
