@@ -101,11 +101,9 @@ export class UTXOEngine {
       const index = JSON.parse(JSON.stringify(entry.index))
       delete index.specDef
       index.spec = specEndpoints
-      index.stats = {
-        tracks: entry.specs.tracks.length,
-        speakers: entry.specs.speakers.length,
-        events: entry.specs.events.length,
-        faqs: entry.specs.faqs.length
+      index.stats = { counts: {} }
+      for (const sc of Object.keys(entry.specs)) {
+        index.stats.counts[sc] = entry.specs[sc].length
       }
 
       await this._jsonWrite([entryDir, 'index.json'], index)
