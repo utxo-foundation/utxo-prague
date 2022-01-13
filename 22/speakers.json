@@ -178,7 +178,8 @@
       "btc"
     ],
     "photos": [
-      "web:webp"
+      "web:webp",
+      "twitter:jpg"
     ]
   },
   {
@@ -273,6 +274,18 @@
       "btc",
       "spolecnost",
       "alty"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "matthew-cook",
+    "name": "Matthew Cook",
+    "twitter": "Matyas44Cook",
+    "tracks": [
+      "btc",
+      "spolecnost"
     ],
     "photos": [
       "twitter:jpg"

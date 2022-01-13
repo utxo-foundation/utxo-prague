@@ -91,6 +91,9 @@
     "name": "MitonC",
     "type": "sponsor",
     "twitter": "mitoncfund",
+    "web": {
+      "url": "https://mitonc.com/"
+    },
     "photos": [
       "twitter:jpg"
     ]
