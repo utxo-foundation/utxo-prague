@@ -50,6 +50,8 @@
   name: MitonC
   type: sponsor
   twitter: mitoncfund
+  web:
+    url: https://mitonc.com/
 
 - id: kryptoinsider-podcast
   name: Podcast Krypto Insider (Hospodářské noviny)
