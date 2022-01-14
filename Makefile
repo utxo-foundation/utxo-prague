@@ -20,6 +20,15 @@ speakers-table:
 speakers-leads:
 	deno run --unstable --allow-read utils/update-docs.js speakersLeadsGen
 
+partners-community:
+	deno run --unstable --allow-read utils/update-docs.js partnersGen community
+
+partners-sponsor:
+	deno run --unstable --allow-read utils/update-docs.js partnersGen sponsor
+
+partners-medium:
+	deno run --unstable --allow-read utils/update-docs.js partnersGen medium
+
 faqs:
 	deno run --unstable --allow-read utils/update-docs.js faqsGen
 

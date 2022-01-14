@@ -2,49 +2,58 @@
   name: Gwei.cz
   type: community
   twitter: gweicz
+  desc: Ethereum/DeFi/Web3 komunita
 
 - id: holky-v-kryptu
   name: Holky v kryptu
   type: community
   twitter: holkyvkryptu
+  desc: Komunita pro začínající a mírně pokročilé uživatele
 
 - id: bankless-cz
   name: Bankless Czech
   type: community
   twitter: banklesscz
+  desc: Novinkový a vzdělávací web o kryptoměnách
 
 - id: btcknl
   name: Bitcoinovej Kanál komunita (BTCKNL)
   type: community
   web:
     url: https://discord.gg/HWG9Erm
+  desc: Bitcoinová komunita
 
 - id: czsk-nft-community
   name: CZ/SK NFT Community
   type: community
   web:
     url: https://discord.gg/X4MV9Pn5P8
+  desc: NFT komunita (RΞSISTANCΞ)
 
 - id: kryptovlada-komunita
   name: KryptoVláďa komunita
   type: community
   web:
     url: https://discord.gg/RHmhNGN
+  desc: DeFi/Ethereum/Polkadot/NEAR komunita
 
 - id: polkadotters-czsk
   name: Polkadotters
   type: community
   twitter: PolkadottersS
+  desc: Polkadot komunita
 
 - id: cardanians
   name: Cardanians
   type: community
   twitter: Cardanians_io
+  desc: Cardano komunita
 
 - id: kryptoherna
   name: KryptoHerna
   type: community
   twitter: hernakrypto
+  desc: Blockchain gaming/metaverse komunita
 
 - id: mitonc
   name: MitonC
@@ -58,6 +67,7 @@
   type: medium
   web:
     url: https://podcasty.hn.cz/krypto-insider/
+  desc: Podcast o kryptoměnách (Petr Lukáč)
 
 - id: kryptonovinky-sk
   name: Kryptonovinky.sk (.cz)
@@ -76,6 +86,7 @@
   type: medium
   web:
     url: https://investree.cz/
+  desc: Vzdělávání okolo finanční svobody (Tomáš Zdražil)
 
 - id: kryptoplatby
   name: KryptoPlatby CZ/SK

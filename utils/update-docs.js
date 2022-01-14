@@ -101,6 +101,31 @@ const methods = {
 
     // TODO replace
     await Deno.writeTextFile(docFile, output)
+  },
+
+  // PARTNERS
+  async partnersGen (type = 'community') {
+    const arr = [[ 'Název', 'Popis' ]]
+    for (const item of entry.specs.partners.filter(p => p.type === type)) {
+      arr.push([ `[**${item.name}**](${item.twitter ? 'https://twitter.com/'+item.twitter : item.web?.url})`, item.desc ])
+    }
+    const table = markdownTable(arr)
+    return table
+  },
+
+  async partnersBuild () {
+    const docFile = './docs/partneri.md'
+    const docText = await Deno.readTextFile(docFile)
+    let output = docText
+    output = output.replace(/## Spolupracující komunity([\s\S]+)## Mediální/m, `## Spolupracující komunity\n\n${await methods.partnersGen('community')}\n\n## Mediální`)
+    output = output.replace(/## Mediální partneři([\s\S]+)/m, `## Mediální partneři\n\n${await methods.partnersGen('medium')}\n\n`)
+    await Deno.writeTextFile(docFile, output)
+
+    const docFile2 = './docs/sponzori.md'
+    const docText2 = await Deno.readTextFile(docFile2)
+    let output2 = docText2
+    output2 = output2.replace(/## Seznam sponzorů([\s\S]+)/m, `## Seznam sponzorů\n\n${await methods.partnersGen('sponsor')}\n\n`)
+    await Deno.writeTextFile(docFile2, output2)
   }
 }
   
@@ -109,8 +134,9 @@ if (!Deno.args[0]) {
   await methods.speakersBuild()
   await methods.tracksBuild()
   await methods.faqsBuild()
+  await methods.partnersBuild()
   console.log('done')
 } else {
-  console.log(await methods[Deno.args[0]]())
+  console.log(await methods[Deno.args[0]](Deno.args[1]))
 }
 

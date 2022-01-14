@@ -35,3 +35,5 @@ items:
           format: uri
         name:
           type: string
+    desc:
+      type: string
