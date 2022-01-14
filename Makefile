@@ -8,6 +8,9 @@ all: test build
 test:
 	deno test --unstable --allow-read utils/test.js
 
+format:
+	deno fmt utils/*.js README.md
+
 build:
 	deno run --unstable --allow-read --allow-write utils/build.js
 

@@ -1,7 +1,6 @@
-import { UTXOEngine } from "./engine.js"
+import { UTXOEngine } from "./engine.js";
 
-const utxo = new UTXOEngine({ srcDir: './spec' })
-await utxo.init()
+const utxo = new UTXOEngine({ srcDir: "./spec" });
+await utxo.init();
 
-await utxo.build('./dist')
-
+await utxo.build("./dist");

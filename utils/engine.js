@@ -1,8 +1,8 @@
-import { emptyDir, exists } from 'https://deno.land/std@0.119.0/fs/mod.ts'
-import { copy } from 'https://deno.land/std@0.119.0/fs/copy.ts'
-import { load } from 'https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js'
+import { emptyDir, exists } from "https://deno.land/std@0.119.0/fs/mod.ts";
+import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts";
+import { load } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 
-const baseUrl = 'https://spec.utxo.cz'
+const baseUrl = "https://spec.utxo.cz";
 
 const banner = `
 ██╗░░░██╗████████╗██╗░░██╗░█████╗░
@@ -11,157 +11,181 @@ const banner = `
 ██║░░░██║░░░██║░░░░██╔██╗░██║░░██║
 ╚██████╔╝░░░██║░░░██╔╝╚██╗╚█████╔╝
 ░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░
-`
+`;
 
 export class UTXOEngine {
-  constructor (options = {}) {
-    this.options = options
-    this.srcDir = this.options.srcDir || './spec'
+  constructor(options = {}) {
+    this.options = options;
+    this.srcDir = this.options.srcDir || "./spec";
     if (!this.options.silent) {
-      console.log(banner)
+      console.log(banner);
     }
     this.imageTypes = [
-      ['web', 'png'],
-      ['web', 'webp'],
-      ['web', 'jpg'],
-      ['sm', 'png'],
-      ['sm', 'webp'],
-      ['twitter', 'jpg']
-    ]
+      ["web", "png"],
+      ["web", "webp"],
+      ["web", "jpg"],
+      ["sm", "png"],
+      ["sm", "webp"],
+      ["twitter", "jpg"],
+    ];
   }
 
-  async init () {
-    this.entries = {}
+  async init() {
+    this.entries = {};
 
     for await (const f of Deno.readDir(this.srcDir)) {
       if (!f.name.match(/^\d+$/)) {
-        continue
+        continue;
       }
-      const specDir = [this.srcDir, f.name].join('/')
+      const specDir = [this.srcDir, f.name].join("/");
 
-      const entry = this.entries[f.name] = {}
+      const entry = this.entries[f.name] = {};
       // load index
-      entry.index = await this._yamlLoad([specDir, 'index.yaml'].join('/'))
+      entry.index = await this._yamlLoad([specDir, "index.yaml"].join("/"));
 
       // load sub-specs
-      entry.specs = {}
+      entry.specs = {};
       for (const sp of entry.index.specDef) {
-        entry.specs[sp.type] = await this._yamlLoad([specDir, `${sp.type}.yaml`].join('/'))
+        entry.specs[sp.type] = await this._yamlLoad(
+          [specDir, `${sp.type}.yaml`].join("/"),
+        );
 
         // post processing of sub-specs
         switch (sp.type) {
-          case 'speakers':
-          case 'partners':
+          case "speakers":
+          case "partners":
             for (const s of entry.specs[sp.type]) {
               if (!s.photos) {
-                s.photos = []
+                s.photos = [];
               }
               for (const [it, format] of this.imageTypes) {
-                if (await exists([this.srcDir, f.name, 'photos', sp.type, `${s.id}-${it}.${format}`].join('/'))) {
-                  s.photos.push(`${it}:${format}`)
+                if (
+                  await exists(
+                    [
+                      this.srcDir,
+                      f.name,
+                      "photos",
+                      sp.type,
+                      `${s.id}-${it}.${format}`,
+                    ].join("/"),
+                  )
+                ) {
+                  s.photos.push(`${it}:${format}`);
                 }
               }
             }
-            if (sp.type === 'speakers') {
-              entry.specs[sp.type] = entry.specs[sp.type].sort((x, y) => x.name.localeCompare(y.name))
+            if (sp.type === "speakers") {
+              entry.specs[sp.type] = entry.specs[sp.type].sort((x, y) =>
+                x.name.localeCompare(y.name)
+              );
             }
-            break
+            break;
         }
       }
     }
     if (!this.options.silent) {
-      console.log(`UTXO entries: [ ${Object.keys(this.entries).join(', ')} ]\n`)
+      console.log(
+        `UTXO entries: [ ${Object.keys(this.entries).join(", ")} ]\n`,
+      );
     }
   }
 
-  entriesList () {
-    return Object.keys(this.entries)
+  entriesList() {
+    return Object.keys(this.entries);
   }
 
-  async build (outputDir) {
-    await emptyDir(outputDir)
-    const entriesIndex = []
+  async build(outputDir) {
+    await emptyDir(outputDir);
+    const entriesIndex = [];
 
     for (const entryId of Object.keys(this.entries)) {
       if (!this.options.silent) {
-        console.log(`UTXO.${entryId}: building specs ..`)
+        console.log(`UTXO.${entryId}: building specs ..`);
       }
-      const entry = this.entries[entryId]
-      const entryDir = [outputDir, entryId].join('/')
-      await emptyDir(entryDir)
+      const entry = this.entries[entryId];
+      const entryDir = [outputDir, entryId].join("/");
+      await emptyDir(entryDir);
 
       // write sub-specs
-      const specEndpoints = {}
+      const specEndpoints = {};
       for (const specName of Object.keys(entry.specs)) {
-        await this._jsonWrite([entryDir, `${specName}.json`], entry.specs[specName])
-        specEndpoints[specName] = `${baseUrl}/${entryId}/${specName}.json`
+        await this._jsonWrite(
+          [entryDir, `${specName}.json`],
+          entry.specs[specName],
+        );
+        specEndpoints[specName] = `${baseUrl}/${entryId}/${specName}.json`;
       }
 
       // write index
-      const index = JSON.parse(JSON.stringify(entry.index))
-      delete index.specDef
-      index.spec = specEndpoints
-      index.stats = { counts: {} }
+      const index = JSON.parse(JSON.stringify(entry.index));
+      delete index.specDef;
+      index.spec = specEndpoints;
+      index.stats = { counts: {} };
       for (const sc of Object.keys(entry.specs)) {
-        index.stats.counts[sc] = entry.specs[sc].length
+        index.stats.counts[sc] = entry.specs[sc].length;
       }
-      index.time = new Date()
+      index.time = new Date();
 
-      await this._jsonWrite([entryDir, 'index.json'], index)
+      await this._jsonWrite([entryDir, "index.json"], index);
 
       // write bundle
-      const bundle = JSON.parse(JSON.stringify(index))
-      bundle.spec = entry.specs
-      await this._jsonWrite([entryDir, 'bundle.json'], bundle)
+      const bundle = JSON.parse(JSON.stringify(index));
+      bundle.spec = entry.specs;
+      await this._jsonWrite([entryDir, "bundle.json"], bundle);
 
       // copy photos
-      const outputPhotosDir = [entryDir, 'photos'].join('/')
+      const outputPhotosDir = [entryDir, "photos"].join("/");
       if (!this.options.silent) {
-        console.log(`UTXO.${entryId}: copying photos ..`)
-        console.log(`copying photos to ${outputPhotosDir}`)
+        console.log(`UTXO.${entryId}: copying photos ..`);
+        console.log(`copying photos to ${outputPhotosDir}`);
       }
-      await copy([this.srcDir, entryId, 'photos'].join('/'), outputPhotosDir, { overwrite: true })
+      await copy([this.srcDir, entryId, "photos"].join("/"), outputPhotosDir, {
+        overwrite: true,
+      });
 
       entriesIndex.push({
         id: `utxo${entryId}`,
         entryId,
-        url: `${baseUrl}/${entryId}`
-      })
+        url: `${baseUrl}/${entryId}`,
+      });
     }
 
     // write global index
-    await this._jsonWrite([outputDir, 'index.json'], entriesIndex)
+    await this._jsonWrite([outputDir, "index.json"], entriesIndex);
 
     if (!this.options.silent) {
-      console.log('\nBuild done')
+      console.log("\nBuild done");
     }
   }
 
-  async schemas () {
-    const schemaDir = './utils/schema'
-    const arr = []
+  async schemas() {
+    const schemaDir = "./utils/schema";
+    const arr = [];
     for await (const f of Deno.readDir(schemaDir)) {
-      const m = f.name.match(/^(.+)\.yaml$/)
+      const m = f.name.match(/^(.+)\.yaml$/);
       if (!m) {
-        continue
+        continue;
       }
-      arr.push({ name: m[1], schema: await this._yamlLoad([schemaDir, f.name].join('/')) })
+      arr.push({
+        name: m[1],
+        schema: await this._yamlLoad([schemaDir, f.name].join("/")),
+      });
     }
-    return arr
+    return arr;
   }
 
-  async _yamlLoad (fn) {
-    return load(await Deno.readTextFile(fn))
+  async _yamlLoad(fn) {
+    return load(await Deno.readTextFile(fn));
   }
 
-  async _jsonWrite (fn, data) {
+  async _jsonWrite(fn, data) {
     if (Array.isArray(fn)) {
-      fn = fn.join('/')
+      fn = fn.join("/");
     }
-    await Deno.writeTextFile(fn, JSON.stringify(data, null, 2))
+    await Deno.writeTextFile(fn, JSON.stringify(data, null, 2));
     if (!this.options.silent) {
-      console.log(`${fn} writed`)
+      console.log(`${fn} writed`);
     }
-    return true
+    return true;
   }
 }
