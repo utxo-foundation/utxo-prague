@@ -4,6 +4,7 @@
     "name": "Gwei.cz",
     "type": "community",
     "twitter": "gweicz",
+    "desc": "Ethereum/DeFi/Web3 komunita",
     "photos": [
       "twitter:jpg"
     ]
@@ -13,6 +14,7 @@
     "name": "Holky v kryptu",
     "type": "community",
     "twitter": "holkyvkryptu",
+    "desc": "Komunita pro začínající a mírně pokročilé uživatele",
     "photos": [
       "twitter:jpg"
     ]
@@ -22,6 +24,7 @@
     "name": "Bankless Czech",
     "type": "community",
     "twitter": "banklesscz",
+    "desc": "Novinkový a vzdělávací web o kryptoměnách",
     "photos": [
       "twitter:jpg"
     ]
@@ -33,6 +36,7 @@
     "web": {
       "url": "https://discord.gg/HWG9Erm"
     },
+    "desc": "Bitcoinová komunita",
     "photos": [
       "web:jpg"
     ]
@@ -44,6 +48,7 @@
     "web": {
       "url": "https://discord.gg/X4MV9Pn5P8"
     },
+    "desc": "NFT komunita (RΞSISTANCΞ)",
     "photos": [
       "web:webp"
     ]
@@ -55,6 +60,7 @@
     "web": {
       "url": "https://discord.gg/RHmhNGN"
     },
+    "desc": "DeFi/Ethereum/Polkadot/NEAR komunita",
     "photos": [
       "web:webp"
     ]
@@ -64,6 +70,7 @@
     "name": "Polkadotters",
     "type": "community",
     "twitter": "PolkadottersS",
+    "desc": "Polkadot komunita",
     "photos": [
       "twitter:jpg"
     ]
@@ -73,6 +80,7 @@
     "name": "Cardanians",
     "type": "community",
     "twitter": "Cardanians_io",
+    "desc": "Cardano komunita",
     "photos": [
       "twitter:jpg"
     ]
@@ -82,6 +90,7 @@
     "name": "KryptoHerna",
     "type": "community",
     "twitter": "hernakrypto",
+    "desc": "Blockchain gaming/metaverse komunita",
     "photos": [
       "twitter:jpg"
     ]
@@ -105,6 +114,7 @@
     "web": {
       "url": "https://podcasty.hn.cz/krypto-insider/"
     },
+    "desc": "Podcast o kryptoměnách (Petr Lukáč)",
     "photos": [
       "web:jpg"
     ]
@@ -138,6 +148,7 @@
     "web": {
       "url": "https://investree.cz/"
     },
+    "desc": "Vzdělávání okolo finanční svobody (Tomáš Zdražil)",
     "photos": [
       "web:jpg"
     ]
