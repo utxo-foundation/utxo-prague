@@ -262,7 +262,6 @@
     url: https://zerion.io/
   tracks:
     - zaklady
-    - eth
     - defi
 
 - id: zapper
@@ -272,7 +271,6 @@
     url: https://zapper.fi/
   tracks:
     - zaklady
-    - eth
     - defi
 
 - id: wbtc
@@ -338,11 +336,36 @@
     - defi
     - dao
 
+- id: synthetix
+  name: Synthetix
+  twitter: synthetix_io
+  web:
+    url: https://synthetix.io/
+  tracks:
+    - defi
+    - dao
+
+- id: liquity
+  name: Liquity
+  twitter: LiquityProtocol
+  web:
+    url: https://www.liquity.org/
+  tracks:
+    - defi
+
 - id: pwn-finance
   name: PWN Finance
   twitter: pwnfinance
   web:
     url: https://pwn.finance/
+  tracks:
+    - defi
+
+- id: polymarket
+  name: Polymarket
+  twitter: PolymarketHQ
+  web:
+    url: https://polymarket.com/
   tracks:
     - defi
 
@@ -370,7 +393,6 @@
   web:
     url: https://www.brightid.org/
   tracks:
-    - spolecnost
     - dao
 
 - id: gitcoin
@@ -380,7 +402,14 @@
     url: https://gitcoin.co/
   tracks:
     - dao
-    - spolecnost
+
+- id: kleros
+  name: Kleros
+  twitter: Kleros_io
+  web:
+    url: https://kleros.io/
+  tracks:
+    - dao
 
 - id: daohaus
   name: DAOhaus
@@ -389,7 +418,6 @@
     url: https://daohaus.club/
   tracks:
     - dao
-    - spolecnost
 
 - id: banklessdao
   name: BanklessDAO
@@ -398,7 +426,6 @@
     url: https://www.bankless.community/
   tracks:
     - dao
-    - spolecnost
 
 - id: pleasrdao
   name: PleasrDAO
