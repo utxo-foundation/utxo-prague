@@ -44,22 +44,41 @@
     ]
   },
   {
-    "id": "makerdao",
-    "name": "MakerDAO",
-    "twitter": "MakerDAO",
+    "id": "secret-network",
+    "name": "Secret Network",
+    "twitter": "SecretNetwork",
     "web": {
-      "url": "https://makerdao.com/"
+      "url": "https://scrt.network/"
     },
     "photos": [
       "twitter:jpg"
     ]
   },
   {
-    "id": "secret-network",
-    "name": "Secret Network",
-    "twitter": "SecretNetwork",
+    "id": "near",
+    "name": "NEAR Protocol",
+    "twitter": "NEARProtocol",
     "web": {
-      "url": "https://scrt.network/"
+      "url": "https://near.org/"
+    },
+    "photos": []
+  },
+  {
+    "id": "lightning",
+    "name": "Lightning Network",
+    "web": {
+      "url": "https://lightning.network/"
+    },
+    "photos": [
+      "web:svg"
+    ]
+  },
+  {
+    "id": "makerdao",
+    "name": "MakerDAO",
+    "twitter": "MakerDAO",
+    "web": {
+      "url": "https://makerdao.com/"
     },
     "photos": [
       "twitter:jpg"
