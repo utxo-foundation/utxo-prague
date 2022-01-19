@@ -16,6 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
-          args: --verbose --no-progress --exclude_file .lycheeignore spec/**/*.yaml
+          args: --verbose --no-progress --exclude-file .lycheeignore spec/**/*.yaml
           fail: true
 
