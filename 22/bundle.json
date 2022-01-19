@@ -441,18 +441,6 @@
         ]
       },
       {
-        "id": "tomas-kryptovlada",
-        "name": "Tomáš",
-        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
-        "tracks": [
-          "zaklady",
-          "defi"
-        ],
-        "photos": [
-          "web:webp"
-        ]
-      },
-      {
         "id": "fetyas",
         "name": "Tomáš Kalabis",
         "nickname": "Fetyas",
@@ -464,6 +452,18 @@
         "photos": [
           "web:jpg",
           "twitter:jpg"
+        ]
+      },
+      {
+        "id": "tomas-kryptovlada",
+        "name": "Tomáš V.",
+        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
+        "tracks": [
+          "zaklady",
+          "defi"
+        ],
+        "photos": [
+          "web:webp"
         ]
       },
       {
@@ -716,6 +716,16 @@
         ]
       },
       {
+        "id": "ckma",
+        "name": "Česká kryptoměnová asociace - ČKMA",
+        "type": "community",
+        "twitter": "CeskaCkma",
+        "desc": "Spolek hájící zájmy podnikatelů v oblasti kryptoměn",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "mitonc",
         "name": "MitonC",
         "type": "sponsor",
@@ -804,6 +814,10 @@
         "web": {
           "url": "https://bitcoin.org/"
         },
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -815,8 +829,26 @@
         "web": {
           "url": "https://ethereum.org/"
         },
+        "tracks": [
+          "zaklady",
+          "eth"
+        ],
         "photos": [
           "twitter:jpg"
+        ]
+      },
+      {
+        "id": "lightning",
+        "name": "Lightning Network",
+        "web": {
+          "url": "https://lightning.network/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "web:svg"
         ]
       },
       {
@@ -826,6 +858,10 @@
         "web": {
           "url": "https://polkadot.network/"
         },
+        "tracks": [
+          "alty",
+          "dao"
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -837,6 +873,55 @@
         "web": {
           "url": "https://cardano.org/"
         },
+        "tracks": [
+          "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "monero",
+        "name": "Monero",
+        "twitter": "monero",
+        "web": {
+          "url": "https://www.getmonero.org/"
+        },
+        "tracks": [
+          "alty"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "solana",
+        "name": "Solana",
+        "twitter": "solana",
+        "web": {
+          "url": "https://solana.com/"
+        },
+        "tracks": [
+          "alty",
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "polygon",
+        "name": "Polygon",
+        "twitter": "0xPolygon",
+        "web": {
+          "url": "https://polygon.technology/"
+        },
+        "tracks": [
+          "eth",
+          "alty",
+          "dao",
+          "nft"
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -848,6 +933,10 @@
         "web": {
           "url": "https://scrt.network/"
         },
+        "tracks": [
+          "alty",
+          "nft"
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -859,18 +948,332 @@
         "web": {
           "url": "https://near.org/"
         },
+        "tracks": [
+          "alty",
+          "nft"
+        ],
         "photos": [
           "twitter:jpg"
         ]
       },
       {
-        "id": "lightning",
-        "name": "Lightning Network",
+        "id": "gnosis-chain",
+        "name": "Gnosis Chain (dříve xDai)",
+        "twitter": "gnosischain",
         "web": {
-          "url": "https://lightning.network/"
+          "url": "https://www.xdaichain.com/"
         },
+        "tracks": [
+          "alty",
+          "eth",
+          "dao",
+          "nft"
+        ],
         "photos": [
-          "web:svg"
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "arbitrum",
+        "name": "Arbitrum",
+        "twitter": "arbitrum",
+        "web": {
+          "url": "https://arbitrum.io/"
+        },
+        "tracks": [
+          "eth"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "optimism",
+        "name": "Optimism",
+        "twitter": "optimismPBC",
+        "web": {
+          "url": "https://www.optimism.io/"
+        },
+        "tracks": [
+          "eth"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "zksync",
+        "name": "zkSync",
+        "twitter": "zksync",
+        "web": {
+          "url": "https://zksync.io/"
+        },
+        "tracks": [
+          "eth"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "coingecko",
+        "name": "CoinGecko",
+        "twitter": "coingecko",
+        "web": {
+          "url": "https://coingecko.com/"
+        },
+        "tracks": [
+          "zaklady",
+          "btc",
+          "eth",
+          "alty",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "defillama",
+        "name": "DefiLlama",
+        "twitter": "DefiLlama",
+        "web": {
+          "url": "https://defillama.com/"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "l2beat",
+        "name": "L2BEAT",
+        "twitter": "l2beatcom",
+        "web": {
+          "url": "https://l2beat.com/"
+        },
+        "tracks": [
+          "eth"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "mempool-space",
+        "name": "mempool.space",
+        "twitter": "mempool",
+        "web": {
+          "url": "https://mempool.space/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "etherscan",
+        "name": "Etherscan",
+        "twitter": "etherscan",
+        "web": {
+          "url": "https://etherscan.io/"
+        },
+        "tracks": [
+          "eth",
+          "zaklady",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "dune-analytics",
+        "name": "Dune Analytics",
+        "twitter": "DuneAnalytics",
+        "web": {
+          "url": "https://dune.xyz/"
+        },
+        "tracks": [
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "exodus",
+        "name": "Exodus",
+        "twitter": "exodus_io",
+        "web": {
+          "url": "https://exodus.com/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "metamask",
+        "name": "MetaMask",
+        "twitter": "MetaMask",
+        "web": {
+          "url": "https://metamask.io/"
+        },
+        "tracks": [
+          "eth",
+          "zaklady",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "argent",
+        "name": "Argent",
+        "twitter": "argentHQ",
+        "web": {
+          "url": "https://argent.xyz/"
+        },
+        "tracks": [
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "gnosis-safe",
+        "name": "Gnosis Safe",
+        "twitter": "gnosisSafe",
+        "web": {
+          "url": "https://gnosis-safe.io/"
+        },
+        "tracks": [
+          "eth",
+          "defi",
+          "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "zerion",
+        "name": "Zerion",
+        "twitter": "zerion_io",
+        "web": {
+          "url": "https://zerion.io/"
+        },
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "zapper",
+        "name": "Zapper",
+        "twitter": "zapper_fi",
+        "web": {
+          "url": "https://zapper.fi/"
+        },
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "wbtc",
+        "name": "WBTC",
+        "twitter": "WrappedBTC",
+        "web": {
+          "url": "https://wbtc.network/"
+        },
+        "tracks": [
+          "defi",
+          "btc"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "curve-finance",
+        "name": "Curve Finance",
+        "twitter": "CurveFinance",
+        "web": {
+          "url": "https://curve.fi/"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "aave",
+        "name": "AAVE",
+        "twitter": "AaveAave",
+        "web": {
+          "url": "https://aave.com/"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "uniswap",
+        "name": "Uniswap",
+        "twitter": "Uniswap",
+        "web": {
+          "url": "https://uniswap.org/"
+        },
+        "tracks": [
+          "defi",
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "bisq",
+        "name": "Bisq",
+        "twitter": "bisq_network",
+        "web": {
+          "url": "https://bisq.network/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady",
+          "defi",
+          "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
         ]
       },
       {
@@ -880,6 +1283,256 @@
         "web": {
           "url": "https://makerdao.com/"
         },
+        "tracks": [
+          "defi",
+          "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "pwn-finance",
+        "name": "PWN Finance",
+        "twitter": "pwnfinance",
+        "web": {
+          "url": "https://pwn.finance/"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "marinade",
+        "name": "Marinade",
+        "twitter": "MarinadeFinance",
+        "web": {
+          "url": "https://marinade.finance/"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "ens",
+        "name": "Ethereum Name Service (ENS)",
+        "twitter": "ensdomains",
+        "web": {
+          "url": "https://ens.domains/"
+        },
+        "tracks": [
+          "eth",
+          "dao",
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "brightid",
+        "name": "BrightID",
+        "twitter": "BrightIDProject",
+        "web": {
+          "url": "https://www.brightid.org/"
+        },
+        "tracks": [
+          "spolecnost",
+          "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "gitcoin",
+        "name": "Gitcoin",
+        "twitter": "gitcoin",
+        "web": {
+          "url": "https://gitcoin.co/"
+        },
+        "tracks": [
+          "eth",
+          "dao",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "banklessdao",
+        "name": "BanklessDAO",
+        "twitter": "banklessDAO",
+        "web": {
+          "url": "https://www.bankless.community/"
+        },
+        "tracks": [
+          "dao",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "pleasrdao",
+        "name": "PleasrDAO",
+        "twitter": "PleasrDAO",
+        "web": {
+          "url": "https://pleasr.org/"
+        },
+        "tracks": [
+          "dao",
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "opensea",
+        "name": "OpenSea",
+        "twitter": "opensea",
+        "web": {
+          "url": "https://opensea.io/"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "bored-ape-yc",
+        "name": "Bored Ape Yacht Club",
+        "twitter": "BoredApeYC",
+        "web": {
+          "url": "https://boredapeyachtclub.co/"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "decentraland",
+        "name": "Decentraland",
+        "twitter": "decentraland",
+        "web": {
+          "url": "https://decentraland.org/"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "flipper-zone",
+        "name": "Flipper.Zone",
+        "twitter": "flipperzonenft",
+        "web": {
+          "url": "https://twitter.com/flipperzonenft"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "poap",
+        "name": "Proof of Attendance Protocol (POAP)",
+        "twitter": "poapxyz",
+        "web": {
+          "url": "https://poap.xyz/"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "hardhat",
+        "name": "Hardhat",
+        "twitter": "HardhatHQ",
+        "web": {
+          "url": "https://hardhat.org/"
+        },
+        "tracks": [
+          "eth"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "ledger",
+        "name": "Ledger",
+        "twitter": "Ledger",
+        "web": {
+          "url": "https://ledger.com/"
+        },
+        "tracks": [
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "trezor",
+        "name": "Trezor",
+        "twitter": "trezor",
+        "web": {
+          "url": "https://trezor.io/"
+        },
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "tropicsquare",
+        "name": "Tropic Square",
+        "twitter": "tropicsquare",
+        "web": {
+          "url": "https://tropicsquare.com/"
+        },
+        "tracks": [
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "bleskomat",
+        "name": "Bleskomat",
+        "twitter": "bleskomat",
+        "web": {
+          "url": "https://www.bleskomat.com/"
+        },
+        "tracks": [
+          "btc"
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -892,9 +1545,9 @@
       "tracks": 9,
       "events": 0,
       "faqs": 6,
-      "partners": 16,
-      "projects": 8
+      "partners": 17,
+      "projects": 49
     }
   },
-  "time": "2022-01-19T00:49:55.517Z"
+  "time": "2022-01-19T03:58:04.574Z"
 }

@@ -418,18 +418,6 @@
     ]
   },
   {
-    "id": "tomas-kryptovlada",
-    "name": "Tomáš",
-    "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
-    "tracks": [
-      "zaklady",
-      "defi"
-    ],
-    "photos": [
-      "web:webp"
-    ]
-  },
-  {
     "id": "fetyas",
     "name": "Tomáš Kalabis",
     "nickname": "Fetyas",
@@ -441,6 +429,18 @@
     "photos": [
       "web:jpg",
       "twitter:jpg"
+    ]
+  },
+  {
+    "id": "tomas-kryptovlada",
+    "name": "Tomáš V.",
+    "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
+    "tracks": [
+      "zaklady",
+      "defi"
+    ],
+    "photos": [
+      "web:webp"
     ]
   },
   {
