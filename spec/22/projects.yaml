@@ -236,6 +236,16 @@
     - defi
     - dao
 
+- id: walletconnect
+  name: WalletConnect
+  twitter: WalletConnect
+  web:
+    url: https://walletconnect.com/
+  tracks:
+    - zaklady
+    - eth
+    - defi
+
 - id: zerion
   name: Zerion
   twitter: zerion_io
@@ -355,6 +365,15 @@
     - dao
     - spolecnost
 
+- id: daohaus
+  name: DAOhaus
+  twitter: nowdaoit
+  web:
+    url: https://daohaus.club/
+  tracks:
+    - dao
+    - spolecnost
+
 - id: banklessdao
   name: BanklessDAO
   twitter: banklessDAO
@@ -378,6 +397,22 @@
   twitter: opensea
   web:
     url: https://opensea.io/
+  tracks:
+    - nft
+
+- id: foundation
+  name: Foundation
+  twitter: withFND
+  web:
+    url: https://foundation.app
+  tracks:
+    - nft
+
+- id: beeple
+  name: Beeple
+  twitter: beeple
+  web:
+    url: https://www.beeple-crap.com/
   tracks:
     - nft
 
