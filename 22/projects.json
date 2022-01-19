@@ -439,7 +439,6 @@
     },
     "tracks": [
       "zaklady",
-      "eth",
       "defi"
     ],
     "photos": [
@@ -455,7 +454,6 @@
     },
     "tracks": [
       "zaklady",
-      "eth",
       "defi"
     ],
     "photos": [
@@ -568,11 +566,54 @@
     ]
   },
   {
+    "id": "synthetix",
+    "name": "Synthetix",
+    "twitter": "synthetix_io",
+    "web": {
+      "url": "https://synthetix.io/"
+    },
+    "tracks": [
+      "defi",
+      "dao"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "liquity",
+    "name": "Liquity",
+    "twitter": "LiquityProtocol",
+    "web": {
+      "url": "https://www.liquity.org/"
+    },
+    "tracks": [
+      "defi"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "pwn-finance",
     "name": "PWN Finance",
     "twitter": "pwnfinance",
     "web": {
       "url": "https://pwn.finance/"
+    },
+    "tracks": [
+      "defi"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "polymarket",
+    "name": "Polymarket",
+    "twitter": "PolymarketHQ",
+    "web": {
+      "url": "https://polymarket.com/"
     },
     "tracks": [
       "defi"
@@ -619,7 +660,6 @@
       "url": "https://www.brightid.org/"
     },
     "tracks": [
-      "spolecnost",
       "dao"
     ],
     "photos": [
@@ -634,8 +674,21 @@
       "url": "https://gitcoin.co/"
     },
     "tracks": [
-      "dao",
-      "spolecnost"
+      "dao"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "kleros",
+    "name": "Kleros",
+    "twitter": "Kleros_io",
+    "web": {
+      "url": "https://kleros.io/"
+    },
+    "tracks": [
+      "dao"
     ],
     "photos": [
       "twitter:jpg"
@@ -649,8 +702,7 @@
       "url": "https://daohaus.club/"
     },
     "tracks": [
-      "dao",
-      "spolecnost"
+      "dao"
     ],
     "photos": [
       "twitter:jpg"
@@ -664,8 +716,7 @@
       "url": "https://www.bankless.community/"
     },
     "tracks": [
-      "dao",
-      "spolecnost"
+      "dao"
     ],
     "photos": [
       "twitter:jpg"
