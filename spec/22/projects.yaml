@@ -181,6 +181,15 @@
     - btc
     - zaklady
 
+- id: samourai
+  name: Samourai Wallet
+  twitter: SamouraiWallet
+  web:
+    url: https://samouraiwallet.com/
+  tracks:
+    - btc
+    - zaklady
+
 - id: blue-wallet
   name: BlueWallet
   twitter: bluewalletio
@@ -300,6 +309,15 @@
     - defi
     - zaklady
 
+- id: hodlhodl
+  name: Hodl Hodl
+  twitter: hodlhodl
+  web:
+    url: https://hodlhodl.com
+  tracks:
+    - defi
+    - btc
+
 - id: bisq
   name: Bisq
   twitter: bisq_network
@@ -361,7 +379,6 @@
   web:
     url: https://gitcoin.co/
   tracks:
-    - eth
     - dao
     - spolecnost
 
@@ -455,6 +472,14 @@
     url: https://hardhat.org/
   tracks:
     - eth
+
+- id: btcpay-server
+  name: BTCPay Server
+  twitter: BtcpayServer
+  web:
+    url: https://btcpayserver.org/
+  tracks:
+    - btc
 
 - id: umbrel
   name: Umbrel
