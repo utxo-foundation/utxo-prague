@@ -1,15 +1,35 @@
 - id: bitcoin
   name: Bitcoin
   twitter: Bitcoin
+  web:
+    url: https://bitcoin.org/
 
 - id: ethereum
   name: Ethereum
   twitter: Ethereum
+  web:
+    url: https://ethereum.org/
 
 - id: polkadot
   name: Polkadot
   twitter: Polkadot
+  web:
+    url: https://polkadot.network/
 
 - id: cardano
   name: Cardano
   twitter: Cardano
+  web:
+    url: https://cardano.org/
+
+- id: makerdao
+  name: MakerDAO
+  twitter: MakerDAO
+  web:
+    url: https://makerdao.com/
+
+- id: secret-network
+  name: Secret Network
+  twitter: SecretNetwork
+  web:
+    url: https://scrt.network/

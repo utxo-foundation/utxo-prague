@@ -14,5 +14,14 @@ items:
     twitter:
       type: string
       pattern: "^[a-zA-Z0-9_]+$"
+    web:
+      type: object
+      additionalProperties: false
+      properties:
+        url:
+          type: string
+          format: uri
+        name:
+          type: string
     photos:
       type: array
