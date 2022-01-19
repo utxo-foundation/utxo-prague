@@ -1208,6 +1208,22 @@
         ]
       },
       {
+        "id": "walletconnect",
+        "name": "WalletConnect",
+        "twitter": "WalletConnect",
+        "web": {
+          "url": "https://walletconnect.com/"
+        },
+        "tracks": [
+          "zaklady",
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "zerion",
         "name": "Zerion",
         "twitter": "zerion_io",
@@ -1405,6 +1421,21 @@
         ]
       },
       {
+        "id": "daohaus",
+        "name": "DAOhaus",
+        "twitter": "nowdaoit",
+        "web": {
+          "url": "https://daohaus.club/"
+        },
+        "tracks": [
+          "dao",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "banklessdao",
         "name": "BanklessDAO",
         "twitter": "banklessDAO",
@@ -1440,6 +1471,34 @@
         "twitter": "opensea",
         "web": {
           "url": "https://opensea.io/"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "foundation",
+        "name": "Foundation",
+        "twitter": "withFND",
+        "web": {
+          "url": "https://foundation.app"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "beeple",
+        "name": "Beeple",
+        "twitter": "beeple",
+        "web": {
+          "url": "https://www.beeple-crap.com/"
         },
         "tracks": [
           "nft"
@@ -1641,8 +1700,8 @@
       "events": 0,
       "faqs": 6,
       "partners": 17,
-      "projects": 56
+      "projects": 60
     }
   },
-  "time": "2022-01-19T04:39:53.341Z"
+  "time": "2022-01-19T04:56:09.256Z"
 }
