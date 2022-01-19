@@ -309,6 +309,36 @@
     ]
   },
   {
+    "id": "blue-wallet",
+    "name": "BlueWallet",
+    "twitter": "bluewalletio",
+    "web": {
+      "url": "https://bluewallet.io/"
+    },
+    "tracks": [
+      "btc",
+      "zaklady"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "muun",
+    "name": "Muun",
+    "twitter": "MuunWallet",
+    "web": {
+      "url": "https://muun.com/"
+    },
+    "tracks": [
+      "btc",
+      "zaklady"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "metamask",
     "name": "MetaMask",
     "twitter": "MetaMask",
@@ -317,8 +347,22 @@
     },
     "tracks": [
       "eth",
-      "zaklady",
-      "defi"
+      "zaklady"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "frame",
+    "name": "Frame",
+    "twitter": "0xFrame",
+    "web": {
+      "url": "https://frame.sh/"
+    },
+    "tracks": [
+      "eth",
+      "zaklady"
     ],
     "photos": [
       "twitter:jpg"

@@ -1117,6 +1117,36 @@
         ]
       },
       {
+        "id": "blue-wallet",
+        "name": "BlueWallet",
+        "twitter": "bluewalletio",
+        "web": {
+          "url": "https://bluewallet.io/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "muun",
+        "name": "Muun",
+        "twitter": "MuunWallet",
+        "web": {
+          "url": "https://muun.com/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "metamask",
         "name": "MetaMask",
         "twitter": "MetaMask",
@@ -1125,8 +1155,22 @@
         },
         "tracks": [
           "eth",
-          "zaklady",
-          "defi"
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "frame",
+        "name": "Frame",
+        "twitter": "0xFrame",
+        "web": {
+          "url": "https://frame.sh/"
+        },
+        "tracks": [
+          "eth",
+          "zaklady"
         ],
         "photos": [
           "twitter:jpg"
@@ -1597,8 +1641,8 @@
       "events": 0,
       "faqs": 6,
       "partners": 17,
-      "projects": 53
+      "projects": 56
     }
   },
-  "time": "2022-01-19T04:29:53.173Z"
+  "time": "2022-01-19T04:39:53.341Z"
 }
