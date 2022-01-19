@@ -10,8 +10,7 @@ await utxo.init();
 
 config({ path: ".env", export: true });
 
-const twitterImagesPath = "./spec/22/photos/speakers/";
-const twitterPartnersImagesPath = "./spec/22/photos/partners/";
+const twitterImagesPath = "./spec/22/photos/";
 
 const simple_twitter = new SimpleTwitter({
   consumer_key: Deno.env.get("CONSUMER_KEY"),
@@ -24,59 +23,46 @@ const simple_twitter = new SimpleTwitter({
 const entryId = "22";
 const entry = utxo.entries[entryId];
 
+const collections = ["speakers", "partners", "projects"];
+
 const arr = [];
 let total = 0;
 let items = [];
 
-// partners
-for (const sp of entry.specs.partners) {
-  if (!sp.twitter) {
-    continue;
-  }
-  const tw = await twitterUser(sp.twitter);
-  if (!tw) {
-    continue;
-  }
-
-  const imageFn = twitterPartnersImagesPath + sp.id + "-twitter.jpg";
+async function fetchImageAndSave(tw, imageFn) {
   if (!await exists(imageFn)) {
     const url = tw.profile_image_url_https.replace("_normal", "");
-    console.log(url);
     const res = await fetch(url);
     const file = await Deno.open(imageFn, { create: true, write: true });
     const reader = fromStreamReader(res.body.getReader());
     await Deno.copy(reader, file);
     file.close();
+    console.log(`Saved file: ${imageFn} (url=${url})`);
   }
-
-  items.push([`partner:${sp.type}`, tw.screen_name, tw.followers_count]);
-  total += tw.followers_count;
 }
 
-// speakers
+for (const col of collections) {
+  for (const sp of entry.specs[col]) {
+    if (!sp.twitter) {
+      continue;
+    }
+    const tw = await twitterUser(sp.twitter);
+    if (!tw) {
+      continue;
+    }
 
-for (const sp of entry.specs.speakers) {
-  if (!sp.twitter) {
-    continue;
-  }
-  const tw = await twitterUser(sp.twitter);
-  if (!tw) {
-    continue;
-  }
+    await fetchImageAndSave(
+      tw,
+      twitterImagesPath + col + "/" + sp.id + "-twitter.jpg",
+    );
 
-  const imageFn = twitterImagesPath + sp.id + "-twitter.jpg";
-  if (!await exists(imageFn)) {
-    const url = tw.profile_image_url_https.replace("_normal", "");
-    console.log(url);
-    const res = await fetch(url);
-    const file = await Deno.open(imageFn, { create: true, write: true });
-    const reader = fromStreamReader(res.body.getReader());
-    await Deno.copy(reader, file);
-    file.close();
+    items.push([
+      `${col}${sp.type ? ":" + sp.type : ""}`,
+      tw.screen_name,
+      tw.followers_count,
+    ]);
+    total += tw.followers_count;
   }
-
-  items.push(["speaker", tw.screen_name, Number(tw.followers_count)]);
-  total += tw.followers_count;
 }
 
 arr.push(...items.sort((x, y) => x[2] < y[2] ? 1 : -1));

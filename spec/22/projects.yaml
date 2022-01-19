@@ -1,0 +1,15 @@
+- id: bitcoin
+  name: Bitcoin
+  twitter: Bitcoin
+
+- id: ethereum
+  name: Ethereum
+  twitter: Ethereum
+
+- id: polkadot
+  name: Polkadot
+  twitter: Polkadot
+
+- id: cardano
+  name: Cardano
+  twitter: Cardano

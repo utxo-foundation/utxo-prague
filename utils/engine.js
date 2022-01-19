@@ -53,6 +53,7 @@ export class UTXOEngine {
         // post processing of sub-specs
         switch (sp.type) {
           case "speakers":
+          case "projects":
           case "partners":
             for (const s of entry.specs[sp.type]) {
               if (!s.photos) {
