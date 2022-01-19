@@ -1604,7 +1604,7 @@
         "name": "Bored Ape Yacht Club",
         "twitter": "BoredApeYC",
         "web": {
-          "url": "https://boredapeyachtclub.co/"
+          "url": "https://boredapeyachtclub.com/"
         },
         "tracks": [
           "nft"
@@ -1622,6 +1622,21 @@
         },
         "tracks": [
           "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "lightnite",
+        "name": "Lightnite",
+        "twitter": "lightnitegame",
+        "web": {
+          "url": "https://lightnite.io/"
+        },
+        "tracks": [
+          "nft",
+          "btc"
         ],
         "photos": [
           "twitter:jpg"
@@ -1653,6 +1668,19 @@
         ],
         "photos": [
           "twitter:jpg"
+        ]
+      },
+      {
+        "id": "flashbots",
+        "name": "Flashbots",
+        "web": {
+          "url": "https://docs.flashbots.net/"
+        },
+        "tracks": [
+          "eth"
+        ],
+        "photos": [
+          "web:png"
         ]
       },
       {
@@ -1806,8 +1834,8 @@
       "events": 0,
       "faqs": 6,
       "partners": 17,
-      "projects": 67
+      "projects": 69
     }
   },
-  "time": "2022-01-19T05:54:37.875Z"
+  "time": "2022-01-19T07:18:36.567Z"
 }
