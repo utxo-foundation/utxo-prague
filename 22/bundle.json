@@ -256,6 +256,19 @@
         ]
       },
       {
+        "id": "tomas-kryptovlada",
+        "name": "Krypto Tomas CZ",
+        "twitter": "KryptoTomasCZ",
+        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
+        "tracks": [
+          "zaklady",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "m0xt",
         "name": "m0xt",
         "twitter": "m0xt_",
@@ -464,18 +477,6 @@
         "photos": [
           "web:jpg",
           "twitter:jpg"
-        ]
-      },
-      {
-        "id": "tomas-kryptovlada",
-        "name": "Tomáš V.",
-        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
-        "tracks": [
-          "zaklady",
-          "defi"
-        ],
-        "photos": [
-          "web:webp"
         ]
       },
       {
@@ -1837,5 +1838,5 @@
       "projects": 69
     }
   },
-  "time": "2022-01-19T07:33:44.777Z"
+  "time": "2022-01-19T17:49:01.076Z"
 }
