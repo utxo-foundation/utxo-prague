@@ -94,8 +94,7 @@
       "url": "https://solana.com/"
     },
     "tracks": [
-      "alty",
-      "nft"
+      "alty"
     ],
     "photos": [
       "twitter:jpg"
@@ -110,9 +109,7 @@
     },
     "tracks": [
       "eth",
-      "alty",
-      "dao",
-      "nft"
+      "alty"
     ],
     "photos": [
       "twitter:jpg"
@@ -126,8 +123,7 @@
       "url": "https://scrt.network/"
     },
     "tracks": [
-      "alty",
-      "nft"
+      "alty"
     ],
     "photos": [
       "twitter:jpg"
@@ -141,8 +137,7 @@
       "url": "https://near.org/"
     },
     "tracks": [
-      "alty",
-      "nft"
+      "alty"
     ],
     "photos": [
       "twitter:jpg"
@@ -158,8 +153,7 @@
     "tracks": [
       "alty",
       "eth",
-      "dao",
-      "nft"
+      "dao"
     ],
     "photos": [
       "twitter:jpg"
@@ -667,6 +661,63 @@
     },
     "tracks": [
       "eth"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "umbrel",
+    "name": "Umbrel",
+    "twitter": "getumbrel",
+    "web": {
+      "url": "https://getumbrel.com/"
+    },
+    "tracks": [
+      "btc"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "dappnode",
+    "name": "DAppNode",
+    "twitter": "DAppNode",
+    "web": {
+      "url": "https://dappnode.io/"
+    },
+    "tracks": [
+      "eth",
+      "btc"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "ipfs",
+    "name": "IPFS",
+    "twitter": "IPFS",
+    "web": {
+      "url": "https://ipfs.io/"
+    },
+    "tracks": [
+      "zaklady"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "tor",
+    "name": "Tor Project",
+    "twitter": "torproject",
+    "web": {
+      "url": "https://www.torproject.org/"
+    },
+    "tracks": [
+      "zaklady"
     ],
     "photos": [
       "twitter:jpg"
