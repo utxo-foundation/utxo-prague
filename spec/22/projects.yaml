@@ -181,6 +181,24 @@
     - btc
     - zaklady
 
+- id: blue-wallet
+  name: BlueWallet
+  twitter: bluewalletio
+  web:
+    url: https://bluewallet.io/
+  tracks:
+    - btc
+    - zaklady
+
+- id: muun
+  name: Muun
+  twitter: MuunWallet
+  web:
+    url: https://muun.com/
+  tracks:
+    - btc
+    - zaklady
+
 - id: metamask
   name: MetaMask
   twitter: MetaMask
@@ -189,7 +207,15 @@
   tracks:
     - eth
     - zaklady
-    - defi
+
+- id: frame
+  name: Frame
+  twitter: 0xFrame
+  web:
+    url: https://frame.sh/
+  tracks:
+    - eth
+    - zaklady
 
 - id: argent
   name: Argent
