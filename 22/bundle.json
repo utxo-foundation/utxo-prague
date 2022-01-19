@@ -795,6 +795,40 @@
           "web:jpg"
         ]
       }
+    ],
+    "projects": [
+      {
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "twitter": "Bitcoin",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "ethereum",
+        "name": "Ethereum",
+        "twitter": "Ethereum",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "twitter": "Polkadot",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "cardano",
+        "name": "Cardano",
+        "twitter": "Cardano",
+        "photos": [
+          "twitter:jpg"
+        ]
+      }
     ]
   },
   "stats": {
@@ -803,8 +837,9 @@
       "tracks": 9,
       "events": 0,
       "faqs": 6,
-      "partners": 16
+      "partners": 16,
+      "projects": 4
     }
   },
-  "time": "2022-01-15T23:08:02.629Z"
+  "time": "2022-01-19T00:16:20.285Z"
 }

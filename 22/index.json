@@ -25,7 +25,8 @@
     "tracks": "https://spec.utxo.cz/22/tracks.json",
     "events": "https://spec.utxo.cz/22/events.json",
     "faqs": "https://spec.utxo.cz/22/faqs.json",
-    "partners": "https://spec.utxo.cz/22/partners.json"
+    "partners": "https://spec.utxo.cz/22/partners.json",
+    "projects": "https://spec.utxo.cz/22/projects.json"
   },
   "stats": {
     "counts": {
@@ -33,8 +34,9 @@
       "tracks": 9,
       "events": 0,
       "faqs": 6,
-      "partners": 16
+      "partners": 16,
+      "projects": 4
     }
   },
-  "time": "2022-01-15T23:08:02.629Z"
+  "time": "2022-01-19T00:16:20.285Z"
 }
