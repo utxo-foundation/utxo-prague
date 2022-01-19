@@ -8,6 +8,9 @@ all: test build
 test:
 	deno test --unstable --allow-read utils/test.js
 
+link-check:
+	lychee spec/**/*.yaml
+
 format:
 	deno fmt utils/*.js README.md
 

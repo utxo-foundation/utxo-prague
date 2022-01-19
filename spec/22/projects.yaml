@@ -464,7 +464,7 @@
   name: Bored Ape Yacht Club
   twitter: BoredApeYC
   web:
-    url: https://boredapeyachtclub.co/
+    url: https://boredapeyachtclub.com/
   tracks:
     - nft
 
@@ -475,6 +475,15 @@
     url: https://decentraland.org/
   tracks:
     - nft
+
+- id: lightnite
+  name: Lightnite
+  twitter: lightnitegame
+  web:
+    url: https://lightnite.io/ 
+  tracks:
+    - nft
+    - btc
 
 - id: flipper-zone
   name: Flipper.Zone
@@ -491,6 +500,13 @@
     url: https://poap.xyz/
   tracks:
     - nft
+
+- id: flashbots
+  name: Flashbots
+  web:
+    url: https://docs.flashbots.net/
+  tracks:
+    - eth
 
 - id: hardhat
   name: Hardhat

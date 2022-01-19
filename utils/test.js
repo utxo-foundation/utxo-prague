@@ -38,5 +38,21 @@ for (const entryId of utxo.entriesList()) {
         throw validators[specId].errors;
       }
     });
+
+    if (["speakers", "projects"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[tracks-links]`, () => {
+        const tracks = entry.specs.tracks.map((t) => t.id);
+        for (const item of entry.specs[specId]) {
+          if (!item.tracks) {
+            continue;
+          }
+          for (const t of item.tracks) {
+            if (!tracks.includes(t)) {
+              throw new Error(`Track not exists: ${t}`);
+            }
+          }
+        }
+      });
+    }
   }
 }
