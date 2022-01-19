@@ -61,7 +61,9 @@
     "web": {
       "url": "https://near.org/"
     },
-    "photos": []
+    "photos": [
+      "twitter:jpg"
+    ]
   },
   {
     "id": "lightning",
