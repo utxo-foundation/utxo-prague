@@ -21,6 +21,7 @@ export class UTXOEngine {
       console.log(banner);
     }
     this.imageTypes = [
+      ["web", "svg"],
       ["web", "png"],
       ["web", "webp"],
       ["web", "jpg"],

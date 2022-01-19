@@ -22,14 +22,25 @@
   web:
     url: https://cardano.org/
 
-- id: makerdao
-  name: MakerDAO
-  twitter: MakerDAO
-  web:
-    url: https://makerdao.com/
-
 - id: secret-network
   name: Secret Network
   twitter: SecretNetwork
   web:
     url: https://scrt.network/
+
+- id: near
+  name: NEAR Protocol
+  twitter: NEARProtocol
+  web:
+    url: https://near.org/
+
+- id: lightning
+  name: Lightning Network
+  web:
+    url: https://lightning.network/
+
+- id: makerdao
+  name: MakerDAO
+  twitter: MakerDAO
+  web:
+    url: https://makerdao.com/
