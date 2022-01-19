@@ -309,6 +309,21 @@
     ]
   },
   {
+    "id": "samourai",
+    "name": "Samourai Wallet",
+    "twitter": "SamouraiWallet",
+    "web": {
+      "url": "https://samouraiwallet.com/"
+    },
+    "tracks": [
+      "btc",
+      "zaklady"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "blue-wallet",
     "name": "BlueWallet",
     "twitter": "bluewalletio",
@@ -506,6 +521,21 @@
     ]
   },
   {
+    "id": "hodlhodl",
+    "name": "Hodl Hodl",
+    "twitter": "hodlhodl",
+    "web": {
+      "url": "https://hodlhodl.com"
+    },
+    "tracks": [
+      "defi",
+      "btc"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "bisq",
     "name": "Bisq",
     "twitter": "bisq_network",
@@ -604,7 +634,6 @@
       "url": "https://gitcoin.co/"
     },
     "tracks": [
-      "eth",
       "dao",
       "spolecnost"
     ],
@@ -764,6 +793,20 @@
     },
     "tracks": [
       "eth"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "btcpay-server",
+    "name": "BTCPay Server",
+    "twitter": "BtcpayServer",
+    "web": {
+      "url": "https://btcpayserver.org/"
+    },
+    "tracks": [
+      "btc"
     ],
     "photos": [
       "twitter:jpg"
