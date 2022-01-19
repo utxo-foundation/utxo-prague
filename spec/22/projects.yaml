@@ -56,7 +56,6 @@
     url: https://solana.com/
   tracks:
     - alty
-    - nft
 
 - id: polygon
   name: Polygon
@@ -66,8 +65,6 @@
   tracks:
     - eth
     - alty
-    - dao
-    - nft
 
 - id: secret-network
   name: Secret Network
@@ -76,7 +73,6 @@
     url: https://scrt.network/
   tracks:
     - alty
-    - nft
 
 - id: near
   name: NEAR Protocol
@@ -85,7 +81,6 @@
     url: https://near.org/
   tracks:
     - alty
-    - nft
 
 - id: gnosis-chain
   name: Gnosis Chain (dříve xDai)
@@ -96,7 +91,6 @@
     - alty
     - eth
     - dao
-    - nft
 
 - id: arbitrum
   name: Arbitrum
@@ -400,6 +394,39 @@
     url: https://hardhat.org/
   tracks:
     - eth
+
+- id: umbrel
+  name: Umbrel
+  twitter: getumbrel
+  web:
+    url: https://getumbrel.com/
+  tracks:
+    - btc
+
+- id: dappnode
+  name: DAppNode
+  twitter: DAppNode
+  web:
+    url: https://dappnode.io/
+  tracks:
+    - eth
+    - btc
+
+- id: ipfs
+  name: IPFS
+  twitter: IPFS
+  web:
+    url: https://ipfs.io/
+  tracks:
+    - zaklady
+
+- id: tor
+  name: Tor Project
+  twitter: torproject
+  web:
+    url: https://www.torproject.org/
+  tracks:
+    - zaklady
 
 - id: ledger
   name: Ledger
