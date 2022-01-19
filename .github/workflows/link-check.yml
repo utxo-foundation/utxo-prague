@@ -1,10 +1,8 @@
 name: Link checker
 
 on:
-  repository_dispatch:
-  workflow_dispatch:
-  schedule:
-    - cron: "00 18 * * *"
+  push:
+  pull_request:
 
 jobs:
   linkChecker:
@@ -19,4 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           args: --verbose --no-progress spec/**/*.yaml
+          fail: true
 
