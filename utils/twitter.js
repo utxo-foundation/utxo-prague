@@ -46,6 +46,12 @@ for (const col of collections) {
     if (!sp.twitter) {
       continue;
     }
+    if (
+      Deno.args[0] === "photos" && sp.photos.find((x) => x.match(/^twitter:/))
+    ) {
+      continue;
+    }
+
     const tw = await twitterUser(sp.twitter);
     if (!tw) {
       continue;
@@ -71,7 +77,10 @@ arr.push([]);
 arr.push(["total", "", total]);
 
 const table = Table.from(arr);
-console.log("\nTwitter followers count:\n\n" + table.toString() + "\n");
+
+if (!Deno.args[0]) {
+  console.log("\nTwitter followers count:\n\n" + table.toString() + "\n");
+}
 
 async function twitterUser(screen_name) {
   const resp = await simple_twitter.get("users/lookup", { screen_name });

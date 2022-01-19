@@ -3,44 +3,433 @@
   twitter: Bitcoin
   web:
     url: https://bitcoin.org/
+  tracks:
+    - zaklady
+    - btc
 
 - id: ethereum
   name: Ethereum
   twitter: Ethereum
   web:
     url: https://ethereum.org/
+  tracks:
+    - zaklady
+    - eth
+
+- id: lightning
+  name: Lightning Network
+  web:
+    url: https://lightning.network/
+  tracks:
+    - btc
+    - zaklady
 
 - id: polkadot
   name: Polkadot
   twitter: Polkadot
   web:
     url: https://polkadot.network/
+  tracks:
+    - alty
+    - dao
 
 - id: cardano
   name: Cardano
   twitter: Cardano
   web:
     url: https://cardano.org/
+  tracks:
+    - alty
+
+- id: monero
+  name: Monero
+  twitter: monero
+  web:
+    url: https://www.getmonero.org/
+  tracks:
+    - alty
+
+- id: solana
+  name: Solana
+  twitter: solana
+  web:
+    url: https://solana.com/
+  tracks:
+    - alty
+    - nft
+
+- id: polygon
+  name: Polygon
+  twitter: 0xPolygon
+  web:
+    url: https://polygon.technology/
+  tracks:
+    - eth
+    - alty
+    - dao
+    - nft
 
 - id: secret-network
   name: Secret Network
   twitter: SecretNetwork
   web:
     url: https://scrt.network/
+  tracks:
+    - alty
+    - nft
 
 - id: near
   name: NEAR Protocol
   twitter: NEARProtocol
   web:
     url: https://near.org/
+  tracks:
+    - alty
+    - nft
 
-- id: lightning
-  name: Lightning Network
+- id: gnosis-chain
+  name: Gnosis Chain (dříve xDai)
+  twitter: gnosischain
   web:
-    url: https://lightning.network/
+    url: https://www.xdaichain.com/
+  tracks:
+    - alty
+    - eth
+    - dao
+    - nft
+
+- id: arbitrum
+  name: Arbitrum
+  twitter: arbitrum
+  web:
+    url: https://arbitrum.io/
+  tracks:
+    - eth
+
+- id: optimism
+  name: Optimism
+  twitter: optimismPBC
+  web:
+    url: https://www.optimism.io/
+  tracks:
+    - eth
+
+- id: zksync
+  name: zkSync
+  twitter: zksync
+  web:
+    url: https://zksync.io/
+  tracks:
+    - eth
+
+- id: coingecko
+  name: CoinGecko
+  twitter: coingecko
+  web:
+    url: https://coingecko.com/
+  tracks:
+    - zaklady
+    - btc
+    - eth
+    - alty
+    - defi
+
+- id: defillama
+  name: DefiLlama
+  twitter: DefiLlama
+  web:
+    url: https://defillama.com/
+  tracks:
+    - defi
+
+- id: l2beat
+  name: L2BEAT
+  twitter: l2beatcom
+  web:
+    url: https://l2beat.com/
+  tracks:
+    - eth
+
+- id: mempool-space
+  name: mempool.space
+  twitter: mempool
+  web:
+    url: https://mempool.space/
+  tracks:
+    - btc
+    - zaklady
+
+- id: etherscan
+  name: Etherscan
+  twitter: etherscan
+  web:
+    url: https://etherscan.io/
+  tracks:
+    - eth
+    - zaklady
+    - defi
+
+- id: dune-analytics
+  name: Dune Analytics
+  twitter: DuneAnalytics
+  web:
+    url: https://dune.xyz/
+  tracks:
+    - eth
+    - defi
+
+- id: exodus
+  name: Exodus
+  twitter: exodus_io
+  web:
+    url: https://exodus.com/
+  tracks:
+    - btc
+    - zaklady
+
+- id: metamask
+  name: MetaMask
+  twitter: MetaMask
+  web:
+    url: https://metamask.io/
+  tracks:
+    - eth
+    - zaklady
+    - defi
+
+- id: argent
+  name: Argent
+  twitter: argentHQ
+  web:
+    url: https://argent.xyz/
+  tracks:
+    - eth
+    - defi
+
+- id: gnosis-safe
+  name: Gnosis Safe
+  twitter: gnosisSafe
+  web:
+    url: https://gnosis-safe.io/
+  tracks:
+    - eth
+    - defi
+    - dao
+
+- id: zerion
+  name: Zerion
+  twitter: zerion_io
+  web:
+    url: https://zerion.io/
+  tracks:
+    - zaklady
+    - eth
+    - defi
+
+- id: zapper
+  name: Zapper
+  twitter: zapper_fi
+  web:
+    url: https://zapper.fi/
+  tracks:
+    - zaklady
+    - eth
+    - defi
+
+- id: wbtc
+  name: WBTC
+  twitter: WrappedBTC
+  web:
+    url: https://wbtc.network/
+  tracks:
+    - defi
+    - btc
+
+- id: curve-finance
+  name: Curve Finance
+  twitter: CurveFinance
+  web:
+    url: https://curve.fi/
+  tracks:
+    - defi
+
+- id: aave
+  name: AAVE
+  twitter: AaveAave
+  web:
+    url: https://aave.com/
+  tracks:
+    - defi
+
+- id: uniswap
+  name: Uniswap
+  twitter: Uniswap
+  web:
+    url: https://uniswap.org/
+  tracks:
+    - defi
+    - zaklady
+
+- id: bisq
+  name: Bisq
+  twitter: bisq_network
+  web:
+    url: https://bisq.network/
+  tracks:
+    - btc
+    - zaklady
+    - defi
+    - dao
 
 - id: makerdao
   name: MakerDAO
   twitter: MakerDAO
   web:
     url: https://makerdao.com/
+  tracks:
+    - defi
+    - dao
+
+- id: pwn-finance
+  name: PWN Finance
+  twitter: pwnfinance
+  web:
+    url: https://pwn.finance/
+  tracks:
+    - defi
+
+- id: marinade
+  name: Marinade
+  twitter: MarinadeFinance
+  web:
+    url: https://marinade.finance/
+  tracks:
+    - defi
+
+- id: ens
+  name: Ethereum Name Service (ENS)
+  twitter: ensdomains
+  web:
+    url: https://ens.domains/
+  tracks:
+    - eth
+    - dao
+    - nft
+
+- id: brightid
+  name: BrightID
+  twitter: BrightIDProject
+  web:
+    url: https://www.brightid.org/
+  tracks:
+    - spolecnost
+    - dao
+
+- id: gitcoin
+  name: Gitcoin
+  twitter: gitcoin
+  web:
+    url: https://gitcoin.co/
+  tracks:
+    - eth
+    - dao
+    - spolecnost
+
+- id: banklessdao
+  name: BanklessDAO
+  twitter: banklessDAO
+  web:
+    url: https://www.bankless.community/
+  tracks:
+    - dao
+    - spolecnost
+
+- id: pleasrdao
+  name: PleasrDAO
+  twitter: PleasrDAO
+  web:
+    url: https://pleasr.org/
+  tracks:
+    - dao
+    - nft
+
+- id: opensea
+  name: OpenSea
+  twitter: opensea
+  web:
+    url: https://opensea.io/
+  tracks:
+    - nft
+
+- id: bored-ape-yc
+  name: Bored Ape Yacht Club
+  twitter: BoredApeYC
+  web:
+    url: https://boredapeyachtclub.co/
+  tracks:
+    - nft
+
+- id: decentraland
+  name: Decentraland
+  twitter: decentraland
+  web:
+    url: https://decentraland.org/
+  tracks:
+    - nft
+
+- id: flipper-zone
+  name: Flipper.Zone
+  twitter: flipperzonenft
+  web:
+    url: https://twitter.com/flipperzonenft
+  tracks:
+    - nft
+
+- id: poap
+  name: Proof of Attendance Protocol (POAP)
+  twitter: poapxyz
+  web:
+    url: https://poap.xyz/
+  tracks:
+    - nft
+
+- id: hardhat
+  name: Hardhat
+  twitter: HardhatHQ
+  web:
+    url: https://hardhat.org/
+  tracks:
+    - eth
+
+- id: ledger
+  name: Ledger
+  twitter: Ledger
+  web:
+    url: https://ledger.com/
+  tracks:
+    - zaklady
+
+- id: trezor
+  name: Trezor
+  twitter: trezor
+  web:
+    url: https://trezor.io/
+  tracks:
+    - zaklady
+    - btc
+
+- id: tropicsquare
+  name: Tropic Square
+  twitter: tropicsquare
+  web:
+    url: https://tropicsquare.com/
+  tracks:
+    - zaklady
+
+- id: bleskomat
+  name: Bleskomat
+  twitter: bleskomat
+  web:
+    url: https://www.bleskomat.com/
+  tracks:
+    - btc

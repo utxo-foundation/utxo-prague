@@ -55,6 +55,12 @@
   twitter: hernakrypto
   desc: Blockchain gaming/metaverse komunita
 
+- id: ckma
+  name: Česká kryptoměnová asociace - ČKMA
+  type: community
+  twitter: CeskaCkma
+  desc: Spolek hájící zájmy podnikatelů v oblasti kryptoměn
+
 - id: mitonc
   name: MitonC
   type: sponsor

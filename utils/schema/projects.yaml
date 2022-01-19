@@ -25,3 +25,7 @@ items:
           type: string
     photos:
       type: array
+    tracks:
+      type: array
+      items:
+        type: string

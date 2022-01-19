@@ -40,3 +40,9 @@ stats:
 
 twitter:
 	deno run --unstable --allow-read --allow-write --allow-env --allow-net utils/twitter.js
+
+twitter-photos:
+	deno run --unstable --allow-read --allow-write --allow-env --allow-net utils/twitter.js photos
+
+server:
+	cd dist && python -m SimpleHTTPServer 8000
