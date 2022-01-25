@@ -278,6 +278,18 @@
     ]
   },
   {
+    "id": "mark-stopka",
+    "name": "Mark Stopka",
+    "twitter": "LiberalMark",
+    "tracks": [
+      "defi",
+      "alty"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "martin-gregor",
     "name": "Martin Gregor",
     "nickname": "ZaujaloMa",

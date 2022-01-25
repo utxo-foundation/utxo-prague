@@ -609,6 +609,21 @@
     ]
   },
   {
+    "id": "liqwid",
+    "name": "Liqwid",
+    "twitter": "liqwidfinance",
+    "web": {
+      "url": "https://liqwid.finance/"
+    },
+    "tracks": [
+      "defi",
+      "alty"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "polymarket",
     "name": "Polymarket",
     "twitter": "PolymarketHQ",
