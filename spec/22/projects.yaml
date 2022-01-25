@@ -361,6 +361,15 @@
   tracks:
     - defi
 
+- id: liqwid
+  name: Liqwid
+  twitter: liqwidfinance
+  web:
+    url: https://liqwid.finance/
+  tracks:
+    - defi
+    - alty
+
 - id: polymarket
   name: Polymarket
   twitter: PolymarketHQ
