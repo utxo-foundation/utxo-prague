@@ -37,7 +37,7 @@
 - id: l2-zaklady
   type: talk
   name: Layer2s - úvod do druhýh vrstev a proč je potřebujeme
-  track: zaklady
+  track: eth
   duration: 55
   speakers:
     - damsky
@@ -55,7 +55,7 @@
 
 - id: privacy-workshop
   type: workshop
-  name: Privacy workshop
+  name: Základy soukromí a anonymizace
   track: zaklady
   speakers:
     - petr-klein
@@ -69,7 +69,7 @@
   track: eth
   speakers:
     - damsky
-  duration: 55
+  duration: 50
   description: |
      Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps
 
@@ -79,4 +79,12 @@
   track: defi
   speakers:
     - jiri-cepelka
-  duration: 55
+  duration: 50
+
+- id: btc-privacy
+  type: workshop
+  name: BTC on-chain soukromí (privacy)
+  track: btc
+  speakers:
+    - matthew-cook
+  duration: 50
