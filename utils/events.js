@@ -20,6 +20,11 @@ const setup = [
 ];
 const arr = [setup.map((s) => s.title)];
 //const types = [...new Set(entry.specs.events.map(e => e.type))]
+const totals = {
+  items: 0,
+  duration: 0,
+  speakers: {},
+};
 
 for (const item of entry.specs.events) {
   const out = [];
@@ -27,6 +32,22 @@ for (const item of entry.specs.events) {
     out.push(sc.process ? sc.process(item) : item[sc.col]);
   }
   arr.push(out);
+  totals.items++;
+  totals.duration += item.duration;
+  //console.log(JSON.stringify(item.speakers))
+  for (const sid of item.speakers) {
+    if (!totals.speakers[sid]) {
+      totals.speakers[sid] = { duration: 0 };
+    }
+    totals.speakers[sid].duration += item.duration;
+  }
 }
 
+const minutesPerSpeaker = totals.duration / Object.keys(totals.speakers).length;
 console.log(Table.from(arr).border(true).toString());
+console.log(
+  `Items: ${totals.items}, duration: ${totals.duration} minutes (${
+    (totals.duration / 60).toFixed(2)
+  } hours), ` +
+    `minutes per speaker: ${minutesPerSpeaker.toFixed(2)} min`,
+);
