@@ -234,6 +234,20 @@
         ]
       },
       {
+        "id": "josefj",
+        "name": "JosefJ",
+        "twitter": "JosefJ_",
+        "tracks": [
+          "eth",
+          "defi",
+          "dao",
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "juraj-bednar",
         "name": "Juraj Bednár",
         "twitter": "jurbed",
@@ -2103,7 +2117,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 36,
+      "speakers": 37,
       "tracks": 9,
       "events": 23,
       "faqs": 6,
@@ -2111,5 +2125,5 @@
       "projects": 70
     }
   },
-  "time": "2022-01-27T09:04:45.995Z"
+  "time": "2022-01-27T11:05:58.219Z"
 }
