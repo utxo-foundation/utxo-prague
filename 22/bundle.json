@@ -655,7 +655,7 @@
         "id": "l2-zaklady",
         "type": "talk",
         "name": "Layer2s - úvod do druhýh vrstev a proč je potřebujeme",
-        "track": "zaklady",
+        "track": "eth",
         "duration": 55,
         "speakers": [
           "damsky"
@@ -674,7 +674,7 @@
       {
         "id": "privacy-workshop",
         "type": "workshop",
-        "name": "Privacy workshop",
+        "name": "Základy soukromí a anonymizace",
         "track": "zaklady",
         "speakers": [
           "petr-klein"
@@ -690,7 +690,7 @@
         "speakers": [
           "damsky"
         ],
-        "duration": 55,
+        "duration": 50,
         "description": "Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps\n"
       },
       {
@@ -701,7 +701,17 @@
         "speakers": [
           "jiri-cepelka"
         ],
-        "duration": 55
+        "duration": 50
+      },
+      {
+        "id": "btc-privacy",
+        "type": "workshop",
+        "name": "BTC on-chain soukromí (privacy)",
+        "track": "btc",
+        "speakers": [
+          "matthew-cook"
+        ],
+        "duration": 50
       }
     ],
     "faqs": [
@@ -1946,11 +1956,11 @@
     "counts": {
       "speakers": 36,
       "tracks": 9,
-      "events": 7,
+      "events": 8,
       "faqs": 6,
       "partners": 17,
       "projects": 70
     }
   },
-  "time": "2022-01-27T07:57:06.934Z"
+  "time": "2022-01-27T08:02:30.919Z"
 }
