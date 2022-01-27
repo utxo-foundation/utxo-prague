@@ -33,3 +33,6 @@ items:
       type: number
     description:
       type: string
+    rightAfter:
+      type: string
+      pattern: "^[a-z0-9-]+$"
