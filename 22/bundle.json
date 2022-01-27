@@ -451,8 +451,7 @@
         "tracks": [
           "defi",
           "dao",
-          "regulace",
-          "spolecnost"
+          "regulace"
         ],
         "photos": [
           "web:webp"
@@ -1878,5 +1877,5 @@
       "projects": 70
     }
   },
-  "time": "2022-01-27T05:19:39.802Z"
+  "time": "2022-01-27T05:46:48.286Z"
 }
