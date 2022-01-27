@@ -43,10 +43,12 @@ for (const item of entry.specs.events) {
   }
 }
 
-const minutesPerSpeaker = totals.duration / Object.keys(totals.speakers).length;
+const totalSpeakers = Object.keys(totals.speakers).length;
+const minutesPerSpeaker = totals.duration / totalSpeakers;
+
 console.log(Table.from(arr).border(true).toString());
 console.log(
-  `Items: ${totals.items}, duration: ${totals.duration} minutes (${
+  `Events: ${totals.items}, Speakers: ${totalSpeakers}, duration: ${totals.duration} minutes (${
     (totals.duration / 60).toFixed(2)
   } hours), ` +
     `minutes per speaker: ${minutesPerSpeaker.toFixed(2)} min`,
