@@ -423,6 +423,19 @@
     ]
   },
   {
+    "id": "radek-svarz",
+    "name": "Radek Švarz",
+    "tracks": [
+      "defi",
+      "dao",
+      "regulace",
+      "spolecnost"
+    ],
+    "photos": [
+      "web:webp"
+    ]
+  },
+  {
     "id": "robert-chovanculiak",
     "name": "Róbert Chovanculiak",
     "twitter": "RChovanculiak",

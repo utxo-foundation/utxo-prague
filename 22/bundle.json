@@ -446,6 +446,19 @@
         ]
       },
       {
+        "id": "radek-svarz",
+        "name": "Radek Švarz",
+        "tracks": [
+          "defi",
+          "dao",
+          "regulace",
+          "spolecnost"
+        ],
+        "photos": [
+          "web:webp"
+        ]
+      },
+      {
         "id": "robert-chovanculiak",
         "name": "Róbert Chovanculiak",
         "twitter": "RChovanculiak",
@@ -1857,7 +1870,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 35,
+      "speakers": 36,
       "tracks": 9,
       "events": 0,
       "faqs": 6,
@@ -1865,5 +1878,5 @@
       "projects": 70
     }
   },
-  "time": "2022-01-25T06:29:32.198Z"
+  "time": "2022-01-27T05:19:39.802Z"
 }
