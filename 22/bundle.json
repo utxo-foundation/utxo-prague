@@ -652,6 +652,17 @@
         "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n"
       },
       {
+        "id": "pokrok-bez-povoleni",
+        "type": "talk",
+        "name": "Pokrok bez povolení: Jak sdílená ekonomika, crowfunding a kryptoměny změnily svět",
+        "track": "spolecnost",
+        "speakers": [
+          "robert-chovanculiak"
+        ],
+        "duration": 55,
+        "description": "Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/)\n"
+      },
+      {
         "id": "fire-movement",
         "type": "talk",
         "name": "FIRE movement (Financial Independence, Retire Early)",
@@ -838,6 +849,16 @@
         "track": "defi",
         "speakers": [
           "radek-svarz"
+        ],
+        "duration": 10
+      },
+      {
+        "id": "liqwid",
+        "type": "lightning",
+        "name": "Liqwid Finance",
+        "track": "alty",
+        "speakers": [
+          "mark-stopka"
         ],
         "duration": 10
       }
@@ -2084,11 +2105,11 @@
     "counts": {
       "speakers": 36,
       "tracks": 9,
-      "events": 21,
+      "events": 23,
       "faqs": 6,
       "partners": 17,
       "projects": 70
     }
   },
-  "time": "2022-01-27T08:54:02.197Z"
+  "time": "2022-01-27T09:04:45.995Z"
 }
