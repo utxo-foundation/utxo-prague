@@ -22,7 +22,7 @@ for (const entryId of utxo.entriesList()) {
   const entry = utxo.entries[entryId];
 
   // check index
-  Deno.test(`UTXO.${entryId}: index.yaml`, () => {
+  Deno.test(`UTXO.${entryId}: index[schema]`, () => {
     if (!validators.index(entry.index)) {
       throw validators.index.errors;
     }
@@ -30,12 +30,25 @@ for (const entryId of utxo.entriesList()) {
 
   // check specific specs
   for (const specId of Object.keys(entry.specs)) {
-    Deno.test(`UTXO.${entryId}: ${specId}`, () => {
+    Deno.test(`UTXO.${entryId}: ${specId}[schema]`, () => {
       if (!validators[specId]) {
         return null;
       }
       if (!validators[specId](entry.specs[specId])) {
         throw validators[specId].errors;
+      }
+    });
+
+    Deno.test(`UTXO.${entryId}: ${specId}[id-duplicates]`, () => {
+      const used = [];
+      for (const item of entry.specs[specId]) {
+        if (!item.id) {
+          return null;
+        }
+        if (used.includes(item.id)) {
+          throw `Duplicate key: ${item.id}`;
+        }
+        used.push(item.id);
       }
     });
 
@@ -50,6 +63,34 @@ for (const entryId of utxo.entriesList()) {
             if (!tracks.includes(t)) {
               throw new Error(`Track not exists: ${t}`);
             }
+          }
+        }
+      });
+    }
+    if (["events"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[speakers-links]`, () => {
+        const speakers = entry.specs.speakers.map((t) => t.id);
+        for (const item of entry.specs[specId]) {
+          if (!item.speakers || item.speakers.length === 0) {
+            continue;
+          }
+          for (const t of item.speakers) {
+            if (!speakers.includes(t)) {
+              throw new Error(`Speaker not exists: ${t}`);
+            }
+          }
+        }
+      });
+    }
+    if (["events"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[speakers-tracks]`, () => {
+        const tracks = entry.specs.tracks.map((t) => t.id);
+        for (const item of entry.specs[specId]) {
+          if (!item.track) {
+            continue;
+          }
+          if (!tracks.includes(item.track)) {
+            throw new Error(`Track not exists: ${item.track}`);
           }
         }
       });

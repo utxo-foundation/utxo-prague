@@ -14,6 +14,8 @@ link-check:
 format:
 	deno fmt utils/*.js README.md
 
+fmt: format
+
 build:
 	deno run --unstable --allow-read --allow-write utils/build.js
 
@@ -46,6 +48,9 @@ twitter:
 
 twitter-photos:
 	deno run --unstable --allow-read --allow-write --allow-env --allow-net utils/twitter.js photos
+
+events:
+	deno run --unstable --allow-read utils/events.js
 
 server:
 	cd dist && python -m SimpleHTTPServer 8000
