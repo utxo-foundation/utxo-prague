@@ -652,21 +652,31 @@
         "description": "https://en.wikipedia.org/wiki/FIRE_movement\n"
       },
       {
-        "id": "l2-zaklady",
-        "type": "talk",
-        "name": "Layer2s - úvod do druhýh vrstev a proč je potřebujeme",
-        "track": "eth",
-        "duration": 55,
-        "speakers": [
-          "damsky"
-        ]
-      },
-      {
         "id": "prace-zivobyti-v-kryptomenach",
         "type": "talk",
         "name": "Práce a možnosti živobytí v kryptoměnách",
         "track": "zaklady",
         "duration": 25,
+        "speakers": [
+          "damsky"
+        ]
+      },
+      {
+        "id": "lightning-sluzby",
+        "type": "talk",
+        "name": "Co všechno jde dělat na Lightning Network",
+        "track": "btc",
+        "speakers": [
+          "hynek-jina"
+        ],
+        "duration": 55
+      },
+      {
+        "id": "l2-zaklady",
+        "type": "talk",
+        "name": "Layer2s - úvod do druhýh vrstev a proč je potřebujeme",
+        "track": "eth",
+        "duration": 55,
         "speakers": [
           "damsky"
         ]
@@ -694,22 +704,22 @@
         "description": "Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps\n"
       },
       {
-        "id": "defi-pro-zacatecniky",
-        "type": "workshop",
-        "name": "DeFi pro začátečníky",
-        "track": "defi",
-        "speakers": [
-          "jiri-cepelka"
-        ],
-        "duration": 50
-      },
-      {
         "id": "btc-privacy",
         "type": "workshop",
         "name": "BTC on-chain soukromí (privacy)",
         "track": "btc",
         "speakers": [
           "matthew-cook"
+        ],
+        "duration": 50
+      },
+      {
+        "id": "defi-pro-zacatecniky",
+        "type": "workshop",
+        "name": "DeFi pro začátečníky",
+        "track": "defi",
+        "speakers": [
+          "jiri-cepelka"
         ],
         "duration": 50
       }
@@ -1956,11 +1966,11 @@
     "counts": {
       "speakers": 36,
       "tracks": 9,
-      "events": 8,
+      "events": 9,
       "faqs": 6,
       "partners": 17,
       "projects": 70
     }
   },
-  "time": "2022-01-27T08:02:30.919Z"
+  "time": "2022-01-27T08:08:42.380Z"
 }
