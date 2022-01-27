@@ -5,8 +5,7 @@
 #   name: Example talk
 #   track: example-track
 #   duration: 25
-#   speakers:
-#     - example-speaker
+#   speakers: [ example-speaker ]
 #   description: |
 #     This is a example talk
 #
@@ -18,8 +17,7 @@
   type: talk
   name: Historie Cypherpunku
   track: spolecnost
-  speakers:
-    - matthew-cook
+  speakers: [ matthew-cook ]
   duration: 55
   description: |
     Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)
@@ -28,8 +26,7 @@
   type: talk
   name: FIRE movement (Financial Independence, Retire Early)
   track: spolecnost
-  speakers: 
-    - tomas-kryptovlada
+  speakers: [ tomas-kryptovlada ]
   duration: 25
   description: |
     https://en.wikipedia.org/wiki/FIRE_movement
@@ -39,24 +36,21 @@
   name: Práce a možnosti živobytí v kryptoměnách
   track: zaklady
   duration: 25
-  speakers:
-    - damsky
+  speakers: [ damsky ]
 
 - id: lightning-sluzby
   type: talk
   name: Co všechno jde dělat na Lightning Network
   track: btc
-  speakers:
-    - hynek-jina
+  speakers: [ hynek-jina ]
   duration: 55
 
 - id: l2-zaklady
   type: talk
   name: Layer2s - úvod do druhýh vrstev a proč je potřebujeme
   track: eth
+  speakers: [ damsky ]
   duration: 55
-  speakers:
-    - damsky
 
 # Workshops (workshopy)
 # =======================
@@ -65,8 +59,7 @@
   type: workshop
   name: Základy soukromí a anonymizace
   track: zaklady
-  speakers:
-    - petr-klein
+  speakers: [ petr-klein ]
   duration: 50
   description: |
     > privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍
@@ -75,8 +68,7 @@
   type: workshop
   name: Layer2s - bridge a fiat rampy prakticky
   track: eth
-  speakers:
-    - damsky
+  speakers: [ damsky ]
   duration: 50
   description: |
      Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps
@@ -85,14 +77,12 @@
   type: workshop
   name: BTC on-chain soukromí (privacy)
   track: btc
-  speakers:
-    - matthew-cook
+  speakers: [ matthew-cook ]
   duration: 50
 
 - id: defi-pro-zacatecniky
   type: workshop
   name: DeFi pro začátečníky
   track: defi
-  speakers:
-    - jiri-cepelka
+  speakers: [ jiri-cepelka ]
   duration: 50
