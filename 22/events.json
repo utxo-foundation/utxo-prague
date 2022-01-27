@@ -1,5 +1,16 @@
 [
   {
+    "id": "czk-stablecoin-panel",
+    "type": "panel",
+    "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "track": "defi",
+    "duration": 85,
+    "rightAfter": "czk-stablecoin"
+  },
+  {
     "id": "historie-cypherpunku",
     "type": "talk",
     "name": "Historie Cypherpunku",
@@ -32,7 +43,7 @@
     ]
   },
   {
-    "id": "lightning-sluzby",
+    "id": "lightning-ekosystem",
     "type": "talk",
     "name": "Co všechno jde dělat na Lightning Network",
     "track": "btc",
@@ -50,6 +61,47 @@
       "damsky"
     ],
     "duration": 55
+  },
+  {
+    "id": "adopce-btc",
+    "type": "talk",
+    "name": "Adopce Bitcoinu pro obchodní korporace",
+    "track": "btc",
+    "speakers": [
+      "adam-lokaj"
+    ],
+    "duration": 25,
+    "description": "Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)\n"
+  },
+  {
+    "id": "czk-stablecoin",
+    "type": "talk",
+    "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25
+  },
+  {
+    "id": "oracles-obecne",
+    "type": "talk",
+    "name": "Co jsou to oracles + CZK kurz na blockchainu",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25
+  },
+  {
+    "id": "ceska-kryptonadace",
+    "type": "talk",
+    "name": "\"Česká kryptonadace\"",
+    "track": "regulace",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25
   },
   {
     "id": "privacy-workshop",
@@ -92,5 +144,71 @@
       "jiri-cepelka"
     ],
     "duration": 50
+  },
+  {
+    "id": "btc-platby",
+    "type": "lightning",
+    "name": "BTCPlatby.cz",
+    "track": "btc",
+    "speakers": [
+      "honza-dvorak"
+    ],
+    "duration": 10
+  },
+  {
+    "id": "bleskomat",
+    "type": "lightning",
+    "name": "Bleskomat",
+    "track": "btc",
+    "speakers": [
+      "mario-havel"
+    ],
+    "duration": 10
+  },
+  {
+    "id": "pwn",
+    "type": "lightning",
+    "name": "PWN Finance",
+    "track": "defi",
+    "speakers": [],
+    "duration": 10
+  },
+  {
+    "id": "chainkeepers",
+    "type": "lightning",
+    "name": "Chainkeepers",
+    "track": "defi",
+    "speakers": [],
+    "duration": 10
+  },
+  {
+    "id": "flipper-zone",
+    "type": "lightning",
+    "name": "Flipper.Zone",
+    "track": "nft",
+    "speakers": [
+      "david-bankless"
+    ],
+    "duration": 10
+  },
+  {
+    "id": "marinade",
+    "type": "lightning",
+    "name": "Marinade Finance",
+    "track": "alty",
+    "speakers": [
+      "michal-repetny"
+    ],
+    "duration": 10
+  },
+  {
+    "id": "apus",
+    "type": "lightning",
+    "name": "APUS",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 10
   }
 ]
