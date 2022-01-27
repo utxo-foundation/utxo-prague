@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "id": "historie-cypherpunku",
+    "type": "talk",
+    "name": "Historie Cypherpunku",
+    "track": "spolecnost",
+    "speakers": [
+      "matthew-cook"
+    ],
+    "duration": 55,
+    "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n"
+  },
+  {
+    "id": "fire-movement",
+    "type": "talk",
+    "name": "FIRE movement (Financial Independence, Retire Early)",
+    "track": "spolecnost",
+    "speakers": [
+      "tomas-kryptovlada"
+    ],
+    "duration": 25,
+    "description": "https://en.wikipedia.org/wiki/FIRE_movement\n"
+  },
+  {
+    "id": "l2-zaklady",
+    "type": "talk",
+    "name": "Layer2s - úvod do druhýh vrstev a proč je potřebujeme",
+    "track": "zaklady",
+    "duration": 55,
+    "speakers": [
+      "damsky"
+    ]
+  },
+  {
+    "id": "prace-zivobyti-v-kryptomenach",
+    "type": "talk",
+    "name": "Práce a možnosti živobytí v kryptoměnách",
+    "track": "zaklady",
+    "duration": 25,
+    "speakers": [
+      "damsky"
+    ]
+  },
+  {
+    "id": "privacy-workshop",
+    "type": "workshop",
+    "name": "Privacy workshop",
+    "track": "zaklady",
+    "speakers": [
+      "petr-klein"
+    ],
+    "duration": 50,
+    "description": "> privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍\n"
+  },
+  {
+    "id": "l2-bridge-rampy-prakticky",
+    "type": "workshop",
+    "name": "Layer2s - bridge a fiat rampy prakticky",
+    "track": "eth",
+    "speakers": [
+      "damsky"
+    ],
+    "duration": 55,
+    "description": "Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps\n"
+  },
+  {
+    "id": "defi-pro-zacatecniky",
+    "type": "workshop",
+    "name": "DeFi pro začátečníky",
+    "track": "defi",
+    "speakers": [
+      "jiri-cepelka"
+    ],
+    "duration": 55
+  }
+]
