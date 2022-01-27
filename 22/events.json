@@ -46,10 +46,10 @@
     "type": "talk",
     "name": "Layer2s - úvod do druhýh vrstev a proč je potřebujeme",
     "track": "eth",
-    "duration": 55,
     "speakers": [
       "damsky"
-    ]
+    ],
+    "duration": 55
   },
   {
     "id": "privacy-workshop",
