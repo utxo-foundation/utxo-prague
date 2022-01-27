@@ -7,6 +7,8 @@ await utxo.init();
 const entryId = "22";
 const entry = utxo.entries[entryId];
 
+const speakers = entry.specs.speakers
+
 const setup = [
   { col: "type", title: "Type" },
   { col: "id", title: "ID" },
@@ -45,11 +47,12 @@ for (const item of entry.specs.events) {
 
 const totalSpeakers = Object.keys(totals.speakers).length;
 const minutesPerSpeaker = totals.duration / totalSpeakers;
+const durationPrediction = speakers.length/(totals.duration / 100) * speakers.length
 
 console.log(Table.from(arr).border(true).toString());
 console.log(
-  `Events: ${totals.items}, Speakers: ${totalSpeakers}, duration: ${totals.duration} minutes (${
+  `Events: ${totals.items}, Speakers: ${totalSpeakers}/${speakers.length}, duration: ${totals.duration} minutes (${
     (totals.duration / 60).toFixed(2)
-  } hours), ` +
+  } hours, estimated full: ${durationPrediction.toFixed(2)} hours), ` +
     `minutes per speaker: ${minutesPerSpeaker.toFixed(2)} min`,
 );
