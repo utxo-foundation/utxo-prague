@@ -731,6 +731,9 @@
         "type": "talk",
         "name": "Jak nastartovat DeFi projekt a vybrat $1M+ od investorů v USA/Asii",
         "track": "spolecnost",
+        "speakers": [
+          "roman-mazur"
+        ],
         "duration": 55
       },
       {
@@ -2187,5 +2190,5 @@
       "projects": 71
     }
   },
-  "time": "2022-01-28T18:11:12.173Z"
+  "time": "2022-01-28T18:13:01.431Z"
 }
