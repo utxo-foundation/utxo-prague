@@ -275,3 +275,7 @@
   twitter: Trader_20_
   tracks: [ zaklady, btc, defi ]
 
+- id: roman-mazur
+  name: Roman Mazur
+  twitter: romanmazur
+  tracks: [ defi ]

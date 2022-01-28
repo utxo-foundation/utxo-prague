@@ -361,6 +361,14 @@
   tracks:
     - defi
 
+- id: wido
+  name: wido
+  twitter: joinwido
+  web:
+    url: https://joinwido.com
+  tracks:
+    - defi
+
 - id: liqwid
   name: Liqwid
   twitter: liqwidfinance
