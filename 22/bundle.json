@@ -513,7 +513,8 @@
         "name": "Roman Mazur",
         "twitter": "romanmazur",
         "tracks": [
-          "defi"
+          "defi",
+          "spolecnost"
         ],
         "photos": [
           "twitter:jpg"
@@ -724,6 +725,13 @@
         "speakers": [
           "damsky"
         ]
+      },
+      {
+        "id": "nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu",
+        "type": "talk",
+        "name": "Jak nastartovat DeFi projekt a vybrat $1M+ od investorů v USA/Asii",
+        "track": "spolecnost",
+        "duration": 55
       },
       {
         "id": "lightning-ekosystem",
@@ -2173,11 +2181,11 @@
     "counts": {
       "speakers": 39,
       "tracks": 9,
-      "events": 23,
+      "events": 24,
       "faqs": 6,
       "partners": 18,
       "projects": 71
     }
   },
-  "time": "2022-01-28T18:01:47.253Z"
+  "time": "2022-01-28T18:11:12.173Z"
 }
