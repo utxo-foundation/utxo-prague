@@ -63,6 +63,7 @@
   type: talk
   name: Jak nastartovat DeFi projekt a vybrat $1M+ od investorů v USA/Asii
   track: spolecnost
+  speakers: [ roman-mazur ]
   duration: 55
 
 - id: lightning-ekosystem
