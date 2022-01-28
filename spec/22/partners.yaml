@@ -100,6 +100,13 @@
   web:
     url: https://linktr.ee/kryptoplatby
 
+- id: trader20
+  name: Trader 2.0
+  twitter: Trader_20_
+  type: medium
+  web:
+    url: https://trader20.sk/
+
 - id: svet-androida
   name: Svět Androida
   type: medium
