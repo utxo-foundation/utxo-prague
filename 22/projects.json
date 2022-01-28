@@ -609,6 +609,20 @@
     ]
   },
   {
+    "id": "wido",
+    "name": "wido",
+    "twitter": "joinwido",
+    "web": {
+      "url": "https://joinwido.com"
+    },
+    "tracks": [
+      "defi"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "liqwid",
     "name": "Liqwid",
     "twitter": "liqwidfinance",

@@ -509,6 +509,17 @@
         ]
       },
       {
+        "id": "roman-mazur",
+        "name": "Roman Mazur",
+        "twitter": "romanmazur",
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "resistance",
         "name": "RΞSISTANCΞ",
         "twitter": "reesistancee",
@@ -1731,6 +1742,20 @@
         ]
       },
       {
+        "id": "wido",
+        "name": "wido",
+        "twitter": "joinwido",
+        "web": {
+          "url": "https://joinwido.com"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "liqwid",
         "name": "Liqwid",
         "twitter": "liqwidfinance",
@@ -2146,13 +2171,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 38,
+      "speakers": 39,
       "tracks": 9,
       "events": 23,
       "faqs": 6,
       "partners": 18,
-      "projects": 70
+      "projects": 71
     }
   },
-  "time": "2022-01-28T16:35:45.896Z"
+  "time": "2022-01-28T17:37:45.546Z"
 }
