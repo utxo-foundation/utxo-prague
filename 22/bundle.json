@@ -191,6 +191,19 @@
         ]
       },
       {
+        "id": "jakub-kralovansky",
+        "name": "Jakub Kraľovanský",
+        "twitter": "Trader_20_",
+        "tracks": [
+          "zaklady",
+          "btc",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jan-cerny",
         "name": "Jan Černý",
         "nickname": "-HoNY-",
@@ -1078,6 +1091,16 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "trader20",
+        "name": "Trader 2.0",
+        "twitter": "Trader_20_",
+        "type": "medium",
+        "web": {
+          "url": "https://trader20.sk/"
+        },
+        "photos": []
       },
       {
         "id": "svet-androida",
@@ -2117,13 +2140,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 37,
+      "speakers": 38,
       "tracks": 9,
       "events": 23,
       "faqs": 6,
-      "partners": 17,
+      "partners": 18,
       "projects": 70
     }
   },
-  "time": "2022-01-27T11:05:58.219Z"
+  "time": "2022-01-28T15:24:15.829Z"
 }
