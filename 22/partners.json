@@ -182,7 +182,9 @@
     "web": {
       "url": "https://trader20.sk/"
     },
-    "photos": []
+    "photos": [
+      "twitter:jpg"
+    ]
   },
   {
     "id": "svet-androida",

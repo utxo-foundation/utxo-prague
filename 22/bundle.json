@@ -1100,7 +1100,9 @@
         "web": {
           "url": "https://trader20.sk/"
         },
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "svet-androida",
@@ -2148,5 +2150,5 @@
       "projects": 70
     }
   },
-  "time": "2022-01-28T15:24:15.829Z"
+  "time": "2022-01-28T15:26:21.417Z"
 }
