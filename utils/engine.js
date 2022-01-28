@@ -177,6 +177,10 @@ export class UTXOEngine {
     }
   }
 
+  schemaUrl(version = "1", type = "index") {
+    return `${baseUrl}/schema/${version}/${type}.json`;
+  }
+
   async schemas(version = "1") {
     const schemaDir = `./utils/schema/${version}`;
     const arr = [];
@@ -187,7 +191,10 @@ export class UTXOEngine {
       }
       arr.push({
         name: m[1],
-        schema: await this._yamlLoad([schemaDir, f.name].join("/")),
+        schema: Object.assign(
+          { $id: this.schemaUrl(version, m[1]) },
+          await this._yamlLoad([schemaDir, f.name].join("/")),
+        ),
       });
     }
     return arr;
