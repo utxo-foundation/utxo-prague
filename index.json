@@ -2,6 +2,7 @@
   {
     "id": "utxo22",
     "entryId": "22",
-    "url": "https://spec.utxo.cz/22"
+    "url": "https://spec.utxo.cz/22/",
+    "schema": "https://spec.utxo.cz/schema/1/"
   }
 ]
