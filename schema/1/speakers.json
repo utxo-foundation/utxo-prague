@@ -1,4 +1,5 @@
 {
+  "$id": "https://spec.utxo.cz/schema/1/speakers.json",
   "type": "array",
   "items": {
     "type": "object",
