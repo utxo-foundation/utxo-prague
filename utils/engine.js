@@ -16,6 +16,7 @@ const banner = `
 export class UTXOEngine {
   constructor(options = {}) {
     this.options = options;
+    this.defaultSchemaVersion = "1";
     this.srcDir = this.options.srcDir || "./spec";
     if (!this.options.silent) {
       console.log(banner);
@@ -96,7 +97,7 @@ export class UTXOEngine {
     return Object.keys(this.entries);
   }
 
-  async build(outputDir) {
+  async build(outputDir = "./dist") {
     await emptyDir(outputDir);
     const entriesIndex = [];
 
@@ -148,8 +149,24 @@ export class UTXOEngine {
       entriesIndex.push({
         id: `utxo${entryId}`,
         entryId,
-        url: `${baseUrl}/${entryId}`,
+        url: `${baseUrl}/${entryId}/`,
+        schema: `${baseUrl}/schema/${entry.schemaVersion || "1"}/`,
       });
+    }
+
+    // write schemas
+    const schemaVersion = this.defaultSchemaVersion;
+    const schemas = await this.schemas(schemaVersion);
+
+    const outputSchemaDir = [outputDir, "schema", schemaVersion].join("/");
+    await emptyDir(outputSchemaDir);
+    console.log(`UTXO: writing schema (v${schemaVersion}) ..`);
+
+    for (const schema of schemas) {
+      await this._jsonWrite(
+        [outputSchemaDir, schema.name + ".json"],
+        schema.schema,
+      );
     }
 
     // write global index
@@ -160,8 +177,8 @@ export class UTXOEngine {
     }
   }
 
-  async schemas() {
-    const schemaDir = "./utils/schema";
+  async schemas(version = "1") {
+    const schemaDir = `./utils/schema/${version}`;
     const arr = [];
     for await (const f of Deno.readDir(schemaDir)) {
       const m = f.name.match(/^(.+)\.yaml$/);

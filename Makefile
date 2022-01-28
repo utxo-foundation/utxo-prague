@@ -17,7 +17,7 @@ format:
 fmt: format
 
 build:
-	deno run --unstable --allow-read --allow-write utils/build.js
+	deno run --unstable --allow-read --allow-write utils/exec.js build
 
 docs-update:
 	deno run --unstable --allow-read --allow-write utils/update-docs.js
@@ -51,6 +51,9 @@ twitter-photos:
 
 events:
 	deno run --unstable --allow-read utils/events.js
+
+schema:
+	deno run --unstable --allow-read --allow-write utils/schema.js
 
 server:
 	cd dist && python -m SimpleHTTPServer 8000

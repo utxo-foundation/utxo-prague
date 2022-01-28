@@ -15,6 +15,7 @@ links:
   substack: https://utxoprague.substack.com/
   instagram: https://www.instagram.com/utxoprague/
   youtube: https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA
+schemaVersion: 1
 specDef:
   - type: speakers
   - type: tracks
