@@ -53,7 +53,7 @@ events:
 	deno run --unstable --allow-read utils/events.js
 
 schema:
-	deno run --unstable --allow-read --allow-write utils/schema.js
+	deno run --unstable --allow-read utils/exec.js schemas
 
 server:
 	cd dist && python -m SimpleHTTPServer 8000
