@@ -737,6 +737,16 @@
         "duration": 55
       },
       {
+        "id": "zaklady-zabezpeceni",
+        "type": "talk",
+        "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
+        "track": "zaklady",
+        "speakers": [
+          "jan-cerny"
+        ],
+        "duration": 55
+      },
+      {
         "id": "lightning-ekosystem",
         "type": "talk",
         "name": "Co všechno jde dělat na Lightning Network",
@@ -796,6 +806,16 @@
           "radek-svarz"
         ],
         "duration": 25
+      },
+      {
+        "id": "bezpecnost-workshop",
+        "type": "workshop",
+        "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
+        "track": "zaklady",
+        "speakers": [
+          "jan-cerny"
+        ],
+        "duration": 115
       },
       {
         "id": "privacy-workshop",
@@ -2184,11 +2204,11 @@
     "counts": {
       "speakers": 39,
       "tracks": 9,
-      "events": 24,
+      "events": 26,
       "faqs": 6,
       "partners": 18,
       "projects": 71
     }
   },
-  "time": "2022-01-28T18:13:01.431Z"
+  "time": "2022-01-29T13:12:47.072Z"
 }
