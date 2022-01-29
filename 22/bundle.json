@@ -1107,7 +1107,7 @@
       },
       {
         "id": "kryptonovinky-sk",
-        "name": "Kryptonovinky.sk (.cz)",
+        "name": "Kryptonovinky",
         "type": "medium",
         "web": {
           "url": "https://www.kryptonovinky.sk/"
@@ -1117,8 +1117,19 @@
         ]
       },
       {
+        "id": "kryptomagazin-cz",
+        "name": "Kryptomagazin CZ",
+        "type": "medium",
+        "web": {
+          "url": "https://kryptomagazin.cz/"
+        },
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "kryptodoupe",
-        "name": "KryptoDoupě.cz",
+        "name": "KryptoDoupě",
         "type": "medium",
         "web": {
           "url": "https://www.kryptodoupe.cz/"
@@ -2232,9 +2243,9 @@
       "tracks": 9,
       "events": 26,
       "faqs": 6,
-      "partners": 19,
+      "partners": 20,
       "projects": 72
     }
   },
-  "time": "2022-01-29T15:07:11.687Z"
+  "time": "2022-01-29T17:20:32.163Z"
 }

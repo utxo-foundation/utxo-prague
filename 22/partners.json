@@ -143,7 +143,7 @@
   },
   {
     "id": "kryptonovinky-sk",
-    "name": "Kryptonovinky.sk (.cz)",
+    "name": "Kryptonovinky",
     "type": "medium",
     "web": {
       "url": "https://www.kryptonovinky.sk/"
@@ -153,8 +153,19 @@
     ]
   },
   {
+    "id": "kryptomagazin-cz",
+    "name": "Kryptomagazin CZ",
+    "type": "medium",
+    "web": {
+      "url": "https://kryptomagazin.cz/"
+    },
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "kryptodoupe",
-    "name": "KryptoDoupě.cz",
+    "name": "KryptoDoupě",
     "type": "medium",
     "web": {
       "url": "https://www.kryptodoupe.cz/"
