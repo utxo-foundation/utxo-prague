@@ -519,6 +519,20 @@
     ]
   },
   {
+    "id": "dydx",
+    "name": "dYdX",
+    "twitter": "dydxprotocol",
+    "web": {
+      "url": "https://dydx.exchange/"
+    },
+    "tracks": [
+      "defi"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "hodlhodl",
     "name": "Hodl Hodl",
     "twitter": "hodlhodl",

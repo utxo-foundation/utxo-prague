@@ -1070,6 +1070,18 @@
         ]
       },
       {
+        "id": "dydx-grants",
+        "name": "dYdX Grants Program",
+        "type": "sponsor",
+        "twitter": "dydx_grants",
+        "web": {
+          "url": "https://dydxgrants.com/"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "mitonc",
         "name": "MitonC",
         "type": "sponsor",
@@ -1683,6 +1695,20 @@
         ]
       },
       {
+        "id": "dydx",
+        "name": "dYdX",
+        "twitter": "dydxprotocol",
+        "web": {
+          "url": "https://dydx.exchange/"
+        },
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "hodlhodl",
         "name": "Hodl Hodl",
         "twitter": "hodlhodl",
@@ -2206,9 +2232,9 @@
       "tracks": 9,
       "events": 26,
       "faqs": 6,
-      "partners": 18,
-      "projects": 71
+      "partners": 19,
+      "projects": 72
     }
   },
-  "time": "2022-01-29T13:15:29.773Z"
+  "time": "2022-01-29T15:07:11.687Z"
 }

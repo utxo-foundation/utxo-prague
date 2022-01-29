@@ -106,6 +106,18 @@
     ]
   },
   {
+    "id": "dydx-grants",
+    "name": "dYdX Grants Program",
+    "type": "sponsor",
+    "twitter": "dydx_grants",
+    "web": {
+      "url": "https://dydxgrants.com/"
+    },
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "mitonc",
     "name": "MitonC",
     "type": "sponsor",
