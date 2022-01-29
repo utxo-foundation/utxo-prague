@@ -31,7 +31,7 @@ Jako runtime se využívá Javascriptové [Deno](https://deno.land/).
 
 | Ročník | Název       | Datum konání | Místo               |
 | ------ | ----------- | ------------ | ------------------- |
-| 2022   | **UTXO.22** | 4.-5.6.2022  | Gabriel Loci, Praha |
+| 22     | **UTXO.22** | 4.-5.6.2022  | Gabriel Loci, Praha |
 
 ## HTTP Endpoint
 
