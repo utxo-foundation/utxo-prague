@@ -81,7 +81,7 @@
   web:
     url: https://mitonc.com/
 
-# Medial partners
+# Press partners
 # ======================
 
 - id: kryptoinsider-podcast
@@ -92,13 +92,19 @@
   desc: Podcast o kryptoměnách (Petr Lukáč)
 
 - id: kryptonovinky-sk
-  name: Kryptonovinky.sk (.cz)
+  name: Kryptonovinky
   type: medium
   web:
     url: https://www.kryptonovinky.sk/
 
+- id: kryptomagazin-cz
+  name: Kryptomagazin CZ
+  type: medium
+  web:
+    url: https://kryptomagazin.cz/
+
 - id: kryptodoupe
-  name: KryptoDoupě.cz
+  name: KryptoDoupě
   type: medium
   web:
     url: https://www.kryptodoupe.cz/
