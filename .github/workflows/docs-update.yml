@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     environment: production
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -19,7 +19,6 @@ jobs:
           ref: master
           path: docs
           token: ${{ secrets.TOKEN_DOCS }}
-          persist-credentials: false
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
