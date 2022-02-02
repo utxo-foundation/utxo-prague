@@ -28,4 +28,3 @@ jobs:
           repository: ./docs
           commit_message: Specs update
           branch: master
-
