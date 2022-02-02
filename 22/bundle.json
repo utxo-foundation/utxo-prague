@@ -175,6 +175,7 @@
           "spolecnost"
         ],
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -2271,5 +2272,5 @@
       "projects": 72
     }
   },
-  "time": "2022-02-02T17:00:56.087Z"
+  "time": "2022-02-02T17:14:03.367Z"
 }
