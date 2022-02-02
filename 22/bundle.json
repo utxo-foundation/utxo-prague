@@ -165,6 +165,20 @@
         ]
       },
       {
+        "id": "dusan-kmetyo",
+        "name": "Dušan Kmetyo",
+        "nickname": "OneBeerShow",
+        "twitter": "DusanKmetyo",
+        "tracks": [
+          "zaklady",
+          "btc",
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "honza-dvorak",
         "name": "Honza Dvořák",
         "nickname": "Gorrdy",
@@ -858,6 +872,16 @@
           "jiri-cepelka"
         ],
         "duration": 50
+      },
+      {
+        "id": "cryptobyte-recap",
+        "type": "lightning",
+        "name": "CryptoByte 2022 - ohlédnutí",
+        "track": "spolecnost",
+        "speakers": [
+          "dusan-kmetyo"
+        ],
+        "duration": 10
       },
       {
         "id": "btc-platby",
@@ -2239,13 +2263,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 39,
+      "speakers": 40,
       "tracks": 9,
-      "events": 26,
+      "events": 27,
       "faqs": 6,
       "partners": 20,
       "projects": 72
     }
   },
-  "time": "2022-01-29T17:20:32.163Z"
+  "time": "2022-02-02T12:19:17.536Z"
 }

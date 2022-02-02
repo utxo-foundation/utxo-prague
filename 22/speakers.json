@@ -140,6 +140,20 @@
     ]
   },
   {
+    "id": "dusan-kmetyo",
+    "name": "Dušan Kmetyo",
+    "nickname": "OneBeerShow",
+    "twitter": "DusanKmetyo",
+    "tracks": [
+      "zaklady",
+      "btc",
+      "spolecnost"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "honza-dvorak",
     "name": "Honza Dvořák",
     "nickname": "Gorrdy",

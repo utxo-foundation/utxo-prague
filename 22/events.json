@@ -187,6 +187,16 @@
     "duration": 50
   },
   {
+    "id": "cryptobyte-recap",
+    "type": "lightning",
+    "name": "CryptoByte 2022 - ohlédnutí",
+    "track": "spolecnost",
+    "speakers": [
+      "dusan-kmetyo"
+    ],
+    "duration": 10
+  },
+  {
     "id": "btc-platby",
     "type": "lightning",
     "name": "BTCPlatby.cz",
