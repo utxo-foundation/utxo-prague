@@ -19,6 +19,8 @@ jobs:
           ref: master
           path: docs
           token: ${{ secrets.TOKEN_DOCS }}
+        env:
+          GITHUB_SERVER_URL: 'https://git@github.com'
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
