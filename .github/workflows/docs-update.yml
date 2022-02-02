@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/checkout@v2
         with:
-          repository: git@github.com:gweicz/utxo22-docs.git
+          repository: gweicz/utxo22-docs
           ref: master
           path: docs
           token: ${{ secrets.TOKEN_DOCS }}
