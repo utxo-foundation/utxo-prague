@@ -34,6 +34,9 @@
           "defi",
           "alty"
         ],
+        "web": {
+          "url": "https://www.facebook.com/knox.gunner"
+        },
         "photos": [
           "web:jpg"
         ]
@@ -481,7 +484,6 @@
       {
         "id": "petr-mensik",
         "name": "Petr Menšík",
-        "twitter": "petr_mensik",
         "orgs": "[Polkadotters](https://twitter.com/polkadotterss)\n",
         "tracks": [
           "alty",
@@ -692,8 +694,14 @@
         "type": "panel",
         "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
         "speakers": [
+          "david-antos",
           "radek-svarz"
         ],
+        "properties": {
+          "moderators": [
+            "david-antos"
+          ]
+        },
         "track": "defi",
         "duration": 85,
         "rightAfter": "czk-stablecoin"
@@ -2272,5 +2280,5 @@
       "projects": 72
     }
   },
-  "time": "2022-02-02T17:14:03.367Z"
+  "time": "2022-02-07T22:31:10.478Z"
 }

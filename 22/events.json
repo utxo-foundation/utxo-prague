@@ -4,8 +4,14 @@
     "type": "panel",
     "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
     "speakers": [
+      "david-antos",
       "radek-svarz"
     ],
+    "properties": {
+      "moderators": [
+        "david-antos"
+      ]
+    },
     "track": "defi",
     "duration": 85,
     "rightAfter": "czk-stablecoin"

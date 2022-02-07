@@ -48,6 +48,9 @@
       "rightAfter": {
         "type": "string",
         "pattern": "^[a-z0-9-]+$"
+      },
+      "properties": {
+        "type": "object"
       }
     }
   }

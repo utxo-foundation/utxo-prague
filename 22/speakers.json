@@ -9,6 +9,9 @@
       "defi",
       "alty"
     ],
+    "web": {
+      "url": "https://www.facebook.com/knox.gunner"
+    },
     "photos": [
       "web:jpg"
     ]
@@ -456,7 +459,6 @@
   {
     "id": "petr-mensik",
     "name": "Petr Menšík",
-    "twitter": "petr_mensik",
     "orgs": "[Polkadotters](https://twitter.com/polkadotterss)\n",
     "tracks": [
       "alty",
