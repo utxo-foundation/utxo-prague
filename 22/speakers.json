@@ -476,8 +476,10 @@
       "dao",
       "regulace"
     ],
+    "twitter": "radk",
     "photos": [
-      "web:png"
+      "web:png",
+      "twitter:jpg"
     ]
   },
   {

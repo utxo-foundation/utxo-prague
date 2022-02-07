@@ -501,8 +501,10 @@
           "dao",
           "regulace"
         ],
+        "twitter": "radk",
         "photos": [
-          "web:png"
+          "web:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -2280,5 +2282,5 @@
       "projects": 72
     }
   },
-  "time": "2022-02-07T22:31:10.478Z"
+  "time": "2022-02-07T22:33:13.164Z"
 }
