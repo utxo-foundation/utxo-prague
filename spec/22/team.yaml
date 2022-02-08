@@ -90,6 +90,7 @@ teams:
     members:
       - tereza
       - tree
+      - vojtch
     lead: tereza
 
   catering:
@@ -100,6 +101,7 @@ teams:
     members:
       - tereza
       - tree
+      - vojtch
     lead: tereza
 
   program:
@@ -147,6 +149,7 @@ teams:
       Technická realizace webu a ticketingu (prodej vstupenek).
     members:
       - tree
+      - vojtch
     lead: tree
 
   utxo-tv:
