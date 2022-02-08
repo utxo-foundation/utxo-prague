@@ -1,0 +1,74 @@
+{
+  "$id": "https://spec.utxo.cz/schema/1/team.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "persons",
+    "teams"
+  ],
+  "properties": {
+    "persons": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^[a-z0-9-]+$": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name"
+          ],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "twitter": {
+              "type": "string",
+              "pattern": "^[a-zA-Z0-9_]+$"
+            },
+            "desc": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "teams": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^[a-z0-9-]+$": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "members",
+            "lead"
+          ],
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "members": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z0-9-]+$"
+              }
+            },
+            "lead": {
+              "type": "string",
+              "pattern": "^[a-z0-9-]+$"
+            },
+            "desc": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "string",
+              "pattern": "^[a-z0-9-]+$"
+            }
+          }
+        }
+      }
+    }
+  }
+}
