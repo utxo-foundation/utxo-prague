@@ -2361,7 +2361,8 @@
           "desc": "Vše co se týká místa konání a jeho vybavení.\n",
           "members": [
             "tereza",
-            "tree"
+            "tree",
+            "vojtch"
           ],
           "lead": "tereza"
         },
@@ -2371,7 +2372,8 @@
           "desc": "Řešení jídla pro návštěvníky.\n",
           "members": [
             "tereza",
-            "tree"
+            "tree",
+            "vojtch"
           ],
           "lead": "tereza"
         },
@@ -2418,7 +2420,8 @@
           "name": "Web a ticketing",
           "desc": "Technická realizace webu a ticketingu (prodej vstupenek).\n",
           "members": [
-            "tree"
+            "tree",
+            "vojtch"
           ],
           "lead": "tree"
         },
@@ -2461,5 +2464,5 @@
       "projects": 72
     }
   },
-  "time": "2022-02-08T08:25:37.094Z"
+  "time": "2022-02-08T19:45:13.545Z"
 }

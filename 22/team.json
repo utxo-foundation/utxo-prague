@@ -88,7 +88,8 @@
       "desc": "Vše co se týká místa konání a jeho vybavení.\n",
       "members": [
         "tereza",
-        "tree"
+        "tree",
+        "vojtch"
       ],
       "lead": "tereza"
     },
@@ -98,7 +99,8 @@
       "desc": "Řešení jídla pro návštěvníky.\n",
       "members": [
         "tereza",
-        "tree"
+        "tree",
+        "vojtch"
       ],
       "lead": "tereza"
     },
@@ -145,7 +147,8 @@
       "name": "Web a ticketing",
       "desc": "Technická realizace webu a ticketingu (prodej vstupenek).\n",
       "members": [
-        "tree"
+        "tree",
+        "vojtch"
       ],
       "lead": "tree"
     },
