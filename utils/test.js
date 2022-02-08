@@ -39,18 +39,20 @@ for (const entryId of utxo.entriesList()) {
       }
     });
 
-    Deno.test(`UTXO.${entryId}: ${specId}[id-duplicates]`, () => {
-      const used = [];
-      for (const item of entry.specs[specId]) {
-        if (!item.id) {
-          return null;
+    if (!["team"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[id-duplicates]`, () => {
+        const used = [];
+        for (const item of entry.specs[specId]) {
+          if (!item.id) {
+            return null;
+          }
+          if (used.includes(item.id)) {
+            throw `Duplicate key: ${item.id}`;
+          }
+          used.push(item.id);
         }
-        if (used.includes(item.id)) {
-          throw `Duplicate key: ${item.id}`;
-        }
-        used.push(item.id);
-      }
-    });
+      });
+    }
 
     if (["speakers", "projects"].includes(specId)) {
       Deno.test(`UTXO.${entryId}: ${specId}[tracks-links]`, () => {
@@ -77,6 +79,25 @@ for (const entryId of utxo.entriesList()) {
           for (const t of item.speakers) {
             if (!speakers.includes(t)) {
               throw new Error(`Speaker not exists: ${t}`);
+            }
+          }
+        }
+      });
+    }
+    if (["team"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[persons-links]`, () => {
+        const persons = Object.keys(entry.specs.team.persons);
+        for (const teamId of Object.keys(entry.specs[specId].teams)) {
+          const team = entry.specs[specId].teams[teamId];
+          if (team.lead && !persons.includes(team.lead)) {
+            throw new Error(`Lead not found: ${team.lead}`);
+          }
+          if (!team.members || team.members.length === 0) {
+            continue;
+          }
+          for (const m of team.members) {
+            if (!persons.includes(m)) {
+              throw new Error(`Person not exists: ${m}`);
             }
           }
         }

@@ -52,6 +52,9 @@ twitter-photos:
 events:
 	deno run --unstable --allow-read utils/events.js
 
+team:
+	deno run --unstable --allow-read utils/team.js
+
 schema:
 	deno run --unstable --allow-read utils/exec.js schemas
 

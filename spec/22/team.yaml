@@ -1,0 +1,175 @@
+persons:
+
+  tree:
+    name: Tree
+    twitter: treecz
+    desc: Zástupce [Gwei.cz](http://gwei.cz/) a [BohemianDAO](http://bohemiandao.cz/) 
+
+  tereza:
+    name: Tereza Starostová
+    twitter: tatereza5
+    desc: Zástupce [Holky v Kryptu](https://holkyvkryptu.cz/)
+
+  vojtch:
+    name: Vojtch
+    twitter: StudenyVojta
+    desc: Zástupce [Bankless Czech](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/)
+    
+  simona:
+    name: Simona Pacáková
+    twitter: SPacakova
+
+  petr:
+    name: Petr Klein
+    twitter: kleinpetr_com
+
+  david:
+    name: DavidBankless
+    twitter: davidbankless
+
+  jiri:
+    name: Jiří Čepelka
+    twitter: JiriCepelka
+
+  exez:
+    name: Exez
+    twitter: OndraPulc
+
+  dusan:
+    name: Dušan Kmetyo
+    twitter: dusankmetyo
+
+teams:
+
+  core: 
+    name: Core
+    desc: |
+      Hlavní team který koordinuje ostatní teamy a fakticky reprezentuje konferenci.
+    members:
+      - tree
+      - tereza
+      - vojtch
+    lead: tereza
+
+  legal:
+    name: Legal
+    desc: |
+      Legální entita (UTXO Foundation, z.s.), právní aspekty, účetnictví atp.
+    members:
+      - tree
+      - tereza
+      - simona
+      - petr
+    lead: tereza
+
+  finance:
+    name: Finance
+    desc: |
+      Finanční plánování konference (budget).
+    members:
+      - vojtch
+      - tereza
+      - tree
+    lead: vojtch
+  
+  sponsorship:
+    name: Sponzorství
+    parent: budget
+    desc: |
+      Shánění a domlouvání sponzorů.
+    members:
+      - vojtch
+      - tereza
+      - david
+    lead: vojtch
+
+  venue:
+    name: Místo konání
+    desc: |
+      Vše co se týká místa konání a jeho vybavení.
+    members:
+      - tereza
+      - tree
+    lead: tereza
+
+  catering:
+    name: Catering
+    parent: venue
+    desc: |
+      Řešení jídla pro návštěvníky.
+    members:
+      - tereza
+      - tree
+    lead: tereza
+
+  program:
+    name: Program
+    desc: |
+      Dramaturgie konference - hlavní a doprovodný program.
+    members:
+      - tree
+      - tereza
+    lead: tree
+
+  speakers:
+    name: Přednášející
+    parent: program
+    desc: |
+      Shánění a koordinace přednášejících.
+    members:
+      - tree
+      - tereza
+    lead: tree
+
+  design:
+    name: Design
+    desc: |
+      Vizuální identita apod.
+    members:
+      - tereza
+      - tree
+      - exez
+    lead: tereza
+
+  marketing:
+    name: Marketing
+    desc: |
+      Aktivity propagující konferenci, sociální sítě.
+    members:
+      - tereza
+      - tree
+      - jiri
+    lead: tereza
+
+  web-ticketing:
+    name: Web a ticketing
+    desc: |
+      Technická realizace webu a ticketingu (prodej vstupenek).
+    members:
+      - tree
+    lead: tree
+
+  utxo-tv:
+    name: UTXO.TV
+    members:
+      - tree
+    lead: tree
+
+  party:
+    name: Party
+    parent: program
+    desc: |
+      Společenský večer a party, která se uskuteční v rámci konference.
+    members:
+      - tereza
+      - tree
+    lead: tree
+
+  kryptokino:
+    name: KryptoKino
+    parent: program
+    members: 
+      - tree
+      - dusan
+    lead: tree
+
