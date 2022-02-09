@@ -89,6 +89,12 @@ for (const entryId of utxo.entriesList()) {
         const persons = Object.keys(entry.specs.team.persons);
         for (const teamId of Object.keys(entry.specs[specId].teams)) {
           const team = entry.specs[specId].teams[teamId];
+          if (
+            team.parent &&
+            !Object.keys(entry.specs.team.teams).includes(team.parent)
+          ) {
+            throw new Error(`Parent not found: ${team.parent}`);
+          }
           if (team.lead && !persons.includes(team.lead)) {
             throw new Error(`Lead not found: ${team.lead}`);
           }

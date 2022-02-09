@@ -21,5 +21,8 @@ for (const t of teams.filter((t) => !t.parent)) {
   console.log(`[${t.id}] +${members(t)}`);
   for (const st of teams.filter((tx) => tx.parent === t.id)) {
     console.log(`  \\\__ [${st.id}] +${members(st)}`);
+    for (const st2 of teams.filter((tx2) => tx2.parent === st.id)) {
+      console.log(`        \\\__ [${st2.id}] +${members(st2)}`);
+    }
   }
 }

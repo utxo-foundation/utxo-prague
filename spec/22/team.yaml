@@ -39,6 +39,10 @@ persons:
     name: Dušan Kmetyo
     twitter: dusankmetyo
 
+  dimi:
+    name: Dmitrij Malyšev
+    twitter: dmit_ry
+
 teams:
 
   core: 
@@ -74,7 +78,7 @@ teams:
   
   sponsorship:
     name: Sponzorství
-    parent: budget
+    parent: finance
     desc: |
       Shánění a domlouvání sponzorů.
     members:
@@ -103,6 +107,15 @@ teams:
       - tree
       - vojtch
     lead: tereza
+
+  srna:
+    name: SRNA
+    parent: catering
+    desc: |
+      https://docs.utxo.cz/experimenty/srna
+    members:
+      - tree
+    lead: tree
 
   program:
     name: Program
@@ -166,6 +179,14 @@ teams:
     members:
       - tereza
       - tree
+    lead: tree
+
+  electronic-stage:
+    name: Party - Electronic Stage
+    parent: party
+    members:
+      - tree
+      - dimi
     lead: tree
 
   kryptokino:
