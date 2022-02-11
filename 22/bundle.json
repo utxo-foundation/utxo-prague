@@ -211,6 +211,23 @@
         ]
       },
       {
+        "id": "jakub-jedlinsky",
+        "name": "Jakub Jedlinský",
+        "twitter": "Jakub_Jedlinsky",
+        "bio": "Makroekonom a analytik specializující se na modelování tokenomiky",
+        "orgs": "Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)\n",
+        "lead": true,
+        "tracks": [
+          "defi",
+          "alty",
+          "spolecnost"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jakub-kralovansky",
         "name": "Jakub Kraľovanský",
         "twitter": "Trader_20_",
@@ -2478,7 +2495,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 40,
+      "speakers": 41,
       "tracks": 9,
       "events": 27,
       "faqs": 6,
@@ -2486,5 +2503,5 @@
       "projects": 72
     }
   },
-  "time": "2022-02-09T09:00:14.951Z"
+  "time": "2022-02-11T00:33:24.918Z"
 }
