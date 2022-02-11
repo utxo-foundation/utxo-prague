@@ -199,6 +199,7 @@
     ],
     "photos": [
       "web:jpg",
+      "sm:png",
       "twitter:jpg"
     ]
   },
