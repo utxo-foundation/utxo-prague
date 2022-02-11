@@ -288,3 +288,12 @@
   twitter: DusanKmetyo
   tracks: [ zaklady, btc, spolecnost ]
 
+- id: jakub-jedlinsky
+  name: Jakub Jedlinský
+  twitter: Jakub_Jedlinsky
+  bio: Makroekonom a analytik specializující se na modelování tokenomiky
+  orgs: |
+    Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)
+  lead: true
+  tracks: [ defi, alty, spolecnost ]
+
