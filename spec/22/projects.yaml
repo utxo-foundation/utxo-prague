@@ -324,6 +324,15 @@
     - defi
     - btc
 
+- id: stosujcz
+  name: Štosuj.cz
+  twitter: stosujcz
+  web:
+    url: http://stosuj.cz/
+  tracks:
+    - btc
+    - zaklady
+
 - id: bisq
   name: Bisq
   twitter: bisq_network

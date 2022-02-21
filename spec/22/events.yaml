@@ -209,7 +209,7 @@
 
 - id: marinade
   type: lightning
-  name: Marinade Finance
+  name: Marinade Finance - stakování na Solaně
   track: alty
   speakers: [ michal-repetny ]
   duration: 10
@@ -226,5 +226,12 @@
   name: Liqwid Finance
   track: alty
   speakers: [ mark-stopka ]
+  duration: 10
+
+- id: stosujcz
+  type: lightning
+  name: Štosuj.cz - DCA spoření do kryptomě
+  track: zaklady
+  speakers: [ lubos-kovarik ]
   duration: 10
 

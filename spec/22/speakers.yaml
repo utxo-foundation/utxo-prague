@@ -297,3 +297,15 @@
   lead: true
   tracks: [ defi, alty, spolecnost ]
 
+- id: josef-gattermayer
+  name: Josef Gattermayer
+  twitter: jgattermayer
+  orgs: |
+    Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)
+  tracks: [ eth, defi, alty ]
+
+- id: lubos-kovarik
+  name: Luboš Kovařík
+  twitter: stosujcz
+  tracks: [ btc, zaklady ]
+
