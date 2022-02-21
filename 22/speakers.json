@@ -262,6 +262,21 @@
     ]
   },
   {
+    "id": "josef-gattermayer",
+    "name": "Josef Gattermayer",
+    "twitter": "jgattermayer",
+    "orgs": "Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+    "tracks": [
+      "eth",
+      "defi",
+      "alty"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "josefj",
     "name": "JosefJ",
     "twitter": "JosefJ_",
@@ -307,6 +322,19 @@
       "defi"
     ],
     "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "lubos-kovarik",
+    "name": "Luboš Kovařík",
+    "twitter": "stosujcz",
+    "tracks": [
+      "btc",
+      "zaklady"
+    ],
+    "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },

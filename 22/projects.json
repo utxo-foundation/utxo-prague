@@ -548,6 +548,21 @@
     ]
   },
   {
+    "id": "stosujcz",
+    "name": "Štosuj.cz",
+    "twitter": "stosujcz",
+    "web": {
+      "url": "http://stosuj.cz/"
+    },
+    "tracks": [
+      "btc",
+      "zaklady"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "bisq",
     "name": "Bisq",
     "twitter": "bisq_network",

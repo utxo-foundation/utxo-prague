@@ -287,6 +287,21 @@
         ]
       },
       {
+        "id": "josef-gattermayer",
+        "name": "Josef Gattermayer",
+        "twitter": "jgattermayer",
+        "orgs": "Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+        "tracks": [
+          "eth",
+          "defi",
+          "alty"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "josefj",
         "name": "JosefJ",
         "twitter": "JosefJ_",
@@ -332,6 +347,19 @@
           "defi"
         ],
         "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "lubos-kovarik",
+        "name": "Luboš Kovařík",
+        "twitter": "stosujcz",
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -961,7 +989,7 @@
       {
         "id": "marinade",
         "type": "lightning",
-        "name": "Marinade Finance",
+        "name": "Marinade Finance - stakování na Solaně",
         "track": "alty",
         "speakers": [
           "michal-repetny"
@@ -985,6 +1013,16 @@
         "track": "alty",
         "speakers": [
           "mark-stopka"
+        ],
+        "duration": 10
+      },
+      {
+        "id": "stosujcz",
+        "type": "lightning",
+        "name": "Štosuj.cz - DCA spoření do kryptomě",
+        "track": "zaklady",
+        "speakers": [
+          "lubos-kovarik"
         ],
         "duration": 10
       }
@@ -1788,6 +1826,21 @@
         ]
       },
       {
+        "id": "stosujcz",
+        "name": "Štosuj.cz",
+        "twitter": "stosujcz",
+        "web": {
+          "url": "http://stosuj.cz/"
+        },
+        "tracks": [
+          "btc",
+          "zaklady"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "bisq",
         "name": "Bisq",
         "twitter": "bisq_network",
@@ -2496,13 +2549,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 41,
+      "speakers": 43,
       "tracks": 9,
-      "events": 27,
+      "events": 28,
       "faqs": 6,
       "partners": 20,
-      "projects": 72
+      "projects": 73
     }
   },
-  "time": "2022-02-11T00:41:55.989Z"
+  "time": "2022-02-21T07:53:36.585Z"
 }
