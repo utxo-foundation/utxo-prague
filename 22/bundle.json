@@ -531,12 +531,15 @@
         "id": "petr-mensik",
         "name": "Petr Menšík",
         "orgs": "[Polkadotters](https://twitter.com/polkadotterss)\n",
+        "web": {
+          "url": "https://www.facebook.com/petr.mensik.374"
+        },
         "tracks": [
           "alty",
           "defi"
         ],
         "photos": [
-          "twitter:jpg"
+          "web:jpg"
         ]
       },
       {
@@ -668,7 +671,7 @@
         "id": "vojtch",
         "name": "Vojtěch Studený",
         "nickname": "vojtch",
-        "twitter": "StudenyVojta",
+        "twitter": "0xVojtch",
         "orgs": "[Bankless.cz](https://bankless.cz/)\n",
         "tracks": [
           "zaklady",
@@ -2557,5 +2560,5 @@
       "projects": 73
     }
   },
-  "time": "2022-02-23T10:55:26.969Z"
+  "time": "2022-02-23T12:06:34.624Z"
 }
