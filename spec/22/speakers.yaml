@@ -101,6 +101,8 @@
   name: Petr Menšík
   orgs: |
     [Polkadotters](https://twitter.com/polkadotterss)
+  web:
+    url: https://www.facebook.com/petr.mensik.374
   tracks: [ alty, defi ]
 
 - id: pavel-precechtel
@@ -216,7 +218,7 @@
 - id: vojtch
   name: Vojtěch Studený
   nickname: vojtch
-  twitter: StudenyVojta
+  twitter: 0xVojtch
   orgs: |
     [Bankless.cz](https://bankless.cz/)
   tracks: [ zaklady, eth, dao, defi ]

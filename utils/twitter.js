@@ -52,9 +52,16 @@ for (const col of collections) {
       continue;
     }
 
-    const tw = await twitterUser(sp.twitter);
-    if (!tw) {
-      continue;
+    let tw;
+
+    try {
+      tw = await twitterUser(sp.twitter);
+      if (!tw) {
+        continue;
+      }
+    } catch (e) {
+      console.log(sp.twitter, e)
+      Deno.exit(1)
     }
 
     await fetchImageAndSave(
