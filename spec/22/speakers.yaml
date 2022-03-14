@@ -311,3 +311,10 @@
   twitter: stosujcz
   tracks: [ btc, zaklady ]
 
+- id: lenka-hudakova
+  name: Lenka Hudáková
+  twitter: LenklaH
+  orgs: |
+    Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)
+  tracks: [ eth, defi, dao ]
+
