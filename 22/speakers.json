@@ -326,6 +326,20 @@
     ]
   },
   {
+    "id": "lenka-hudakova",
+    "name": "Lenka Hudáková",
+    "twitter": "LenklaH",
+    "orgs": "Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)\n",
+    "tracks": [
+      "eth",
+      "defi",
+      "dao"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "lubos-kovarik",
     "name": "Luboš Kovařík",
     "twitter": "stosujcz",
