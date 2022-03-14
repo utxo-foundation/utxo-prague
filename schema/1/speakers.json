@@ -53,6 +53,10 @@
       },
       "photos": {
         "type": "array"
+      },
+      "country": {
+        "type": "string",
+        "pattern": "^[a-z]{2}$"
       }
     }
   }

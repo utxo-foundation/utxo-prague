@@ -37,6 +37,7 @@
         "web": {
           "url": "https://www.facebook.com/knox.gunner"
         },
+        "country": "cz",
         "photos": [
           "web:jpg"
         ]
@@ -54,6 +55,7 @@
           "btc",
           "regulace"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg"
         ]
@@ -66,6 +68,7 @@
           "eth",
           "defi"
         ],
+        "country": "sk",
         "photos": [
           "twitter:jpg"
         ]
@@ -79,6 +82,7 @@
           "eth",
           "nft"
         ],
+        "country": "sk",
         "photos": [
           "twitter:jpg"
         ]
@@ -94,6 +98,7 @@
           "dao",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -111,6 +116,7 @@
           "defi",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -130,6 +136,7 @@
           "name": "stanceldavid.sk",
           "url": "https://stanceldavid.sk/"
         },
+        "country": "sk",
         "photos": [
           "twitter:jpg"
         ]
@@ -144,6 +151,7 @@
           "dao",
           "nft"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -161,6 +169,7 @@
           "spolecnost",
           "regulace"
         ],
+        "country": "cz",
         "photos": [
           "web:png",
           "sm:png",
@@ -177,6 +186,7 @@
           "btc",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -192,6 +202,7 @@
           "zaklady",
           "btc"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -206,6 +217,7 @@
           "zaklady",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -222,6 +234,7 @@
           "alty",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "sm:png",
@@ -237,6 +250,7 @@
           "btc",
           "defi"
         ],
+        "country": "sk",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -252,6 +266,7 @@
           "zaklady",
           "btc"
         ],
+        "country": "cz",
         "photos": [
           "web:webp",
           "twitter:jpg"
@@ -268,6 +283,7 @@
           "defi",
           "alty"
         ],
+        "country": "cz",
         "photos": [
           "web:png",
           "twitter:jpg"
@@ -282,6 +298,7 @@
           "eth",
           "defi"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -296,6 +313,7 @@
           "defi",
           "alty"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -311,6 +329,7 @@
           "dao",
           "nft"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -331,6 +350,7 @@
           "dao",
           "spolecnost"
         ],
+        "country": "sk",
         "photos": [
           "web:jpg",
           "sm:png",
@@ -346,6 +366,7 @@
           "zaklady",
           "defi"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -360,6 +381,7 @@
           "defi",
           "dao"
         ],
+        "country": "sk",
         "photos": [
           "twitter:jpg"
         ]
@@ -372,6 +394,7 @@
           "btc",
           "zaklady"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -386,6 +409,7 @@
           "defi",
           "dao"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -403,6 +427,7 @@
           "eth",
           "defi"
         ],
+        "country": "sk",
         "photos": [
           "web:jpg",
           "sm:png",
@@ -417,6 +442,7 @@
           "defi",
           "alty"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -432,6 +458,7 @@
           "spolecnost",
           "alty"
         ],
+        "country": "sk",
         "photos": [
           "twitter:jpg"
         ]
@@ -444,7 +471,25 @@
           "btc",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "michael-chobanian",
+        "name": "Michael Chobanian (Михайло Чобанян)",
+        "twitter": "ChobanianMike",
+        "orgs": "Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)\n",
+        "tracks": [
+          "regulace",
+          "spolecnost"
+        ],
+        "country": "ua",
+        "lead": true,
+        "photos": [
+          "web:jpg",
+          "sm:png",
           "twitter:jpg"
         ]
       },
@@ -459,6 +504,7 @@
           "defi",
           "alty"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -472,6 +518,7 @@
         "tracks": [
           "nft"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -485,6 +532,7 @@
           "defi",
           "alty"
         ],
+        "country": "cz",
         "photos": [
           "web:webp"
         ]
@@ -502,6 +550,7 @@
           "alty",
           "nft"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -517,6 +566,7 @@
           "dao",
           "alty"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -535,6 +585,7 @@
           "nft",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "sm:png",
@@ -552,6 +603,7 @@
           "alty",
           "defi"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg"
         ]
@@ -565,6 +617,7 @@
           "regulace"
         ],
         "twitter": "radk",
+        "country": "cz",
         "photos": [
           "web:png",
           "twitter:jpg"
@@ -584,6 +637,7 @@
         "tracks": [
           "spolecnost"
         ],
+        "country": "sk",
         "photos": [
           "web:jpg",
           "sm:png",
@@ -598,6 +652,7 @@
           "defi",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -610,6 +665,7 @@
           "nft",
           "defi"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -623,6 +679,7 @@
         "tracks": [
           "nft"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -638,6 +695,7 @@
           "defi",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -658,6 +716,7 @@
           "regulace",
           "btc"
         ],
+        "country": "cz",
         "photos": [
           "web:jpg",
           "sm:png",
@@ -677,6 +736,7 @@
           "alty",
           "spolecnost"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -693,6 +753,7 @@
           "dao",
           "defi"
         ],
+        "country": "cz",
         "photos": [
           "twitter:jpg"
         ]
@@ -2566,7 +2627,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 44,
+      "speakers": 45,
       "tracks": 9,
       "events": 28,
       "faqs": 6,
@@ -2574,5 +2635,5 @@
       "projects": 73
     }
   },
-  "time": "2022-03-14T12:27:06.909Z"
+  "time": "2022-03-14T12:55:28.729Z"
 }
