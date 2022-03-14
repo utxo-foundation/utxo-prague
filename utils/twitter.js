@@ -60,8 +60,8 @@ for (const col of collections) {
         continue;
       }
     } catch (e) {
-      console.log(sp.twitter, e)
-      Deno.exit(1)
+      console.log(sp.twitter, e);
+      Deno.exit(1);
     }
 
     await fetchImageAndSave(
