@@ -141,6 +141,26 @@
     "duration": 25
   },
   {
+    "id": "social-tokeny",
+    "type": "talk",
+    "name": "Sociální tokeny (Social Tokens)",
+    "track": "eth",
+    "speakers": [
+      "michaela-malatin"
+    ],
+    "duration": 55
+  },
+  {
+    "id": "eth2",
+    "type": "talk",
+    "name": "The Merge (Eth2)",
+    "track": "eth",
+    "speakers": [
+      "mario-havel"
+    ],
+    "duration": 55
+  },
+  {
     "id": "bezpecnost-workshop",
     "type": "workshop",
     "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",

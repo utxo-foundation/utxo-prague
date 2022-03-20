@@ -957,6 +957,26 @@
         "duration": 25
       },
       {
+        "id": "social-tokeny",
+        "type": "talk",
+        "name": "Sociální tokeny (Social Tokens)",
+        "track": "eth",
+        "speakers": [
+          "michaela-malatin"
+        ],
+        "duration": 55
+      },
+      {
+        "id": "eth2",
+        "type": "talk",
+        "name": "The Merge (Eth2)",
+        "track": "eth",
+        "speakers": [
+          "mario-havel"
+        ],
+        "duration": 55
+      },
+      {
         "id": "bezpecnost-workshop",
         "type": "workshop",
         "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -2629,11 +2649,11 @@
     "counts": {
       "speakers": 45,
       "tracks": 9,
-      "events": 28,
+      "events": 30,
       "faqs": 6,
       "partners": 20,
       "projects": 73
     }
   },
-  "time": "2022-03-14T12:55:28.729Z"
+  "time": "2022-03-20T17:05:03.423Z"
 }
