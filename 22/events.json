@@ -161,6 +161,16 @@
     "duration": 55
   },
   {
+    "id": "defi-pro-zacatecniky",
+    "type": "talk",
+    "name": "DeFi pro začátečníky",
+    "track": "defi",
+    "speakers": [
+      "jiri-cepelka"
+    ],
+    "duration": 55
+  },
+  {
     "id": "bezpecnost-workshop",
     "type": "workshop",
     "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -203,9 +213,9 @@
     "duration": 50
   },
   {
-    "id": "defi-pro-zacatecniky",
+    "id": "defi-pro-zacatecniky-workshop",
     "type": "workshop",
-    "name": "DeFi pro začátečníky",
+    "name": "DeFi pro začátečníky (workshop)",
     "track": "defi",
     "speakers": [
       "jiri-cepelka"
