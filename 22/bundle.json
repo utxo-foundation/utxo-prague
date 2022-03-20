@@ -628,7 +628,7 @@
         "name": "Róbert Chovanculiak",
         "twitter": "RChovanculiak",
         "bio": "Autor knihy [Pokrok bez povolenia](https://libinst.cz/produkt/pokrok-bez-povolenia/)",
-        "orgs": "Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)\n",
+        "orgs": "Analytik v [INESS](https://www.iness.sk)\n",
         "web": {
           "name": "Pokrok bez povolenia (newsletter)",
           "url": "https://robertchovanculiak.substack.com"
@@ -2665,5 +2665,5 @@
       "projects": 73
     }
   },
-  "time": "2022-03-20T23:52:41.261Z"
+  "time": "2022-03-20T23:55:50.515Z"
 }
