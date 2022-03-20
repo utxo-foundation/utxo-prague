@@ -53,7 +53,7 @@ const methods = {
       const img =
         `![](https://spec.utxo.cz/22/photos/speakers/${speaker.id}-sm.png)`;
       const item =
-        `### ${img} ${speaker.name}\n\n* ${speaker.bio.trim()}${orgs}\n* ${
+        `### ${img} ${speaker.name}\n\n* ${speaker.bio?.trim()}${orgs}\n* ${
           socials.join(", ")
         }`;
       speakersLeadsArr.push(item);
