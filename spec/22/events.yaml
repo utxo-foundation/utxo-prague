@@ -134,6 +134,13 @@
   speakers: [ mario-havel ]
   duration: 55
 
+- id: defi-pro-zacatecniky
+  type: talk
+  name: DeFi pro začátečníky
+  track: defi
+  speakers: [ jiri-cepelka ]
+  duration: 55
+
   
 # Workshops (workshopy)
 # =======================
@@ -172,7 +179,7 @@
 
 - id: defi-pro-zacatecniky
   type: workshop
-  name: DeFi pro začátečníky
+  name: DeFi pro začátečníky (workshop)
   track: defi
   speakers: [ jiri-cepelka ]
   duration: 50
