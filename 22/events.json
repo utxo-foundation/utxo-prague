@@ -171,6 +171,17 @@
     "duration": 55
   },
   {
+    "id": "pribeh-nejvetsiho-btc-donejtu",
+    "type": "talk",
+    "name": "Příběh o největším BTC donejtu na české YouTube scéně",
+    "track": "spolecnost",
+    "speakers": [
+      "stanislav-hruska"
+    ],
+    "duration": 25,
+    "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n"
+  },
+  {
     "id": "bezpecnost-workshop",
     "type": "workshop",
     "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",

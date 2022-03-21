@@ -646,6 +646,22 @@
     ]
   },
   {
+    "id": "stanislav-hruska",
+    "name": "Stanislav Hruška",
+    "twitter": "StandaShow",
+    "bio": "Youtuber a streamer",
+    "orgs": "Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)\n",
+    "tracks": [
+      "spolecnost"
+    ],
+    "country": "cz",
+    "photos": [
+      "web:jpg",
+      "sm:png",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "fetyas",
     "name": "Tomáš Kalabis",
     "nickname": "Fetyas",

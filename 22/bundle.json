@@ -671,6 +671,22 @@
         ]
       },
       {
+        "id": "stanislav-hruska",
+        "name": "Stanislav Hruška",
+        "twitter": "StandaShow",
+        "bio": "Youtuber a streamer",
+        "orgs": "Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)\n",
+        "tracks": [
+          "spolecnost"
+        ],
+        "country": "cz",
+        "photos": [
+          "web:jpg",
+          "sm:png",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "fetyas",
         "name": "Tomáš Kalabis",
         "nickname": "Fetyas",
@@ -985,6 +1001,17 @@
           "jiri-cepelka"
         ],
         "duration": 55
+      },
+      {
+        "id": "pribeh-nejvetsiho-btc-donejtu",
+        "type": "talk",
+        "name": "Příběh o největším BTC donejtu na české YouTube scéně",
+        "track": "spolecnost",
+        "speakers": [
+          "stanislav-hruska"
+        ],
+        "duration": 25,
+        "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n"
       },
       {
         "id": "bezpecnost-workshop",
@@ -2657,13 +2684,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 45,
+      "speakers": 46,
       "tracks": 9,
-      "events": 31,
+      "events": 32,
       "faqs": 6,
       "partners": 20,
       "projects": 73
     }
   },
-  "time": "2022-03-20T23:55:50.515Z"
+  "time": "2022-03-21T19:35:34.824Z"
 }
