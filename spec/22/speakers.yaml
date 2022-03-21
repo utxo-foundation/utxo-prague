@@ -371,3 +371,12 @@
   country: ua
   lead: true
 
+- id: stanislav-hruska
+  name: Stanislav Hruška
+  twitter: StandaShow
+  bio: Youtuber a streamer
+  orgs: |
+    Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)
+  tracks: [ spolecnost ]
+  country: cz
+
