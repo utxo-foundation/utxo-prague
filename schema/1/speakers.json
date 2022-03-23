@@ -23,6 +23,10 @@
         "type": "string",
         "pattern": "^[a-zA-Z0-9_]+$"
       },
+      "linkedin": {
+        "type": "string",
+        "pattern": "^[a-zA-Z0-9_]+$"
+      },
       "orgs": {
         "type": "string"
       },

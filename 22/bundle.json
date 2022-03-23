@@ -671,10 +671,27 @@
         ]
       },
       {
+        "id": "sona-parke",
+        "name": "Soňa Parke",
+        "web": {
+          "url": "https://cz.linkedin.com/in/sona-parke"
+        },
+        "tracks": [
+          "zaklady",
+          "spolecnost"
+        ],
+        "orgs": "Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)\n",
+        "country": "cz",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "stanislav-hruska",
         "name": "Stanislav Hruška",
         "nickname": "StandaShow",
         "twitter": "StandaShow",
+        "linkedin": "stanislavhruska",
         "bio": "Youtuber a streamer",
         "orgs": "Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)\n",
         "tracks": [
@@ -1016,6 +1033,16 @@
         "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n"
       },
       {
+        "id": "budoucnost-kryptomen",
+        "type": "talk",
+        "name": "Budoucnost kryptoměn",
+        "track": "spolecnost",
+        "speakers": [
+          "sona-parke"
+        ],
+        "duration": 55
+      },
+      {
         "id": "bezpecnost-workshop",
         "type": "workshop",
         "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -1064,6 +1091,26 @@
         "track": "defi",
         "speakers": [
           "jiri-cepelka"
+        ],
+        "duration": 50
+      },
+      {
+        "id": "krypto-z-pohledu-rodicu",
+        "type": "workshop",
+        "name": "Krypto z pohledu rodičů",
+        "track": "zaklady",
+        "speakers": [
+          "sona-parke"
+        ],
+        "duration": 50
+      },
+      {
+        "id": "bleskomat-worskhop",
+        "type": "workshop",
+        "name": "Postav si svůj Bleskomat (DIY)",
+        "track": "btc",
+        "speakers": [
+          "mario-havel"
         ],
         "duration": 50
       },
@@ -2686,13 +2733,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 46,
+      "speakers": 47,
       "tracks": 9,
-      "events": 32,
+      "events": 35,
       "faqs": 6,
       "partners": 20,
       "projects": 73
     }
   },
-  "time": "2022-03-22T01:09:23.322Z"
+  "time": "2022-03-23T07:56:39.091Z"
 }
