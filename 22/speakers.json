@@ -599,6 +599,21 @@
     ]
   },
   {
+    "id": "petr-sanetrnik",
+    "name": "Petr Sanetrník",
+    "twitter": "PetrSanetrnik",
+    "orgs": "[CryptViz](https://crypviz.io/)\n",
+    "tracks": [
+      "eth",
+      "defi",
+      "nft"
+    ],
+    "country": "cz",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "radek-svarz",
     "name": "Radek Švarz",
     "tracks": [
