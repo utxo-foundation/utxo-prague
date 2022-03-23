@@ -375,10 +375,20 @@
   name: Stanislav Hruška
   nickname: StandaShow
   twitter: StandaShow
+  linkedin: stanislavhruska
   bio: Youtuber a streamer
   orgs: |
     Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)
   tracks: [ spolecnost ]
   country: cz
   lead: true
+
+- id: sona-parke
+  name: Soňa Parke
+  web:
+    url: https://cz.linkedin.com/in/sona-parke
+  tracks: [ zaklady, spolecnost ]
+  orgs: |
+    Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)
+  country: cz
 

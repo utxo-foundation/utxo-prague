@@ -150,7 +150,13 @@
   description: |
     Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)
 
-  
+- id: budoucnost-kryptomen
+  type: talk
+  name: Budoucnost kryptoměn
+  track: spolecnost
+  speakers: [ sona-parke ]
+  duration: 55
+
 # Workshops (workshopy)
 # =======================
 
@@ -191,6 +197,20 @@
   name: DeFi pro začátečníky (workshop)
   track: defi
   speakers: [ jiri-cepelka ]
+  duration: 50
+
+- id: krypto-z-pohledu-rodicu
+  type: workshop
+  name: Krypto z pohledu rodičů
+  track: zaklady
+  speakers: [ sona-parke ]
+  duration: 50
+
+- id: bleskomat-worskhop
+  type: workshop
+  name: Postav si svůj Bleskomat (DIY)
+  track: btc
+  speakers: [ mario-havel ]
   duration: 50
 
 # Lightning talks
