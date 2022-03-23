@@ -556,6 +556,21 @@
         ]
       },
       {
+        "id": "pavel-riha",
+        "name": "Pavel Říha",
+        "nickname": "MetaPavel",
+        "twitter": "metapavel",
+        "orgs": "[Futureland](https://futureland.io/)\n",
+        "tracks": [
+          "eth",
+          "nft"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "petr-klein",
         "name": "Petr Klein",
         "twitter": "kleinptr",
@@ -1210,6 +1225,16 @@
         "track": "zaklady",
         "speakers": [
           "lubos-kovarik"
+        ],
+        "duration": 10
+      },
+      {
+        "id": "futureland",
+        "type": "lightning",
+        "name": "Futureland.io",
+        "track": "nft",
+        "speakers": [
+          "pavel-riha"
         ],
         "duration": 10
       }
@@ -2736,13 +2761,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 47,
+      "speakers": 48,
       "tracks": 9,
-      "events": 35,
+      "events": 36,
       "faqs": 6,
       "partners": 20,
       "projects": 73
     }
   },
-  "time": "2022-03-23T08:19:16.652Z"
+  "time": "2022-03-23T23:36:16.725Z"
 }

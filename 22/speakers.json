@@ -531,6 +531,21 @@
     ]
   },
   {
+    "id": "pavel-riha",
+    "name": "Pavel Říha",
+    "nickname": "MetaPavel",
+    "twitter": "metapavel",
+    "orgs": "[Futureland](https://futureland.io/)\n",
+    "tracks": [
+      "eth",
+      "nft"
+    ],
+    "country": "cz",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "petr-klein",
     "name": "Petr Klein",
     "twitter": "kleinptr",

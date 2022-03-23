@@ -361,5 +361,15 @@
       "lubos-kovarik"
     ],
     "duration": 10
+  },
+  {
+    "id": "futureland",
+    "type": "lightning",
+    "name": "Futureland.io",
+    "track": "nft",
+    "speakers": [
+      "pavel-riha"
+    ],
+    "duration": 10
   }
 ]
