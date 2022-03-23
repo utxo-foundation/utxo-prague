@@ -1092,7 +1092,10 @@
         "speakers": [
           "jiri-cepelka"
         ],
-        "duration": 50
+        "duration": 50,
+        "after": [
+          "defi-pro-zacatecniky"
+        ]
       },
       {
         "id": "krypto-z-pohledu-rodicu",
@@ -2741,5 +2744,5 @@
       "projects": 73
     }
   },
-  "time": "2022-03-23T07:56:39.091Z"
+  "time": "2022-03-23T08:19:16.652Z"
 }

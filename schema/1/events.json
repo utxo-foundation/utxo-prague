@@ -45,6 +45,13 @@
       "description": {
         "type": "string"
       },
+      "after": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        }
+      },
       "rightAfter": {
         "type": "string",
         "pattern": "^[a-z0-9-]+$"
