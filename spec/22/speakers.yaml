@@ -392,3 +392,12 @@
     Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)
   country: cz
 
+- id: pavel-riha
+  name: Pavel Říha
+  nickname: MetaPavel
+  twitter: metapavel
+  orgs: |
+    [Futureland](https://futureland.io/)
+  tracks: [ eth, nft ]
+  country: cz
+
