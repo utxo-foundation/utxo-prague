@@ -401,3 +401,11 @@
   tracks: [ eth, nft ]
   country: cz
 
+- id: petr-sanetrnik
+  name: Petr Sanetrník
+  twitter: PetrSanetrnik
+  orgs: |
+    [CryptViz](https://crypviz.io/)
+  tracks: [ eth, defi, nft ]
+  country: cz
+
