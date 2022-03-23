@@ -198,6 +198,8 @@
   track: defi
   speakers: [ jiri-cepelka ]
   duration: 50
+  after: 
+    - defi-pro-zacatecniky
 
 - id: krypto-z-pohledu-rodicu
   type: workshop
