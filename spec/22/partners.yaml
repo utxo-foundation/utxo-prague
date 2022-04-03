@@ -80,6 +80,20 @@
   twitter: mitoncfund
   web:
     url: https://mitonc.com/
+    
+- id: bitcoach
+  name: Bitcoach
+  type: sponsor
+  twitter: BitC0ach
+  web:
+    url: https://bitcoach.org/
+    
+- id: anycoin
+  name: Anycoin.cz
+  type: sponsor
+  twitter: anycoin_cz
+  web:
+    url: https://anycoin.cz/
 
 # Press partners
 # ======================
