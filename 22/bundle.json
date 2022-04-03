@@ -1412,6 +1412,26 @@
         ]
       },
       {
+        "id": "bitcoach",
+        "name": "Bitcoach",
+        "type": "sponsor",
+        "twitter": "BitC0ach",
+        "web": {
+          "url": "https://bitcoach.org/"
+        },
+        "photos": []
+      },
+      {
+        "id": "anycoin",
+        "name": "Anycoin.cz",
+        "type": "sponsor",
+        "twitter": "anycoin_cz",
+        "web": {
+          "url": "https://anycoin.cz/"
+        },
+        "photos": []
+      },
+      {
         "id": "kryptoinsider-podcast",
         "name": "Podcast Krypto Insider (Hospodářské noviny)",
         "type": "medium",
@@ -2780,9 +2800,9 @@
       "tracks": 9,
       "events": 36,
       "faqs": 6,
-      "partners": 20,
+      "partners": 22,
       "projects": 73
     }
   },
-  "time": "2022-04-03T11:10:44.026Z"
+  "time": "2022-04-03T11:14:05.860Z"
 }

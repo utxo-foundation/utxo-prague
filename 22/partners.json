@@ -130,6 +130,26 @@
     ]
   },
   {
+    "id": "bitcoach",
+    "name": "Bitcoach",
+    "type": "sponsor",
+    "twitter": "BitC0ach",
+    "web": {
+      "url": "https://bitcoach.org/"
+    },
+    "photos": []
+  },
+  {
+    "id": "anycoin",
+    "name": "Anycoin.cz",
+    "type": "sponsor",
+    "twitter": "anycoin_cz",
+    "web": {
+      "url": "https://anycoin.cz/"
+    },
+    "photos": []
+  },
+  {
     "id": "kryptoinsider-podcast",
     "name": "Podcast Krypto Insider (Hospodářské noviny)",
     "type": "medium",
