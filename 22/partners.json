@@ -137,7 +137,9 @@
     "web": {
       "url": "https://bitcoach.org/"
     },
-    "photos": []
+    "photos": [
+      "web:jpg"
+    ]
   },
   {
     "id": "anycoin",
@@ -147,7 +149,9 @@
     "web": {
       "url": "https://anycoin.cz/"
     },
-    "photos": []
+    "photos": [
+      "web:jpg"
+    ]
   },
   {
     "id": "kryptoinsider-podcast",

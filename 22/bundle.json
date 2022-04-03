@@ -1419,7 +1419,9 @@
         "web": {
           "url": "https://bitcoach.org/"
         },
-        "photos": []
+        "photos": [
+          "web:jpg"
+        ]
       },
       {
         "id": "anycoin",
@@ -1429,7 +1431,9 @@
         "web": {
           "url": "https://anycoin.cz/"
         },
-        "photos": []
+        "photos": [
+          "web:jpg"
+        ]
       },
       {
         "id": "kryptoinsider-podcast",
@@ -2804,5 +2808,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-03T11:14:05.860Z"
+  "time": "2022-04-03T11:24:48.901Z"
 }
