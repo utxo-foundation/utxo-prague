@@ -106,6 +106,18 @@
     ]
   },
   {
+    "id": "kryptodenik",
+    "name": "KryptoDeník",
+    "type": "community",
+    "desc": "Nejdůležitější novinky ze světa kryptoměn",
+    "web": {
+      "url": "https://www.instagram.com/kryptodenik/"
+    },
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "dydx-grants",
     "name": "dYdX Grants Program",
     "type": "sponsor",
