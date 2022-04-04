@@ -64,6 +64,14 @@
   twitter: CeskaCkma
   desc: Spolek hájící zájmy podnikatelů v oblasti kryptoměn
 
+- id: kryptodenik
+  name: KryptoDeník
+  type: community
+  twitter:
+  desc: Nejdůležitější novinky ze světa kryptoměn
+  web:
+    url: https://www.instagram.com/kryptodenik/
+
 # Sponsors
 # ======================
 
