@@ -67,7 +67,6 @@
 - id: kryptodenik
   name: KryptoDeník
   type: community
-  twitter:
   desc: Nejdůležitější novinky ze světa kryptoměn
   web:
     url: https://www.instagram.com/kryptodenik/
