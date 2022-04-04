@@ -71,6 +71,13 @@
   web:
     url: https://www.instagram.com/kryptodenik/
 
+- id: bitcoach
+  name: Bitcoach
+  type: community
+  desc: Alone, we can do so little; Together, we can do so much
+  web:
+    url: https://t.me/join_bitcoachCHAT
+
 # Sponsors
 # ======================
 
@@ -93,7 +100,7 @@
   type: sponsor
   twitter: BitC0ach
   web:
-    url: https://bitcoach.org/
+    url: https://t.me/join_bitcoachCHAT
     
 - id: anycoin
   name: Anycoin.cz
