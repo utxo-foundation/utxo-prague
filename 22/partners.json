@@ -118,6 +118,16 @@
     ]
   },
   {
+    "id": "bitcoach-komunita",
+    "name": "Bitcoach",
+    "type": "community",
+    "desc": "Alone, we can do so little; Together, we can do so much",
+    "web": {
+      "url": "https://t.me/join_bitcoachCHAT"
+    },
+    "photos": []
+  },
+  {
     "id": "dydx-grants",
     "name": "dYdX Grants Program",
     "type": "sponsor",
@@ -147,7 +157,7 @@
     "type": "sponsor",
     "twitter": "BitC0ach",
     "web": {
-      "url": "https://bitcoach.org/"
+      "url": "https://t.me/join_bitcoachCHAT"
     },
     "photos": [
       "web:jpg"
