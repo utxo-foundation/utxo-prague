@@ -125,7 +125,9 @@
     "web": {
       "url": "https://t.me/join_bitcoachCHAT"
     },
-    "photos": []
+    "photos": [
+      "web:jpg"
+    ]
   },
   {
     "id": "dydx-grants",
