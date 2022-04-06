@@ -64,6 +64,20 @@
   twitter: CeskaCkma
   desc: Spolek hájící zájmy podnikatelů v oblasti kryptoměn
 
+- id: kryptodenik
+  name: KryptoDeník
+  type: community
+  desc: Nejdůležitější novinky ze světa kryptoměn
+  web:
+    url: https://www.instagram.com/kryptodenik/
+
+- id: bitcoach-komunita
+  name: Bitcoach
+  type: community
+  desc: Alone, we can do so little; Together, we can do so much
+  web:
+    url: https://t.me/join_bitcoachCHAT
+
 # Sponsors
 # ======================
 
@@ -80,6 +94,20 @@
   twitter: mitoncfund
   web:
     url: https://mitonc.com/
+    
+- id: bitcoach
+  name: Bitcoach
+  type: sponsor
+  twitter: BitC0ach
+  web:
+    url: https://t.me/join_bitcoachCHAT
+    
+- id: anycoin
+  name: Anycoin.cz
+  type: sponsor
+  twitter: anycoin_cz
+  web:
+    url: https://anycoin.cz/
 
 # Press partners
 # ======================
