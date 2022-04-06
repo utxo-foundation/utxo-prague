@@ -711,6 +711,20 @@
     ]
   },
   {
+    "id": "tereza-starostova",
+    "name": "Tereza Starostová",
+    "twitter": "tatereza5",
+    "orgs": "[Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)\n",
+    "tracks": [
+      "zaklady",
+      "spolecnost"
+    ],
+    "country": "cz",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "fetyas",
     "name": "Tomáš Kalabis",
     "nickname": "Fetyas",

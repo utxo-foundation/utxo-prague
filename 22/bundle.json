@@ -736,6 +736,20 @@
         ]
       },
       {
+        "id": "tereza-starostova",
+        "name": "Tereza Starostová",
+        "twitter": "tatereza5",
+        "orgs": "[Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)\n",
+        "tracks": [
+          "zaklady",
+          "spolecnost"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "fetyas",
         "name": "Tomáš Kalabis",
         "nickname": "Fetyas",
@@ -1073,6 +1087,38 @@
         "duration": 55
       },
       {
+        "id": "lokalni-komunity-intro",
+        "type": "talk",
+        "name": "Lokální krypto komunity",
+        "track": "spolecnost",
+        "speakers": [],
+        "duration": 75
+      },
+      {
+        "id": "lokalni-projekty-intro",
+        "type": "talk",
+        "name": "Lokální krypto projekty",
+        "track": "zaklady",
+        "speakers": [],
+        "duration": 75
+      },
+      {
+        "id": "lokalni-defi-intro",
+        "type": "talk",
+        "name": "Lokální DeFi projekty",
+        "track": "defi",
+        "speakers": [],
+        "duration": 75
+      },
+      {
+        "id": "lokalni-nft-intro",
+        "type": "talk",
+        "name": "Lokální NFT projekty",
+        "track": "nft",
+        "speakers": [],
+        "duration": 45
+      },
+      {
         "id": "bezpecnost-workshop",
         "type": "workshop",
         "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -1150,12 +1196,13 @@
       {
         "id": "cryptobyte-recap",
         "type": "lightning",
-        "name": "CryptoByte 2022 - ohlédnutí",
+        "name": "CryptoByte",
         "track": "spolecnost",
         "speakers": [
           "dusan-kmetyo"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-komunity-intro"
       },
       {
         "id": "btc-platby",
@@ -1165,7 +1212,8 @@
         "speakers": [
           "honza-dvorak"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-projekty-intro"
       },
       {
         "id": "bleskomat",
@@ -1175,7 +1223,8 @@
         "speakers": [
           "mario-havel"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-projekty-intro"
       },
       {
         "id": "pwn",
@@ -1183,7 +1232,8 @@
         "name": "PWN Finance",
         "track": "defi",
         "speakers": [],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-defi-intro"
       },
       {
         "id": "chainkeepers",
@@ -1191,7 +1241,8 @@
         "name": "Chainkeepers",
         "track": "defi",
         "speakers": [],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-defi-intro"
       },
       {
         "id": "flipper-zone",
@@ -1201,27 +1252,31 @@
         "speakers": [
           "david-bankless"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-nft-intro"
       },
       {
         "id": "marinade",
         "type": "lightning",
-        "name": "Marinade Finance - stakování na Solaně",
+        "name": "Marinade Finance",
         "track": "alty",
         "speakers": [
           "michal-repetny"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-defi-intro",
+        "description": "stakování na Solaně\n"
       },
       {
         "id": "apus",
         "type": "lightning",
-        "name": "APUS",
+        "name": "APUS Finance",
         "track": "defi",
         "speakers": [
           "radek-svarz"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-defi-intro"
       },
       {
         "id": "liqwid",
@@ -1231,17 +1286,20 @@
         "speakers": [
           "mark-stopka"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-defi-intro"
       },
       {
         "id": "stosujcz",
         "type": "lightning",
-        "name": "Štosuj.cz - DCA spoření do kryptomě",
+        "name": "Štosuj.cz",
         "track": "zaklady",
         "speakers": [
           "lubos-kovarik"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-projekty-intro",
+        "description": "DCA spoření do kryptomě\n"
       },
       {
         "id": "futureland",
@@ -1251,7 +1309,57 @@
         "speakers": [
           "pavel-riha"
         ],
-        "duration": 10
+        "duration": 10,
+        "parent": "lokalni-nft-intro"
+      },
+      {
+        "id": "holky-v-kryptu",
+        "type": "lightning",
+        "name": "Holky v kryptu",
+        "track": "zaklady",
+        "speakers": [
+          "tereza-starostova"
+        ],
+        "duration": 10,
+        "parent": "lokalni-komunity-intro"
+      },
+      {
+        "id": "gwei-cz",
+        "type": "lightning",
+        "name": "Gwei.cz",
+        "track": "eth",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-komunity-intro"
+      },
+      {
+        "id": "bankless-cz",
+        "type": "lightning",
+        "name": "Bankless.cz",
+        "track": "zaklady",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-komunity-intro"
+      },
+      {
+        "id": "polkadotters",
+        "type": "lightning",
+        "name": "Polkadotters.cz",
+        "track": "alty",
+        "speakers": [
+          "petr-mensik"
+        ],
+        "duration": 10,
+        "parent": "lokalni-komunity-intro"
+      },
+      {
+        "id": "cardanians",
+        "type": "lightning",
+        "name": "Cardanians",
+        "track": "alty",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-komunity-intro"
       }
     ],
     "faqs": [
@@ -2824,13 +2932,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 49,
+      "speakers": 50,
       "tracks": 9,
-      "events": 36,
+      "events": 45,
       "faqs": 6,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-05T14:30:43.435Z"
+  "time": "2022-04-06T15:57:29.664Z"
 }

@@ -58,6 +58,9 @@
       },
       "properties": {
         "type": "object"
+      },
+      "parent": {
+        "pattern": "^[a-z0-9-]+$"
       }
     }
   }
