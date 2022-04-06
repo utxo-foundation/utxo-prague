@@ -409,3 +409,11 @@
   tracks: [ eth, defi, nft ]
   country: cz
 
+- id: tereza-starostova
+  name: Tereza Starostová
+  twitter: tatereza5
+  orgs: |
+    [Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)
+  tracks: [ zaklady, spolecnost ]
+  country: cz
+

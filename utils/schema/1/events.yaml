@@ -43,3 +43,5 @@ items:
       pattern: "^[a-z0-9-]+$"
     properties:
       type: object
+    parent:
+      pattern: "^[a-z0-9-]+$"

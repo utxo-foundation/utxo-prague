@@ -157,6 +157,34 @@
   speakers: [ sona-parke ]
   duration: 55
 
+- id: lokalni-komunity-intro
+  type: talk
+  name: Lokální krypto komunity
+  track: spolecnost
+  speakers: []
+  duration: 75
+
+- id: lokalni-projekty-intro
+  type: talk
+  name: Lokální krypto projekty
+  track: zaklady
+  speakers: []
+  duration: 75
+
+- id: lokalni-defi-intro
+  type: talk
+  name: Lokální DeFi projekty
+  track: defi
+  speakers: []
+  duration: 75
+
+- id: lokalni-nft-intro
+  type: talk
+  name: Lokální NFT projekty
+  track: nft
+  speakers: []
+  duration: 45
+
 # Workshops (workshopy)
 # =======================
 
@@ -220,10 +248,11 @@
 
 - id: cryptobyte-recap
   type: lightning
-  name: CryptoByte 2022 - ohlédnutí
+  name: CryptoByte
   track: spolecnost
   speakers: [ dusan-kmetyo ]
   duration: 10
+  parent: lokalni-komunity-intro
 
 - id: btc-platby
   type: lightning
@@ -231,6 +260,7 @@
   track: btc
   speakers: [ honza-dvorak ]
   duration: 10
+  parent: lokalni-projekty-intro
 
 - id: bleskomat
   type: lightning
@@ -238,6 +268,7 @@
   track: btc
   speakers: [ mario-havel ]
   duration: 10
+  parent: lokalni-projekty-intro
 
 - id: pwn
   type: lightning
@@ -245,6 +276,7 @@
   track: defi
   speakers: []
   duration: 10
+  parent: lokalni-defi-intro
 
 - id: chainkeepers
   type: lightning
@@ -252,6 +284,7 @@
   track: defi
   speakers: []
   duration: 10
+  parent: lokalni-defi-intro
 
 - id: flipper-zone
   type: lightning
@@ -259,20 +292,25 @@
   track: nft
   speakers: [ david-bankless ]
   duration: 10
+  parent: lokalni-nft-intro
 
 - id: marinade
   type: lightning
-  name: Marinade Finance - stakování na Solaně
+  name: Marinade Finance
   track: alty
   speakers: [ michal-repetny ]
   duration: 10
+  parent: lokalni-defi-intro
+  description: |
+    stakování na Solaně
 
 - id: apus
   type: lightning
-  name: APUS
+  name: APUS Finance
   track: defi
   speakers: [ radek-svarz ]
   duration: 10
+  parent: lokalni-defi-intro
 
 - id: liqwid
   type: lightning
@@ -280,13 +318,17 @@
   track: alty
   speakers: [ mark-stopka ]
   duration: 10
+  parent: lokalni-defi-intro
 
 - id: stosujcz
   type: lightning
-  name: Štosuj.cz - DCA spoření do kryptomě
+  name: Štosuj.cz
   track: zaklady
   speakers: [ lubos-kovarik ]
   duration: 10
+  parent: lokalni-projekty-intro
+  description: |
+    DCA spoření do kryptomě
 
 - id: futureland
   type: lightning
@@ -294,4 +336,45 @@
   track: nft
   speakers: [ pavel-riha ]
   duration: 10
+  parent: lokalni-nft-intro
+
+- id: holky-v-kryptu
+  type: lightning
+  name: Holky v kryptu
+  track: zaklady
+  speakers: [ tereza-starostova ]
+  duration: 10
+  parent: lokalni-komunity-intro
+
+- id: gwei-cz
+  type: lightning
+  name: Gwei.cz
+  track: eth
+  speakers: []
+  duration: 10
+  parent: lokalni-komunity-intro
+
+- id: bankless-cz
+  type: lightning
+  name: Bankless.cz
+  track: zaklady
+  speakers: []
+  duration: 10
+  parent: lokalni-komunity-intro
+
+- id: polkadotters
+  type: lightning
+  name: Polkadotters.cz
+  track: alty
+  speakers: [ petr-mensik ]
+  duration: 10
+  parent: lokalni-komunity-intro
+
+- id: cardanians
+  type: lightning
+  name: Cardanians
+  track: alty
+  speakers: []
+  duration: 10
+  parent: lokalni-komunity-intro
 
