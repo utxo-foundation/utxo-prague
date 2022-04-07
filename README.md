@@ -59,10 +59,10 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 
 #### Související repozitáře
 
-| Repozitář                                                              | Popis                  |
-| ---------------------------------------------------------------------- | ---------------------- |
-| [utxo-foundation/utxo22-docs](https://github.com/gweicz/utxo22-docs)   | GitBook dokumentace    |
-| [utxo-foundation/utxo22-web](https://github.com/gweicz/utxo22-landing) | Webová stránka utxo.cz |
+| Repozitář                                                                     | Popis                  |
+| ----------------------------------------------------------------------------- | ---------------------- |
+| [utxo-foundation/utxo22-docs](https://github.com/utxo-foundation/utxo22-docs) | GitBook dokumentace    |
+| [utxo-foundation/utxo22-web](https://github.com/utxo-foundation/utxo22-web)   | Webová stránka utxo.cz |
 
 ## Kontakt
 
