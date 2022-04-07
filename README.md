@@ -69,3 +69,5 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 
 - Web: [utxo.cz](https://utxo.cz)
 - Dokumentace: [docs.utxo.cz](https://docs.utxo.cz)
+- Foundation: [utxo.foundation](https://utxo.foundation)
+
