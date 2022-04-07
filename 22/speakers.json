@@ -156,6 +156,7 @@
     "name": "Dušan Kmetyo",
     "nickname": "OneBeerShow",
     "twitter": "DusanKmetyo",
+    "bio": "Organizátor konference [CryptoByte](https://cryptobyte.cz/), Youtuber",
     "tracks": [
       "zaklady",
       "btc",
@@ -304,6 +305,7 @@
       "dao",
       "nft"
     ],
+    "orgs": "[PWN Finance](https://pwn.finance/)\n",
     "country": "cz",
     "photos": [
       "twitter:jpg"
@@ -453,8 +455,10 @@
   },
   {
     "id": "michael-chobanian",
-    "name": "Michael Chobanian (Михайло Чобанян)",
+    "name": "Michael Chobanian",
+    "nickname": "Михайло Чобанян",
     "twitter": "ChobanianMike",
+    "bio": "Zakladatel první veřejné krypto burzy ve východní Evropě a [SNS](https://cs.wikipedia.org/wiki/Spole%C4%8Denstv%C3%AD_nez%C3%A1visl%C3%BDch_st%C3%A1t%C5%AF)\n",
     "orgs": "Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)\n",
     "tracks": [
       "regulace",
@@ -697,7 +701,7 @@
     "nickname": "StandaShow",
     "twitter": "StandaShow",
     "linkedin": "stanislavhruska",
-    "bio": "Youtuber a streamer",
+    "bio": "Youtuber a streamer pro dospělé",
     "orgs": "Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)\n",
     "tracks": [
       "spolecnost"
