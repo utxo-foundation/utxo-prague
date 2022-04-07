@@ -85,7 +85,7 @@
 
 - id: l2-zaklady
   type: talk
-  name: Layer2s - úvod do druhýh vrstev a proč je potřebujeme
+  name: Layer2s - úvod do druhých vrstev a proč je potřebujeme
   track: eth
   speakers: [ damsky ]
   duration: 55
