@@ -162,7 +162,8 @@
       "url": "https://t.me/join_bitcoachCHAT"
     },
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
@@ -174,7 +175,8 @@
       "url": "https://anycoin.cz/"
     },
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {

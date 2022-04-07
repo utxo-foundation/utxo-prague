@@ -74,20 +74,6 @@
         ]
       },
       {
-        "id": "anett-rohlikova",
-        "name": "Anett Rolikova",
-        "twitter": "anettrolikova",
-        "orgs": "[Ethereum Magicians](https://ethereum-magicians.org/)\n",
-        "tracks": [
-          "eth",
-          "nft"
-        ],
-        "country": "sk",
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "damsky",
         "name": "damsky",
         "twitter": "CryptoDamSky",
@@ -584,6 +570,20 @@
           "defi",
           "dao",
           "alty"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "petr-lukac",
+        "name": "Petr Lukáč",
+        "twitter": "RuzovejSlon",
+        "bio": "Novinář, autor podcastu [Krypto Insider](https://podcasty.hn.cz/krypto-insider/)\n",
+        "orgs": "[Hospodářské noviny](https://hn.cz/)\n",
+        "tracks": [
+          "spolecnost"
         ],
         "country": "cz",
         "photos": [
@@ -1556,7 +1556,8 @@
           "url": "https://t.me/join_bitcoachCHAT"
         },
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -1568,7 +1569,8 @@
           "url": "https://anycoin.cz/"
         },
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -2944,5 +2946,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-07T01:58:42.807Z"
+  "time": "2022-04-07T02:01:50.677Z"
 }
