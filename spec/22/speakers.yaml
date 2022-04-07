@@ -11,14 +11,6 @@
   tracks: [ eth, defi ]
   country: sk
 
-- id: anett-rohlikova
-  name: Anett Rolikova
-  twitter: anettrolikova
-  orgs: |
-    [Ethereum Magicians](https://ethereum-magicians.org/)
-  tracks: [ eth, nft ]
-  country: sk
-
 - id: damsky
   name: damsky
   twitter: CryptoDamSky
@@ -421,5 +413,15 @@
   orgs: |
     [Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)
   tracks: [ zaklady, spolecnost ]
+  country: cz
+
+- id: petr-lukac
+  name: Petr Lukáč
+  twitter: RuzovejSlon
+  bio: |
+    Novinář, autor podcastu [Krypto Insider](https://podcasty.hn.cz/krypto-insider/)
+  orgs: |
+    [Hospodářské noviny](https://hn.cz/)
+  tracks: [ spolecnost ]
   country: cz
 
