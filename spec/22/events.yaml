@@ -353,7 +353,13 @@
   duration: 10
   parent: lokalni-komunity-intro
   description: |
-    Představení https://holkyvkryptu.cz/
+    Představení iniciativy (Holky v kryptu)[https://holkyvkryptu.cz/], která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň. 
+
+    Cílem #holkyvkryptu je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.
+
+    Věříme ve společnost, která se vzájemně motivuje a posouvá dopředu.
+
+    #diversity #freedom #future
 
 - id: gwei-cz
   type: lightning
@@ -363,13 +369,7 @@
   duration: 10
   parent: lokalni-komunity-intro
   description: |
-    Představení iniciativy (Holky v kryptu)[https://holkyvkryptu.cz/], která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň. 
-
-    Cílem #holkyvkryptu je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.
-
-    Věříme ve společnost, která se vzájemně motivuje a posouvá dopředu.
-
-    #diversity #freedom #future
+    Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).
 
 - id: bankless-cz
   type: lightning
