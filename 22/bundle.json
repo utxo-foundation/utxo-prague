@@ -664,12 +664,12 @@
       {
         "id": "radek-svarz",
         "name": "Radek Švarz",
+        "linkedin": "radeksvarz",
         "tracks": [
           "defi",
           "dao",
           "regulace"
         ],
-        "twitter": "radk",
         "country": "cz",
         "photos": [
           "web:png",
@@ -2975,5 +2975,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-11T16:55:23.605Z"
+  "time": "2022-04-11T18:55:19.367Z"
 }
