@@ -436,7 +436,8 @@
       "tereza-starostova"
     ],
     "duration": 10,
-    "parent": "lokalni-komunity-intro"
+    "parent": "lokalni-komunity-intro",
+    "description": "Představení https://holkyvkryptu.cz/\n"
   },
   {
     "id": "gwei-cz",
@@ -445,7 +446,8 @@
     "track": "eth",
     "speakers": [],
     "duration": 10,
-    "parent": "lokalni-komunity-intro"
+    "parent": "lokalni-komunity-intro",
+    "description": "Představení iniciativy (Holky v kryptu)[https://holkyvkryptu.cz/], která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň. \n\nCílem #holkyvkryptu je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n"
   },
   {
     "id": "bankless-cz",
