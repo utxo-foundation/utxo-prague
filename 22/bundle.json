@@ -1355,7 +1355,7 @@
         ],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
-        "description": "Představení https://holkyvkryptu.cz/\n"
+        "description": "Představení iniciativy (Holky v kryptu)[https://holkyvkryptu.cz/], která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň. \n\nCílem #holkyvkryptu je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n"
       },
       {
         "id": "gwei-cz",
@@ -1365,7 +1365,7 @@
         "speakers": [],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
-        "description": "Představení iniciativy (Holky v kryptu)[https://holkyvkryptu.cz/], která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň. \n\nCílem #holkyvkryptu je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n"
+        "description": "Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).\n"
       },
       {
         "id": "bankless-cz",
@@ -2977,5 +2977,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-11T20:07:38.551Z"
+  "time": "2022-04-11T20:09:11.100Z"
 }
