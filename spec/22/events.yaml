@@ -185,6 +185,13 @@
   speakers: []
   duration: 45
 
+- id: high-freq-algo-trading-solana
+  type: talk
+  name: High frequency algo trading na Solaně
+  track: alty
+  speakers: [ ondrej-vostal ]
+  duration: 45
+
 # Workshops (workshopy)
 # =======================
 

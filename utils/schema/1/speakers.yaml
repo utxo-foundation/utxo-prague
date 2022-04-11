@@ -43,3 +43,5 @@ items:
     country:
       type: string
       pattern: "^[a-z]{2}$"
+    desc:
+      type: string

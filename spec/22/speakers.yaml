@@ -425,3 +425,15 @@
   tracks: [ spolecnost ]
   country: cz
 
+- id: ondrej-vostal
+  name: Ondřej Vostal
+  bio: Matematin a ekonom
+  orgs: |
+    Zakladatel [Chainkeepers](https://www.chainkeepers.io/)
+  web:
+    url: https://www.linkedin.com/in/ondrej-vostal/
+  tracks: [ eth, defi, alty ]
+  country: cz
+  desc: |
+    Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Zakladatel [ChainKeepers](https://www.chainkeepers.io/) týmu s ambicí stát se významnými DeFi a DEx keepery. Otevřený návrhům a myšlenkám a kontaktu.
+
