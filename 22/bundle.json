@@ -528,6 +528,25 @@
         ]
       },
       {
+        "id": "ondrej-vostal",
+        "name": "Ondřej Vostal",
+        "bio": "Matematin a ekonom",
+        "orgs": "Zakladatel [Chainkeepers](https://www.chainkeepers.io/)\n",
+        "web": {
+          "url": "https://www.linkedin.com/in/ondrej-vostal/"
+        },
+        "tracks": [
+          "eth",
+          "defi",
+          "alty"
+        ],
+        "country": "cz",
+        "desc": "Matematik a ekonom, který tíhne k uskutečňování datově orientovaných strategií na finančních trzích. Má bohaté zkušenosti z TradFi v oblasti arbitráží a market-making, drive a touhu globálně excelovat. Zakladatel [ChainKeepers](https://www.chainkeepers.io/) týmu s ambicí stát se významnými DeFi a DEx keepery. Otevřený návrhům a myšlenkám a kontaktu.\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "pavel-precechtel",
         "name": "Pavel Přecechtěl",
         "nickname": "HomΞr Shillson",
@@ -1120,6 +1139,16 @@
         "name": "Lokální NFT projekty",
         "track": "nft",
         "speakers": [],
+        "duration": 45
+      },
+      {
+        "id": "high-freq-algo-trading-solana",
+        "type": "talk",
+        "name": "High frequency algo trading na Solaně",
+        "track": "alty",
+        "speakers": [
+          "ondrej-vostal"
+        ],
         "duration": 45
       },
       {
@@ -2938,13 +2967,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 50,
+      "speakers": 51,
       "tracks": 9,
-      "events": 45,
+      "events": 46,
       "faqs": 6,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-07T02:37:57.711Z"
+  "time": "2022-04-11T16:53:14.836Z"
 }

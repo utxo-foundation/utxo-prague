@@ -224,6 +224,16 @@
     "duration": 45
   },
   {
+    "id": "high-freq-algo-trading-solana",
+    "type": "talk",
+    "name": "High frequency algo trading na Solaně",
+    "track": "alty",
+    "speakers": [
+      "ondrej-vostal"
+    ],
+    "duration": 45
+  },
+  {
     "id": "bezpecnost-workshop",
     "type": "workshop",
     "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
