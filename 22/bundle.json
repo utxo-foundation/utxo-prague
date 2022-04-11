@@ -1114,32 +1114,28 @@
         "type": "talk",
         "name": "Lokální krypto komunity",
         "track": "spolecnost",
-        "speakers": [],
-        "duration": 75
+        "speakers": []
       },
       {
         "id": "lokalni-projekty-intro",
         "type": "talk",
         "name": "Lokální krypto projekty",
         "track": "zaklady",
-        "speakers": [],
-        "duration": 75
+        "speakers": []
       },
       {
         "id": "lokalni-defi-intro",
         "type": "talk",
         "name": "Lokální DeFi projekty",
         "track": "defi",
-        "speakers": [],
-        "duration": 75
+        "speakers": []
       },
       {
         "id": "lokalni-nft-intro",
         "type": "talk",
         "name": "Lokální NFT projekty",
         "track": "nft",
-        "speakers": [],
-        "duration": 45
+        "speakers": []
       },
       {
         "id": "high-freq-algo-trading-solana",
@@ -2977,5 +2973,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-11T20:15:17.539Z"
+  "time": "2022-04-11T21:08:17.065Z"
 }

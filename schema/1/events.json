@@ -7,8 +7,7 @@
     "required": [
       "id",
       "type",
-      "name",
-      "duration"
+      "name"
     ],
     "properties": {
       "id": {
