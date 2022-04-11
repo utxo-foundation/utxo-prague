@@ -162,28 +162,24 @@
   name: Lokální krypto komunity
   track: spolecnost
   speakers: []
-  duration: 75
 
 - id: lokalni-projekty-intro
   type: talk
   name: Lokální krypto projekty
   track: zaklady
   speakers: []
-  duration: 75
 
 - id: lokalni-defi-intro
   type: talk
   name: Lokální DeFi projekty
   track: defi
   speakers: []
-  duration: 75
 
 - id: lokalni-nft-intro
   type: talk
   name: Lokální NFT projekty
   track: nft
   speakers: []
-  duration: 45
 
 - id: high-freq-algo-trading-solana
   type: talk

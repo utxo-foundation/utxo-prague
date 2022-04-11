@@ -6,7 +6,6 @@ items:
     - id
     - type
     - name
-    - duration
   properties:
     id:
       type: string
