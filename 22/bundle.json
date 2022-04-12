@@ -696,8 +696,7 @@
         ],
         "country": "cz",
         "photos": [
-          "web:png",
-          "twitter:jpg"
+          "web:png"
         ]
       },
       {
@@ -3243,5 +3242,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-12T16:48:56.852Z"
+  "time": "2022-04-12T16:53:49.131Z"
 }
