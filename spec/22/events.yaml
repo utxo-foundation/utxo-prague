@@ -17,6 +17,10 @@
   track: defi
   duration: 85
   rightAfter: czk-stablecoin
+  tags:
+    - stablecoin
+    - Ethereum
+    - DeFi
 
 # Talks (přednášky)
 # ====================
@@ -29,6 +33,9 @@
   duration: 55
   description: |
     Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)
+  tags:
+    - cypherpunk
+    - Bitcoin
 
 - id: pokrok-bez-povoleni
   type: talk
@@ -38,6 +45,9 @@
   duration: 55
   description: |
     Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/)
+  tags:
+    - sdílená ekonomika
+    - crowdfunding
 
 - id: fire-movement
   type: talk
@@ -47,6 +57,8 @@
   duration: 25
   description: |
     https://en.wikipedia.org/wiki/FIRE_movement
+  tags:
+    - finanční nezávislost
 
 - id: prace-zivobyti-v-kryptomenach
   type: talk
@@ -54,6 +66,8 @@
   track: zaklady
   duration: 25
   speakers: [ damsky ]
+  tags:
+    - finanční nezávislost
 
 - id: nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu
   type: talk
@@ -61,6 +75,9 @@
   track: spolecnost
   speakers: [ roman-mazur ]
   duration: 55
+  tags:
+    - DeFi
+    - seed investice
 
 - id: zaklady-zabezpeceni
   type: talk
@@ -68,6 +85,9 @@
   track: zaklady
   speakers: [ jan-cerny ]
   duration: 55
+  tags:
+    - bezpečnost
+    - Bitcoin
 
 - id: lightning-ekosystem
   type: talk
@@ -75,6 +95,9 @@
   track: btc
   speakers: [ hynek-jina ]
   duration: 55
+  tags:
+    - Bitcoin
+    - Lightning Network
 
 - id: l2-zaklady
   type: talk
@@ -82,6 +105,8 @@
   track: eth
   speakers: [ damsky ]
   duration: 55
+  tags:
+    - layer2
 
 - id: adopce-btc
   type: talk
@@ -91,6 +116,8 @@
   duration: 25
   description: |
     Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)
+  tags:
+    - Bitcoin
 
 - id: czk-stablecoin
   type: talk
@@ -98,6 +125,9 @@
   track: defi
   speakers: [ radek-svarz ]
   duration: 25
+  tags:
+    - stablecoin
+    - DeFi
 
 - id: oracles-obecne
   type: talk
@@ -105,6 +135,10 @@
   track: defi
   speakers: [ radek-svarz ]
   duration: 25
+  tags:
+    - oracles
+    - stablecoin
+    - DeFi
 
 - id: ceska-kryptonadace
   type: talk
@@ -112,6 +146,8 @@
   track: regulace
   speakers: [ radek-svarz ]
   duration: 25
+  tags:
+    - regulace
 
 - id: social-tokeny
   type: talk
@@ -119,6 +155,9 @@
   track: eth
   speakers: [ michaela-malatin ]
   duration: 55
+  tags:
+    - DeFi
+    - sociální tokeny
 
 - id: eth2
   type: talk
@@ -126,6 +165,9 @@
   track: eth
   speakers: [ mario-havel ]
   duration: 55
+  tags:
+    - Ethereum
+    - The Merge
 
 - id: defi-pro-zacatecniky
   type: talk
@@ -133,6 +175,8 @@
   track: defi
   speakers: [ jiri-cepelka ]
   duration: 55
+  tags:
+    - DeFi
 
 - id: pribeh-nejvetsiho-btc-donejtu
   type: talk
@@ -142,6 +186,8 @@
   duration: 25
   description: |
     Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)
+  tags:
+    - Bitcoin
 
 - id: budoucnost-kryptomen
   type: talk
@@ -149,6 +195,8 @@
   track: spolecnost
   speakers: [ sona-parke ]
   duration: 55
+  tags:
+    - budoucnost
 
 - id: high-freq-algo-trading-solana
   type: talk
@@ -156,6 +204,8 @@
   track: alty
   speakers: [ ondrej-vostal ]
   duration: 55
+  tags:
+    - Solana
 
 - id: uvod-do-polkadot-a-ekosystemu
   type: talk
@@ -163,6 +213,8 @@
   track: alty
   speakers: [ petr-mensik ]
   duration: 55
+  tags:
+    - Polkadot
 
 - id: lokalni-komunity-intro
   type: talk
@@ -183,12 +235,16 @@
   name: Lokální DeFi projekty
   track: defi
   speakers: []
+  tags:
+    - DeFi
 
 - id: lokalni-nft-intro
   type: talk
   name: Lokální NFT projekty
   track: nft
   speakers: []
+  tags:
+    - NFT
 
 # Workshops (workshopy)
 # =======================
@@ -199,6 +255,8 @@
   track: zaklady
   speakers: [ jan-cerny ]
   duration: 110
+  tags:
+    - bezpečnost
 
 - id: privacy-workshop
   type: workshop
@@ -208,6 +266,9 @@
   duration: 50
   description: |
     > privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍
+  tags:
+    - bezpečnost
+    - soukromí
 
 - id: l2-bridge-rampy-prakticky
   type: workshop
@@ -217,6 +278,9 @@
   duration: 50
   description: |
      Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps
+  tags:
+    - Ethereum
+    - layer2
 
 - id: btc-privacy
   type: workshop
@@ -224,6 +288,9 @@
   track: btc
   speakers: [ matthew-cook ]
   duration: 50
+  tags:
+    - Bitcoin
+    - soukromí
 
 - id: defi-pro-zacatecniky-workshop
   type: workshop
@@ -233,6 +300,8 @@
   duration: 50
   after: 
     - defi-pro-zacatecniky
+  tags:
+    - DeFi
 
 - id: krypto-z-pohledu-rodicu
   type: workshop
@@ -240,6 +309,9 @@
   track: zaklady
   speakers: [ sona-parke ]
   duration: 50
+  tags:
+    - finanční gramotnost
+    - děti
 
 - id: bleskomat-worskhop
   type: workshop
@@ -247,6 +319,9 @@
   track: btc
   speakers: [ mario-havel ]
   duration: 50
+  tags:
+    - Bitcoin
+    - Lightning Network
 
 # Lightning talks
 # ==========================
@@ -258,6 +333,8 @@
   speakers: [ dusan-kmetyo ]
   duration: 10
   parent: lokalni-projekty-intro
+  tags:
+    - konference
 
 - id: btc-platby
   type: lightning
@@ -266,6 +343,9 @@
   speakers: [ honza-dvorak ]
   duration: 10
   parent: lokalni-projekty-intro
+  tags:
+    - Bitcoin
+    - platby
 
 - id: bleskomat
   type: lightning
@@ -274,6 +354,10 @@
   speakers: [ mario-havel ]
   duration: 10
   parent: lokalni-projekty-intro
+  tags:
+    - Bitcoin
+    - Lightning Network
+    - platby
 
 - id: pwn
   type: lightning
@@ -282,6 +366,10 @@
   speakers: []
   duration: 10
   parent: lokalni-defi-intro
+  tags:
+    - Ethereum
+    - DeFi
+    - NFT
 
 - id: chainkeepers
   type: lightning
@@ -290,6 +378,10 @@
   speakers: []
   duration: 10
   parent: lokalni-defi-intro
+  tags:
+    - Ethereum
+    - DeFi
+    - arbitráže
 
 - id: flipper-zone
   type: lightning
@@ -298,6 +390,8 @@
   speakers: [ david-bankless ]
   duration: 10
   parent: lokalni-nft-intro
+  tags:
+    - NFT
 
 - id: marinade
   type: lightning
@@ -308,6 +402,9 @@
   parent: lokalni-defi-intro
   description: |
     stakování na Solaně
+  tags:
+    - staking
+    - Solana
 
 - id: apus
   type: lightning
@@ -316,6 +413,8 @@
   speakers: [ radek-svarz ]
   duration: 10
   parent: lokalni-defi-intro
+  tags:
+    - DeFi
 
 - id: liqwid
   type: lightning
@@ -324,6 +423,8 @@
   speakers: [ mark-stopka ]
   duration: 10
   parent: lokalni-defi-intro
+  tags:
+    - DeFi
 
 - id: stosujcz
   type: lightning
@@ -334,6 +435,9 @@
   parent: lokalni-projekty-intro
   description: |
     DCA spoření do kryptoměn ([web](http://stosuj.cz/)).
+  tags:
+    - spoření
+    - Bitcoin
 
 - id: futureland
   type: lightning
@@ -342,6 +446,8 @@
   speakers: [ pavel-riha ]
   duration: 10
   parent: lokalni-nft-intro
+  tags:
+    - NFT
 
 - id: holky-v-kryptu
   type: lightning
@@ -358,6 +464,11 @@
     Věříme ve společnost, která se vzájemně motivuje a posouvá dopředu.
 
     #diversity #freedom #future
+  tags:
+    - Bitcoin
+    - Ethereum
+    - DeFi
+    - NFT
 
 - id: gwei-cz
   type: lightning
@@ -368,6 +479,10 @@
   parent: lokalni-komunity-intro
   description: |
     Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).
+  tags:
+    - Ethereum
+    - DeFi
+    - DAO
 
 - id: bankless-cz
   type: lightning
@@ -376,6 +491,9 @@
   speakers: []
   duration: 10
   parent: lokalni-komunity-intro
+  tags:
+    - Bitcoin
+    - Ethereum
 
 - id: polkadotters
   type: lightning
@@ -384,6 +502,8 @@
   speakers: [ petr-mensik ]
   duration: 10
   parent: lokalni-komunity-intro
+  tags:
+    - Polkadot
 
 - id: cardanians
   type: lightning
@@ -392,6 +512,8 @@
   speakers: []
   duration: 10
   parent: lokalni-komunity-intro
+  tags:
+    - Cardano
 
 - id: kryptoherna
   type: lightning
@@ -400,6 +522,29 @@
   speakers: [ fetyas ]
   duration: 10
   parent: lokalni-komunity-intro
+  tags:
+    - gaming
+
+- id: bohemiandao
+  type: lightning
+  name: BohemianDAO
+  track: eth
+  speakers: []
+  duration: 10
+  parent: lokalni-projekty-intro
+  tags:
+    - DAO
+
+- id: slavicdao
+  type: lightning
+  name: SlavicDAO
+  track: eth
+  speakers: []
+  duration: 10
+  parent: lokalni-projekty-intro
+  tags:
+    - DAO
+
 
 # Ostatní
 # ==========================
