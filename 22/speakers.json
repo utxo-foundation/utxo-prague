@@ -435,6 +435,12 @@
       "spolecnost"
     ],
     "country": "cz",
+    "available": [
+      {
+        "from": "2022-06-04T00:00:00",
+        "to": "2022-06-04T23:59:59"
+      }
+    ],
     "photos": [
       "twitter:jpg"
     ]
@@ -794,6 +800,12 @@
       "btc"
     ],
     "country": "cz",
+    "available": [
+      {
+        "from": "2022-06-05T14:00:00",
+        "to": "2022-06-05T23:59:59"
+      }
+    ],
     "photos": [
       "web:jpg",
       "sm:png",
