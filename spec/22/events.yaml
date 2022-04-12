@@ -162,6 +162,8 @@
   name: Lokální krypto komunity
   track: spolecnost
   speakers: []
+  description: |
+    Představení lokálních česk-slovenských kryptoměnových komunit.
 
 - id: lokalni-projekty-intro
   type: talk
