@@ -1268,7 +1268,7 @@
           "dusan-kmetyo"
         ],
         "duration": 10,
-        "parent": "lokalni-komunity-intro"
+        "parent": "lokalni-projekty-intro"
       },
       {
         "id": "btc-platby",
@@ -1365,7 +1365,7 @@
         ],
         "duration": 10,
         "parent": "lokalni-projekty-intro",
-        "description": "DCA spoření do kryptomě\n"
+        "description": "DCA spoření do kryptoměn ([web](http://stosuj.cz/)).\n"
       },
       {
         "id": "futureland",
@@ -3028,5 +3028,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-12T12:34:52.694Z"
+  "time": "2022-04-12T13:03:19.083Z"
 }
