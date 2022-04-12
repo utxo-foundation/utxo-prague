@@ -2,65 +2,6 @@
   "$id": "https://spec.utxo.cz/schema/1/events.json",
   "type": "array",
   "items": {
-    "type": "object",
-    "additionalProperties": false,
-    "required": [
-      "id",
-      "type",
-      "name"
-    ],
-    "properties": {
-      "id": {
-        "type": "string",
-        "pattern": "^[a-z0-9-]+$"
-      },
-      "type": {
-        "type": "string",
-        "enum": [
-          "workshop",
-          "talk",
-          "panel",
-          "lightning",
-          "other"
-        ]
-      },
-      "track": {
-        "type": "string",
-        "pattern": "^[a-z0-9-]+$"
-      },
-      "name": {
-        "type": "string"
-      },
-      "speakers": {
-        "type": "array",
-        "items": {
-          "type": "string",
-          "pattern": "^[a-z0-9-]+$"
-        }
-      },
-      "duration": {
-        "type": "number"
-      },
-      "description": {
-        "type": "string"
-      },
-      "after": {
-        "type": "array",
-        "items": {
-          "type": "string",
-          "pattern": "^[a-z0-9-]+$"
-        }
-      },
-      "rightAfter": {
-        "type": "string",
-        "pattern": "^[a-z0-9-]+$"
-      },
-      "properties": {
-        "type": "object"
-      },
-      "parent": {
-        "pattern": "^[a-z0-9-]+$"
-      }
-    }
+    "$ref": "https://spec.utxo.cz/schema/1/event.json"
   }
 }
