@@ -162,6 +162,9 @@
   lead: true
   tracks: [ spolecnost, regulace, btc ]
   country: cz
+  available:
+    - from: '2022-06-05T14:00:00'
+      to: '2022-06-05T23:59:59'
 
 - id: martin-gregor
   name: Martin Gregor
@@ -278,6 +281,9 @@
   twitter: Matyas44Cook
   tracks: [ btc, spolecnost ]
   country: cz
+  available:
+    - from: '2022-06-04T00:00:00'
+      to: '2022-06-04T23:59:59'
 
 - id: resistance
   name: RΞSISTANCΞ

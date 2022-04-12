@@ -45,3 +45,18 @@ items:
       pattern: "^[a-z]{2}$"
     desc:
       type: string
+    available:
+      type: array
+      items:
+        type: object
+        additionalProperties: false
+        required:
+          - from
+          - to
+        properties:
+          from:
+            type: string
+            format: date-time
+          to:
+            type: string
+            format: date-time
