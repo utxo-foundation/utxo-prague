@@ -1,6 +1,7 @@
 {
   "$id": "https://spec.utxo.cz/schema/1/speaker.json",
   "type": "object",
+  "title": "Přednášející",
   "additionalProperties": false,
   "required": [
     "id",
@@ -9,27 +10,34 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[a-z0-9-]+$"
+      "pattern": "^[a-z0-9-]+$",
+      "title": "ID přednášejícího"
     },
     "name": {
-      "type": "string"
+      "type": "string",
+      "title": "Jméno přednášejícího"
     },
     "nickname": {
-      "type": "string"
+      "type": "string",
+      "title": "Přezdívka (nick)"
     },
     "twitter": {
       "type": "string",
-      "pattern": "^[a-zA-Z0-9_]+$"
+      "pattern": "^[a-zA-Z0-9_]+$",
+      "title": "Twitter uživatelské jméno (handle)"
     },
     "linkedin": {
       "type": "string",
-      "pattern": "^[a-zA-Z0-9_]+$"
+      "pattern": "^[a-zA-Z0-9_]+$",
+      "title": "LinkedIn uživatelské jméno"
     },
     "orgs": {
-      "type": "string"
+      "type": "string",
+      "title": "Organizace (Markdown)"
     },
     "bio": {
-      "type": "string"
+      "type": "string",
+      "title": "Stručný popis (bio) (Markdown)"
     },
     "web": {
       "type": "object",
@@ -42,26 +50,32 @@
         "name": {
           "type": "string"
         }
-      }
+      },
+      "title": "Webová stránka"
     },
     "lead": {
-      "type": "boolean"
+      "type": "boolean",
+      "title": "Hlavní přednášející"
     },
     "tracks": {
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "title": "Programové sekce"
     },
     "photos": {
-      "type": "array"
+      "type": "array",
+      "title": "Fotky"
     },
     "country": {
       "type": "string",
-      "pattern": "^[a-z]{2}$"
+      "pattern": "^[a-z]{2}$",
+      "title": "Země"
     },
     "desc": {
-      "type": "string"
+      "type": "string",
+      "title": "Popis přednášejícího (Markdown)"
     },
     "available": {
       "type": "array",
@@ -82,7 +96,8 @@
             "format": "date-time"
           }
         }
-      }
+      },
+      "title": "Dostupnosti"
     }
   }
 }

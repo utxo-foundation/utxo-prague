@@ -1,6 +1,7 @@
 {
   "$id": "https://spec.utxo.cz/schema/1/event.json",
   "type": "object",
+  "title": "Událost",
   "additionalProperties": false,
   "required": [
     "id",
@@ -10,7 +11,12 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[a-z0-9-]+$"
+      "pattern": "^[a-z0-9-]+$",
+      "title": "ID události"
+    },
+    "name": {
+      "type": "string",
+      "title": "Název události"
     },
     "type": {
       "type": "string",
@@ -20,27 +26,29 @@
         "panel",
         "lightning",
         "other"
-      ]
+      ],
+      "title": "Typ události"
     },
     "track": {
       "type": "string",
-      "pattern": "^[a-z0-9-]+$"
-    },
-    "name": {
-      "type": "string"
+      "pattern": "^[a-z0-9-]+$",
+      "title": "Programové sekce"
     },
     "speakers": {
       "type": "array",
       "items": {
         "type": "string",
         "pattern": "^[a-z0-9-]+$"
-      }
+      },
+      "title": "Přednášející"
     },
     "duration": {
-      "type": "number"
+      "type": "number",
+      "title": "Doba trvání"
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "title": "Popis události"
     },
     "after": {
       "type": "array",
@@ -58,7 +66,8 @@
     },
     "parent": {
       "type": "string",
-      "pattern": "^[a-z0-9-]+$"
+      "pattern": "^[a-z0-9-]+$",
+      "title": "Nadřazená událost"
     }
   }
 }
