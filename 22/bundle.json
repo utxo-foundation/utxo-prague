@@ -1092,7 +1092,8 @@
         "duration": 25,
         "description": "Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)\n",
         "tags": [
-          "Bitcoin"
+          "Bitcoin",
+          "regulace"
         ]
       },
       {
@@ -3256,5 +3257,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-12T21:12:01.968Z"
+  "time": "2022-04-12T21:22:23.977Z"
 }
