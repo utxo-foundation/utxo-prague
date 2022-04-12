@@ -99,6 +99,7 @@
     },
     "country": "sk",
     "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },
