@@ -41,4 +41,5 @@ properties:
   properties:
     type: object
   parent:
+    type: string
     pattern: "^[a-z0-9-]+$"

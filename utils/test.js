@@ -13,10 +13,8 @@ await utxo.init();
 const schemas = await utxo.schemas();
 
 const validators = {};
-console.log(schemas, schemas.map((s) => s.name));
 for (const item of schemas) {
   validators[item.name] = ajv.compile(item.schema);
-  //ajv.addSchema(item.schema)
 }
 
 // check entries
