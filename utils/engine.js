@@ -170,7 +170,9 @@ export class UTXOEngine {
       );
       schemaBundle[schema.name] = schema.schema;
     }
-    await this._jsonWrite([outputSchemaDir, "bundle.json"], { definitions: schemaBundle });
+    await this._jsonWrite([outputSchemaDir, "bundle.json"], {
+      definitions: schemaBundle,
+    });
 
     // write global index
     await this._jsonWrite([outputDir, "index.json"], entriesIndex);
