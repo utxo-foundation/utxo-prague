@@ -69,8 +69,11 @@
     "id": "polkadotters-czsk",
     "name": "Polkadotters",
     "type": "community",
-    "twitter": "PolkadottersS",
+    "twitter": "Polkadotters1",
     "desc": "Polkadot komunita",
+    "web": {
+      "url": "https://polkadotters.medium.com/"
+    },
     "photos": [
       "twitter:jpg"
     ]

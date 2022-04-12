@@ -661,6 +661,7 @@
           "defi"
         ],
         "country": "cz",
+        "desc": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku. Nejblíže je mi ovšem [Polkadot](https://polkadot.network/), proto jsme založili značku [Polkadotters](https://polkadotters.medium.com/) pod kterou pravidelně publikujeme pro mezinárodní publikum a zároveň provozujeme validátory na Polkadotu, Kusamě a téměr všech ostatních parachainech.\n",
         "photos": [
           "web:jpg"
         ]
@@ -1135,6 +1136,26 @@
         "duration": 55
       },
       {
+        "id": "high-freq-algo-trading-solana",
+        "type": "talk",
+        "name": "High frequency algo trading na Solaně",
+        "track": "alty",
+        "speakers": [
+          "ondrej-vostal"
+        ],
+        "duration": 55
+      },
+      {
+        "id": "uvod-do-polkadot-a-ekosystemu",
+        "type": "talk",
+        "name": "Úvod do Polkadotu a jeho ekosystému",
+        "track": "alty",
+        "speakers": [
+          "petr-mensik"
+        ],
+        "duration": 55
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "talk",
         "name": "Lokální krypto komunity",
@@ -1162,16 +1183,6 @@
         "name": "Lokální NFT projekty",
         "track": "nft",
         "speakers": []
-      },
-      {
-        "id": "high-freq-algo-trading-solana",
-        "type": "talk",
-        "name": "High frequency algo trading na Solaně",
-        "track": "alty",
-        "speakers": [
-          "ondrej-vostal"
-        ],
-        "duration": 45
       },
       {
         "id": "bezpecnost-workshop",
@@ -1531,8 +1542,11 @@
         "id": "polkadotters-czsk",
         "name": "Polkadotters",
         "type": "community",
-        "twitter": "PolkadottersS",
+        "twitter": "Polkadotters1",
         "desc": "Polkadot komunita",
+        "web": {
+          "url": "https://polkadotters.medium.com/"
+        },
         "photos": [
           "twitter:jpg"
         ]
@@ -3008,11 +3022,11 @@
     "counts": {
       "speakers": 52,
       "tracks": 9,
-      "events": 48,
+      "events": 49,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-12T12:03:59.533Z"
+  "time": "2022-04-12T12:29:02.452Z"
 }

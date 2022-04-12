@@ -192,6 +192,26 @@
     "duration": 55
   },
   {
+    "id": "high-freq-algo-trading-solana",
+    "type": "talk",
+    "name": "High frequency algo trading na Solaně",
+    "track": "alty",
+    "speakers": [
+      "ondrej-vostal"
+    ],
+    "duration": 55
+  },
+  {
+    "id": "uvod-do-polkadot-a-ekosystemu",
+    "type": "talk",
+    "name": "Úvod do Polkadotu a jeho ekosystému",
+    "track": "alty",
+    "speakers": [
+      "petr-mensik"
+    ],
+    "duration": 55
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "talk",
     "name": "Lokální krypto komunity",
@@ -219,16 +239,6 @@
     "name": "Lokální NFT projekty",
     "track": "nft",
     "speakers": []
-  },
-  {
-    "id": "high-freq-algo-trading-solana",
-    "type": "talk",
-    "name": "High frequency algo trading na Solaně",
-    "track": "alty",
-    "speakers": [
-      "ondrej-vostal"
-    ],
-    "duration": 45
   },
   {
     "id": "bezpecnost-workshop",
