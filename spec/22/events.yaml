@@ -206,6 +206,7 @@
   duration: 55
   tags:
     - Solana
+    - trading
 
 - id: uvod-do-polkadot-a-ekosystemu
   type: talk
