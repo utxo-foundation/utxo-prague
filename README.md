@@ -54,9 +54,11 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 ### Modely
 
 #### Speaker
+
 [Schema](https://json-schema.app/view/%23?url=https%3A%2F%2Fspec.utxo.cz%2Fschema%2F1%2Fspeaker.json)
 
 #### Event
+
 [Event](https://json-schema.app/view/%23?url=https%3A%2F%2Fspec.utxo.cz%2Fschema%2F1%2Fevent.json)
 
 ## Detaily k jednotlivým ročníkům
