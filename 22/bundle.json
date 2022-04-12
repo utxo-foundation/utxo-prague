@@ -143,6 +143,19 @@
         ]
       },
       {
+        "id": "dmitry",
+        "name": "Dmitrij Malyšev",
+        "nickname": "dMIT.RY",
+        "orgs": "Hudební label [Neo Violence](https://www.facebook.com/neo.violence)\n",
+        "web": {
+          "url": "https://www.facebook.com/neo.violence"
+        },
+        "country": "cz",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "dominik-stroukal",
         "name": "Dominik Stroukal",
         "twitter": "stroukal",
@@ -1415,6 +1428,14 @@
         ],
         "duration": 10,
         "parent": "lokalni-komunity-intro"
+      },
+      {
+        "id": "party-electronic-stage",
+        "type": "other",
+        "name": "UTXO.Party - Elektronická stage",
+        "speakers": [
+          "dmitry"
+        ]
       }
     ],
     "faqs": [
@@ -2985,13 +3006,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 51,
+      "speakers": 52,
       "tracks": 9,
-      "events": 47,
+      "events": 48,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-12T11:41:50.567Z"
+  "time": "2022-04-12T12:03:59.533Z"
 }

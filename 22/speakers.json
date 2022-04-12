@@ -118,6 +118,19 @@
     ]
   },
   {
+    "id": "dmitry",
+    "name": "Dmitrij Malyšev",
+    "nickname": "dMIT.RY",
+    "orgs": "Hudební label [Neo Violence](https://www.facebook.com/neo.violence)\n",
+    "web": {
+      "url": "https://www.facebook.com/neo.violence"
+    },
+    "country": "cz",
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "dominik-stroukal",
     "name": "Dominik Stroukal",
     "twitter": "stroukal",

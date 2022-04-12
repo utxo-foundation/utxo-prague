@@ -485,5 +485,13 @@
     ],
     "duration": 10,
     "parent": "lokalni-komunity-intro"
+  },
+  {
+    "id": "party-electronic-stage",
+    "type": "other",
+    "name": "UTXO.Party - Elektronická stage",
+    "speakers": [
+      "dmitry"
+    ]
   }
 ]
