@@ -162,7 +162,7 @@ export class UTXOEngine {
     await emptyDir(outputSchemaDir);
     console.log(`UTXO: writing schema (v${schemaVersion}) ..`);
 
-    const schemaBundle = []
+    const schemaBundle = [];
     for (const schema of schemas) {
       await this._jsonWrite(
         [outputSchemaDir, schema.name + ".json"],
@@ -170,7 +170,7 @@ export class UTXOEngine {
       );
       schemaBundle.push(schema.schema);
     }
-    await this._jsonWrite([ outputSchemaDir, 'bundle.json' ])
+    await this._jsonWrite([outputSchemaDir, "bundle.json"]);
 
     // write global index
     await this._jsonWrite([outputDir, "index.json"], entriesIndex);
