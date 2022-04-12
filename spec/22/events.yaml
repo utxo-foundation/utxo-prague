@@ -388,3 +388,10 @@
   duration: 10
   parent: lokalni-komunity-intro
 
+- id: kryptoherna
+  type: lightning
+  name: KryptoHerna
+  track: alty
+  speakers: [ fetyas ]
+  duration: 10
+  parent: lokalni-komunity-intro
