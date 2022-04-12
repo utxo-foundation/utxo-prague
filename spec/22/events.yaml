@@ -257,7 +257,7 @@
   track: spolecnost
   speakers: [ dusan-kmetyo ]
   duration: 10
-  parent: lokalni-komunity-intro
+  parent: lokalni-projekty-intro
 
 - id: btc-platby
   type: lightning
@@ -333,7 +333,7 @@
   duration: 10
   parent: lokalni-projekty-intro
   description: |
-    DCA spoření do kryptomě
+    DCA spoření do kryptoměn ([web](http://stosuj.cz/)).
 
 - id: futureland
   type: lightning
