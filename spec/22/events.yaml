@@ -336,6 +336,16 @@
     - Bitcoin
     - Lightning Network
 
+- id: 
+  type: workshop
+  name: Pujčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)
+  track: defi
+  speakers: [ radek-svarz ]
+  duration: 50
+  tags:
+    - pujčky
+    - DeFi
+
 # Lightning talks
 # ==========================
 
