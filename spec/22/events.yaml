@@ -393,3 +393,12 @@
   speakers: [ fetyas ]
   duration: 10
   parent: lokalni-komunity-intro
+
+# Ostatní
+# ==========================
+
+- id: party-electronic-stage
+  type: other
+  name: UTXO.Party - Elektronická stage
+  speakers: [ dmitry ]
+
