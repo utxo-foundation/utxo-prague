@@ -958,7 +958,12 @@
         },
         "track": "defi",
         "duration": 85,
-        "rightAfter": "czk-stablecoin"
+        "rightAfter": "czk-stablecoin",
+        "tags": [
+          "stablecoin",
+          "Ethereum",
+          "DeFi"
+        ]
       },
       {
         "id": "historie-cypherpunku",
@@ -969,7 +974,11 @@
           "matthew-cook"
         ],
         "duration": 55,
-        "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n"
+        "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n",
+        "tags": [
+          "cypherpunk",
+          "Bitcoin"
+        ]
       },
       {
         "id": "pokrok-bez-povoleni",
@@ -980,7 +989,11 @@
           "robert-chovanculiak"
         ],
         "duration": 55,
-        "description": "Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/)\n"
+        "description": "Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/)\n",
+        "tags": [
+          "sdílená ekonomika",
+          "crowdfunding"
+        ]
       },
       {
         "id": "fire-movement",
@@ -991,7 +1004,10 @@
           "tomas-kryptovlada"
         ],
         "duration": 25,
-        "description": "https://en.wikipedia.org/wiki/FIRE_movement\n"
+        "description": "https://en.wikipedia.org/wiki/FIRE_movement\n",
+        "tags": [
+          "finanční nezávislost"
+        ]
       },
       {
         "id": "prace-zivobyti-v-kryptomenach",
@@ -1001,6 +1017,9 @@
         "duration": 25,
         "speakers": [
           "damsky"
+        ],
+        "tags": [
+          "finanční nezávislost"
         ]
       },
       {
@@ -1011,7 +1030,11 @@
         "speakers": [
           "roman-mazur"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "DeFi",
+          "seed investice"
+        ]
       },
       {
         "id": "zaklady-zabezpeceni",
@@ -1021,7 +1044,11 @@
         "speakers": [
           "jan-cerny"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "bezpečnost",
+          "Bitcoin"
+        ]
       },
       {
         "id": "lightning-ekosystem",
@@ -1031,7 +1058,11 @@
         "speakers": [
           "hynek-jina"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "Bitcoin",
+          "Lightning Network"
+        ]
       },
       {
         "id": "l2-zaklady",
@@ -1041,7 +1072,10 @@
         "speakers": [
           "damsky"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "layer2"
+        ]
       },
       {
         "id": "adopce-btc",
@@ -1052,7 +1086,10 @@
           "adam-lokaj"
         ],
         "duration": 25,
-        "description": "Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)\n"
+        "description": "Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)\n",
+        "tags": [
+          "Bitcoin"
+        ]
       },
       {
         "id": "czk-stablecoin",
@@ -1062,7 +1099,11 @@
         "speakers": [
           "radek-svarz"
         ],
-        "duration": 25
+        "duration": 25,
+        "tags": [
+          "stablecoin",
+          "DeFi"
+        ]
       },
       {
         "id": "oracles-obecne",
@@ -1072,7 +1113,12 @@
         "speakers": [
           "radek-svarz"
         ],
-        "duration": 25
+        "duration": 25,
+        "tags": [
+          "oracles",
+          "stablecoin",
+          "DeFi"
+        ]
       },
       {
         "id": "ceska-kryptonadace",
@@ -1082,7 +1128,10 @@
         "speakers": [
           "radek-svarz"
         ],
-        "duration": 25
+        "duration": 25,
+        "tags": [
+          "regulace"
+        ]
       },
       {
         "id": "social-tokeny",
@@ -1092,7 +1141,11 @@
         "speakers": [
           "michaela-malatin"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "DeFi",
+          "sociální tokeny"
+        ]
       },
       {
         "id": "eth2",
@@ -1102,7 +1155,11 @@
         "speakers": [
           "mario-havel"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "Ethereum",
+          "The Merge"
+        ]
       },
       {
         "id": "defi-pro-zacatecniky",
@@ -1112,7 +1169,10 @@
         "speakers": [
           "jiri-cepelka"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "DeFi"
+        ]
       },
       {
         "id": "pribeh-nejvetsiho-btc-donejtu",
@@ -1123,7 +1183,10 @@
           "stanislav-hruska"
         ],
         "duration": 25,
-        "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n"
+        "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n",
+        "tags": [
+          "Bitcoin"
+        ]
       },
       {
         "id": "budoucnost-kryptomen",
@@ -1133,7 +1196,10 @@
         "speakers": [
           "sona-parke"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "budoucnost"
+        ]
       },
       {
         "id": "high-freq-algo-trading-solana",
@@ -1143,7 +1209,10 @@
         "speakers": [
           "ondrej-vostal"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "Solana"
+        ]
       },
       {
         "id": "uvod-do-polkadot-a-ekosystemu",
@@ -1153,7 +1222,10 @@
         "speakers": [
           "petr-mensik"
         ],
-        "duration": 55
+        "duration": 55,
+        "tags": [
+          "Polkadot"
+        ]
       },
       {
         "id": "lokalni-komunity-intro",
@@ -1175,14 +1247,20 @@
         "type": "talk",
         "name": "Lokální DeFi projekty",
         "track": "defi",
-        "speakers": []
+        "speakers": [],
+        "tags": [
+          "DeFi"
+        ]
       },
       {
         "id": "lokalni-nft-intro",
         "type": "talk",
         "name": "Lokální NFT projekty",
         "track": "nft",
-        "speakers": []
+        "speakers": [],
+        "tags": [
+          "NFT"
+        ]
       },
       {
         "id": "bezpecnost-workshop",
@@ -1192,7 +1270,10 @@
         "speakers": [
           "jan-cerny"
         ],
-        "duration": 110
+        "duration": 110,
+        "tags": [
+          "bezpečnost"
+        ]
       },
       {
         "id": "privacy-workshop",
@@ -1203,7 +1284,11 @@
           "petr-klein"
         ],
         "duration": 50,
-        "description": "> privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍\n"
+        "description": "> privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍\n",
+        "tags": [
+          "bezpečnost",
+          "soukromí"
+        ]
       },
       {
         "id": "l2-bridge-rampy-prakticky",
@@ -1214,7 +1299,11 @@
           "damsky"
         ],
         "duration": 50,
-        "description": "Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps\n"
+        "description": "Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps\n",
+        "tags": [
+          "Ethereum",
+          "layer2"
+        ]
       },
       {
         "id": "btc-privacy",
@@ -1224,7 +1313,11 @@
         "speakers": [
           "matthew-cook"
         ],
-        "duration": 50
+        "duration": 50,
+        "tags": [
+          "Bitcoin",
+          "soukromí"
+        ]
       },
       {
         "id": "defi-pro-zacatecniky-workshop",
@@ -1237,6 +1330,9 @@
         "duration": 50,
         "after": [
           "defi-pro-zacatecniky"
+        ],
+        "tags": [
+          "DeFi"
         ]
       },
       {
@@ -1247,7 +1343,11 @@
         "speakers": [
           "sona-parke"
         ],
-        "duration": 50
+        "duration": 50,
+        "tags": [
+          "finanční gramotnost",
+          "děti"
+        ]
       },
       {
         "id": "bleskomat-worskhop",
@@ -1257,7 +1357,11 @@
         "speakers": [
           "mario-havel"
         ],
-        "duration": 50
+        "duration": 50,
+        "tags": [
+          "Bitcoin",
+          "Lightning Network"
+        ]
       },
       {
         "id": "cryptobyte-recap",
@@ -1268,7 +1372,10 @@
           "dusan-kmetyo"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro"
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "konference"
+        ]
       },
       {
         "id": "btc-platby",
@@ -1279,7 +1386,11 @@
           "honza-dvorak"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro"
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "Bitcoin",
+          "platby"
+        ]
       },
       {
         "id": "bleskomat",
@@ -1290,7 +1401,12 @@
           "mario-havel"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro"
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "Bitcoin",
+          "Lightning Network",
+          "platby"
+        ]
       },
       {
         "id": "pwn",
@@ -1299,7 +1415,12 @@
         "track": "defi",
         "speakers": [],
         "duration": 10,
-        "parent": "lokalni-defi-intro"
+        "parent": "lokalni-defi-intro",
+        "tags": [
+          "Ethereum",
+          "DeFi",
+          "NFT"
+        ]
       },
       {
         "id": "chainkeepers",
@@ -1308,7 +1429,12 @@
         "track": "defi",
         "speakers": [],
         "duration": 10,
-        "parent": "lokalni-defi-intro"
+        "parent": "lokalni-defi-intro",
+        "tags": [
+          "Ethereum",
+          "DeFi",
+          "arbitráže"
+        ]
       },
       {
         "id": "flipper-zone",
@@ -1319,7 +1445,10 @@
           "david-bankless"
         ],
         "duration": 10,
-        "parent": "lokalni-nft-intro"
+        "parent": "lokalni-nft-intro",
+        "tags": [
+          "NFT"
+        ]
       },
       {
         "id": "marinade",
@@ -1331,7 +1460,11 @@
         ],
         "duration": 10,
         "parent": "lokalni-defi-intro",
-        "description": "stakování na Solaně\n"
+        "description": "stakování na Solaně\n",
+        "tags": [
+          "staking",
+          "Solana"
+        ]
       },
       {
         "id": "apus",
@@ -1342,7 +1475,10 @@
           "radek-svarz"
         ],
         "duration": 10,
-        "parent": "lokalni-defi-intro"
+        "parent": "lokalni-defi-intro",
+        "tags": [
+          "DeFi"
+        ]
       },
       {
         "id": "liqwid",
@@ -1353,7 +1489,10 @@
           "mark-stopka"
         ],
         "duration": 10,
-        "parent": "lokalni-defi-intro"
+        "parent": "lokalni-defi-intro",
+        "tags": [
+          "DeFi"
+        ]
       },
       {
         "id": "stosujcz",
@@ -1365,7 +1504,11 @@
         ],
         "duration": 10,
         "parent": "lokalni-projekty-intro",
-        "description": "DCA spoření do kryptoměn ([web](http://stosuj.cz/)).\n"
+        "description": "DCA spoření do kryptoměn ([web](http://stosuj.cz/)).\n",
+        "tags": [
+          "spoření",
+          "Bitcoin"
+        ]
       },
       {
         "id": "futureland",
@@ -1376,7 +1519,10 @@
           "pavel-riha"
         ],
         "duration": 10,
-        "parent": "lokalni-nft-intro"
+        "parent": "lokalni-nft-intro",
+        "tags": [
+          "NFT"
+        ]
       },
       {
         "id": "holky-v-kryptu",
@@ -1388,7 +1534,13 @@
         ],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
-        "description": "Představení iniciativy [Holky v kryptu](https://holkyvkryptu.cz/), která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň.\n\nCílem **#holkyvkryptu** je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n"
+        "description": "Představení iniciativy [Holky v kryptu](https://holkyvkryptu.cz/), která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň.\n\nCílem **#holkyvkryptu** je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n",
+        "tags": [
+          "Bitcoin",
+          "Ethereum",
+          "DeFi",
+          "NFT"
+        ]
       },
       {
         "id": "gwei-cz",
@@ -1398,7 +1550,12 @@
         "speakers": [],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
-        "description": "Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).\n"
+        "description": "Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).\n",
+        "tags": [
+          "Ethereum",
+          "DeFi",
+          "DAO"
+        ]
       },
       {
         "id": "bankless-cz",
@@ -1407,7 +1564,11 @@
         "track": "zaklady",
         "speakers": [],
         "duration": 10,
-        "parent": "lokalni-komunity-intro"
+        "parent": "lokalni-komunity-intro",
+        "tags": [
+          "Bitcoin",
+          "Ethereum"
+        ]
       },
       {
         "id": "polkadotters",
@@ -1418,7 +1579,10 @@
           "petr-mensik"
         ],
         "duration": 10,
-        "parent": "lokalni-komunity-intro"
+        "parent": "lokalni-komunity-intro",
+        "tags": [
+          "Polkadot"
+        ]
       },
       {
         "id": "cardanians",
@@ -1427,7 +1591,10 @@
         "track": "alty",
         "speakers": [],
         "duration": 10,
-        "parent": "lokalni-komunity-intro"
+        "parent": "lokalni-komunity-intro",
+        "tags": [
+          "Cardano"
+        ]
       },
       {
         "id": "kryptoherna",
@@ -1438,7 +1605,34 @@
           "fetyas"
         ],
         "duration": 10,
-        "parent": "lokalni-komunity-intro"
+        "parent": "lokalni-komunity-intro",
+        "tags": [
+          "gaming"
+        ]
+      },
+      {
+        "id": "bohemiandao",
+        "type": "lightning",
+        "name": "BohemianDAO",
+        "track": "eth",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "DAO"
+        ]
+      },
+      {
+        "id": "slavicdao",
+        "type": "lightning",
+        "name": "SlavicDAO",
+        "track": "eth",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "DAO"
+        ]
       },
       {
         "id": "party-electronic-stage",
@@ -3022,11 +3216,11 @@
     "counts": {
       "speakers": 52,
       "tracks": 9,
-      "events": 49,
+      "events": 51,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-12T13:03:19.083Z"
+  "time": "2022-04-12T14:37:57.024Z"
 }

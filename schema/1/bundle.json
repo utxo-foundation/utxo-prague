@@ -70,6 +70,12 @@
           "type": "string",
           "pattern": "^[a-z0-9-]+$",
           "title": "Nadřazená událost"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
         }
       }
     },
