@@ -1384,6 +1384,20 @@
         ]
       },
       {
+        "id": "pujcka-na-blockchainu-jednoduse-rychle",
+        "type": "workshop",
+        "name": "Pujčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)",
+        "track": "defi",
+        "speakers": [
+          "radek-svarz"
+        ],
+        "duration": 50,
+        "tags": [
+          "pujčky",
+          "DeFi"
+        ]
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -3236,11 +3250,11 @@
     "counts": {
       "speakers": 52,
       "tracks": 9,
-      "events": 52,
+      "events": 53,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-12T16:53:49.131Z"
+  "time": "2022-04-12T21:12:01.968Z"
 }
