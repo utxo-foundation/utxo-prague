@@ -197,7 +197,7 @@ export class UTXOEngine {
         ),
       });
     }
-    return arr;
+    return arr.sort((x, y) => x.name > y.name ? 1 : -1);
   }
 
   async _yamlLoad(fn) {
