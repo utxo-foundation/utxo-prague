@@ -1228,6 +1228,21 @@
         ]
       },
       {
+        "id": "gaming-v-rozvojovych-zemich",
+        "type": "talk",
+        "name": "Blockchainové hry v rozvojových zemích",
+        "track": "alty",
+        "speakers": [
+          "fetyas"
+        ],
+        "duration": 55,
+        "description": "Podrobnosti o příčinách a možných důsledcích silné adopce kryptoměn a NFTček zejména v Jihovýchodní Asii.\n",
+        "tags": [
+          "gaming",
+          "rozvojové země"
+        ]
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "talk",
         "name": "Lokální krypto komunity",
@@ -3216,11 +3231,11 @@
     "counts": {
       "speakers": 52,
       "tracks": 9,
-      "events": 51,
+      "events": 52,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-12T14:37:57.024Z"
+  "time": "2022-04-12T16:14:30.727Z"
 }
