@@ -711,7 +711,12 @@
   {
     "id": "roman-mazur",
     "name": "Roman Mazur",
+    "web": {
+      "name": "Wido: vyhledávač yieldů na stablecoinech\n",
+      "url": "https://www.joinwido.com/"
+    },
     "twitter": "romanmazur",
+    "orgs": "CEO & Co-founder @ [Wido](https://www.joinwido.com/)\n",
     "tracks": [
       "defi",
       "spolecnost"
