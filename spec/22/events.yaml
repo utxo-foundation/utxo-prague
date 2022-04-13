@@ -71,10 +71,16 @@
 
 - id: nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu
   type: talk
-  name: Jak nastartovat DeFi projekt a vybrat $1M+ od investorů v USA/Asii
+  name: Jak založit US startup a získat $1M+ od investorů v USA a Asii – na dálku z České Republiky
   track: spolecnost
   speakers: [ roman-mazur ]
   duration: 55
+  description: |
+    Roman má za sebou 10ti letou kariéru jako programátor a produkt manažer v menších startupech i globálních korporacích jako Microsoft. Žil pár let v Londýně, kde získal první profesionální zkušenosti s cryptem a DeFi v rámci práce pro Argent – firmu stojící za stejnojmennou peněženkou.
+
+    V roce 2021 se rozhodl založit vlastní startup jménem Wido (https://www.joinwido.com/), který chtěl od začátku cílit na US trh. Založení firmy v US sebou navíc přináší výhody ohledně fundraisingu – v US existují určité standardy, na které jsou investoři zvyklí. Celý svět v té době fungoval vzdáleně a proto se do toho vrhl z Česka.
+
+    Tato přednáška bude praktickým průvodcem k úspěšnému založení firmy v USA a přípravě na fundraising — vše na dálku z Česka. Dozvíte se kde sehnat co-foundera, ve kterém státě nejlépe firmu založit, kde sehnat právníky a účetní, na co si dát pozor během přípravy právních dokumentů pro získání peněz od investorů. Třešničkou na dortu pak bude tip na faxovací službu, kterou můžete použít pro vzdálenou komunikaci s americkými úřady v případě, kdy nevlastníte FAX.
   tags:
     - DeFi
     - seed investice

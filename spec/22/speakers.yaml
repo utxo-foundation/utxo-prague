@@ -326,9 +326,15 @@
 
 - id: roman-mazur
   name: Roman Mazur
+  web:
+    name: |
+      Wido: vyhledávač yieldů na stablecoinech
+    url: https://www.joinwido.com/
   twitter: romanmazur
+  orgs: |
+    CEO & Co-founder @ [Wido](https://www.joinwido.com/)
   tracks: [ defi, spolecnost ]
-  country: cz
+  country: cz  
 
 - id: dusan-kmetyo
   name: Dušan Kmetyo
