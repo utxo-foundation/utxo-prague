@@ -8,13 +8,13 @@ await utxo.init();
 const entry = utxo.entries["22"];
 
 // SPEAKERS
-const speakers = entry.specs.speakers;
-const sortedSpeakers = speakers.sort((a, b) => a.name.localeCompare(b.name));
+//const speakers = entry.specs.speakers;
+//const sortedSpeakers = speakers.sort((a, b) => a.name.localeCompare(b.name));
 const tracks = entry.specs.tracks;
 
 const methods = {
   // SPEAKERS - table
-  async speakersTableGen() {
+  /*async speakersTableGen() {
     const speakersTableArr = [["Jméno", "Organizace"]];
     for (const speaker of sortedSpeakers) {
       const name = `**${speaker.name}**`;
@@ -79,7 +79,7 @@ const methods = {
         .speakersTableGen()}\n\n### Datový`,
     );
     await Deno.writeTextFile(speakersDocFile, output);
-  },
+  },*/
 
   // TRACKS
   async tracksGen() {
@@ -105,7 +105,7 @@ const methods = {
     await Deno.writeTextFile(sourceFile, output);
   },
 
-  // FAQs
+  /*// FAQs
   async faqsGen() {
     const output = [];
     for (const item of entry.specs.faqs) {
@@ -125,7 +125,7 @@ const methods = {
 
     // TODO replace
     await Deno.writeTextFile(docFile, output);
-  },
+  },*/
 
   // PARTNERS
   async partnersGen(type = "community") {
@@ -170,9 +170,9 @@ const methods = {
 };
 
 if (!Deno.args[0]) {
-  await methods.speakersBuild();
+  //await methods.speakersBuild();
   await methods.tracksBuild();
-  await methods.faqsBuild();
+  //await methods.faqsBuild();
   await methods.partnersBuild();
   console.log("done");
 } else {
