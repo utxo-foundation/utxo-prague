@@ -249,6 +249,20 @@
     ]
   },
   {
+    "id": "jan-malina",
+    "name": "Jan Malina",
+    "nickname": "Metall",
+    "orgs": "Průvodce na [Scioškole v Nuslích](https://praha4.scioskola.cz/)\n",
+    "country": "cz",
+    "tracks": [
+      "nft"
+    ],
+    "desc": "Je mi 27 let. Jsem průvodce na Scioškole v Praze 4, kde učím matematiku a tělesnou výchovu. A vedu zde \"ateliér\" zabývající se kryptoměnami a blockchain hrami.\n",
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "jaromir-tesar",
     "name": "Jaromír Tesař",
     "twitter": "JaromirTesar",

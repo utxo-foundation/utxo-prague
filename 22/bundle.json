@@ -274,6 +274,20 @@
         ]
       },
       {
+        "id": "jan-malina",
+        "name": "Jan Malina",
+        "nickname": "Metall",
+        "orgs": "Průvodce na [Scioškole v Nuslích](https://praha4.scioskola.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "desc": "Je mi 27 let. Jsem průvodce na Scioškole v Praze 4, kde učím matematiku a tělesnou výchovu. A vedu zde \"ateliér\" zabývající se kryptoměnami a blockchain hrami.\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "jaromir-tesar",
         "name": "Jaromír Tesař",
         "twitter": "JaromirTesar",
@@ -1249,6 +1263,20 @@
         ]
       },
       {
+        "id": "blockchain-hry-a-deti",
+        "type": "talk",
+        "name": "Blockchain, hry a děti",
+        "track": "nft",
+        "speakers": [
+          "jan-malina"
+        ],
+        "duration": 55,
+        "tags": [
+          "gaming",
+          "děti"
+        ]
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "talk",
         "name": "Lokální krypto komunity",
@@ -1366,7 +1394,8 @@
         ],
         "duration": 50,
         "tags": [
-          "finanční gramotnost"
+          "finanční gramotnost",
+          "děti"
         ]
       },
       {
@@ -3248,13 +3277,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 52,
+      "speakers": 53,
       "tracks": 9,
-      "events": 53,
+      "events": 54,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-12T23:23:40.483Z"
+  "time": "2022-04-13T05:56:34.475Z"
 }

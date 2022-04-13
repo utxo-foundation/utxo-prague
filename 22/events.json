@@ -301,6 +301,20 @@
     ]
   },
   {
+    "id": "blockchain-hry-a-deti",
+    "type": "talk",
+    "name": "Blockchain, hry a děti",
+    "track": "nft",
+    "speakers": [
+      "jan-malina"
+    ],
+    "duration": 55,
+    "tags": [
+      "gaming",
+      "děti"
+    ]
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "talk",
     "name": "Lokální krypto komunity",
@@ -418,7 +432,8 @@
     ],
     "duration": 50,
     "tags": [
-      "finanční gramotnost"
+      "finanční gramotnost",
+      "děti"
     ]
   },
   {
