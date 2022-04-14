@@ -251,6 +251,16 @@
     - gaming
     - děti
 
+- id: digitalni-identita-v-metaverse
+  type: talk
+  name: Digitální identita v metaverse
+  track: nft
+  speakers: [ pavel-riha ]
+  duration: 25
+  tags:
+    - digitální identita
+    - metaverse
+
 - id: lokalni-komunity-intro
   type: talk
   name: Lokální krypto komunity
