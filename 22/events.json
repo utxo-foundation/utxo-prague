@@ -333,6 +333,61 @@
     ]
   },
   {
+    "id": "uvod-cosmos-ekosystem",
+    "type": "talk",
+    "name": "Úvod do Cosmos Ekosystému",
+    "track": "alty",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "duration": 55,
+    "tags": [
+      "Cosmos",
+      "Secret Network",
+      "Juno Network",
+      "Osmosis"
+    ]
+  },
+  {
+    "id": "uvod-near-ecosystem",
+    "type": "talk",
+    "name": "Úvod do NEAR",
+    "track": "alty",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "duration": 25,
+    "tags": [
+      "NEAR"
+    ]
+  },
+  {
+    "id": "zijeme-bez-fiatu",
+    "type": "talk",
+    "name": "Žijeme bez fiatu",
+    "track": "zaklady",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "duration": 55,
+    "tags": [
+      "finanční svoboda"
+    ]
+  },
+  {
+    "id": "je-krypto-letadlo",
+    "type": "talk",
+    "name": "Je krypto letadlo?",
+    "track": "zaklady",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "duration": 25,
+    "tags": [
+      "letectví"
+    ]
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "talk",
     "name": "Lokální krypto komunity",
@@ -480,6 +535,19 @@
     "tags": [
       "pujčky",
       "DeFi"
+    ]
+  },
+  {
+    "id": "near-v-praxi",
+    "type": "workshop",
+    "name": "NEAR v praxi",
+    "track": "alty",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "duration": 50,
+    "tags": [
+      "NEAR"
     ]
   },
   {
