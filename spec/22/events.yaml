@@ -274,7 +274,7 @@
     - Juno Network
     - Osmosis
 
-- id: uvod-near-ecosystem
+- id: uvod-near
   type: talk
   name: Úvod do NEAR
   track: alty
@@ -434,8 +434,21 @@
   track: alty
   speakers: [ vladimir-pinker ]
   duration: 50
+  after:
+    - uvod-do-near
   tags:
     - NEAR
+
+- id: jak-tezit-bitcoin
+  type: workshop
+  name: Jak těžit bitcoin
+  track: btc
+  speakers: [ kristian-csepcsar ]
+  duration: 80
+  tags:
+    - Bitcoin
+    - mining
+
 
 # Lightning talks
 # ==========================
