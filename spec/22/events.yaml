@@ -68,7 +68,7 @@
   speakers: [ damsky ]
   tags:
     - finanční nezávislost
-  desc: |
+  description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
 
 
@@ -116,7 +116,7 @@
   duration: 55
   tags:
     - layer2
-  desc: |
+  description: |
     Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.
 
 - id: adopce-btc
@@ -316,7 +316,7 @@
   tags:
     - Ethereum
     - layer2
-  desc: |
+  description: |
     V tomto workshopu se podiváme na aktuální možnosti bridgování na druhé vrstvy nad Ethereem, povíme si něco o jejich výhodách a nevýhodách, oficiální versus custom protokol bridge a ukážeme si jak se jednoduše dostat na druhé vrstvy pomocí Fiat ramp.
 
 - id: btc-privacy
