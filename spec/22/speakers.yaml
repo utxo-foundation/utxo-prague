@@ -520,3 +520,11 @@
   country: cz
   tracks: [ btc ]
 
+- id: martin-stava
+  name: Martin Šťáva
+  twitter: martinstava
+  orgs: |
+    Autor [Scavenger Land](https://t.co/GGqugcBUF1), spoluzakladatel [STRV](https://www.strv.com/)
+  country: cz
+  tracks: [ nft ]
+

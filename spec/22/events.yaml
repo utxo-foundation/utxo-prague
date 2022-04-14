@@ -116,6 +116,7 @@
   duration: 55
   tags:
     - layer2
+    - Zero-knowledge proof
   description: |
     Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.
 
@@ -514,6 +515,21 @@
   parent: lokalni-nft-intro
   tags:
     - NFT
+    - metaverse
+
+- id: scavenger-land
+  type: lightning
+  name: Scavenger Land
+  track: nft
+  speakers: [ martin-stava ]
+  duration: 10
+  parent: lokalni-nft-intro
+  tags:
+    - NFT
+    - gaming
+    - metaverse
+  description: |
+    Představení multiplayerové hry inspirované NFT s názvem [Scavenger Lands](https://scavengerland.com/).
 
 - id: holky-v-kryptu
   type: lightning
