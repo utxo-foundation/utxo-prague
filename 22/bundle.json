@@ -28,6 +28,7 @@
       {
         "id": "adam-kracik",
         "name": "Adam Kracík",
+        "bio": "Nezávislý žurnalista a kryptoměnový analytik",
         "tracks": [
           "zaklady",
           "btc",
@@ -78,6 +79,7 @@
         "id": "damsky",
         "name": "damsky",
         "twitter": "CryptoDamSky",
+        "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz)\n",
         "tracks": [
           "zaklady",
           "eth",
@@ -133,7 +135,7 @@
         "id": "david-bankless",
         "name": "DavidBankless",
         "twitter": "davidbankless",
-        "orgs": "[Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)\n",
+        "orgs": "Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)\n",
         "tracks": [
           "zaklady",
           "dao",
@@ -148,6 +150,7 @@
         "id": "dmitry",
         "name": "Dmitrij Malyšev",
         "nickname": "dMIT.RY",
+        "bio": "DJ, hudební producent",
         "orgs": "Hudební label [Neo Violence](https://www.facebook.com/neo.violence)\n",
         "web": {
           "url": "https://www.facebook.com/neo.violence"
@@ -246,6 +249,11 @@
       {
         "id": "jakub-kralovansky",
         "name": "Jakub Kraľovanský",
+        "bio": "Trader",
+        "orgs": "[Trader 2.0](https://trader20.sk/)\n",
+        "web": {
+          "url": "https://trader20.sk/"
+        },
         "twitter": "Trader_20_",
         "tracks": [
           "zaklady",
@@ -346,6 +354,7 @@
         ],
         "orgs": "[PWN Finance](https://pwn.finance/)\n",
         "country": "cz",
+        "desc": "V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky.\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -406,6 +415,7 @@
         "id": "lubos-kovarik",
         "name": "Luboš Kovařík",
         "twitter": "stosujcz",
+        "orgs": "Zakladatel [Štosuj.cz](http://stosuj.cz/)\n",
         "tracks": [
           "btc",
           "zaklady"
@@ -523,6 +533,7 @@
         "id": "michal-repetny",
         "name": "Michael Repetný",
         "twitter": "repetny",
+        "bio": "Ex-startupista, vývojář",
         "orgs": "[Marinade.finance](https://marinade.finance/)\n",
         "tracks": [
           "zaklady",
@@ -617,6 +628,8 @@
         "id": "petr-klein",
         "name": "Petr Klein",
         "twitter": "kleinptr",
+        "bio": "Libertarián, nadšenec do nových technologií",
+        "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/)\n",
         "tracks": [
           "zaklady",
           "eth",
@@ -755,6 +768,8 @@
         "id": "resistance",
         "name": "RΞSISTANCΞ",
         "twitter": "reesistancee",
+        "bio": "Seed investor, NFT nadšenec a sběratel",
+        "orgs": "Zakladatel [CZ/SK NFT komunity](https://t.co/YIqIB7Ne3Y)\n",
         "tracks": [
           "nft",
           "defi"
@@ -801,7 +816,7 @@
         "id": "tereza-starostova",
         "name": "Tereza Starostová",
         "twitter": "tatereza5",
-        "orgs": "[Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)\n",
+        "orgs": "Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)\n",
         "tracks": [
           "zaklady",
           "spolecnost"
@@ -846,7 +861,7 @@
         "name": "tree",
         "twitter": "treecz",
         "bio": "Libertarián, propagátor Web3 a DAOs",
-        "orgs": "Zakladatel [Gwei.cz](https://gwei.cz) a [BohemianDAO](https://bohemiandao.cz), organizátor [UTXO.22](https://utxo.cz) konference\n",
+        "orgs": "Zakladatel [Gwei.cz](https://gwei.cz) a [BohemianDAO](https://bohemiandao.cz), organizátor [UTXO.22](https://utxo.cz)\n",
         "country": "cz",
         "tracks": [
           "eth",
@@ -911,7 +926,7 @@
         "name": "Vojtěch Studený",
         "nickname": "vojtch",
         "twitter": "0xVojtch",
-        "orgs": "[Bankless.cz](https://bankless.cz/)\n",
+        "orgs": "Zakladatel [Bankless.cz](https://bankless.cz/), člen [Gwei.cz Councilu](https://gwei.cz)\n",
         "tracks": [
           "zaklady",
           "eth",
@@ -3305,5 +3320,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-14T11:15:44.746Z"
+  "time": "2022-04-14T11:42:38.648Z"
 }
