@@ -397,6 +397,20 @@
         ]
       },
       {
+        "id": "kristian-csepcsar",
+        "name": "Kristian Csepcsar",
+        "twitter": "kristiancsep",
+        "orgs": "Marketingový ředitel @ [Braiins](https://braiins.com/) a [Slush Pool](https://slushpool.com/en/home/)\n",
+        "country": "cz",
+        "tracks": [
+          "btc"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "tomas-kryptovlada",
         "name": "Krypto Tomas CZ",
         "twitter": "KryptoTomasCZ",
@@ -1520,6 +1534,21 @@
           "Bitcoin",
           "Lightning Network",
           "platby"
+        ]
+      },
+      {
+        "id": "braiins",
+        "type": "lightning",
+        "name": "Braiins",
+        "track": "btc",
+        "speakers": [
+          "kristian-csepcsar"
+        ],
+        "duration": 10,
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "Bitcoin",
+          "mining"
         ]
       },
       {
@@ -3328,13 +3357,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 55,
+      "speakers": 56,
       "tracks": 9,
-      "events": 54,
+      "events": 55,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-14T12:47:01.864Z"
+  "time": "2022-04-14T13:41:24.138Z"
 }

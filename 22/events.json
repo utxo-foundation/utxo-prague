@@ -513,6 +513,21 @@
     ]
   },
   {
+    "id": "braiins",
+    "type": "lightning",
+    "name": "Braiins",
+    "track": "btc",
+    "speakers": [
+      "kristian-csepcsar"
+    ],
+    "duration": 10,
+    "parent": "lokalni-projekty-intro",
+    "tags": [
+      "Bitcoin",
+      "mining"
+    ]
+  },
+  {
     "id": "pwn",
     "type": "lightning",
     "name": "PWN Finance",
