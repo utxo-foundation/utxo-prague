@@ -292,6 +292,16 @@
   tags:
     - finanční svoboda
 
+- id: jan-krypto-zmenilo-zabehle-firemni-struktury
+  type: talk
+  name: Jak krypto změnilo zaběhlé firemní struktury
+  track: dao
+  speakers: [ vladimir-pinker ]
+  duration: 25
+  tags:
+    - DAO
+    - organizace
+
 - id: je-krypto-letadlo
   type: talk
   name: Je krypto letadlo?
