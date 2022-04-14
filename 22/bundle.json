@@ -425,6 +425,7 @@
           "defi",
           "dao"
         ],
+        "bio": "Web3 ekonom & investor, lifestyle designer, DAO přispěvatel",
         "country": "cz",
         "photos": [
           "twitter:jpg"
@@ -566,10 +567,8 @@
         "id": "ondrej-vostal",
         "name": "Ondřej Vostal",
         "bio": "Matematik a ekonom",
+        "linkedin": "ondrej-vostal",
         "orgs": "Zakladatel [Chainkeepers](https://www.chainkeepers.io/)\n",
-        "web": {
-          "url": "https://www.linkedin.com/in/ondrej-vostal/"
-        },
         "tracks": [
           "eth",
           "defi",
@@ -768,9 +767,7 @@
       {
         "id": "sona-parke",
         "name": "Soňa Parke",
-        "web": {
-          "url": "https://cz.linkedin.com/in/sona-parke"
-        },
+        "linkedin": "sona-parke",
         "tracks": [
           "zaklady",
           "spolecnost"
@@ -840,6 +837,23 @@
           "spolecnost"
         ],
         "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "tree",
+        "name": "tree",
+        "twitter": "treecz",
+        "bio": "Libertarián, propagátor Web3 a DAOs",
+        "orgs": "Zakladatel [Gwei.cz](https://gwei.cz) a [BohemianDAO](https://bohemiandao.cz), organizátor [UTXO.22](https://utxo.cz) konference\n",
+        "country": "cz",
+        "tracks": [
+          "eth",
+          "defi",
+          "dao"
+        ],
+        "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -3283,7 +3297,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 53,
+      "speakers": 54,
       "tracks": 9,
       "events": 54,
       "faqs": 5,
@@ -3291,5 +3305,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-13T17:13:25.925Z"
+  "time": "2022-04-14T11:15:44.746Z"
 }
