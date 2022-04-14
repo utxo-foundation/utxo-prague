@@ -97,6 +97,8 @@
   tags:
     - bezpečnost
     - Bitcoin
+    - seed
+    - internet
 
 - id: lightning-ekosystem
   type: talk
@@ -131,6 +133,7 @@
   tags:
     - Bitcoin
     - regulace
+    - adopce
 
 - id: czk-stablecoin
   type: talk
@@ -301,6 +304,7 @@
   tags:
     - DAO
     - organizace
+    - společnost
 
 - id: je-krypto-letadlo
   type: talk
@@ -318,6 +322,8 @@
   speakers: []
   description: |
     Představení lokálních česko-slovenských kryptoměnových komunit.
+  tags:
+    - společnost
 
 - id: lokalni-projekty-intro
   type: talk
@@ -352,6 +358,8 @@
   duration: 110
   tags:
     - bezpečnost
+    - internet
+    - seed
 
 - id: privacy-workshop
   type: workshop
@@ -553,6 +561,7 @@
   parent: lokalni-defi-intro
   tags:
     - DeFi
+    - pujčky
 
 - id: liqwid
   type: lightning
