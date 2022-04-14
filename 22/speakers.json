@@ -172,6 +172,21 @@
     ]
   },
   {
+    "id": "helena-horska",
+    "name": "Helena Horská",
+    "twitter": "helenahorska",
+    "linkedin": "helena-horská-16242aa7",
+    "orgs": "Hlavní ekonomka [Raiffeisenbank](https://www.rb.cz/)\n",
+    "country": "cz",
+    "tracks": [
+      "regulace"
+    ],
+    "photos": [
+      "web:png",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "honza-dvorak",
     "name": "Honza Dvořák",
     "nickname": "Gorrdy",

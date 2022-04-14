@@ -198,6 +198,21 @@
         ]
       },
       {
+        "id": "helena-horska",
+        "name": "Helena Horská",
+        "twitter": "helenahorska",
+        "linkedin": "helena-horská-16242aa7",
+        "orgs": "Hlavní ekonomka [Raiffeisenbank](https://www.rb.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
+          "web:png",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "honza-dvorak",
         "name": "Honza Dvořák",
         "nickname": "Gorrdy",
@@ -1072,7 +1087,8 @@
         ],
         "tags": [
           "finanční nezávislost"
-        ]
+        ],
+        "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n"
       },
       {
         "id": "nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu",
@@ -1128,7 +1144,8 @@
         "duration": 55,
         "tags": [
           "layer2"
-        ]
+        ],
+        "description": "Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.\n"
       },
       {
         "id": "adopce-btc",
@@ -1383,11 +1400,11 @@
           "damsky"
         ],
         "duration": 50,
-        "description": "Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps\n",
         "tags": [
           "Ethereum",
           "layer2"
-        ]
+        ],
+        "description": "V tomto workshopu se podiváme na aktuální možnosti bridgování na druhé vrstvy nad Ethereem, povíme si něco o jejich výhodách a nevýhodách, oficiální versus custom protokol bridge a ukážeme si jak se jednoduše dostat na druhé vrstvy pomocí Fiat ramp.\n"
       },
       {
         "id": "btc-privacy",
@@ -3312,7 +3329,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 54,
+      "speakers": 55,
       "tracks": 9,
       "events": 54,
       "faqs": 5,
@@ -3320,5 +3337,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-14T11:42:38.648Z"
+  "time": "2022-04-14T12:39:27.706Z"
 }
