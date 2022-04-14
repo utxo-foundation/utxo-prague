@@ -21,7 +21,7 @@ properties:
     title: Twitter uživatelské jméno (handle)
   linkedin:
     type: string
-    pattern: "^[a-zA-Z0-9-]+$"
+    pattern: "^[a-zA-Z0-9-ěŘčřŽýáíé]+$"
     title: LinkedIn uživatelské jméno
   orgs:
     type: string

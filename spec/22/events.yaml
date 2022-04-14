@@ -311,8 +311,6 @@
   track: eth
   speakers: [ damsky ]
   duration: 50
-  description: |
-     Jak se dostat na druhou vrstvu pomocí bridgů nebo fiat on-ramps
   tags:
     - Ethereum
     - layer2
