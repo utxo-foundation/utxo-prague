@@ -105,7 +105,9 @@
     "duration": 55,
     "tags": [
       "bezpečnost",
-      "Bitcoin"
+      "Bitcoin",
+      "seed",
+      "internet"
     ]
   },
   {
@@ -149,7 +151,8 @@
     "description": "Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)\n",
     "tags": [
       "Bitcoin",
-      "regulace"
+      "regulace",
+      "adopce"
     ]
   },
   {
@@ -385,7 +388,8 @@
     "duration": 25,
     "tags": [
       "DAO",
-      "organizace"
+      "organizace",
+      "společnost"
     ]
   },
   {
@@ -407,7 +411,10 @@
     "name": "Lokální krypto komunity",
     "track": "spolecnost",
     "speakers": [],
-    "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n"
+    "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n",
+    "tags": [
+      "společnost"
+    ]
   },
   {
     "id": "lokalni-projekty-intro",
@@ -446,7 +453,9 @@
     ],
     "duration": 110,
     "tags": [
-      "bezpečnost"
+      "bezpečnost",
+      "internet",
+      "seed"
     ]
   },
   {
@@ -710,7 +719,8 @@
     "duration": 10,
     "parent": "lokalni-defi-intro",
     "tags": [
-      "DeFi"
+      "DeFi",
+      "pujčky"
     ]
   },
   {
