@@ -512,3 +512,11 @@
   country: cz
   tracks: [ regulace ]
 
+- id: kristian-csepcsar
+  name: Kristian Csepcsar
+  twitter: kristiancsep
+  orgs: |
+    Marketingový ředitel @ [Braiins](https://braiins.com/) a [Slush Pool](https://slushpool.com/en/home/)
+  country: cz
+  tracks: [ btc ]
+
