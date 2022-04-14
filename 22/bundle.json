@@ -519,6 +519,20 @@
         ]
       },
       {
+        "id": "martin-stava",
+        "name": "Martin Šťáva",
+        "twitter": "martinstava",
+        "orgs": "Autor [Scavenger Land](https://t.co/GGqugcBUF1), spoluzakladatel [STRV](https://www.strv.com/)\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "matthew-cook",
         "name": "Matthew Cook",
         "twitter": "Matyas44Cook",
@@ -1156,7 +1170,8 @@
         ],
         "duration": 55,
         "tags": [
-          "layer2"
+          "layer2",
+          "Zero-knowledge proof"
         ],
         "description": "Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.\n"
       },
@@ -1678,8 +1693,26 @@
         "duration": 10,
         "parent": "lokalni-nft-intro",
         "tags": [
-          "NFT"
+          "NFT",
+          "metaverse"
         ]
+      },
+      {
+        "id": "scavenger-land",
+        "type": "lightning",
+        "name": "Scavenger Land",
+        "track": "nft",
+        "speakers": [
+          "martin-stava"
+        ],
+        "duration": 10,
+        "parent": "lokalni-nft-intro",
+        "tags": [
+          "NFT",
+          "gaming",
+          "metaverse"
+        ],
+        "description": "Představení multiplayerové hry inspirované NFT s názvem [Scavenger Lands](https://scavengerland.com/).\n"
       },
       {
         "id": "holky-v-kryptu",
@@ -3371,13 +3404,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 56,
+      "speakers": 57,
       "tracks": 9,
-      "events": 56,
+      "events": 57,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-14T14:12:27.155Z"
+  "time": "2022-04-14T14:41:27.652Z"
 }
