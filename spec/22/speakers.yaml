@@ -4,6 +4,7 @@
 
 - id: adam-kracik
   name: Adam Kracík
+  bio: Nezávislý žurnalista a kryptoměnový analytik
   tracks: [ zaklady, btc, eth, defi, alty ]
   web:
     url: https://www.facebook.com/knox.gunner
@@ -18,6 +19,8 @@
 - id: damsky
   name: damsky
   twitter: CryptoDamSky
+  orgs: |
+    Člen [Gwei.cz Councilu](https://gwei.cz)
   tracks: [ zaklady, eth, defi, dao, spolecnost ]
   country: cz
 
@@ -25,7 +28,7 @@
   name: DavidBankless
   twitter: davidbankless
   orgs: |
-    [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)
+    Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)
   tracks: [ zaklady, dao, nft ]
   country: cz
 
@@ -95,6 +98,9 @@
 - id: petr-klein
   name: Petr Klein
   twitter: kleinptr
+  bio: Libertarián, nadšenec do nových technologií
+  orgs: |
+    Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/)
   tracks: [ zaklady, eth, defi, dao, alty ]
   country: cz
 
@@ -205,6 +211,7 @@
 - id: michal-repetny
   name: Michael Repetný
   twitter: repetny
+  bio: Ex-startupista, vývojář
   orgs: |
     [Marinade.finance](https://marinade.finance/)
   tracks: [ zaklady, eth, defi, alty ]
@@ -251,7 +258,7 @@
   nickname: vojtch
   twitter: 0xVojtch
   orgs: |
-    [Bankless.cz](https://bankless.cz/)
+    Zakladatel [Bankless.cz](https://bankless.cz/), člen [Gwei.cz Councilu](https://gwei.cz)
   tracks: [ zaklady, eth, dao, defi ]
   country: cz
 
@@ -296,6 +303,9 @@
 - id: resistance
   name: RΞSISTANCΞ
   twitter: reesistancee
+  bio: Seed investor, NFT nadšenec a sběratel
+  orgs: |
+    Zakladatel [CZ/SK NFT komunity](https://t.co/YIqIB7Ne3Y)
   tracks: [ nft, defi ]
   country: cz
 
@@ -318,9 +328,16 @@
   orgs: |
     [PWN Finance](https://pwn.finance/)
   country: cz
+  desc: |
+    V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky.
 
 - id: jakub-kralovansky
   name: Jakub Kraľovanský
+  bio: Trader
+  orgs: |
+    [Trader 2.0](https://trader20.sk/)
+  web:
+    url: https://trader20.sk/
   twitter: Trader_20_
   tracks: [ zaklady, btc, defi ]
   country: sk
@@ -366,6 +383,8 @@
 - id: lubos-kovarik
   name: Luboš Kovařík
   twitter: stosujcz
+  orgs: |
+    Zakladatel [Štosuj.cz](http://stosuj.cz/)
   tracks: [ btc, zaklady ]
   country: cz
 
@@ -430,7 +449,7 @@
   name: Tereza Starostová
   twitter: tatereza5
   orgs: |
-    [Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)
+    Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)
   tracks: [ zaklady, spolecnost ]
   country: cz
 
@@ -458,6 +477,7 @@
 - id: dmitry
   name: Dmitrij Malyšev
   nickname: dMIT.RY
+  bio: DJ, hudební producent
   orgs: |
     Hudební label [Neo Violence](https://www.facebook.com/neo.violence)
   web:
@@ -478,7 +498,7 @@
   twitter: treecz
   bio: Libertarián, propagátor Web3 a DAOs
   orgs: |
-    Zakladatel [Gwei.cz](https://gwei.cz) a [BohemianDAO](https://bohemiandao.cz), organizátor [UTXO.22](https://utxo.cz) konference
+    Zakladatel [Gwei.cz](https://gwei.cz) a [BohemianDAO](https://bohemiandao.cz), organizátor [UTXO.22](https://utxo.cz)
   country: cz
   tracks: [ eth, defi, dao ]
   desc: |
