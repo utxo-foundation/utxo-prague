@@ -447,7 +447,7 @@
   tags:
     - NEAR
 
-- id: bitcoin-těžba
+- id: bitcoin-tezba
   type: workshop
   name: Bitcoin těžba
   track: btc
