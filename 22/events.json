@@ -577,9 +577,9 @@
     ]
   },
   {
-    "id": "jak-tezit-bitcoin",
+    "id": "bitcoin-tezba",
     "type": "workshop",
-    "name": "Jak těžit bitcoin",
+    "name": "Bitcoin těžba",
     "track": "btc",
     "speakers": [
       "kristian-csepcsar"
