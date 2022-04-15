@@ -612,7 +612,7 @@
     "name": "Pavel Přecechtěl",
     "nickname": "HomΞr Shillson",
     "twitter": "homershillson",
-    "orgs": "[VR Education](https://vreducation.cz)\n",
+    "bio": "Degen, Seed investor",
     "tracks": [
       "eth",
       "defi",
@@ -622,6 +622,7 @@
     ],
     "country": "cz",
     "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },
