@@ -447,9 +447,9 @@
   tags:
     - NEAR
 
-- id: jak-tezit-bitcoin
+- id: bitcoin-těžba
   type: workshop
-  name: Jak těžit bitcoin
+  name: Bitcoin těžba
   track: btc
   speakers: [ kristian-csepcsar ]
   duration: 80
