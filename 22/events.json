@@ -48,7 +48,8 @@
     "description": "Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/)\n",
     "tags": [
       "sdílená ekonomika",
-      "crowdfunding"
+      "crowdfunding",
+      "společnost"
     ]
   },
   {
@@ -90,8 +91,8 @@
     "duration": 55,
     "description": "Roman má za sebou 10ti letou kariéru jako programátor a produkt manažer v menších startupech i globálních korporacích jako Microsoft. Žil pár let v Londýně, kde získal první profesionální zkušenosti s cryptem a DeFi v rámci práce pro Argent – firmu stojící za stejnojmennou peněženkou.\n\nV roce 2021 se rozhodl založit vlastní startup jménem Wido (https://www.joinwido.com/), který chtěl od začátku cílit na US trh. Založení firmy v US sebou navíc přináší výhody ohledně fundraisingu – v US existují určité standardy, na které jsou investoři zvyklí. Celý svět v té době fungoval vzdáleně a proto se do toho vrhl z Česka.\n\nTato přednáška bude praktickým průvodcem k úspěšnému založení firmy v USA a přípravě na fundraising — vše na dálku z Česka. Dozvíte se kde sehnat co-foundera, ve kterém státě nejlépe firmu založit, kde sehnat právníky a účetní, na co si dát pozor během přípravy právních dokumentů pro získání peněz od investorů. Třešničkou na dortu pak bude tip na faxovací službu, kterou můžete použít pro vzdálenou komunikaci s americkými úřady v případě, kdy nevlastníte FAX.\n",
     "tags": [
-      "DeFi",
-      "seed investice"
+      "seed investice",
+      "startupy"
     ]
   },
   {
@@ -207,7 +208,6 @@
     ],
     "duration": 55,
     "tags": [
-      "DeFi",
       "sociální tokeny"
     ]
   },
@@ -697,9 +697,7 @@
     "type": "lightning",
     "name": "Marinade Finance",
     "track": "alty",
-    "speakers": [
-      "michal-repetny"
-    ],
+    "speakers": [],
     "duration": 10,
     "parent": "lokalni-defi-intro",
     "description": "stakování na Solaně\n",
@@ -797,10 +795,7 @@
     "parent": "lokalni-komunity-intro",
     "description": "Představení iniciativy [Holky v kryptu](https://holkyvkryptu.cz/), která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň.\n\nCílem **#holkyvkryptu** je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n",
     "tags": [
-      "Bitcoin",
-      "Ethereum",
-      "DeFi",
-      "NFT"
+      "komunity"
     ]
   },
   {
