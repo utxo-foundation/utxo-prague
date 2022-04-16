@@ -207,14 +207,14 @@
   tracks: [ zaklady, defi, alty ]
   country: cz
 
-- id: michal-repetny
-  name: Michael Repetný
-  twitter: repetny
-  bio: Ex-startupista, vývojář
-  orgs: |
-    [Marinade.finance](https://marinade.finance/)
-  tracks: [ zaklady, eth, defi, alty ]
-  country: cz
+# - id: michal-repetny
+#  name: Michael Repetný
+#  twitter: repetny
+#  bio: Ex-startupista, vývojář
+#  orgs: |
+#    [Marinade.finance](https://marinade.finance/)
+#  tracks: [ zaklady, eth, defi, alty ]
+#  country: cz
 
 - id: jan-cerny
   name: Jan Černý

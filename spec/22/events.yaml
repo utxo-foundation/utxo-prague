@@ -48,6 +48,7 @@
   tags:
     - sdílená ekonomika
     - crowdfunding
+    - společnost
 
 - id: fire-movement
   type: talk
@@ -85,8 +86,8 @@
 
     Tato přednáška bude praktickým průvodcem k úspěšnému založení firmy v USA a přípravě na fundraising — vše na dálku z Česka. Dozvíte se kde sehnat co-foundera, ve kterém státě nejlépe firmu založit, kde sehnat právníky a účetní, na co si dát pozor během přípravy právních dokumentů pro získání peněz od investorů. Třešničkou na dortu pak bude tip na faxovací službu, kterou můžete použít pro vzdálenou komunikaci s americkými úřady v případě, kdy nevlastníte FAX.
   tags:
-    - DeFi
     - seed investice
+    - startupy
 
 - id: zaklady-zabezpeceni
   type: talk
@@ -172,7 +173,6 @@
   speakers: [ michaela-malatin ]
   duration: 55
   tags:
-    - DeFi
     - sociální tokeny
 
 - id: eth2
@@ -543,7 +543,7 @@
   type: lightning
   name: Marinade Finance
   track: alty
-  speakers: [ michal-repetny ]
+  speakers: []
   duration: 10
   parent: lokalni-defi-intro
   description: |
@@ -627,10 +627,7 @@
 
     #diversity #freedom #future
   tags:
-    - Bitcoin
-    - Ethereum
-    - DeFi
-    - NFT
+    - komunity
 
 - id: gwei-cz
   type: lightning
