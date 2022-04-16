@@ -406,6 +406,20 @@
     ]
   },
   {
+    "id": "prilezitosti-a-slabiny-nft-ve-hrach",
+    "type": "talk",
+    "name": "Příležitosti a slabiny NFT ve hrách",
+    "track": "nft",
+    "speakers": [
+      "martin-stava"
+    ],
+    "duration": 55,
+    "tags": [
+      "NFT",
+      "gaming"
+    ]
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "talk",
     "name": "Lokální krypto komunity",
