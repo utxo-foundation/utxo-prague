@@ -1729,20 +1729,6 @@
         ]
       },
       {
-        "id": "marinade",
-        "type": "lightning",
-        "name": "Marinade Finance",
-        "track": "alty",
-        "speakers": [],
-        "duration": 10,
-        "parent": "lokalni-defi-intro",
-        "description": "stakování na Solaně\n",
-        "tags": [
-          "staking",
-          "Solana"
-        ]
-      },
-      {
         "id": "apus",
         "type": "lightning",
         "name": "APUS Finance",
@@ -3508,11 +3494,11 @@
     "counts": {
       "speakers": 56,
       "tracks": 9,
-      "events": 65,
+      "events": 64,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-16T10:58:00.310Z"
+  "time": "2022-04-17T22:37:20.913Z"
 }

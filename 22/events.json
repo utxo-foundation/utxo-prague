@@ -707,20 +707,6 @@
     ]
   },
   {
-    "id": "marinade",
-    "type": "lightning",
-    "name": "Marinade Finance",
-    "track": "alty",
-    "speakers": [],
-    "duration": 10,
-    "parent": "lokalni-defi-intro",
-    "description": "stakování na Solaně\n",
-    "tags": [
-      "staking",
-      "Solana"
-    ]
-  },
-  {
     "id": "apus",
     "type": "lightning",
     "name": "APUS Finance",
