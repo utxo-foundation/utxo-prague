@@ -552,18 +552,18 @@
   tags:
     - NFT
 
-- id: marinade
-  type: lightning
-  name: Marinade Finance
-  track: alty
-  speakers: []
-  duration: 10
-  parent: lokalni-defi-intro
-  description: |
-    stakování na Solaně
-  tags:
-    - staking
-    - Solana
+# - id: marinade
+#   type: lightning
+#  name: Marinade Finance
+#  track: alty
+#  speakers: []
+#  duration: 10
+#  parent: lokalni-defi-intro
+#  description: |
+#    stakování na Solaně
+#  tags:
+#    - staking
+#    - Solana
 
 - id: apus
   type: lightning
