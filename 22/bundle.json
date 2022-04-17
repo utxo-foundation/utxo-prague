@@ -1037,6 +1037,7 @@
         "track": "defi",
         "duration": 85,
         "rightAfter": "czk-stablecoin",
+        "difficulty": "beginner",
         "tags": [
           "stablecoin",
           "Ethereum",
@@ -1052,6 +1053,7 @@
           "matthew-cook"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n",
         "tags": [
           "cypherpunk",
@@ -1067,6 +1069,7 @@
           "robert-chovanculiak"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "description": "Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/)\n",
         "tags": [
           "sdílená ekonomika",
@@ -1083,6 +1086,7 @@
           "tomas-kryptovlada"
         ],
         "duration": 25,
+        "difficulty": "beginner",
         "description": "https://en.wikipedia.org/wiki/FIRE_movement\n",
         "tags": [
           "finanční nezávislost"
@@ -1097,6 +1101,7 @@
         "speakers": [
           "damsky"
         ],
+        "difficulty": "beginner",
         "tags": [
           "finanční nezávislost"
         ],
@@ -1107,6 +1112,7 @@
         "type": "talk",
         "name": "Jak založit US startup a získat $1M+ od investorů v USA a Asii – na dálku z České Republiky",
         "track": "spolecnost",
+        "difficulty": "advanced",
         "speakers": [
           "roman-mazur"
         ],
@@ -1126,6 +1132,7 @@
           "jan-cerny"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "tags": [
           "bezpečnost",
           "Bitcoin",
@@ -1142,6 +1149,7 @@
           "hynek-jina"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "tags": [
           "Bitcoin",
           "Lightning Network"
@@ -1156,6 +1164,7 @@
           "damsky"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "tags": [
           "layer2",
           "Zero-knowledge proof"
@@ -1171,6 +1180,7 @@
           "adam-lokaj"
         ],
         "duration": 25,
+        "difficulty": "expert",
         "description": "Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)\n",
         "tags": [
           "Bitcoin",
@@ -1187,6 +1197,7 @@
           "radek-svarz"
         ],
         "duration": 25,
+        "difficulty": "advanced",
         "tags": [
           "stablecoin",
           "DeFi"
@@ -1201,6 +1212,7 @@
           "radek-svarz"
         ],
         "duration": 25,
+        "difficulty": "advanced",
         "tags": [
           "oracles",
           "stablecoin",
@@ -1216,6 +1228,7 @@
           "radek-svarz"
         ],
         "duration": 25,
+        "difficulty": "expert",
         "tags": [
           "regulace"
         ]
@@ -1229,6 +1242,7 @@
           "michaela-malatin"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "tags": [
           "sociální tokeny"
         ]
@@ -1242,6 +1256,7 @@
           "mario-havel"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "tags": [
           "Ethereum",
           "The Merge"
@@ -1256,6 +1271,7 @@
           "jiri-cepelka"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "tags": [
           "DeFi"
         ]
@@ -1269,6 +1285,7 @@
           "stanislav-hruska"
         ],
         "duration": 25,
+        "difficulty": "beginner",
         "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n",
         "tags": [
           "Bitcoin"
@@ -1283,6 +1300,7 @@
           "sona-parke"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "tags": [
           "budoucnost"
         ]
@@ -1296,6 +1314,7 @@
           "ondrej-vostal"
         ],
         "duration": 55,
+        "difficulty": "expert",
         "tags": [
           "Solana",
           "trading"
@@ -1310,6 +1329,7 @@
           "petr-mensik"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "tags": [
           "Polkadot"
         ]
@@ -1323,6 +1343,7 @@
           "fetyas"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "description": "Podrobnosti o příčinách a možných důsledcích silné adopce kryptoměn a NFTček zejména v Jihovýchodní Asii.\n",
         "tags": [
           "gaming",
@@ -1338,6 +1359,7 @@
           "jan-malina"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "tags": [
           "gaming",
           "děti"
@@ -1352,6 +1374,7 @@
           "pavel-riha"
         ],
         "duration": 25,
+        "difficulty": "advanced",
         "tags": [
           "digitální identita",
           "metaverse"
@@ -1366,6 +1389,7 @@
           "vladimir-pinker"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "tags": [
           "Cosmos",
           "Secret Network",
@@ -1382,6 +1406,7 @@
           "vladimir-pinker"
         ],
         "duration": 25,
+        "difficulty": "beginner",
         "tags": [
           "NEAR"
         ]
@@ -1395,6 +1420,7 @@
           "vladimir-pinker"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "tags": [
           "finanční svoboda"
         ]
@@ -1408,6 +1434,7 @@
           "vladimir-pinker"
         ],
         "duration": 25,
+        "difficulty": "beginner",
         "tags": [
           "DAO",
           "organizace",
@@ -1423,6 +1450,7 @@
           "vladimir-pinker"
         ],
         "duration": 25,
+        "difficulty": "beginner",
         "tags": [
           "letectví"
         ]
@@ -1436,6 +1464,7 @@
           "martin-stava"
         ],
         "duration": 55,
+        "difficulty": "advanced",
         "tags": [
           "NFT",
           "gaming"
@@ -1488,6 +1517,7 @@
           "jan-cerny"
         ],
         "duration": 110,
+        "difficulty": "beginner",
         "tags": [
           "bezpečnost",
           "internet",
@@ -1503,6 +1533,7 @@
           "petr-klein"
         ],
         "duration": 50,
+        "difficulty": "advanced",
         "description": "> privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍\n",
         "tags": [
           "bezpečnost",
@@ -1518,6 +1549,7 @@
           "damsky"
         ],
         "duration": 50,
+        "difficulty": "beginner",
         "tags": [
           "Ethereum",
           "layer2"
@@ -1533,6 +1565,7 @@
           "matthew-cook"
         ],
         "duration": 50,
+        "difficulty": "advanced",
         "tags": [
           "Bitcoin",
           "soukromí"
@@ -1547,6 +1580,7 @@
           "jiri-cepelka"
         ],
         "duration": 50,
+        "difficulty": "beginner",
         "after": [
           "defi-pro-zacatecniky"
         ],
@@ -1563,6 +1597,7 @@
           "sona-parke"
         ],
         "duration": 50,
+        "difficulty": "beginner",
         "tags": [
           "finanční gramotnost",
           "děti"
@@ -1577,6 +1612,7 @@
           "mario-havel"
         ],
         "duration": 50,
+        "difficulty": "expert",
         "tags": [
           "Bitcoin",
           "Lightning Network"
@@ -1591,6 +1627,7 @@
           "radek-svarz"
         ],
         "duration": 50,
+        "difficulty": "beginner",
         "tags": [
           "pujčky",
           "DeFi"
@@ -1605,6 +1642,7 @@
           "vladimir-pinker"
         ],
         "duration": 50,
+        "difficulty": "beginner",
         "after": [
           "uvod-do-near"
         ],
@@ -1621,6 +1659,7 @@
           "kristian-csepcsar"
         ],
         "duration": 80,
+        "difficulty": "advanced",
         "tags": [
           "Bitcoin",
           "mining"
@@ -3500,5 +3539,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-17T22:37:20.913Z"
+  "time": "2022-04-17T22:56:46.327Z"
 }

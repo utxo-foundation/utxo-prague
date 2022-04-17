@@ -74,6 +74,14 @@
       "items": {
         "type": "string"
       }
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "beginner",
+        "advanced",
+        "expert"
+      ]
     }
   }
 }
