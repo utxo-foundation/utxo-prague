@@ -527,3 +527,13 @@
   country: cz
   tracks: [ nft ]
 
+- id: kirill-juran
+  name: Kirill Juran
+  twitter: KirillJuran
+  linkedin: kirilljuran
+  bio: Právník, transakční a investiční poradce
+  orgs: |
+    CEO @ [SimpleTax&Law](https://www.smpl.cz/)
+  country: cz
+  tracks: [ regulace ]
+
