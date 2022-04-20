@@ -471,6 +471,21 @@
         ]
       },
       {
+        "id": "lukas-kovanda",
+        "name": "Lukáš Kovanda",
+        "twitter": "lukaskovanda",
+        "bio": "Ekonom a autor ekonomické literatury",
+        "orgs": "Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), analytik při [OSN](https://www.osn.cz/) \n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "m0xt",
         "name": "m0xt",
         "twitter": "m0xt_",
@@ -3608,7 +3623,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 58,
+      "speakers": 59,
       "tracks": 9,
       "events": 67,
       "faqs": 5,
@@ -3616,5 +3631,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-20T15:29:14.722Z"
+  "time": "2022-04-20T17:27:04.047Z"
 }
