@@ -546,3 +546,12 @@
   country: cz
   tracks: [ zaklady, defi, alty ]
 
+- id: lukas-kovanda
+  name: Lukáš Kovanda
+  twitter: lukaskovanda
+  bio: Ekonom a autor ekonomické literatury
+  orgs: |
+    Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), analytik při [OSN](https://www.osn.cz/) 
+  country: cz
+  tracks: [ regulace ]
+
