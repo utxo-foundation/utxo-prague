@@ -1078,6 +1078,21 @@
         ]
       },
       {
+        "id": "regulace-panel",
+        "type": "panel",
+        "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)",
+        "speakers": [
+          "kirill-juran"
+        ],
+        "track": "regulace",
+        "duration": 85,
+        "difficulty": "beginner",
+        "tags": [
+          "regulace",
+          "soukromí"
+        ]
+      },
+      {
         "id": "historie-cypherpunku",
         "type": "talk",
         "name": "Historie Cypherpunku",
@@ -3595,11 +3610,11 @@
     "counts": {
       "speakers": 58,
       "tracks": 9,
-      "events": 66,
+      "events": 67,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-20T14:49:01.752Z"
+  "time": "2022-04-20T15:29:14.722Z"
 }
