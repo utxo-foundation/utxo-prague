@@ -100,9 +100,6 @@
         "bio": "Eurofederalista, neoliberál, globalista",
         "orgs": "Spoluzakladatel spolku [Pro euro](https://proeuro.cz)\n",
         "tracks": [
-          "eth",
-          "btc",
-          "defi",
           "spolecnost"
         ],
         "country": "cz",
@@ -271,8 +268,7 @@
         "twitter": "Trader_20_",
         "tracks": [
           "zaklady",
-          "btc",
-          "defi"
+          "btc"
         ],
         "country": "sk",
         "photos": [
@@ -316,8 +312,6 @@
         "bio": "Blockchain expert, Cardano Ambassador",
         "orgs": "[Cardanians](https://cardanians.io/cs)\n",
         "tracks": [
-          "zaklady",
-          "defi",
           "alty"
         ],
         "country": "cz",
@@ -447,7 +441,6 @@
         "orgs": "Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)\n",
         "tracks": [
           "eth",
-          "defi",
           "dao"
         ],
         "country": "sk",
@@ -707,7 +700,6 @@
         "tracks": [
           "zaklady",
           "eth",
-          "defi",
           "dao",
           "alty"
         ],
@@ -741,7 +733,6 @@
         },
         "lead": true,
         "tracks": [
-          "defi",
           "nft",
           "spolecnost"
         ],
@@ -845,8 +836,7 @@
         "bio": "Seed investor, NFT nadšenec a sběratel",
         "orgs": "Zakladatel [CZ/SK NFT komunity](https://t.co/YIqIB7Ne3Y)\n",
         "tracks": [
-          "nft",
-          "defi"
+          "nft"
         ],
         "country": "cz",
         "photos": [
@@ -3649,5 +3639,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-20T22:25:34.444Z"
+  "time": "2022-04-20T22:49:27.580Z"
 }
