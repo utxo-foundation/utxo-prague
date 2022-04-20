@@ -101,7 +101,7 @@
   bio: Libertarián, nadšenec do nových technologií
   orgs: |
     Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/)
-  tracks: [ zaklady, eth, defi, dao, alty ]
+  tracks: [ zaklady, eth, dao, alty ]
   country: cz
 
 - id: petr-mara
@@ -111,7 +111,7 @@
   web:
     url: https://www.petrmara.com
   lead: true
-  tracks: [ defi, nft, spolecnost ]
+  tracks: [ nft, spolecnost ]
   country: cz
 
 - id: petr-mensik
@@ -195,7 +195,7 @@
   bio: Eurofederalista, neoliberál, globalista
   orgs: |
     Spoluzakladatel spolku [Pro euro](https://proeuro.cz)
-  tracks: [ eth, btc, defi, spolecnost ]
+  tracks: [ spolecnost ]
   country: cz
 
 - id: jaromir-tesar
@@ -204,7 +204,7 @@
   bio: Blockchain expert, Cardano Ambassador
   orgs: |
     [Cardanians](https://cardanians.io/cs)
-  tracks: [ zaklady, defi, alty ]
+  tracks: [ alty ]
   country: cz
 
 # - id: michal-repetny
@@ -305,7 +305,7 @@
   bio: Seed investor, NFT nadšenec a sběratel
   orgs: |
     Zakladatel [CZ/SK NFT komunity](https://t.co/YIqIB7Ne3Y)
-  tracks: [ nft, defi ]
+  tracks: [ nft ]
   country: cz
 
 - id: mark-stopka
@@ -338,7 +338,7 @@
   web:
     url: https://trader20.sk/
   twitter: Trader_20_
-  tracks: [ zaklady, btc, defi ]
+  tracks: [ zaklady, btc ]
   country: sk
 
 - id: roman-mazur
@@ -392,7 +392,7 @@
   twitter: LenklaH
   orgs: |
     Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)
-  tracks: [ eth, defi, dao ]
+  tracks: [ eth, dao ]
   country: sk
 
 - id: michael-chobanian
