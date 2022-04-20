@@ -23,6 +23,19 @@
     - Ethereum
     - DeFi
 
+- id: regulace-panel
+  type: panel
+  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
+  speakers:
+    - kirill-juran
+  track: regulace
+  duration: 85
+  difficulty: beginner
+  tags:
+    - regulace
+    - soukromí
+
+
 # Talks (přednášky)
 # ====================
 
