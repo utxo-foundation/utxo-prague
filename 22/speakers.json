@@ -590,6 +590,23 @@
     ]
   },
   {
+    "id": "ondrej-pilny",
+    "name": "Ondřej Pilný",
+    "twitter": "Ondrej_Pilny",
+    "linkedin": "ondrejpilny",
+    "orgs": "Zakladatel & CEO @ [Baserank](https://baserank.io/)",
+    "country": "cz",
+    "tracks": [
+      "zaklady",
+      "defi",
+      "alty"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "ondrej-vostal",
     "name": "Ondřej Vostal",
     "bio": "Matematik a ekonom",
