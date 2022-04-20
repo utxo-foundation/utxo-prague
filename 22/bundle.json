@@ -854,6 +854,21 @@
         ]
       },
       {
+        "id": "simona-pacakova",
+        "name": "Simona Pačáková",
+        "twitter": "SPacakova",
+        "bio": "Auditorka a daňová poradkyně",
+        "orgs": "Členka [BohemianDAO](https://bohemiandao.cz)\n",
+        "country": "cz",
+        "tracks": [
+          "regulace",
+          "dao"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "sona-parke",
         "name": "Soňa Parke",
         "linkedin": "sona-parke",
@@ -1075,7 +1090,8 @@
         "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
         "speakers": [
           "david-antos",
-          "radek-svarz"
+          "radek-svarz",
+          "simona-pacakova"
         ],
         "properties": {
           "moderators": [
@@ -1441,7 +1457,8 @@
         "tags": [
           "digitální identita",
           "metaverse"
-        ]
+        ],
+        "description": "...aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar\n"
       },
       {
         "id": "uvod-cosmos-ekosystem",
@@ -1907,7 +1924,7 @@
       {
         "id": "futureland",
         "type": "lightning",
-        "name": "Futureland.io",
+        "name": "Futureland",
         "track": "nft",
         "speakers": [
           "pavel-riha"
@@ -1917,7 +1934,8 @@
         "tags": [
           "NFT",
           "metaverse"
-        ]
+        ],
+        "description": "Jaké plány má vzdělávací web3 startup [Futureland DAO](https://futureland.io/), v čem se liší od ostatní NFT projektů, a proč vydáváme jednu z prvních tokenizovaných knih?\n"
       },
       {
         "id": "scavenger-land",
@@ -3623,7 +3641,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 59,
+      "speakers": 60,
       "tracks": 9,
       "events": 67,
       "faqs": 5,
@@ -3631,5 +3649,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-20T17:27:04.047Z"
+  "time": "2022-04-20T22:22:47.587Z"
 }

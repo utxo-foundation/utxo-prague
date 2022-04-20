@@ -828,6 +828,21 @@
     ]
   },
   {
+    "id": "simona-pacakova",
+    "name": "Simona Pačáková",
+    "twitter": "SPacakova",
+    "bio": "Auditorka a daňová poradkyně",
+    "orgs": "Členka [BohemianDAO](https://bohemiandao.cz)\n",
+    "country": "cz",
+    "tracks": [
+      "regulace",
+      "dao"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "sona-parke",
     "name": "Soňa Parke",
     "linkedin": "sona-parke",
