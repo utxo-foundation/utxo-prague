@@ -477,7 +477,8 @@
     "difficulty": "beginner",
     "tags": [
       "investice"
-    ]
+    ],
+    "description": "Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?\n"
   },
   {
     "id": "lokalni-komunity-intro",
@@ -747,7 +748,8 @@
     "tags": [
       "rating",
       "investice"
-    ]
+    ],
+    "description": "[Baserank](https://baserank.io/) pomáhá investorům lépe porozumět potenciálu a rizikům investic do krypto aktiv.\n"
   },
   {
     "id": "pwn",
