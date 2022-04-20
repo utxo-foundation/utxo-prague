@@ -12,6 +12,7 @@
   speakers:
     - david-antos
     - radek-svarz
+    - simona-pacakova
   properties:
     moderators: [ david-antos ]
   track: defi
@@ -300,6 +301,8 @@
   tags:
     - digitální identita
     - metaverse
+  description: |
+    ...aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar
 
 - id: uvod-cosmos-ekosystem
   type: talk
@@ -674,7 +677,7 @@
 
 - id: futureland
   type: lightning
-  name: Futureland.io
+  name: Futureland
   track: nft
   speakers: [ pavel-riha ]
   duration: 10
@@ -682,6 +685,8 @@
   tags:
     - NFT
     - metaverse
+  description: |
+    Jaké plány má vzdělávací web3 startup [Futureland DAO](https://futureland.io/), v čem se liší od ostatní NFT projektů, a proč vydáváme jednu z prvních tokenizovaných knih?
 
 - id: scavenger-land
   type: lightning

@@ -555,3 +555,12 @@
   country: cz
   tracks: [ regulace ]
 
+- id: simona-pacakova
+  name: Simona Pačáková
+  twitter: SPacakova
+  bio: Auditorka a daňová poradkyně
+  orgs: |
+    Členka [BohemianDAO](https://bohemiandao.cz)
+  country: cz
+  tracks: [ regulace, dao ]
+
