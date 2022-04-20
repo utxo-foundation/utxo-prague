@@ -5,7 +5,7 @@
 - id: adam-kracik
   name: Adam Kracík
   bio: Nezávislý žurnalista a kryptoměnový analytik
-  tracks: [ zaklady, btc, eth, defi, alty ]
+  tracks: [ zaklady, alty ]
   web:
     url: https://www.facebook.com/knox.gunner
   country: cz
