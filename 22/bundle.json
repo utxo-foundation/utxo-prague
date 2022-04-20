@@ -397,6 +397,22 @@
         ]
       },
       {
+        "id": "kirill-juran",
+        "name": "Kirill Juran",
+        "twitter": "KirillJuran",
+        "linkedin": "kirilljuran",
+        "bio": "Právník, transakční a investiční poradce",
+        "orgs": "CEO @ [SimpleTax&Law](https://www.smpl.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "kristian-csepcsar",
         "name": "Kristian Csepcsar",
         "twitter": "kristiancsep",
@@ -3531,7 +3547,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 56,
+      "speakers": 57,
       "tracks": 9,
       "events": 64,
       "faqs": 5,
@@ -3539,5 +3555,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-17T22:56:46.327Z"
+  "time": "2022-04-20T12:46:38.445Z"
 }
