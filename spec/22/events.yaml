@@ -354,6 +354,16 @@
     - NFT
     - gaming
 
+- id: fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv
+  type: talk
+  name: Fundamentální analýza jako základ investice do krypto aktiv
+  track: zaklady
+  speakers: [ ondrej-pilny ]
+  duration: 55
+  difficulty: beginner
+  tags:
+    - investice
+
  # Lightning talks (series)
  # =========================
 
@@ -556,6 +566,17 @@
   tags:
     - Bitcoin
     - mining
+
+- id: baserank
+  type: lightning
+  name: Baserank
+  track: btc
+  speakers: [ ondrej-pilny ]
+  duration: 10
+  parent: lokalni-projekty-intro
+  tags:
+    - rating
+    - investice
 
 - id: pwn
   type: lightning

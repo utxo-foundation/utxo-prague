@@ -537,3 +537,12 @@
   country: cz
   tracks: [ regulace ]
 
+- id: ondrej-pilny
+  name: Ondřej Pilný
+  twitter: Ondrej_Pilny
+  linkedin: ondrejpilny
+  orgs:
+    Zakladatel & CEO @ [Baserank](https://baserank.io/)
+  country: cz
+  tracks: [ zaklady, defi, alty ]
+
