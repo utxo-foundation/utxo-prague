@@ -1553,6 +1553,21 @@
         "description": "Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?\n"
       },
       {
+        "id": "volny-trh-penez",
+        "type": "talk",
+        "name": "Volný trh peněz",
+        "track": "spolecnost",
+        "speakers": [
+          "urza"
+        ],
+        "description": "Hospodářské cykly vnímáme jako něco nevyhnutelného, k čemu občas prostě dochází. To však nebylo vždy pravdou; ekonomické krize mají své příčiny – a to nejen konkrétní v podobě prasknutí té či oné bubliny, ale především zcela obecné související s monetární politikou států a jejich fiat měnami. Jejich životnost zdaleka není tak neomezená, jak by se mohlo jevit; a není náhoda, že v průměru přibližně odpovídá jedné lidské generaci. Tyto problémy mají celkem jednoduché řešení; a ačkoliv neexistuje politická vůle k jeho prosazení, prvním krokem je – jako vždy – šíření informací, vzdělávání (se) a veřejná debata, již můžeme společně iniciovat.\n",
+        "tags": [
+          "volný trh",
+          "finanční svoboda",
+          "anarchokapitalismus"
+        ]
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "talk",
         "name": "Lokální krypto komunity",
@@ -3632,11 +3647,11 @@
     "counts": {
       "speakers": 60,
       "tracks": 9,
-      "events": 67,
+      "events": 68,
       "faqs": 5,
       "partners": 24,
       "projects": 73
     }
   },
-  "time": "2022-04-20T22:55:42.960Z"
+  "time": "2022-04-21T11:32:28.885Z"
 }
