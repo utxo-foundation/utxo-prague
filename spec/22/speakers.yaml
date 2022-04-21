@@ -532,8 +532,10 @@
 
 - id: kirill-juran
   name: Kirill Juran
-  twitter: KirillJuran
   linkedin: kirilljuran
+  web:
+    url: https://www.youtube.com/c/KirillJuran/videos
+    name: Kirill Juran @ YouTube
   bio: Právník, transakční a investiční poradce
   orgs: |
     CEO @ [SimpleTax&Law](https://www.smpl.cz/)
