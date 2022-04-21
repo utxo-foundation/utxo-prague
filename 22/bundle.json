@@ -2234,14 +2234,14 @@
       },
       {
         "id": "bitcoach",
-        "name": "Bitcoach",
+        "name": "Bitcoach.org",
         "type": "sponsor",
         "twitter": "BitC0ach",
         "web": {
           "url": "https://t.me/join_bitcoachCHAT"
         },
         "photos": [
-          "web:jpg",
+          "web:png",
           "twitter:jpg"
         ]
       },
@@ -3643,5 +3643,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-21T16:03:40.164Z"
+  "time": "2022-04-21T16:09:46.812Z"
 }

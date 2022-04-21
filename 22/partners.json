@@ -134,14 +134,14 @@
   },
   {
     "id": "bitcoach",
-    "name": "Bitcoach",
+    "name": "Bitcoach.org",
     "type": "sponsor",
     "twitter": "BitC0ach",
     "web": {
       "url": "https://t.me/join_bitcoachCHAT"
     },
     "photos": [
-      "web:jpg",
+      "web:png",
       "twitter:jpg"
     ]
   },
