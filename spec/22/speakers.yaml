@@ -569,3 +569,10 @@
   country: cz
   tracks: [ regulace, dao ]
 
+- id: andrej-kalvoda
+  name: Andrej Kalvoda
+  bio: Traider 
+  orgs: |
+    [Blockspace](https://blockspace.cz/), [Youtube](https://www.youtube.com/channel/UCLb_SAXkeq8DEYPPYErQQEw?)
+  country: cz
+  tracks: [ zaklady ]
