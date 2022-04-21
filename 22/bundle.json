@@ -67,7 +67,9 @@
           "eth",
           "defi"
         ],
+        "bio": "Kryptoměnový analytik a kryptograf",
         "country": "sk",
+        "desc": "Som crypto analytik a tiež kryptograf vyše 6 rokov. Študoval som kryptografiu a jednotlivé kryptomeny, DeFi, ICO stablecoiny do hĺbky / Rabbit hole.\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -3653,5 +3655,5 @@
       "projects": 73
     }
   },
-  "time": "2022-04-21T11:32:28.885Z"
+  "time": "2022-04-21T15:50:49.703Z"
 }
