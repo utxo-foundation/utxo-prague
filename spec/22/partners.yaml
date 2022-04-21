@@ -66,19 +66,12 @@
   twitter: CeskaCkma
   desc: Spolek hájící zájmy podnikatelů v oblasti kryptoměn
 
-- id: kryptodenik
-  name: KryptoDeník
-  type: community
-  desc: Nejdůležitější novinky ze světa kryptoměn
-  web:
-    url: https://www.instagram.com/kryptodenik/
-
-- id: bitcoach-komunita
-  name: Bitcoach
-  type: community
-  desc: Alone, we can do so little; Together, we can do so much
-  web:
-    url: https://t.me/join_bitcoachCHAT
+# - id: bitcoach-komunita
+#  name: Bitcoach
+#  type: community
+#  desc: Alone, we can do so little; Together, we can do so much
+#  web:
+#    url: https://t.me/join_bitcoachCHAT
 
 # Sponsors
 # ======================
@@ -164,3 +157,10 @@
   type: medium
   web:
     url: https://www.svetandroida.cz/
+
+- id: kryptodenik
+  name: KryptoDeník
+  type: community
+  desc: Nejdůležitější novinky ze světa kryptoměn
+  web:
+    url: https://www.instagram.com/kryptodenik/
