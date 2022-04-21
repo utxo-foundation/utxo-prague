@@ -2209,30 +2209,6 @@
         ]
       },
       {
-        "id": "kryptodenik",
-        "name": "KryptoDeník",
-        "type": "community",
-        "desc": "Nejdůležitější novinky ze světa kryptoměn",
-        "web": {
-          "url": "https://www.instagram.com/kryptodenik/"
-        },
-        "photos": [
-          "web:jpg"
-        ]
-      },
-      {
-        "id": "bitcoach-komunita",
-        "name": "Bitcoach",
-        "type": "community",
-        "desc": "Alone, we can do so little; Together, we can do so much",
-        "web": {
-          "url": "https://t.me/join_bitcoachCHAT"
-        },
-        "photos": [
-          "web:jpg"
-        ]
-      },
-      {
         "id": "dydx-grants",
         "name": "dYdX Grants Program",
         "type": "sponsor",
@@ -2368,6 +2344,18 @@
         "type": "medium",
         "web": {
           "url": "https://www.svetandroida.cz/"
+        },
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
+        "id": "kryptodenik",
+        "name": "KryptoDeník",
+        "type": "community",
+        "desc": "Nejdůležitější novinky ze světa kryptoměn",
+        "web": {
+          "url": "https://www.instagram.com/kryptodenik/"
         },
         "photos": [
           "web:jpg"
@@ -3651,9 +3639,9 @@
       "tracks": 9,
       "events": 68,
       "faqs": 5,
-      "partners": 24,
+      "partners": 23,
       "projects": 73
     }
   },
-  "time": "2022-04-21T15:50:49.703Z"
+  "time": "2022-04-21T15:56:35.391Z"
 }
