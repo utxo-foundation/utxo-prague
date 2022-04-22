@@ -572,3 +572,28 @@
   country: cz
   tracks: [ regulace, dao ]
 
+- id: stana-mutlova
+  name: Stáňa Mutlová
+  orgs: |
+    Project Delivery Manager @ [GAMEE](https://www.gamee.com/)
+  web:
+    url: https://cz.linkedin.com/in/stanislava-mutlov%C3%A1-46118a64
+  country: cz
+  tracks: [ nft ]
+
+- id: matej-zimak
+  name: Matěj Zimák
+  twitter: mattbullish
+  bio: Podnikatel
+  orgs: |
+    Autor [The Divergents](https://thedivergents.io/)
+  country: cz
+  tracks: [ nft ]
+
+- id: jacob-jelen
+  name: Jacob Jelen
+  twitter: jacobjelen
+  bio: Product designer, Creative Technologist
+  country: cz
+  tracks: [ spolecnost ]
+
