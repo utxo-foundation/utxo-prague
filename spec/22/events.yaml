@@ -38,7 +38,7 @@
 
 - id: o-praci-v-kryptu
   type: panel
-  name: O práci v kryptu (moje cesta z normální práce do krypta)
+  name: Z normální práce do krypta
   speakers:
     - stana-mutlova
     - sona-parke
