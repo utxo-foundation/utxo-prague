@@ -765,6 +765,19 @@
     - DeFi
     - DAO
 
+- id: cz-sk-nft-community
+  type: lightning
+  name: CZ/SK NFT Community
+  track: nft
+  speakers: [ resistance ]
+  duration: 10
+  parent: lokalni-komunity-intro
+  description: |
+    [Pozvánka na Discord](https://discord.gg/X4MV9Pn5P8)
+  tags:
+    - NFT
+    - metaverse
+
 - id: bankless-cz
   type: lightning
   name: Bankless.cz

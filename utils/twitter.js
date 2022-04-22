@@ -23,7 +23,7 @@ const simple_twitter = new SimpleTwitter({
 const entryId = "22";
 const entry = utxo.entries[entryId];
 
-const collections = ["speakers", "partners", "projects"];
+const collections = ["speakers", "partners"];
 
 const arr = [];
 let total = 0;

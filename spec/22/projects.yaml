@@ -478,14 +478,6 @@
   tracks:
     - nft
 
-- id: foundation
-  name: Foundation
-  twitter: withFND
-  web:
-    url: https://foundation.app
-  tracks:
-    - nft
-
 - id: beeple
   name: Beeple
   twitter: beeple
