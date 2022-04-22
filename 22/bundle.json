@@ -587,6 +587,7 @@
         "tracks": [
           "nft"
         ],
+        "desc": "Podnikatel zajímající se o web3, NFTs a blockchain gaming.\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -1623,6 +1624,7 @@
         "speakers": [
           "urza"
         ],
+        "duration": 55,
         "description": "Hospodářské cykly vnímáme jako něco nevyhnutelného, k čemu občas prostě dochází. To však nebylo vždy pravdou; ekonomické krize mají své příčiny – a to nejen konkrétní v podobě prasknutí té či oné bubliny, ale především zcela obecné související s monetární politikou států a jejich fiat měnami. Jejich životnost zdaleka není tak neomezená, jak by se mohlo jevit; a není náhoda, že v průměru přibližně odpovídá jedné lidské generaci. Tyto problémy mají celkem jednoduché řešení; a ačkoliv neexistuje politická vůle k jeho prosazení, prvním krokem je – jako vždy – šíření informací, vzdělávání (se) a veřejná debata, již můžeme společně iniciovat.\n",
         "tags": [
           "volný trh",
@@ -3767,5 +3769,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-22T16:47:53.489Z"
+  "time": "2022-04-22T17:59:38.489Z"
 }
