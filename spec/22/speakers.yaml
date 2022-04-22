@@ -53,6 +53,9 @@
     [btcplatby.cz](https://btcplatby.cz)
   tracks: [ zaklady, btc ]
   country: cz
+  available:
+    - from: '2022-06-04T09:00:00'
+      to: '2022-06-04T23:59:59'
 
 - id: jiri-cepelka
   name: Jiří Čepelka
