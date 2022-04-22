@@ -244,6 +244,19 @@
         ]
       },
       {
+        "id": "jacob-jelen",
+        "name": "Jacob Jelen",
+        "twitter": "jacobjelen",
+        "bio": "Product designer, Creative Technologist",
+        "country": "cz",
+        "tracks": [
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jakub-jedlinsky",
         "name": "Jakub Jedlinský",
         "twitter": "Jakub_Jedlinsky",
@@ -565,6 +578,20 @@
         ]
       },
       {
+        "id": "matej-zimak",
+        "name": "Matěj Zimák",
+        "twitter": "mattbullish",
+        "bio": "Podnikatel",
+        "orgs": "Autor [The Divergents](https://thedivergents.io/)\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "matthew-cook",
         "name": "Matthew Cook",
         "twitter": "Matyas44Cook",
@@ -881,6 +908,21 @@
         ]
       },
       {
+        "id": "stana-mutlova",
+        "name": "Stáňa Mutlová",
+        "orgs": "Project Delivery Manager @ [GAMEE](https://www.gamee.com/)\n",
+        "web": {
+          "url": "https://cz.linkedin.com/in/stanislava-mutlov%C3%A1-46118a64"
+        },
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "stanislav-hruska",
         "name": "Stanislav Hruška",
         "nickname": "StandaShow",
@@ -1119,6 +1161,15 @@
         "tags": [
           "regulace",
           "soukromí"
+        ]
+      },
+      {
+        "id": "o-praci-v-kryptu",
+        "type": "panel",
+        "name": "O práci v kryptu (moje cesta z normální práce do krypta)",
+        "speakers": [
+          "stana-mutlova",
+          "sona-parke"
         ]
       },
       {
@@ -1791,6 +1842,35 @@
         "description": "Pokud se chcete seznámit s nadstavbou Bitcoinu, zajišťující instantní a levné platby, vyzkoušet si lightningové peněženky, a nebo dokonce získat pár satoshi (část bitcoinu) v rámci workshopu, přijďte a ukážeme si, jak tuto platební síť používat jako úplný začátečník, ale i jako pokročilý uživatel, který chce mít své klíče pod kontrolou. Projdeme si peněženky jako [Wallet of Satoshi](https://www.walletofsatoshi.com/) pro první pokusy nebo [Phoenix](https://phoenix.acinq.co/) již pro ty, co to myslí vážně a zmíníme jejich další vlastnosti, aby nás při samotném používání již nepřekvapily.\n"
       },
       {
+        "id": "team-building-najdi-partaka",
+        "type": "workshop",
+        "name": "Team Building - najdi parťáky na budování crypto projektů",
+        "track": "spolecnost",
+        "speakers": [
+          "jacob-jelen"
+        ],
+        "duration": 80,
+        "difficulty": "advanced",
+        "tags": [
+          "networking"
+        ]
+      },
+      {
+        "id": "jak-si-posichrovat-a-rozlozit-portfolio",
+        "type": "workshop",
+        "name": "Jak si posichrovat a rozložit svoje portfolio?",
+        "track": "zaklady",
+        "speakers": [
+          "tomas-zdrazil"
+        ],
+        "duration": 50,
+        "difficulty": "beginner",
+        "tags": [
+          "portfolio",
+          "investice"
+        ]
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -1907,6 +1987,21 @@
         "tags": [
           "NFT"
         ]
+      },
+      {
+        "id": "divergents",
+        "type": "lightning",
+        "name": "The Divergents",
+        "track": "nft",
+        "speakers": [
+          "matej-zimak"
+        ],
+        "duration": 10,
+        "parent": "lokalni-nft-intro",
+        "tags": [
+          "NFT"
+        ],
+        "description": "Altruismus v NFT světě a lekce ze stavění [The Divergents](https://thedivergents.io/).\n"
       },
       {
         "id": "apus",
@@ -3663,13 +3758,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 60,
+      "speakers": 63,
       "tracks": 9,
-      "events": 70,
+      "events": 74,
       "faqs": 5,
       "partners": 23,
       "projects": 72
     }
   },
-  "time": "2022-04-22T08:50:25.811Z"
+  "time": "2022-04-22T16:37:58.276Z"
 }

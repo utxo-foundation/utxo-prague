@@ -218,6 +218,19 @@
     ]
   },
   {
+    "id": "jacob-jelen",
+    "name": "Jacob Jelen",
+    "twitter": "jacobjelen",
+    "bio": "Product designer, Creative Technologist",
+    "country": "cz",
+    "tracks": [
+      "spolecnost"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "jakub-jedlinsky",
     "name": "Jakub Jedlinský",
     "twitter": "Jakub_Jedlinsky",
@@ -539,6 +552,20 @@
     ]
   },
   {
+    "id": "matej-zimak",
+    "name": "Matěj Zimák",
+    "twitter": "mattbullish",
+    "bio": "Podnikatel",
+    "orgs": "Autor [The Divergents](https://thedivergents.io/)\n",
+    "country": "cz",
+    "tracks": [
+      "nft"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "matthew-cook",
     "name": "Matthew Cook",
     "twitter": "Matyas44Cook",
@@ -850,6 +877,21 @@
     ],
     "orgs": "Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)\n",
     "country": "cz",
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
+    "id": "stana-mutlova",
+    "name": "Stáňa Mutlová",
+    "orgs": "Project Delivery Manager @ [GAMEE](https://www.gamee.com/)\n",
+    "web": {
+      "url": "https://cz.linkedin.com/in/stanislava-mutlov%C3%A1-46118a64"
+    },
+    "country": "cz",
+    "tracks": [
+      "nft"
+    ],
     "photos": [
       "web:jpg"
     ]
