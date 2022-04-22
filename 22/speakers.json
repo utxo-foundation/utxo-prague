@@ -555,13 +555,14 @@
     "id": "matej-zimak",
     "name": "Matěj Zimák",
     "twitter": "mattbullish",
-    "bio": "Podnikatel",
+    "linkedin": "matejzimak",
     "orgs": "Autor [The Divergents](https://thedivergents.io/)\n",
     "country": "cz",
     "tracks": [
       "nft"
     ],
     "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },

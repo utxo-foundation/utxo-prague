@@ -581,13 +581,14 @@
         "id": "matej-zimak",
         "name": "Matěj Zimák",
         "twitter": "mattbullish",
-        "bio": "Podnikatel",
+        "linkedin": "matejzimak",
         "orgs": "Autor [The Divergents](https://thedivergents.io/)\n",
         "country": "cz",
         "tracks": [
           "nft"
         ],
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -1166,7 +1167,7 @@
       {
         "id": "o-praci-v-kryptu",
         "type": "panel",
-        "name": "O práci v kryptu (moje cesta z normální práce do krypta)",
+        "name": "Z normální práce do krypta",
         "speakers": [
           "stana-mutlova",
           "sona-parke"
@@ -3766,5 +3767,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-22T16:37:58.276Z"
+  "time": "2022-04-22T16:47:53.489Z"
 }
