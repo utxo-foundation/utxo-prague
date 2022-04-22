@@ -218,6 +218,12 @@
           "btc"
         ],
         "country": "cz",
+        "available": [
+          {
+            "from": "2022-06-04T09:00:00",
+            "to": "2022-06-04T23:59:59"
+          }
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -1768,6 +1774,23 @@
         ]
       },
       {
+        "id": "lightning-transakce-a-penezenky-pro-zacatecniky",
+        "type": "workshop",
+        "name": "Lightning transakce a peněženky pro začátečníky",
+        "track": "btc",
+        "speakers": [
+          "honza-dvorak"
+        ],
+        "duration": 50,
+        "difficulty": "beginner",
+        "tags": [
+          "Bitcoin",
+          "Lightning Network",
+          "peněženky"
+        ],
+        "description": "Pokud se chcete seznámit s nadstavbou Bitcoinu, zajišťující instantní a levné platby, vyzkoušet si lightningové peněženky, a nebo dokonce získat pár satoshi (část bitcoinu) v rámci workshopu, přijďte a ukážeme si, jak tuto platební síť používat jako úplný začátečník, ale i jako pokročilý uživatel, který chce mít své klíče pod kontrolou. Projdeme si peněženky jako [Wallet of Satoshi](https://www.walletofsatoshi.com/) pro první pokusy nebo [Phoenix](https://phoenix.acinq.co/) již pro ty, co to myslí vážně a zmíníme jejich další vlastnosti, aby nás při samotném používání již nepřekvapily.\n"
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -1991,6 +2014,22 @@
           "Ethereum",
           "DeFi",
           "DAO"
+        ]
+      },
+      {
+        "id": "cz-sk-nft-community",
+        "type": "lightning",
+        "name": "CZ/SK NFT Community",
+        "track": "nft",
+        "speakers": [
+          "resistance"
+        ],
+        "duration": 10,
+        "parent": "lokalni-komunity-intro",
+        "description": "[Pozvánka na Discord](https://discord.gg/X4MV9Pn5P8)\n",
+        "tags": [
+          "NFT",
+          "metaverse"
         ]
       },
       {
@@ -3177,20 +3216,6 @@
         ]
       },
       {
-        "id": "foundation",
-        "name": "Foundation",
-        "twitter": "withFND",
-        "web": {
-          "url": "https://foundation.app"
-        },
-        "tracks": [
-          "nft"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "beeple",
         "name": "Beeple",
         "twitter": "beeple",
@@ -3640,11 +3665,11 @@
     "counts": {
       "speakers": 60,
       "tracks": 9,
-      "events": 68,
+      "events": 70,
       "faqs": 5,
       "partners": 23,
-      "projects": 73
+      "projects": 72
     }
   },
-  "time": "2022-04-21T16:40:06.324Z"
+  "time": "2022-04-22T08:50:25.811Z"
 }

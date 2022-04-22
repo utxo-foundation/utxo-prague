@@ -810,20 +810,6 @@
     ]
   },
   {
-    "id": "foundation",
-    "name": "Foundation",
-    "twitter": "withFND",
-    "web": {
-      "url": "https://foundation.app"
-    },
-    "tracks": [
-      "nft"
-    ],
-    "photos": [
-      "twitter:jpg"
-    ]
-  },
-  {
     "id": "beeple",
     "name": "Beeple",
     "twitter": "beeple",
