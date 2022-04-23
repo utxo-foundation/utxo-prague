@@ -879,6 +879,7 @@
     ],
     "orgs": "Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)\n",
     "country": "cz",
+    "lead": true,
     "photos": [
       "web:jpg"
     ]

@@ -905,6 +905,7 @@
         ],
         "orgs": "Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)\n",
         "country": "cz",
+        "lead": true,
         "photos": [
           "web:jpg"
         ]
@@ -3769,5 +3770,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-22T17:59:38.489Z"
+  "time": "2022-04-23T12:57:22.128Z"
 }
