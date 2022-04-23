@@ -432,6 +432,7 @@
   orgs: |
     Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)
   country: cz
+  lead: true
 
 - id: pavel-riha
   name: Pavel Říha
