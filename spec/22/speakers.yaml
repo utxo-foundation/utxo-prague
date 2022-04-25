@@ -28,7 +28,7 @@
   country: cz
 
 - id: david-bankless
-  name: DavidBankless
+  name: David Bankless
   twitter: davidbankless
   orgs: |
     Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)
@@ -61,6 +61,9 @@
   name: Jiří Čepelka
   twitter: JiriCepelka
   tracks: [ zaklady, eth, defi ]
+  bio: anarchokapitalista zabývající se smart-chainy
+  orgs: |
+    člen [Gwei.cz](https://gwei.cz), [KryptoVláďa](https://kryptovlada.win) komunity
   country: cz
 
 - id: juraj-bednar
@@ -160,6 +163,8 @@
     [Investree](https://investree.cz)
   tracks: [ eth, defi, spolecnost ]
   country: cz
+  desc: |
+    👨‍🌾Dad who farms ₿Ξ∞ 🌳Invest in the future. Live now. 🌏Global citizen
 
 - id: tomas-kryptovlada
   name: Krypto Tomas CZ
@@ -227,9 +232,11 @@
   nickname: -HoNY-
   twitter: JanCerny
   orgs: |
-    Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity
+    Spolutvůrce [KryptoDoupě.cz](https://kryptodoupe.cz), moderátor [discordu Bitcoinového kanálu](https://bitcoinovejkanal.cz/)
   tracks: [ zaklady, btc ]
   country: cz
+  desc: |
+    Jeden z mnoha moderátorů [discordu Bitcoinového kanálu](https://discord.gg/HWG9Erm). Jeden z otců zakladatelů projektu [KryptoDoupě.cz](https://kryptodoupe.cz). Holky mi píšou, jak dostat bitcoiny z Change Invest, kluci se ptají, jak těžit obskurní kryptoměny. Ale jinak jsem pěkná osina v prdeli. :o) (bude to chtít učesat)
 
 - id: adam-lokaj
   name: Adam Lokaj
@@ -247,9 +254,11 @@
   nickname: Fetyas
   twitter: hernakrypto
   orgs: |
-    YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)
+    YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)
   tracks: [ nft ]
   country: cz
+  desc: |
+    Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.
     
 - id: vojtch
   name: Vojtěch Studený
@@ -279,6 +288,8 @@
     name: stanceldavid.sk
     url: https://stanceldavid.sk/
   country: sk
+  desc: |
+    Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v PwC Slovensko. Spoluzakladal Blockchain Slovakia a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii Chief Investment Officer vo Fumbi. David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien (CoinStory.tech).
 
 - id: michaela-malatin
   name: Michaela Malatin
@@ -288,15 +299,21 @@
     Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)
   tracks: [ nft ]
   country: cz
+  desc: |
+    Členka [Holek v kryptu](https://holkyvkryptu.cz) se zaměřením na NFT. Jako technický projekťák v Red Hatu se přirozeně zaměřuje na fundamentální analýzy krypto projektů a Use cases NFT nejen jako prezentace obrázku. Své NFT znalosti sdílí na workshopech nebo konferencích v Evropě.
 
 - id: matthew-cook
   name: Matthew Cook
   twitter: Matyas44Cook
   tracks: [ btc, spolecnost ]
+  bio: Cypherpunk v učení, knihomol, autor článků o Bitcoinu
+  orgs: Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/)
   country: cz
   available:
     - from: '2022-06-04T00:00:00'
       to: '2022-06-04T23:59:59'
+  desc: |
+    Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/), Cypherpunk v učení, knihomol, autor článků o Bitcoinu. Zabývá se Rakouskou školou ekonomie, filozofií, novými technologiemi a nadevše věří v decentralizaci.
 
 - id: resistance
   name: RΞSISTANCΞ
@@ -318,6 +335,8 @@
   linkedin: radeksvarz
   tracks: [ defi, dao, regulace ]
   country: cz
+  desc: |
+    Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu Alzheimerchain. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
 
 - id: josefj
   name: JosefJ
@@ -374,9 +393,11 @@
   name: Josef Gattermayer
   twitter: jgattermayer
   orgs: |
-    Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)
+    Spoluzakladatel [Ackee](https://www.ackee.cz/), CEO @ [Ackee Blockchain](https://ackeeblockchain.com/)
   tracks: [ eth, defi, alty ]
   country: cz
+  desc: |
+    Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.
 
 - id: lubos-kovarik
   name: Luboš Kovařík
@@ -385,6 +406,8 @@
     Zakladatel [Štosuj.cz](http://stosuj.cz/)
   tracks: [ btc, zaklady ]
   country: cz
+  desc: |
+    Zakladatel služby Štosuj.cz. Nadšenec do kryptoměn a automatizace. Chci pomáhat lidem řešit stejný problém, který jsem měl já.
 
 - id: lenka-hudakova
   name: Lenka Hudáková
@@ -393,6 +416,8 @@
     Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)
   tracks: [ eth, dao ]
   country: sk
+  desc: |
+    Lenka vedie projekty a iniciatívy v [Sustainable Ecosystem Scaling Core Unit](https://ses.makerdao.network/), tíme pracujúcom pre [MakerDAO](https://makerdao.com/). Predtím bola súčasťou MarComms teamu v Maker Foundation, kde budovala komunitu a mala na starosti eventy. Pred Makerom bola v crypto trading a platbonej platforme Coinify a mala nastarosti marketing a komunikáciu. Mimo to spolubuduje komunity okolo nezávislej kultúry, startupov, a krypta.
 
 - id: michael-chobanian
   name: Michael Chobanian
@@ -426,6 +451,8 @@
     Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)
   country: cz
   lead: true
+  desc: |
+    Zakladatelka [#holkyvkryptu](https://holkyvkryptu.cz) a propagátorka (odvahy) finanční udržitelnosti jedince v jehož portfoliu je krypto ve správné míře.
 
 - id: pavel-riha
   name: Pavel Říha
@@ -603,4 +630,15 @@
     Entrepreneur with 2 successful exits. Networker and team leader with 6 y. crypto experience. Progress and efficiency seeking hard worker. Loves helping teams to grow. Decentralized life. Slavic DAO governor.
   country: sk
   tracks: [ dao, spolecnost ]
+
+- id: andy-kalvoda
+  name: Andy Kalvoda
+  twitter: andy_blockspace
+  bio: Trader, investor
+  orgs: |
+    Zakladatel [Blockspace](https://blockspace.cz/)
+  desc: |
+    Trader, investor a zakladatel Blockspace, kde ukazuju, jak k trhu přistupovat jednoduše a strategicky.
+  country: cz
+  tracks: [ zaklady ]
 
