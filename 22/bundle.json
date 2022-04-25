@@ -75,6 +75,22 @@
         ]
       },
       {
+        "id": "andy-kalvoda",
+        "name": "Andy Kalvoda",
+        "twitter": "andy_blockspace",
+        "bio": "Trader, investor",
+        "orgs": "Zakladatel [Blockspace](https://blockspace.cz/)\n",
+        "desc": "Trader, investor a zakladatel Blockspace, kde ukazuju, jak k trhu přistupovat jednoduše a strategicky.\n",
+        "country": "cz",
+        "tracks": [
+          "zaklady"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "damsky",
         "name": "damsky",
         "twitter": "CryptoDamSky",
@@ -107,6 +123,21 @@
         ]
       },
       {
+        "id": "david-bankless",
+        "name": "David Bankless",
+        "twitter": "davidbankless",
+        "orgs": "Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)\n",
+        "tracks": [
+          "zaklady",
+          "dao",
+          "nft"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "david-stancel",
         "name": "David Stancel",
         "nickname": "Ape Dogen",
@@ -122,23 +153,9 @@
           "url": "https://stanceldavid.sk/"
         },
         "country": "sk",
+        "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v PwC Slovensko. Spoluzakladal Blockchain Slovakia a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii Chief Investment Officer vo Fumbi. David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien (CoinStory.tech).\n",
         "photos": [
           "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "david-bankless",
-        "name": "DavidBankless",
-        "twitter": "davidbankless",
-        "orgs": "Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)\n",
-        "tracks": [
-          "zaklady",
-          "dao",
-          "nft"
-        ],
-        "country": "cz",
-        "photos": [
           "twitter:jpg"
         ]
       },
@@ -299,12 +316,13 @@
         "name": "Jan Černý",
         "nickname": "-HoNY-",
         "twitter": "JanCerny",
-        "orgs": "Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity\n",
+        "orgs": "Spolutvůrce [KryptoDoupě.cz](https://kryptodoupe.cz), moderátor [discordu Bitcoinového kanálu](https://bitcoinovejkanal.cz/)\n",
         "tracks": [
           "zaklady",
           "btc"
         ],
         "country": "cz",
+        "desc": "Jeden z mnoha moderátorů [discordu Bitcoinového kanálu](https://discord.gg/HWG9Erm). Jeden z otců zakladatelů projektu [KryptoDoupě.cz](https://kryptodoupe.cz). Holky mi píšou, jak dostat bitcoiny z Change Invest, kluci se ptají, jak těžit obskurní kryptoměny. Ale jinak jsem pěkná osina v prdeli. :o) (bude to chtít učesat)\n",
         "photos": [
           "web:webp",
           "twitter:jpg"
@@ -347,6 +365,8 @@
           "eth",
           "defi"
         ],
+        "bio": "anarchokapitalista zabývající se smart-chainy",
+        "orgs": "člen [Gwei.cz](https://gwei.cz), [KryptoVláďa](https://kryptovlada.win) komunity\n",
         "country": "cz",
         "photos": [
           "twitter:jpg"
@@ -356,13 +376,14 @@
         "id": "josef-gattermayer",
         "name": "Josef Gattermayer",
         "twitter": "jgattermayer",
-        "orgs": "Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+        "orgs": "Spoluzakladatel [Ackee](https://www.ackee.cz/), CEO @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
         "tracks": [
           "eth",
           "defi",
           "alty"
         ],
         "country": "cz",
+        "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -465,6 +486,7 @@
           "dao"
         ],
         "country": "sk",
+        "desc": "Lenka vedie projekty a iniciatívy v [Sustainable Ecosystem Scaling Core Unit](https://ses.makerdao.network/), tíme pracujúcom pre [MakerDAO](https://makerdao.com/). Predtím bola súčasťou MarComms teamu v Maker Foundation, kde budovala komunitu a mala na starosti eventy. Pred Makerom bola v crypto trading a platbonej platforme Coinify a mala nastarosti marketing a komunikáciu. Mimo to spolubuduje komunity okolo nezávislej kultúry, startupov, a krypta.\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -479,6 +501,7 @@
           "zaklady"
         ],
         "country": "cz",
+        "desc": "Zakladatel služby Štosuj.cz. Nadšenec do kryptoměn a automatizace. Chci pomáhat lidem řešit stejný problém, který jsem měl já.\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -601,6 +624,8 @@
           "btc",
           "spolecnost"
         ],
+        "bio": "Cypherpunk v učení, knihomol, autor článků o Bitcoinu",
+        "orgs": "Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/)",
         "country": "cz",
         "available": [
           {
@@ -608,6 +633,7 @@
             "to": "2022-06-04T23:59:59"
           }
         ],
+        "desc": "Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/), Cypherpunk v učení, knihomol, autor článků o Bitcoinu. Zabývá se Rakouskou školou ekonomie, filozofií, novými technologiemi a nadevše věří v decentralizaci.\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -642,6 +668,7 @@
           "nft"
         ],
         "country": "cz",
+        "desc": "Členka [Holek v kryptu](https://holkyvkryptu.cz) se zaměřením na NFT. Jako technický projekťák v Red Hatu se přirozeně zaměřuje na fundamentální analýzy krypto projektů a Use cases NFT nejen jako prezentace obrázku. Své NFT znalosti sdílí na workshopech nebo konferencích v Evropě.\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -809,6 +836,7 @@
           "regulace"
         ],
         "country": "cz",
+        "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu Alzheimerchain. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
         "photos": [
           "web:png"
         ]
@@ -907,6 +935,7 @@
         "orgs": "Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)\n",
         "country": "cz",
         "lead": true,
+        "desc": "Zakladatelka [#holkyvkryptu](https://holkyvkryptu.cz) a propagátorka (odvahy) finanční udržitelnosti jedince v jehož portfoliu je krypto ve správné míře.\n",
         "photos": [
           "web:jpg"
         ]
@@ -966,11 +995,12 @@
         "name": "Tomáš Kalabis",
         "nickname": "Fetyas",
         "twitter": "hernakrypto",
-        "orgs": "YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+        "orgs": "YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
         "tracks": [
           "nft"
         ],
         "country": "cz",
+        "desc": "Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -987,6 +1017,7 @@
           "spolecnost"
         ],
         "country": "cz",
+        "desc": "👨‍🌾Dad who farms ₿Ξ∞ 🌳Invest in the future. Live now. 🌏Global citizen\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -1181,7 +1212,7 @@
       {
         "id": "historie-cypherpunku",
         "type": "talk",
-        "name": "Historie Cypherpunku",
+        "name": "Cypherpunks a jejich role v dnešním světě",
         "track": "spolecnost",
         "speakers": [
           "matthew-cook"
@@ -1629,11 +1660,89 @@
           "urza"
         ],
         "duration": 55,
+        "difficulty": "beginner",
         "description": "Hospodářské cykly vnímáme jako něco nevyhnutelného, k čemu občas prostě dochází. To však nebylo vždy pravdou; ekonomické krize mají své příčiny – a to nejen konkrétní v podobě prasknutí té či oné bubliny, ale především zcela obecné související s monetární politikou států a jejich fiat měnami. Jejich životnost zdaleka není tak neomezená, jak by se mohlo jevit; a není náhoda, že v průměru přibližně odpovídá jedné lidské generaci. Tyto problémy mají celkem jednoduché řešení; a ačkoliv neexistuje politická vůle k jeho prosazení, prvním krokem je – jako vždy – šíření informací, vzdělávání (se) a veřejná debata, již můžeme společně iniciovat.\n",
         "tags": [
           "volný trh",
           "finanční svoboda",
           "anarchokapitalismus"
+        ]
+      },
+      {
+        "id": "dao-101",
+        "type": "talk",
+        "name": "DAO 101",
+        "track": "dao",
+        "speakers": [
+          "lenka-hudakova"
+        ],
+        "difficulty": "beginner",
+        "duration": 55,
+        "tags": [
+          "dao"
+        ]
+      },
+      {
+        "id": "future-of-defi",
+        "type": "talk",
+        "name": "Future of DeFi",
+        "track": "defi",
+        "speakers": [
+          "david-stancel"
+        ],
+        "difficulty": "beginner",
+        "duration": 25,
+        "tags": [
+          "DeFi",
+          "budoucnost"
+        ]
+      },
+      {
+        "id": "smart-contracts-audits",
+        "type": "talk",
+        "name": "Smart contract audits - scam or legit?",
+        "track": "eth",
+        "speakers": [
+          "josef-gattermayer"
+        ],
+        "duration": 55,
+        "difficulty": "advanced",
+        "tags": [
+          "smart-contract",
+          "bezpečnost",
+          "Ethereum"
+        ]
+      },
+      {
+        "id": "investovani-20",
+        "type": "talk",
+        "name": "Investování 2.0",
+        "difficulty": "beginner",
+        "track": "zaklady",
+        "speakers": [
+          "m0xt"
+        ],
+        "duration": 55,
+        "tags": [
+          "investice",
+          "portfolio",
+          "DeFi"
+        ]
+      },
+      {
+        "id": "chyby-pri-skladani-portfolia",
+        "type": "talk",
+        "name": "Chyby, které děláš při skládání portfolia (a jak je opravit)",
+        "difficulty": "beginner",
+        "track": "zaklady",
+        "speakers": [
+          "andy-kalvoda"
+        ],
+        "duration": 55,
+        "tags": [
+          "portfolio",
+          "investice",
+          "trading"
         ]
       },
       {
@@ -3765,13 +3874,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 63,
+      "speakers": 64,
       "tracks": 9,
-      "events": 74,
+      "events": 79,
       "faqs": 5,
       "partners": 23,
       "projects": 72
     }
   },
-  "time": "2022-04-25T22:34:40.336Z"
+  "time": "2022-04-25T23:11:06.044Z"
 }

@@ -50,7 +50,7 @@
   {
     "id": "historie-cypherpunku",
     "type": "talk",
-    "name": "Historie Cypherpunku",
+    "name": "Cypherpunks a jejich role v dnešním světě",
     "track": "spolecnost",
     "speakers": [
       "matthew-cook"
@@ -498,11 +498,89 @@
       "urza"
     ],
     "duration": 55,
+    "difficulty": "beginner",
     "description": "Hospodářské cykly vnímáme jako něco nevyhnutelného, k čemu občas prostě dochází. To však nebylo vždy pravdou; ekonomické krize mají své příčiny – a to nejen konkrétní v podobě prasknutí té či oné bubliny, ale především zcela obecné související s monetární politikou států a jejich fiat měnami. Jejich životnost zdaleka není tak neomezená, jak by se mohlo jevit; a není náhoda, že v průměru přibližně odpovídá jedné lidské generaci. Tyto problémy mají celkem jednoduché řešení; a ačkoliv neexistuje politická vůle k jeho prosazení, prvním krokem je – jako vždy – šíření informací, vzdělávání (se) a veřejná debata, již můžeme společně iniciovat.\n",
     "tags": [
       "volný trh",
       "finanční svoboda",
       "anarchokapitalismus"
+    ]
+  },
+  {
+    "id": "dao-101",
+    "type": "talk",
+    "name": "DAO 101",
+    "track": "dao",
+    "speakers": [
+      "lenka-hudakova"
+    ],
+    "difficulty": "beginner",
+    "duration": 55,
+    "tags": [
+      "dao"
+    ]
+  },
+  {
+    "id": "future-of-defi",
+    "type": "talk",
+    "name": "Future of DeFi",
+    "track": "defi",
+    "speakers": [
+      "david-stancel"
+    ],
+    "difficulty": "beginner",
+    "duration": 25,
+    "tags": [
+      "DeFi",
+      "budoucnost"
+    ]
+  },
+  {
+    "id": "smart-contracts-audits",
+    "type": "talk",
+    "name": "Smart contract audits - scam or legit?",
+    "track": "eth",
+    "speakers": [
+      "josef-gattermayer"
+    ],
+    "duration": 55,
+    "difficulty": "advanced",
+    "tags": [
+      "smart-contract",
+      "bezpečnost",
+      "Ethereum"
+    ]
+  },
+  {
+    "id": "investovani-20",
+    "type": "talk",
+    "name": "Investování 2.0",
+    "difficulty": "beginner",
+    "track": "zaklady",
+    "speakers": [
+      "m0xt"
+    ],
+    "duration": 55,
+    "tags": [
+      "investice",
+      "portfolio",
+      "DeFi"
+    ]
+  },
+  {
+    "id": "chyby-pri-skladani-portfolia",
+    "type": "talk",
+    "name": "Chyby, které děláš při skládání portfolia (a jak je opravit)",
+    "difficulty": "beginner",
+    "track": "zaklady",
+    "speakers": [
+      "andy-kalvoda"
+    ],
+    "duration": 55,
+    "tags": [
+      "portfolio",
+      "investice",
+      "trading"
     ]
   },
   {
