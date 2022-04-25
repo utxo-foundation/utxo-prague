@@ -647,20 +647,6 @@
         ]
       },
       {
-        "id": "mirek-h",
-        "name": "Mirek H",
-        "orgs": "Člen [KryptoVláďa](https://www.kryptovlada.win) komunity\n",
-        "tracks": [
-          "btc",
-          "defi",
-          "alty"
-        ],
-        "country": "cz",
-        "photos": [
-          "web:webp"
-        ]
-      },
-      {
         "id": "ondrej-pilny",
         "name": "Ondřej Pilný",
         "twitter": "Ondrej_Pilny",
@@ -3762,7 +3748,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 63,
+      "speakers": 62,
       "tracks": 9,
       "events": 74,
       "faqs": 5,
@@ -3770,5 +3756,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-23T12:57:22.128Z"
+  "time": "2022-04-25T12:53:57.614Z"
 }

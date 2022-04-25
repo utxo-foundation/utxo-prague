@@ -34,7 +34,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 63,
+      "speakers": 62,
       "tracks": 9,
       "events": 74,
       "faqs": 5,
@@ -42,5 +42,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-23T12:57:22.128Z"
+  "time": "2022-04-25T12:53:57.614Z"
 }
