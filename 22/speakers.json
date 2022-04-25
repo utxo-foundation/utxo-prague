@@ -19,7 +19,7 @@
     "id": "adam-lokaj",
     "name": "Adam Lokaj",
     "bio": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)",
-    "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/) ([Instagram](https://www.instagram.com/adopcebitcoinu/))\n",
+    "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/)\n",
     "web": {
       "name": "adopcebtc.cz",
       "url": "https://adopcebtc.cz/"
@@ -29,6 +29,7 @@
       "regulace"
     ],
     "country": "cz",
+    "desc": "[Instagram](https://www.instagram.com/adopcebitcoinu/)\n",
     "photos": [
       "web:jpg"
     ]
@@ -152,7 +153,7 @@
     "name": "Dominik Stroukal",
     "twitter": "stroukal",
     "bio": "Ekonom, libertarián, autor první české knihy o kryptoměnách",
-    "orgs": "Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)\n",
+    "orgs": "Hlavní ekonom [Roger](https://www.roger.cz/)\n",
     "lead": true,
     "tracks": [
       "zaklady",
@@ -161,6 +162,7 @@
       "regulace"
     ],
     "country": "cz",
+    "desc": "Bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)\n",
     "photos": [
       "web:png",
       "sm:png",
@@ -252,7 +254,7 @@
     "name": "Jakub Jedlinský",
     "twitter": "Jakub_Jedlinsky",
     "bio": "Makroekonom a analytik specializující se na modelování tokenomiky",
-    "orgs": "Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)\n",
+    "orgs": "Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [KMEV VŠE](https://kmev.vse.cz/)\n",
     "lead": true,
     "tracks": [
       "defi",
@@ -373,7 +375,8 @@
       "dao",
       "nft"
     ],
-    "orgs": "[PWN Finance](https://pwn.finance/)\n",
+    "bio": "Zakladatel a komunitní organizátor",
+    "orgs": "Zakladatel [PWN Finance](https://pwn.finance/)\n",
     "country": "cz",
     "desc": "V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky.\n",
     "photos": [
@@ -469,6 +472,7 @@
     "id": "lubos-kovarik",
     "name": "Luboš Kovařík",
     "twitter": "stosujcz",
+    "bio": "Nadšenec do kryptoměn a automatizace",
     "orgs": "Zakladatel [Štosuj.cz](http://stosuj.cz/)\n",
     "tracks": [
       "btc",
@@ -579,6 +583,7 @@
     "name": "Matěj Zimák",
     "twitter": "mattbullish",
     "linkedin": "matejzimak",
+    "bio": "Podnikatel zajímající se o web3, NFTs a blockchain gaming",
     "orgs": "Autor [The Divergents](https://thedivergents.io/)\n",
     "country": "cz",
     "tracks": [
@@ -618,7 +623,6 @@
     "name": "Michael Chobanian",
     "nickname": "Михайло Чобанян",
     "twitter": "ChobanianMike",
-    "bio": "Zakladatel první veřejné krypto burzy ve východní Evropě a [SNS](https://cs.wikipedia.org/wiki/Spole%C4%8Denstv%C3%AD_nez%C3%A1visl%C3%BDch_st%C3%A1t%C5%AF)\n",
     "orgs": "Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)\n",
     "tracks": [
       "regulace",
@@ -626,6 +630,7 @@
     ],
     "country": "ua",
     "lead": true,
+    "desc": "Zakladatel první veřejné krypto burzy ve východní Evropě a [SNS](https://cs.wikipedia.org/wiki/Spole%C4%8Denstv%C3%AD_nez%C3%A1visl%C3%BDch_st%C3%A1t%C5%AF)\n",
     "photos": [
       "web:jpg",
       "sm:png",
@@ -752,6 +757,7 @@
     "name": "Petr Mára",
     "twitter": "petrmara",
     "bio": "Technologický optimista, sběratel NFT",
+    "orgs": "[YouTube kanál \"Petr Mára\"](https://www.youtube.com/user/petrmara)\n",
     "web": {
       "url": "https://www.petrmara.com"
     },
@@ -770,7 +776,8 @@
   {
     "id": "petr-mensik",
     "name": "Petr Menšík",
-    "orgs": "[Polkadotters](https://twitter.com/polkadotters1)\n",
+    "bio": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku",
+    "orgs": "Zakladatel [Polkadotters](https://twitter.com/polkadotters1)\n",
     "web": {
       "url": "https://www.facebook.com/petr.mensik.374"
     },
@@ -809,8 +816,10 @@
       "dao",
       "regulace"
     ],
+    "bio": "Podnikatel, který si užívá posouvání hranic propojení businessu a IT",
+    "orgs": "Zakladatel APUS Finance, advisor [Alzheimerchain](https://alzheimerchain.com/)\n",
     "country": "cz",
-    "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu Alzheimerchain. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
+    "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu [Alzheimerchain](https://alzheimerchain.com/). Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
     "photos": [
       "web:png"
     ]
@@ -906,6 +915,7 @@
       "zaklady",
       "spolecnost"
     ],
+    "bio": "Lektorka, propagátorka technologií\n",
     "orgs": "Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)\n",
     "country": "cz",
     "lead": true,
@@ -1018,7 +1028,7 @@
     "name": "Urza",
     "twitter": "urzanarchy",
     "bio": "Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)",
-    "orgs": "Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/)\n",
+    "orgs": "Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/)\n",
     "web": {
       "name": "Urza.cz",
       "url": "https://urza.cz"
@@ -1036,6 +1046,7 @@
         "to": "2022-06-05T23:59:59"
       }
     ],
+    "desc": "člen projektu [Svoboda učení](https://www.svobodauceni.cz/)\n",
     "photos": [
       "web:jpg",
       "sm:png",
