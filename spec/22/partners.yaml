@@ -66,11 +66,11 @@
   twitter: CeskaCkma
   desc: Spolek hájící zájmy podnikatelů v oblasti kryptoměn
   
-- id: slavicdao
-  name: DAO všech slovanských národů
-  type: community
-  twitter: SlavicDAO
-  desc: DAO snažící se propojit slovanskou komunitu
+#- id: slavicdao
+#  name: DAO všech slovanských národů
+#  type: community
+#  twitter: SlavicDAO
+#  desc: DAO snažící se propojit slovanskou komunitu
 
 # - id: bitcoach-komunita
 #  name: Bitcoach
@@ -110,12 +110,12 @@
   web:
     url: https://anycoin.cz/
     
-- id: pwn
-  name: PWN DAO
-  type: sponsor
-  twitter: pwndao
-  web:
-    url: https://pwn.finance/
+#- id: pwn
+#  name: PWN DAO
+#  type: sponsor
+#  twitter: pwndao
+#  web:
+#    url: https://pwn.finance/
 
 # Press partners
 # ======================
