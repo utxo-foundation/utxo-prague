@@ -788,6 +788,21 @@
     ]
   },
   {
+    "id": "rene-darmos",
+    "name": "Rene Darmos",
+    "twitter": "xrendolf",
+    "orgs": "[Slavic DAO](https://twitter.com/SlavicDAO) governor\n",
+    "desc": "Entrepreneur with 2 successful exits. Networker and team leader with 6 y. crypto experience. Progress and efficiency seeking hard worker. Loves helping teams to grow. Decentralized life. Slavic DAO governor.\n",
+    "country": "sk",
+    "tracks": [
+      "dao",
+      "spolecnost"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "robert-chovanculiak",
     "name": "Róbert Chovanculiak",
     "twitter": "RChovanculiak",
@@ -883,7 +898,8 @@
       "nft"
     ],
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
