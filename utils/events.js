@@ -35,13 +35,13 @@ for (const item of entry.specs.events) {
   }
   arr.push(out);
   totals.items++;
-  totals.duration += item.duration;
+  totals.duration += item.duration || 0;
   //console.log(JSON.stringify(item.speakers))
   for (const sid of item.speakers) {
     if (!totals.speakers[sid]) {
       totals.speakers[sid] = { duration: 0 };
     }
-    totals.speakers[sid].duration += item.duration;
+    totals.speakers[sid].duration += item.duration || 0;
   }
 }
 
