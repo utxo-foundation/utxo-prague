@@ -1348,7 +1348,8 @@
         "difficulty": "beginner",
         "tags": [
           "finanční nezávislost",
-          "práce"
+          "práce",
+          "DAO"
         ],
         "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n"
       },
@@ -3933,5 +3934,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-26T05:25:51.962Z"
+  "time": "2022-04-26T06:04:31.410Z"
 }
