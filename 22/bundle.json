@@ -2577,6 +2577,19 @@
         ]
       },
       {
+        "id": "pwn",
+        "name": "PWN DAO",
+        "type": "sponsor",
+        "twitter": "pwndao",
+        "web": {
+          "url": "https://pwn.finance/"
+        },
+        "photos": [
+          "web:png",
+          "web:jpg"
+        ]
+      },
+      {
         "id": "kryptoinsider-podcast",
         "name": "Podcast Krypto Insider (Hospodářské noviny)",
         "type": "medium",
@@ -3943,9 +3956,9 @@
       "tracks": 9,
       "events": 80,
       "faqs": 5,
-      "partners": 24,
+      "partners": 25,
       "projects": 72
     }
   },
-  "time": "2022-04-26T15:29:36.509Z"
+  "time": "2022-04-26T15:30:05.654Z"
 }

@@ -170,6 +170,19 @@
     ]
   },
   {
+    "id": "pwn",
+    "name": "PWN DAO",
+    "type": "sponsor",
+    "twitter": "pwndao",
+    "web": {
+      "url": "https://pwn.finance/"
+    },
+    "photos": [
+      "web:png",
+      "web:jpg"
+    ]
+  },
+  {
     "id": "kryptoinsider-podcast",
     "name": "Podcast Krypto Insider (Hospodářské noviny)",
     "type": "medium",
