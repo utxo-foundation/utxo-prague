@@ -282,9 +282,13 @@
   name: Hynek Jína
   twitter: HynekJina
   orgs: |
-    [SatoshiLabs](https://satoshilabs.com/)
-  tracks: [ btc, zaklady, spolecnost ]
+     IT Project Manager v [SatoshiLabs](https://satoshilabs.com/) (Trezor)
+  tracks: [ btc, zaklady ]
   country: cz
+  desc: |
+    Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).
+
+    #bitcoin #lightning_network
 
 - id: david-stancel
   name: David Stancel
