@@ -862,6 +862,7 @@
           "spolecnost"
         ],
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -1173,30 +1174,6 @@
     ],
     "events": [
       {
-        "id": "czk-stablecoin-panel",
-        "type": "panel",
-        "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
-        "speakers": [
-          "david-antos",
-          "radek-svarz",
-          "simona-pacakova"
-        ],
-        "properties": {
-          "moderators": [
-            "david-antos"
-          ]
-        },
-        "track": "defi",
-        "duration": 85,
-        "rightAfter": "czk-stablecoin",
-        "difficulty": "beginner",
-        "tags": [
-          "stablecoin",
-          "Ethereum",
-          "DeFi"
-        ]
-      },
-      {
         "id": "regulace-panel",
         "type": "panel",
         "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)",
@@ -1218,6 +1195,53 @@
         "speakers": [
           "stana-mutlova",
           "sona-parke"
+        ],
+        "track": "zaklady",
+        "duration": 85,
+        "difficulty": "beginner",
+        "tags": [
+          "práce",
+          "finanční nezávislost"
+        ]
+      },
+      {
+        "id": "nft-metaverse-panel",
+        "type": "panel",
+        "name": "NFT a Metaverse",
+        "speakers": [
+          "petr-mara",
+          "david-bankless"
+        ],
+        "duration": 85,
+        "difficulty": "beginner",
+        "track": "nft",
+        "tags": [
+          "NFT",
+          "metaverse"
+        ]
+      },
+      {
+        "id": "czk-stablecoin-panel",
+        "type": "panel",
+        "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
+        "speakers": [
+          "david-antos",
+          "radek-svarz",
+          "simona-pacakova"
+        ],
+        "properties": {
+          "moderators": [
+            "david-antos"
+          ]
+        },
+        "track": "defi",
+        "duration": 85,
+        "rightAfter": "czk-stablecoin",
+        "difficulty": "beginner",
+        "tags": [
+          "stablecoin",
+          "Ethereum",
+          "DeFi"
         ]
       },
       {
@@ -3887,11 +3911,11 @@
     "counts": {
       "speakers": 64,
       "tracks": 9,
-      "events": 79,
+      "events": 80,
       "faqs": 5,
       "partners": 23,
       "projects": 72
     }
   },
-  "time": "2022-04-25T23:43:54.203Z"
+  "time": "2022-04-26T00:01:18.707Z"
 }
