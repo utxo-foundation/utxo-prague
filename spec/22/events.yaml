@@ -6,18 +6,6 @@
 # Panel discussions (panelové diskuze)
 # ================================================
 
-- id: regulace-panel
-  type: panel
-  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
-  speakers:
-    - kirill-juran
-  track: regulace
-  duration: 85
-  difficulty: beginner
-  tags:
-    - regulace
-    - soukromí
-
 - id: o-praci-v-kryptu
   type: panel
   name: Z normální práce do krypta
@@ -30,6 +18,18 @@
   tags:
     - práce
     - finanční nezávislost
+
+- id: regulace-panel
+  type: panel
+  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
+  speakers:
+    - kirill-juran
+  track: regulace
+  duration: 85
+  difficulty: beginner
+  tags:
+    - regulace
+    - soukromí
 
 - id: nft-metaverse-panel
   type: panel
@@ -80,6 +80,8 @@
   name: Lokální krypto projekty
   track: zaklady
   speakers: []
+  description: |
+    Představení lokálních kryptoměnových projektů.
 
 - id: lokalni-defi-intro
   type: lightning-series
@@ -88,6 +90,9 @@
   speakers: []
   tags:
     - DeFi
+  description: |
+    Představení lokálních DeFi projektů.
+
 
 - id: lokalni-nft-intro
   type: lightning-series
@@ -96,10 +101,28 @@
   speakers: []
   tags:
     - NFT
+  description: |
+    Představení lokálních NFT/Metaverse projektů.
 
 
 # Talks (přednášky)
 # ====================
+
+
+- id: volny-trh-penez
+  type: talk
+  name: Volný trh peněz
+  track: spolecnost
+  speakers:
+    - urza
+  duration: 55
+  difficulty: beginner
+  description: |
+    Hospodářské cykly vnímáme jako něco nevyhnutelného, k čemu občas prostě dochází. To však nebylo vždy pravdou; ekonomické krize mají své příčiny – a to nejen konkrétní v podobě prasknutí té či oné bubliny, ale především zcela obecné související s monetární politikou států a jejich fiat měnami. Jejich životnost zdaleka není tak neomezená, jak by se mohlo jevit; a není náhoda, že v průměru přibližně odpovídá jedné lidské generaci. Tyto problémy mají celkem jednoduché řešení; a ačkoliv neexistuje politická vůle k jeho prosazení, prvním krokem je – jako vždy – šíření informací, vzdělávání (se) a veřejná debata, již můžeme společně iniciovat.
+  tags:
+    - volný trh
+    - finanční svoboda
+    - anarchokapitalismus
 
 - id: historie-cypherpunku
   type: talk
@@ -128,18 +151,6 @@
     - crowdfunding
     - společnost
 
-- id: fire-movement
-  type: talk
-  name: FIRE movement (Financial Independence, Retire Early)
-  track: spolecnost
-  speakers: [ tomas-kryptovlada ]
-  duration: 25
-  difficulty: beginner
-  description: |
-    https://en.wikipedia.org/wiki/FIRE_movement
-  tags:
-    - finanční nezávislost
-
 - id: prace-zivobyti-v-kryptomenach
   type: talk
   name: Práce a možnosti živobytí v kryptoměnách
@@ -149,6 +160,7 @@
   difficulty: beginner
   tags:
     - finanční nezávislost
+    - práce
   description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
 
@@ -169,6 +181,20 @@
   tags:
     - seed investice
     - startupy
+
+- id: gaming-v-rozvojovych-zemich
+  type: talk
+  name: Blockchainové hry v rozvojových zemích
+  track: alty
+  speakers: [ fetyas ]
+  duration: 55
+  difficulty: advanced
+  description: |
+    Podrobnosti o příčinách a možných důsledcích silné adopce kryptoměn a NFTček zejména v Jihovýchodní Asii.
+  tags:
+    - gaming
+    - rozvojové země
+
 
 - id: zaklady-zabezpeceni
   type: talk
@@ -330,19 +356,6 @@
   tags:
     - Polkadot
 
-- id: gaming-v-rozvojovych-zemich
-  type: talk
-  name: Blockchainové hry v rozvojových zemích
-  track: alty
-  speakers: [ fetyas ]
-  duration: 55
-  difficulty: advanced
-  description: |
-    Podrobnosti o příčinách a možných důsledcích silné adopce kryptoměn a NFTček zejména v Jihovýchodní Asii.
-  tags:
-    - gaming
-    - rozvojové země
-
 - id: blockchain-hry-a-deti
   type: talk
   name: Blockchain, hry a děti
@@ -389,6 +402,19 @@
   difficulty: beginner
   tags:
     - NEAR
+
+- id: fire-movement
+  type: talk
+  name: FIRE movement (Financial Independence, Retire Early)
+  track: spolecnost
+  speakers: [ tomas-kryptovlada ]
+  duration: 25
+  difficulty: beginner
+  description: |
+    https://en.wikipedia.org/wiki/FIRE_movement
+  tags:
+    - finanční nezávislost
+
 
 - id: zijeme-bez-fiatu
   type: talk
@@ -444,21 +470,6 @@
     - investice
   description: |
     Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?
-
-- id: volny-trh-penez
-  type: talk
-  name: Volný trh peněz
-  track: spolecnost
-  speakers:
-    - urza
-  duration: 55
-  difficulty: beginner
-  description: |
-    Hospodářské cykly vnímáme jako něco nevyhnutelného, k čemu občas prostě dochází. To však nebylo vždy pravdou; ekonomické krize mají své příčiny – a to nejen konkrétní v podobě prasknutí té či oné bubliny, ale především zcela obecné související s monetární politikou států a jejich fiat měnami. Jejich životnost zdaleka není tak neomezená, jak by se mohlo jevit; a není náhoda, že v průměru přibližně odpovídá jedné lidské generaci. Tyto problémy mají celkem jednoduché řešení; a ačkoliv neexistuje politická vůle k jeho prosazení, prvním krokem je – jako vždy – šíření informací, vzdělávání (se) a veřejná debata, již můžeme společně iniciovat.
-  tags:
-    - volný trh
-    - finanční svoboda
-    - anarchokapitalismus
 
 - id: dao-101
   type: talk
