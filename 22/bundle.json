@@ -2585,7 +2585,6 @@
           "url": "https://pwn.finance/"
         },
         "photos": [
-          "web:png",
           "web:jpg"
         ]
       },
@@ -3960,5 +3959,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-26T15:32:06.590Z"
+  "time": "2022-04-26T15:32:36.811Z"
 }
