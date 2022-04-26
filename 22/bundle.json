@@ -1836,6 +1836,20 @@
         ]
       },
       {
+        "id": "mise-projektu-cardano",
+        "type": "talk",
+        "name": "Mise projektu Cardano",
+        "difficulty": "beginner",
+        "track": "alty",
+        "speakers": [
+          "jaromir-tesar"
+        ],
+        "duration": 55,
+        "tags": [
+          "Cardano"
+        ]
+      },
+      {
         "id": "bezpecnost-workshop",
         "type": "workshop",
         "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -3977,11 +3991,11 @@
     "counts": {
       "speakers": 64,
       "tracks": 9,
-      "events": 81,
+      "events": 82,
       "faqs": 5,
       "partners": 25,
       "projects": 72
     }
   },
-  "time": "2022-04-26T18:23:08.792Z"
+  "time": "2022-04-26T18:30:10.573Z"
 }
