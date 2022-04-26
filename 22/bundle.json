@@ -1246,6 +1246,44 @@
         ]
       },
       {
+        "id": "lokalni-komunity-intro",
+        "type": "lightning-series",
+        "name": "Lokální krypto komunity",
+        "track": "spolecnost",
+        "speakers": [],
+        "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n",
+        "tags": [
+          "společnost"
+        ]
+      },
+      {
+        "id": "lokalni-projekty-intro",
+        "type": "lightning-series",
+        "name": "Lokální krypto projekty",
+        "track": "zaklady",
+        "speakers": []
+      },
+      {
+        "id": "lokalni-defi-intro",
+        "type": "lightning-series",
+        "name": "Lokální DeFi projekty",
+        "track": "defi",
+        "speakers": [],
+        "tags": [
+          "DeFi"
+        ]
+      },
+      {
+        "id": "lokalni-nft-intro",
+        "type": "lightning-series",
+        "name": "Lokální NFT projekty",
+        "track": "nft",
+        "speakers": [],
+        "tags": [
+          "NFT"
+        ]
+      },
+      {
         "id": "historie-cypherpunku",
         "type": "talk",
         "name": "Cypherpunks a jejich role v dnešním světě",
@@ -1334,6 +1372,7 @@
         ],
         "duration": 55,
         "difficulty": "beginner",
+        "description": "Hygiena na internetu - jak se chovat bezpećně, nenechat si ukrást identitu a vykrást burzy.\n",
         "tags": [
           "bezpečnost",
           "Bitcoin",
@@ -1782,44 +1821,6 @@
         ]
       },
       {
-        "id": "lokalni-komunity-intro",
-        "type": "talk",
-        "name": "Lokální krypto komunity",
-        "track": "spolecnost",
-        "speakers": [],
-        "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n",
-        "tags": [
-          "společnost"
-        ]
-      },
-      {
-        "id": "lokalni-projekty-intro",
-        "type": "talk",
-        "name": "Lokální krypto projekty",
-        "track": "zaklady",
-        "speakers": []
-      },
-      {
-        "id": "lokalni-defi-intro",
-        "type": "talk",
-        "name": "Lokální DeFi projekty",
-        "track": "defi",
-        "speakers": [],
-        "tags": [
-          "DeFi"
-        ]
-      },
-      {
-        "id": "lokalni-nft-intro",
-        "type": "talk",
-        "name": "Lokální NFT projekty",
-        "track": "nft",
-        "speakers": [],
-        "tags": [
-          "NFT"
-        ]
-      },
-      {
         "id": "bezpecnost-workshop",
         "type": "workshop",
         "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -2245,7 +2246,9 @@
         "parent": "lokalni-komunity-intro",
         "description": "Představení iniciativy [Holky v kryptu](https://holkyvkryptu.cz/), která dává holkám i klukům odvahu hrát si s technologiemi, vzdělávat se a držet krok s dobou. Vznikl pod rukama Soni Parke a dnes už se na něm podílí celých 7 krypto-nadšenkyň.\n\nCílem **#holkyvkryptu** je prakticky převádět přes první lávku do světa financí a technologií a přinášet tak různé úhly pohledu na to, co určuje naši budoucnost.\n\nVěříme ve společnost, která se vzájemně motivuje a posouvá dopředu.\n\n#diversity #freedom #future\n",
         "tags": [
-          "komunity"
+          "komunity",
+          "ženy",
+          "Bitcoin"
         ]
       },
       {
@@ -2258,6 +2261,7 @@
         "parent": "lokalni-komunity-intro",
         "description": "Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).\n",
         "tags": [
+          "komunity",
           "Ethereum",
           "DeFi",
           "DAO"
@@ -2275,6 +2279,7 @@
         "parent": "lokalni-komunity-intro",
         "description": "[Pozvánka na Discord](https://discord.gg/X4MV9Pn5P8)\n",
         "tags": [
+          "komunity",
           "NFT",
           "metaverse"
         ]
@@ -2288,6 +2293,7 @@
         "duration": 10,
         "parent": "lokalni-komunity-intro",
         "tags": [
+          "komunity",
           "Bitcoin",
           "Ethereum"
         ]
@@ -2303,6 +2309,7 @@
         "duration": 10,
         "parent": "lokalni-komunity-intro",
         "tags": [
+          "komunity",
           "Polkadot"
         ]
       },
@@ -2315,6 +2322,7 @@
         "duration": 10,
         "parent": "lokalni-komunity-intro",
         "tags": [
+          "komunity",
           "Cardano"
         ]
       },
@@ -2329,6 +2337,7 @@
         "duration": 10,
         "parent": "lokalni-komunity-intro",
         "tags": [
+          "komunity",
           "gaming"
         ]
       },
@@ -3920,5 +3929,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-26T04:04:53.386Z"
+  "time": "2022-04-26T04:40:31.202Z"
 }
