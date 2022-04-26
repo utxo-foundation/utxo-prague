@@ -195,6 +195,7 @@
   tags:
     - gaming
     - rozvojové země
+    - NFT
 
 
 - id: zaklady-zabezpeceni
@@ -212,13 +213,13 @@
     - seed
     - internet
 
-- id: lightning-ekosystem
+- id: proc-a-jak-pouzivat-bitcoin
   type: talk
-  name: Co všechno jde dělat na Lightning Network
+  name: Proč a jak používat Bitcoin
   track: btc
   speakers: [ hynek-jina ]
   duration: 55
-  difficulty: advanced
+  difficulty: beginner
   tags:
     - Bitcoin
     - Lightning Network
@@ -686,6 +687,16 @@
     - portfolio
     - investice
 
+- id: lightning-ekosystem
+  type: workshop
+  name: Co všechno jde dělat na Lightning Network
+  track: btc
+  speakers: [ hynek-jina ]
+  duration: 55
+  difficulty: advanced
+  tags:
+    - Bitcoin
+    - Lightning Network
 
 # Lightning talks
 # ==========================
@@ -960,6 +971,7 @@
   tags:
     - komunity
     - gaming
+    - NFT
 
 - id: bohemiandao
   type: lightning
