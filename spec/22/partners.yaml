@@ -110,12 +110,12 @@
   web:
     url: https://anycoin.cz/
     
-#- id: pwn
-#  name: PWN DAO
-#  type: sponsor
-#  twitter: pwndao
-#  web:
-#    url: https://pwn.finance/
+- id: pwn
+  name: PWN DAO
+  type: sponsor
+  twitter: pwndao
+  web:
+    url: https://pwn.finance/
 
 # Press partners
 # ======================
