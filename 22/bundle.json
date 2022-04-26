@@ -2516,6 +2516,17 @@
         ]
       },
       {
+        "id": "slavicdao",
+        "name": "DAO všech slovanských národů",
+        "type": "community",
+        "twitter": "SlavicDAO",
+        "desc": "DAO snažící se propojit slovanskou komunitu",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "dydx-grants",
         "name": "dYdX Grants Program",
         "type": "sponsor",
@@ -3932,9 +3943,9 @@
       "tracks": 9,
       "events": 80,
       "faqs": 5,
-      "partners": 23,
+      "partners": 24,
       "projects": 72
     }
   },
-  "time": "2022-04-26T15:20:28.573Z"
+  "time": "2022-04-26T15:20:51.756Z"
 }
