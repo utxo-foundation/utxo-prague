@@ -19,6 +19,7 @@ properties:
       - workshop
       - talk
       - panel
+      - lightning-series
       - lightning
       - other
     title: Typ události
