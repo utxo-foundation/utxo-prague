@@ -530,6 +530,16 @@
     - investice
     - trading
 
+- id: mise-projektu-cardano
+  type: talk
+  name: Mise projektu Cardano
+  difficulty: beginner
+  track: alty
+  speakers: [ jaromir-tesar ]
+  duration: 55
+  tags:
+    - Cardano
+
 # Workshops (workshopy)
 # =======================
 
