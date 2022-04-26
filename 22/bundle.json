@@ -44,8 +44,8 @@
       {
         "id": "adam-lokaj",
         "name": "Adam Lokaj",
-        "bio": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)",
-        "orgs": "[adopcebtc.cz](https://www.adopcebtc.cz/)\n",
+        "bio": "Právník, odborný lektor",
+        "orgs": "Autor knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/)\n",
         "web": {
           "name": "adopcebtc.cz",
           "url": "https://adopcebtc.cz/"
@@ -57,7 +57,8 @@
         "country": "cz",
         "desc": "[Instagram](https://www.instagram.com/adopcebitcoinu/)\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -3982,5 +3983,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-26T17:45:01.301Z"
+  "time": "2022-04-26T18:23:08.792Z"
 }
