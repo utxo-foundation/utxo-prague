@@ -259,6 +259,12 @@
         ],
         "country": "cz",
         "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).\n\n#bitcoin #lightning_network\n",
+        "available": [
+          {
+            "from": "2022-06-05T09:00:00",
+            "to": "2022-06-05T23:59:59"
+          }
+        ],
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -1384,7 +1390,8 @@
         "description": "Podrobnosti o příčinách a možných důsledcích silné adopce kryptoměn a NFTček zejména v Jihovýchodní Asii.\n",
         "tags": [
           "gaming",
-          "rozvojové země"
+          "rozvojové země",
+          "NFT"
         ]
       },
       {
@@ -1406,15 +1413,15 @@
         ]
       },
       {
-        "id": "lightning-ekosystem",
+        "id": "proc-a-jak-pouzivat-bitcoin",
         "type": "talk",
-        "name": "Co všechno jde dělat na Lightning Network",
+        "name": "Proč a jak používat Bitcoin",
         "track": "btc",
         "speakers": [
           "hynek-jina"
         ],
         "duration": 55,
-        "difficulty": "advanced",
+        "difficulty": "beginner",
         "tags": [
           "Bitcoin",
           "Lightning Network"
@@ -2031,6 +2038,21 @@
         ]
       },
       {
+        "id": "lightning-ekosystem",
+        "type": "workshop",
+        "name": "Co všechno jde dělat na Lightning Network",
+        "track": "btc",
+        "speakers": [
+          "hynek-jina"
+        ],
+        "duration": 55,
+        "difficulty": "advanced",
+        "tags": [
+          "Bitcoin",
+          "Lightning Network"
+        ]
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -2345,7 +2367,8 @@
         "parent": "lokalni-komunity-intro",
         "tags": [
           "komunity",
-          "gaming"
+          "gaming",
+          "NFT"
         ]
       },
       {
@@ -3953,11 +3976,11 @@
     "counts": {
       "speakers": 64,
       "tracks": 9,
-      "events": 80,
+      "events": 81,
       "faqs": 5,
       "partners": 25,
       "projects": 72
     }
   },
-  "time": "2022-04-26T15:35:18.380Z"
+  "time": "2022-04-26T17:45:01.301Z"
 }

@@ -233,6 +233,12 @@
     ],
     "country": "cz",
     "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).\n\n#bitcoin #lightning_network\n",
+    "available": [
+      {
+        "from": "2022-06-05T09:00:00",
+        "to": "2022-06-05T23:59:59"
+      }
+    ],
     "photos": [
       "web:jpg",
       "twitter:jpg"
