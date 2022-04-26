@@ -143,7 +143,7 @@
       "roman-mazur"
     ],
     "duration": 55,
-    "description": "Roman má za sebou 10ti letou kariéru jako programátor a produkt manažer v menších startupech i globálních korporacích jako Microsoft. Žil pár let v Londýně, kde získal první profesionální zkušenosti s cryptem a DeFi v rámci práce pro Argent – firmu stojící za stejnojmennou peněženkou.\n\nV roce 2021 se rozhodl založit vlastní startup jménem Wido (https://www.joinwido.com/), který chtěl od začátku cílit na US trh. Založení firmy v US sebou navíc přináší výhody ohledně fundraisingu – v US existují určité standardy, na které jsou investoři zvyklí. Celý svět v té době fungoval vzdáleně a proto se do toho vrhl z Česka.\n\nTato přednáška bude praktickým průvodcem k úspěšnému založení firmy v USA a přípravě na fundraising — vše na dálku z Česka. Dozvíte se kde sehnat co-foundera, ve kterém státě nejlépe firmu založit, kde sehnat právníky a účetní, na co si dát pozor během přípravy právních dokumentů pro získání peněz od investorů. Třešničkou na dortu pak bude tip na faxovací službu, kterou můžete použít pro vzdálenou komunikaci s americkými úřady v případě, kdy nevlastníte FAX.\n",
+    "description": "Tato přednáška bude praktickým průvodcem k úspěšnému založení firmy v USA a přípravě na fundraising — vše na dálku z Česka. Dozvíte se kde sehnat co-foundera, ve kterém státě nejlépe firmu založit, kde sehnat právníky a účetní, na co si dát pozor během přípravy právních dokumentů pro získání peněz od investorů. Třešničkou na dortu pak bude tip na faxovací službu, kterou můžete použít pro vzdálenou komunikaci s americkými úřady v případě, kdy nevlastníte FAX.\n\nRoman má za sebou 10ti letou kariéru jako programátor a produkt manažer v menších startupech i globálních korporacích jako Microsoft. Žil pár let v Londýně, kde získal první profesionální zkušenosti s cryptem a DeFi v rámci práce pro Argent – firmu stojící za stejnojmennou peněženkou.\n\nV roce 2021 se rozhodl založit vlastní startup jménem Wido (https://www.joinwido.com/), který chtěl od začátku cílit na US trh. Založení firmy v US sebou navíc přináší výhody ohledně fundraisingu – v US existují určité standardy, na které jsou investoři zvyklí. Celý svět v té době fungoval vzdáleně a proto se do toho vrhl z Česka.\n",
     "tags": [
       "seed investice",
       "startupy"
@@ -405,7 +405,7 @@
       "digitální identita",
       "metaverse"
     ],
-    "description": "...aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar\n"
+    "description": "Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.\n"
   },
   {
     "id": "uvod-cosmos-ekosystem",
@@ -540,7 +540,7 @@
     "difficulty": "beginner",
     "duration": 55,
     "tags": [
-      "dao"
+      "DAO"
     ]
   },
   {
@@ -816,7 +816,7 @@
       "Lightning Network",
       "peněženky"
     ],
-    "description": "Pokud se chcete seznámit s nadstavbou Bitcoinu, zajišťující instantní a levné platby, vyzkoušet si lightningové peněženky, a nebo dokonce získat pár satoshi (část bitcoinu) v rámci workshopu, přijďte a ukážeme si, jak tuto platební síť používat jako úplný začátečník, ale i jako pokročilý uživatel, který chce mít své klíče pod kontrolou. Projdeme si peněženky jako [Wallet of Satoshi](https://www.walletofsatoshi.com/) pro první pokusy nebo [Phoenix](https://phoenix.acinq.co/) již pro ty, co to myslí vážně a zmíníme jejich další vlastnosti, aby nás při samotném používání již nepřekvapily.\n"
+    "description": "Pokud se chcete seznámit s nadstavbou Bitcoinu, zajišťující instantní a levné platby, vyzkoušet si lightningové peněženky, a nebo dokonce získat pár satoshi (část bitcoinu) v rámci workshopu, přijďte a ukážeme si, jak tuto platební síť používat jako úplný začátečník, ale i jako pokročilý uživatel, který chce mít své klíče pod kontrolou.\n\nProjdeme si peněženky jako [Wallet of Satoshi](https://www.walletofsatoshi.com/) pro první pokusy nebo [Phoenix](https://phoenix.acinq.co/) již pro ty, co to myslí vážně a zmíníme jejich další vlastnosti, aby nás při samotném používání již nepřekvapily.\n"
   },
   {
     "id": "team-building-najdi-partaka",
@@ -1174,7 +1174,9 @@
     "type": "lightning",
     "name": "SlavicDAO",
     "track": "eth",
-    "speakers": [],
+    "speakers": [
+      "rene-darmos"
+    ],
     "duration": 10,
     "parent": "lokalni-projekty-intro",
     "tags": [
