@@ -251,14 +251,15 @@
         "id": "hynek-jina",
         "name": "Hynek Jína",
         "twitter": "HynekJina",
-        "orgs": "[SatoshiLabs](https://satoshilabs.com/)\n",
+        "orgs": "IT Project Manager v [SatoshiLabs](https://satoshilabs.com/) (Trezor)\n",
         "tracks": [
           "btc",
-          "zaklady",
-          "spolecnost"
+          "zaklady"
         ],
         "country": "cz",
+        "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).\n\n#bitcoin #lightning_network\n",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -1685,7 +1686,7 @@
         "duration": 55,
         "difficulty": "beginner",
         "tags": [
-          "finanční svoboda"
+          "finanční nezávislost"
         ]
       },
       {
@@ -3934,5 +3935,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-26T06:04:31.410Z"
+  "time": "2022-04-26T06:46:05.467Z"
 }
