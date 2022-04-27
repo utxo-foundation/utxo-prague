@@ -347,6 +347,8 @@
   tags:
     - Solana
     - trading
+  description: |
+    Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.
 
 - id: uvod-do-polkadot-a-ekosystemu
   type: talk
@@ -702,11 +704,32 @@
   name: Co všechno jde dělat na Lightning Network
   track: btc
   speakers: [ hynek-jina ]
-  duration: 55
+  duration: 50
   difficulty: advanced
   tags:
     - Bitcoin
     - Lightning Network
+
+- id: hackujeme-defi-arbitraze
+  type: workshop
+  name: Hackujeme DeFi arbitráže
+  track: eth
+  speakers: [ ondrej-vostal ]
+  duration: 80
+  difficulty: expert
+  tags:
+    - DeFi
+    - arbitráže
+    - solidity
+    - smart-contract
+  description: |
+    Workshop, kde se dozvíte z čeho se skládá zisková arbitráž, jak se zorientovat v dokumentaci smart-kontraktů a společně si napíšeme arbitrážovací Solidity smart-kontrakt.
+
+    Na workshopu se dovíte:
+      * z čeho se skládá zisková arbitráž
+      * jak se zorientovat v docs DEXes APIs
+
+    Napíšeme arbitrážovací Solidity contract.
 
 # Lightning talks
 # ==========================
