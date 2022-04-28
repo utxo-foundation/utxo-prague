@@ -2443,7 +2443,7 @@
     "faqs": [
       {
         "question": "Jak získám vstupenku?",
-        "answer": "První vlna vstupenek bude k dispozici **od středy 13. dubna 13:00 za 500 Kč**. Druhá vlna od 27. dubna 13:00 za 650 Kč a třetí vlna od 11. května za 750 Kč.\n"
+        "answer": "První vlna vstupenek bude k dispozici od středy 13. dubna 13:00 za 500 Kč. Druhá vlna **od 27. dubna 13:00 za 650 Kč** a třetí vlna od 11. května za 750 Kč.\n"
       },
       {
         "question": "Pro koho je konference určena?",
@@ -4016,5 +4016,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-28T17:12:27.535Z"
+  "time": "2022-04-28T21:43:51.634Z"
 }
