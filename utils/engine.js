@@ -146,6 +146,22 @@ export class UTXOEngine {
         overwrite: true,
       });
 
+      // copy media-kit
+      const outputMediaDir = [entryDir, "media-kit"].join("/");
+      if (!this.options.silent) {
+        console.log(`UTXO.${entryId}: copying media-kit ..`);
+        console.log(`copying media-kit to ${outputMediaDir}`);
+      }
+      await copy(
+        [this.srcDir, entryId, "media-kit"].join("/"),
+        outputMediaDir,
+        {
+          overwrite: true,
+        },
+      );
+
+      // done
+
       entriesIndex.push({
         id: `utxo${entryId}`,
         entryId,
