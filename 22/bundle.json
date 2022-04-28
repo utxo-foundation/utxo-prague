@@ -2573,17 +2573,6 @@
         ]
       },
       {
-        "id": "slavicdao",
-        "name": "DAO všech slovanských národů",
-        "type": "community",
-        "twitter": "SlavicDAO",
-        "desc": "DAO snažící se propojit slovanskou komunitu",
-        "photos": [
-          "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "dydx-grants",
         "name": "dYdX Grants Program",
         "type": "sponsor",
@@ -2642,7 +2631,7 @@
           "url": "https://pwn.finance/"
         },
         "photos": [
-          "web:jpg"
+          "twitter:jpg"
         ]
       },
       {
@@ -4012,9 +4001,9 @@
       "tracks": 9,
       "events": 83,
       "faqs": 5,
-      "partners": 25,
+      "partners": 24,
       "projects": 72
     }
   },
-  "time": "2022-04-28T03:13:12.759Z"
+  "time": "2022-04-28T16:37:41.667Z"
 }
