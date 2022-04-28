@@ -2573,6 +2573,17 @@
         ]
       },
       {
+        "id": "slavicdao",
+        "name": "SlavicDAO",
+        "type": "community",
+        "twitter": "SlavicDAO",
+        "desc": "DAO snažící se propojit slovanskou komunitu",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "dydx-grants",
         "name": "dYdX Grants Program",
         "type": "sponsor",
@@ -2591,6 +2602,18 @@
         "twitter": "mitoncfund",
         "web": {
           "url": "https://mitonc.com/"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "pwn",
+        "name": "PWN DAO",
+        "type": "sponsor",
+        "twitter": "pwndao",
+        "web": {
+          "url": "https://pwn.finance/"
         },
         "photos": [
           "twitter:jpg"
@@ -2619,18 +2642,6 @@
         },
         "photos": [
           "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "pwn",
-        "name": "PWN DAO",
-        "type": "sponsor",
-        "twitter": "pwndao",
-        "web": {
-          "url": "https://pwn.finance/"
-        },
-        "photos": [
           "twitter:jpg"
         ]
       },
@@ -4001,9 +4012,9 @@
       "tracks": 9,
       "events": 83,
       "faqs": 5,
-      "partners": 24,
+      "partners": 25,
       "projects": 72
     }
   },
-  "time": "2022-04-28T16:37:41.667Z"
+  "time": "2022-04-28T17:12:27.535Z"
 }

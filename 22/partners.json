@@ -109,6 +109,17 @@
     ]
   },
   {
+    "id": "slavicdao",
+    "name": "SlavicDAO",
+    "type": "community",
+    "twitter": "SlavicDAO",
+    "desc": "DAO snažící se propojit slovanskou komunitu",
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "dydx-grants",
     "name": "dYdX Grants Program",
     "type": "sponsor",
@@ -127,6 +138,18 @@
     "twitter": "mitoncfund",
     "web": {
       "url": "https://mitonc.com/"
+    },
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "pwn",
+    "name": "PWN DAO",
+    "type": "sponsor",
+    "twitter": "pwndao",
+    "web": {
+      "url": "https://pwn.finance/"
     },
     "photos": [
       "twitter:jpg"
@@ -155,18 +178,6 @@
     },
     "photos": [
       "web:jpg",
-      "twitter:jpg"
-    ]
-  },
-  {
-    "id": "pwn",
-    "name": "PWN DAO",
-    "type": "sponsor",
-    "twitter": "pwndao",
-    "web": {
-      "url": "https://pwn.finance/"
-    },
-    "photos": [
       "twitter:jpg"
     ]
   },
