@@ -22,6 +22,9 @@ build:
 docs-update:
 	deno run --unstable --allow-read --allow-write utils/update-docs.js
 
+speakers-list:
+	deno run --unstable --allow-read utils/speakers-list.js
+
 speakers-table:
 	deno run --unstable --allow-read utils/update-docs.js speakersTableGen
 
