@@ -205,7 +205,7 @@
     ],
     "duration": 25,
     "difficulty": "beginner",
-    "description": "Podrobnosti o příčinách a možných důsledcích silné adopce kryptoměn a NFTček zejména v Jihovýchodní Asii.\n",
+    "description": "Zapojení technologie blockchainu do videoher nabízí nové možnosti fundraisingu, monetizace a uplatnění non-fungible tokenů. I proto se v minulém roce vynořily stovky blockchainových her různých žánrů, které se setkaly s největším zájmem uživatelů v rozvojových zemích. Náplní této přednášky jsou nejpopulárnější hry v těchto regionech, důvody silné adopce blockchainových her a její důsledky.\n",
     "tags": [
       "gaming",
       "rozvojové země",
@@ -1115,6 +1115,22 @@
     "description": "Představení multiplayerové hry inspirované NFT s názvem [Scavenger Lands](https://scavengerland.com/).\n"
   },
   {
+    "id": "altaria",
+    "type": "lightning",
+    "name": "Altaria",
+    "track": "nft",
+    "speakers": [
+      "fetyas"
+    ],
+    "duration": 10,
+    "parent": "lokalni-nft-intro",
+    "tags": [
+      "NFT",
+      "gaming"
+    ],
+    "description": "Představení úplně první Thrive-to-Earn aplikace, která odměňuje zdravý životní styl.\n"
+  },
+  {
     "id": "holky-v-kryptu",
     "type": "lightning",
     "name": "Holky v kryptu",
@@ -1216,6 +1232,7 @@
     ],
     "duration": 10,
     "parent": "lokalni-komunity-intro",
+    "description": "[KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw/) je největší český YouTube kanál soustředěný na tématiku blockchain gamingu a Play and Earn. Komunita KryptoHerny jsou lidé nadšení pro tuto tématiku, kteří společně pravidelně hrají nejlepší blockchainové hry, sdílí informace o novinkách z průmyslu a vzájemně si poskytují rady. Přidejte se k nám!\n",
     "tags": [
       "komunity",
       "gaming",
