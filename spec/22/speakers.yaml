@@ -668,3 +668,12 @@
   country: cz
   tracks: [ zaklady ]
 
+- id: marek-kyrsch
+  name: Marek Kyrsch
+  twitter: MarekKyrsch
+  linkedin: marek-kyrsch-335b9a177
+  orgs: |
+    CEO @ [Anycoin](https://www.anycoin.cz/)
+  country: cz
+  tracks: [ regulace ]
+  
