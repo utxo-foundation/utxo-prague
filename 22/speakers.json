@@ -525,6 +525,21 @@
     ]
   },
   {
+    "id": "marek-kyrsch",
+    "name": "Marek Kyrsch",
+    "twitter": "MarekKyrsch",
+    "linkedin": "marek-kyrsch-335b9a177",
+    "orgs": "CEO @ [Anycoin](https://www.anycoin.cz/)\n",
+    "country": "cz",
+    "tracks": [
+      "regulace"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "mario-havel",
     "name": "Mario Havel",
     "twitter": "TMIYChao",
