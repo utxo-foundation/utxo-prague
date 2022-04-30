@@ -310,6 +310,7 @@
 
 - id: michaela-malatin
   name: Michaela Malatin
+  nickname: Pethalusa
   twitter: malatinmichaela
   bio: Crypto NFT Enthusiast
   orgs: |
@@ -681,8 +682,9 @@
 - id: jan-struhala
   name: Jan Struhala
   twitter: jan_struhala
-  bio: soudní překladatel, krypto investor
-  orgs: |
-    struhala.cz
+  bio: Soudní překladatel, krypto investor
+  web:
+    url: http://struhala.cz
   country: cz
   tracks: [ regulace ]
+
