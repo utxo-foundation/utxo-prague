@@ -678,3 +678,11 @@
   country: cz
   tracks: [ regulace ]
   
+- id: jan-struhala
+  name: Jan Struhala
+  twitter: jan_struhala
+  bio: soudní překladatel, krypto investor
+  orgs: |
+    struhala.cz
+  country: cz
+  tracks: [ regulace ]
