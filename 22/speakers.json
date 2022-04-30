@@ -136,6 +136,20 @@
     ]
   },
   {
+    "id": "denisa-brichtova",
+    "name": "Denisa Brichtová",
+    "twitter": "BrichtDenis",
+    "orgs": "UI/UX Designer v [Pledged Capital](https://pledged-capital.app/)\n",
+    "country": "cz",
+    "tracks": [
+      "spolecnost"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "dmitry",
     "name": "Dmitrij Malyšev",
     "nickname": "dMIT.RY",

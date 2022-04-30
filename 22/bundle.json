@@ -162,6 +162,20 @@
         ]
       },
       {
+        "id": "denisa-brichtova",
+        "name": "Denisa Brichtová",
+        "twitter": "BrichtDenis",
+        "orgs": "UI/UX Designer v [Pledged Capital](https://pledged-capital.app/)\n",
+        "country": "cz",
+        "tracks": [
+          "spolecnost"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "dmitry",
         "name": "Dmitrij Malyšev",
         "nickname": "dMIT.RY",
@@ -1222,8 +1236,9 @@
         "type": "panel",
         "name": "Z normální práce do krypta",
         "speakers": [
+          "sona-parke",
           "stana-mutlova",
-          "sona-parke"
+          "denisa-brichtova"
         ],
         "track": "zaklady",
         "duration": 85,
@@ -4064,7 +4079,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 66,
+      "speakers": 67,
       "tracks": 9,
       "events": 84,
       "faqs": 5,
@@ -4072,5 +4087,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-30T05:54:05.197Z"
+  "time": "2022-04-30T07:45:22.588Z"
 }
