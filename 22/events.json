@@ -440,6 +440,7 @@
     ],
     "duration": 55,
     "difficulty": "beginner",
+    "description": "Pokud vám dává smysl aby i ve školách byl přístup k základním informacím o blockchainu a NFTs, přijďtě si poslechnout jak to dělám já a společně rozvedeme diskuzi na toto téma.\n",
     "tags": [
       "gaming",
       "děti"
@@ -1253,7 +1254,10 @@
     "duration": 10,
     "parent": "lokalni-projekty-intro",
     "tags": [
-      "DAO"
+      "Ethereum",
+      "DAO",
+      "filantropie",
+      "Gnosis Chain"
     ]
   },
   {
