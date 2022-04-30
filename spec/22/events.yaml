@@ -10,8 +10,9 @@
   type: panel
   name: Z normální práce do krypta
   speakers:
-    - stana-mutlova
     - sona-parke
+    - stana-mutlova
+    - denisa-brichtova
   track: zaklady
   duration: 85
   difficulty: beginner

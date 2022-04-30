@@ -688,3 +688,11 @@
   country: cz
   tracks: [ regulace ]
 
+- id: denisa-brichtova
+  name: Denisa Brichtová
+  twitter: BrichtDenis
+  orgs: |
+    UI/UX Designer v [Pledged Capital](https://pledged-capital.app/)
+  country: cz
+  tracks: [ spolecnost ]
+
