@@ -313,16 +313,20 @@
   {
     "id": "ceska-kryptonadace",
     "type": "talk",
-    "name": "\"Česká kryptonadace\"",
+    "name": "Česká KryptoNadace - spolupráce mezi krypto a neziskovým sektorem",
     "track": "regulace",
     "speakers": [
+      "jan-struhala",
       "radek-svarz"
     ],
     "duration": 25,
-    "difficulty": "expert",
+    "difficulty": "beginner",
     "tags": [
-      "regulace"
-    ]
+      "regulace",
+      "adopce",
+      "filantropie"
+    ],
+    "description": "...\n"
   },
   {
     "id": "social-tokeny",
