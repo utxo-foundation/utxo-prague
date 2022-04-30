@@ -1,14 +1,14 @@
 {
   "persons": {
-    "tree": {
-      "name": "Tree",
-      "twitter": "treecz",
-      "desc": "Zástupce [Gwei.cz](http://gwei.cz/) a [BohemianDAO](http://bohemiandao.cz/)"
-    },
     "tereza": {
       "name": "Tereza Starostová",
       "twitter": "tatereza5",
       "desc": "Zástupce [Holky v Kryptu](https://holkyvkryptu.cz/)"
+    },
+    "tree": {
+      "name": "Tree",
+      "twitter": "treecz",
+      "desc": "Zástupce [Gwei.cz](http://gwei.cz/) a [BohemianDAO](http://bohemiandao.cz/)"
     },
     "vojtch": {
       "name": "Vojtch",
@@ -42,6 +42,9 @@
     "dimi": {
       "name": "Dmitrij Malyšev",
       "twitter": "dmit_ry"
+    },
+    "tomassino": {
+      "name": "Tomassino"
     }
   },
   "teams": {
@@ -189,16 +192,17 @@
         "tree",
         "dimi"
       ],
-      "lead": "tree"
+      "lead": "dimi"
     },
     "kryptokino": {
       "name": "KryptoKino",
       "parent": "program",
       "members": [
         "tree",
-        "dusan"
+        "dusan",
+        "tereza"
       ],
-      "lead": "tree"
+      "lead": "dusan"
     }
   }
 }
