@@ -327,6 +327,18 @@
     ]
   },
   {
+    "id": "jan-struhala",
+    "name": "Jan Struhala",
+    "twitter": "jan_struhala",
+    "bio": "soudní překladatel, krypto investor",
+    "orgs": "struhala.cz\n",
+    "country": "cz",
+    "tracks": [
+      "regulace"
+    ],
+    "photos": []
+  },
+  {
     "id": "jaromir-tesar",
     "name": "Jaromír Tesař",
     "twitter": "JaromirTesar",
