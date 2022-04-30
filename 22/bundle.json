@@ -356,13 +356,18 @@
         "id": "jan-struhala",
         "name": "Jan Struhala",
         "twitter": "jan_struhala",
-        "bio": "soudní překladatel, krypto investor",
-        "orgs": "struhala.cz\n",
+        "bio": "Soudní překladatel, krypto investor",
+        "web": {
+          "url": "http://struhala.cz"
+        },
         "country": "cz",
         "tracks": [
           "regulace"
         ],
-        "photos": []
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
       },
       {
         "id": "jaromir-tesar",
@@ -702,6 +707,7 @@
       {
         "id": "michaela-malatin",
         "name": "Michaela Malatin",
+        "nickname": "Pethalusa",
         "twitter": "malatinmichaela",
         "bio": "Crypto NFT Enthusiast",
         "orgs": "Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)\n",
@@ -4062,5 +4068,5 @@
       "projects": 72
     }
   },
-  "time": "2022-04-30T01:59:35.644Z"
+  "time": "2022-04-30T02:05:19.880Z"
 }
