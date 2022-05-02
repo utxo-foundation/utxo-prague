@@ -241,6 +241,16 @@
           "btc"
         ],
         "desc": "Mastodon: [fuxoft@kompost.cz](https://kompost.cz/@fuxoft)\n",
+        "available": [
+          {
+            "from": "2022-06-04T14:00:00",
+            "to": "2022-06-04T23:59:59"
+          },
+          {
+            "from": "2022-06-05T14:00:00",
+            "to": "2022-06-05T23:59:59"
+          }
+        ],
         "photos": [
           "web:jpg"
         ]
@@ -1437,7 +1447,8 @@
         "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n",
         "tags": [
           "cypherpunk",
-          "Bitcoin"
+          "Bitcoin",
+          "historie"
         ]
       },
       {
@@ -1678,6 +1689,23 @@
         "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n",
         "tags": [
           "Bitcoin"
+        ]
+      },
+      {
+        "id": "kdyz-byl-bitcoin-jeste-divoky-zapad",
+        "type": "talk",
+        "name": "Když byl Bitcoin ještě Divoký západ",
+        "track": "btc",
+        "speakers": [
+          "frantisek-fuka"
+        ],
+        "duration": 55,
+        "difficulty": "beginner",
+        "description": "Jak to fungovalo, když jste v roce 2013 šířili Bitcoinovou osvětu a nechali si posílat dobrovolné bitcoinové dary. A jak se ty dary v roce 2022 zdaňují.\n",
+        "tags": [
+          "Bitcoin",
+          "historie",
+          "adopce"
         ]
       },
       {
@@ -4209,11 +4237,11 @@
     "counts": {
       "speakers": 71,
       "tracks": 9,
-      "events": 87,
+      "events": 88,
       "faqs": 5,
       "partners": 26,
       "projects": 72
     }
   },
-  "time": "2022-05-02T07:37:10.711Z"
+  "time": "2022-05-02T07:51:08.078Z"
 }
