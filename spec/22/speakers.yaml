@@ -709,3 +709,12 @@
     Člen [Polkadotters](https://twitter.com/polkadotterss)
   country: cz
   tracks: [ alty ]
+
+- id: stepan-fau
+  name: Štěpán Fau
+  twitter: steve_fau
+  orgs: |
+    Zakladatel [PWN](https://pwn.finance/)
+  country: cz
+  tracks: [ eth, defi ]
+  
