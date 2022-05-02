@@ -170,6 +170,7 @@
         "tracks": [
           "spolecnost"
         ],
+        "desc": "UI/UX Designérka, momentálně pracuji pro krypto startup [Pledged Capital](https://pledged-capital.app/), kde mám na starosti návrh rozhraní naší decentralizované aplikace a webu. Startup byla založen v Portugalsku, náš tým je mezinárodní a plně remote.\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -414,6 +415,17 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "jiri-skrivan",
+        "name": "Jiří Skřivan",
+        "orgs": "[Skovo.cz](https://www.skovo.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "zaklady"
+        ],
+        "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
+        "photos": []
       },
       {
         "id": "josef-gattermayer",
@@ -2571,6 +2583,21 @@
         ]
       },
       {
+        "id": "skovo",
+        "type": "lightning",
+        "name": "Skovo.cz",
+        "track": "zaklady",
+        "speakers": [
+          "jiri-skrivan"
+        ],
+        "duration": 10,
+        "parent": "lokalni-projekty-intro",
+        "tags": [
+          "seed",
+          "bezpečnost"
+        ]
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "name": "UTXO.Party - Elektronická stage",
@@ -4163,13 +4190,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 69,
+      "speakers": 70,
       "tracks": 9,
-      "events": 86,
+      "events": 87,
       "faqs": 5,
       "partners": 26,
       "projects": 72
     }
   },
-  "time": "2022-05-02T02:56:58.753Z"
+  "time": "2022-05-02T03:54:57.749Z"
 }

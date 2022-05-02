@@ -144,6 +144,7 @@
     "tracks": [
       "spolecnost"
     ],
+    "desc": "UI/UX Designérka, momentálně pracuji pro krypto startup [Pledged Capital](https://pledged-capital.app/), kde mám na starosti návrh rozhraní naší decentralizované aplikace a webu. Startup byla založen v Portugalsku, náš tým je mezinárodní a plně remote.\n",
     "photos": [
       "web:jpg",
       "twitter:jpg"
@@ -388,6 +389,17 @@
     "photos": [
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "jiri-skrivan",
+    "name": "Jiří Skřivan",
+    "orgs": "[Skovo.cz](https://www.skovo.cz/)\n",
+    "country": "cz",
+    "tracks": [
+      "zaklady"
+    ],
+    "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
+    "photos": []
   },
   {
     "id": "josef-gattermayer",
