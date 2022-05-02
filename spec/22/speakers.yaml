@@ -697,3 +697,9 @@
   country: cz
   tracks: [ spolecnost ]
 
+- id: pavel-kahoun
+  name: Pavel Kahoun
+  orgs:
+    Člen [Polkadotters](https://twitter.com/polkadotterss)
+  country: cz
+  tracks: [ alty ]

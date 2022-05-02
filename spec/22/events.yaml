@@ -552,6 +552,18 @@
   tags:
     - Cardano
 
+- id: polkadot-governance
+  type: talk
+  name: Polkadot governance
+  difficulty: advanced
+  track: alty
+  speakers: [ pavel-kahoun ]
+  duration: 55
+  tags:
+    - Polkadot
+    - governance
+    - DAO
+
 # Workshops (workshopy)
 # =======================
 
@@ -740,6 +752,17 @@
       * jak se zorientovat v docs DEXes APIs
 
     Napíšeme arbitrážovací Solidity contract.
+
+- id: staking-a-polkadot-aukce
+  type: workshop
+  name: Staking a Polkadot aukce
+  track: alty
+  speakers: [ petr-mensik ]
+  duration: 50
+  difficulty: advanced
+  tags:
+    - Polkadot
+    - staking
 
 # Lightning talks
 # ==========================
