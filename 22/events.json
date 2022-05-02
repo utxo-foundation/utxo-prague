@@ -708,6 +708,21 @@
     ]
   },
   {
+    "id": "devpill-me-public-goods",
+    "type": "talk",
+    "name": "Úvod do public goods (devpill.me)",
+    "track": "eth",
+    "speakers": [
+      "dcbuilder"
+    ],
+    "duration": 55,
+    "tags": [
+      "Ethereum",
+      "public good",
+      "smart-contract"
+    ]
+  },
+  {
     "id": "bezpecnost-workshop",
     "type": "workshop",
     "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",

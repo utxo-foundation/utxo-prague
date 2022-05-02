@@ -136,6 +136,21 @@
     ]
   },
   {
+    "id": "dcbuilder",
+    "name": "dcbuilder.eth",
+    "twitter": "DCbuild3r",
+    "bio": "Etherean, regen, math\n",
+    "orgs": "Autor [devpillme.eth](https://www.devpill.me/), research engineer [Alongside](https://www.alongside.xyz/)\n",
+    "country": "cz",
+    "tracks": [
+      "eth",
+      "defi"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "denisa-brichtova",
     "name": "Denisa Brichtová",
     "twitter": "BrichtDenis",

@@ -162,6 +162,21 @@
         ]
       },
       {
+        "id": "dcbuilder",
+        "name": "dcbuilder.eth",
+        "twitter": "DCbuild3r",
+        "bio": "Etherean, regen, math\n",
+        "orgs": "Autor [devpillme.eth](https://www.devpill.me/), research engineer [Alongside](https://www.alongside.xyz/)\n",
+        "country": "cz",
+        "tracks": [
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "denisa-brichtova",
         "name": "Denisa Brichtová",
         "twitter": "BrichtDenis",
@@ -2009,6 +2024,21 @@
           "Polkadot",
           "governance",
           "DAO"
+        ]
+      },
+      {
+        "id": "devpill-me-public-goods",
+        "type": "talk",
+        "name": "Úvod do public goods (devpill.me)",
+        "track": "eth",
+        "speakers": [
+          "dcbuilder"
+        ],
+        "duration": 55,
+        "tags": [
+          "Ethereum",
+          "public good",
+          "smart-contract"
         ]
       },
       {
@@ -4235,13 +4265,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 71,
+      "speakers": 72,
       "tracks": 9,
-      "events": 88,
+      "events": 89,
       "faqs": 5,
       "partners": 26,
       "projects": 72
     }
   },
-  "time": "2022-05-02T07:51:08.078Z"
+  "time": "2022-05-02T10:40:01.629Z"
 }
