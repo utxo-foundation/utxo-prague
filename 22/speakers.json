@@ -501,7 +501,7 @@
     "name": "Lenka Hudáková",
     "nickname": "Lenkla",
     "twitter": "LenklaH",
-    "orgs": "Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)\n",
+    "orgs": "Vedení projektu [Sustainable Ecosystem Scaling core unit](https://ses.makerdao.network/) @ [MakerDAO](https://makerdao.com/)\n",
     "tracks": [
       "eth",
       "dao"
@@ -844,7 +844,8 @@
     "country": "cz",
     "photos": [
       "web:jpg",
-      "sm:png"
+      "sm:png",
+      "twitter:jpg"
     ]
   },
   {
