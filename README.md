@@ -28,9 +28,9 @@ Jako runtime se využívá Javascriptové [Deno](https://deno.land/).
 
 ## Ročníky
 
-| Ročník | Název       | Datum konání | Místo               |
-| ------ | ----------- | ------------ | ------------------- |
-| 22     | **UTXO.22** | 4.-5.6.2022  | Gabriel Loci, Praha |
+| Ročník          | Název       | Datum konání | Místo               |
+| --------------- | ----------- | ------------ | ------------------- |
+| [22](./spec/22) | **UTXO.22** | 4.-5.6.2022  | Gabriel Loci, Praha |
 
 ## HTTP Endpoint
 
@@ -72,3 +72,4 @@ https://json-schema.app/view/%23%2Fdefinitions%2Fspeaker?url=https%3A%2F%2Fspec.
 - Web: [utxo.cz](https://utxo.cz)
 - Dokumentace: [docs.utxo.cz](https://docs.utxo.cz)
 - Foundation: [utxo.foundation](https://utxo.foundation)
+
