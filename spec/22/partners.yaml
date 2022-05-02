@@ -170,3 +170,11 @@
   desc: Nejdůležitější novinky ze světa kryptoměn
   web:
     url: https://www.instagram.com/kryptodenik/
+
+- id: investocka
+  name: Investocka
+  type: medium
+  desc: Videoblog o investicích
+  web:
+    url: https://www.investocka.cz/
+
