@@ -1039,6 +1039,20 @@
     ]
   },
   {
+    "id": "stepan-fau",
+    "name": "Štěpán Fau",
+    "twitter": "steve_fau",
+    "orgs": "Zakladatel [PWN](https://pwn.finance/)\n",
+    "country": "cz",
+    "tracks": [
+      "eth",
+      "defi"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "tereza-starostova",
     "name": "Tereza Starostová",
     "twitter": "tatereza5",

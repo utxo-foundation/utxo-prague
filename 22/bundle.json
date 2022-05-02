@@ -1065,6 +1065,20 @@
         ]
       },
       {
+        "id": "stepan-fau",
+        "name": "Štěpán Fau",
+        "twitter": "steve_fau",
+        "orgs": "Zakladatel [PWN](https://pwn.finance/)\n",
+        "country": "cz",
+        "tracks": [
+          "eth",
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "tereza-starostova",
         "name": "Tereza Starostová",
         "twitter": "tatereza5",
@@ -4149,7 +4163,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 68,
+      "speakers": 69,
       "tracks": 9,
       "events": 86,
       "faqs": 5,
@@ -4157,5 +4171,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-02T02:02:35.689Z"
+  "time": "2022-05-02T02:56:58.753Z"
 }
