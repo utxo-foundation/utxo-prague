@@ -23,7 +23,7 @@
   name: damsky
   twitter: CryptoDamSky
   orgs: |
-    Člen [Gwei.cz Councilu](https://gwei.cz)
+    Člen [Gwei.cz Councilu](https://gwei.cz), YT kanál [CryptoDamsky](https://www.youtube.com/channel/UCp1uzKebERLIyxzJexq0bCA)
   tracks: [ zaklady, eth, defi, dao, spolecnost ]
   country: cz
 
@@ -420,6 +420,7 @@
   country: cz
   desc: |
     Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.
+  lead: true
 
 - id: lubos-kovarik
   name: Luboš Kovařík
@@ -442,6 +443,7 @@
   country: sk
   desc: |
     Lenka vedie projekty a iniciatívy v [Sustainable Ecosystem Scaling Core Unit](https://ses.makerdao.network/), tíme pracujúcom pre [MakerDAO](https://makerdao.com/). Predtím bola súčasťou MarComms teamu v Maker Foundation, kde budovala komunitu a mala na starosti eventy. Pred Makerom bola v crypto trading a platbonej platforme Coinify a mala nastarosti marketing a komunikáciu. Mimo to spolubuduje komunity okolo nezávislej kultúry, startupov, a krypta.
+  lead: true
 
 - id: michael-chobanian
   name: Michael Chobanian
@@ -592,6 +594,7 @@
     CEO @ [SimpleTax&Law](https://www.smpl.cz/)
   country: cz
   tracks: [ regulace ]
+  lead: true
 
 - id: ondrej-pilny
   name: Ondřej Pilný
@@ -610,6 +613,7 @@
     Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), analytik při [OSN](https://www.osn.cz/) 
   country: cz
   tracks: [ regulace ]
+  lead: true
 
 - id: simona-pacakova
   name: Simona Pacáková
@@ -679,11 +683,13 @@
     CEO @ [Anycoin](https://www.anycoin.cz/)
   country: cz
   tracks: [ regulace ]
+  lead: true
   
 - id: jan-struhala
   name: Jan Struhala
   twitter: jan_struhala
   bio: Soudní překladatel, krypto investor
+  orgs: Česká KryptoNadace
   web:
     url: http://struhala.cz
   country: cz
