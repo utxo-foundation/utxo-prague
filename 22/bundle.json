@@ -2871,6 +2871,18 @@
         "photos": [
           "web:jpg"
         ]
+      },
+      {
+        "id": "investocka",
+        "name": "Investocka",
+        "type": "medium",
+        "desc": "Videoblog o investicích",
+        "web": {
+          "url": "https://www.investocka.cz/"
+        },
+        "photos": [
+          "web:png"
+        ]
       }
     ],
     "projects": [
@@ -4140,9 +4152,9 @@
       "tracks": 9,
       "events": 86,
       "faqs": 5,
-      "partners": 25,
+      "partners": 26,
       "projects": 72
     }
   },
-  "time": "2022-05-02T01:24:54.019Z"
+  "time": "2022-05-02T01:42:21.412Z"
 }

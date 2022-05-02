@@ -283,5 +283,17 @@
     "photos": [
       "web:jpg"
     ]
+  },
+  {
+    "id": "investocka",
+    "name": "Investocka",
+    "type": "medium",
+    "desc": "Videoblog o investicích",
+    "web": {
+      "url": "https://www.investocka.cz/"
+    },
+    "photos": [
+      "web:png"
+    ]
   }
 ]
