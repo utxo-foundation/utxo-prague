@@ -582,6 +582,7 @@
 - id: devpill-me-public-goods
   type: talk
   name: Úvod do public goods (devpill.me)
+  difficulty: advanced
   track: eth
   speakers: [ dcbuilder ]
   duration: 55
@@ -589,6 +590,20 @@
     - Ethereum
     - public good
     - smart-contract
+
+- id: zakladni-filozofie-tvorby-tokenu
+  type: talk
+  name: Základní filozofie tvorby tokenu (tokenomiky)
+  track: eth
+  difficulty: advanced
+  speakers: [ jakub-jedlinsky ]
+  duration: 55
+  description: |
+    Po letech, kdy prakticky jedinou reálně používanou kryptoměnou byl Bitcoin, jsme se přesunuli do situace, kdy už aplikace blockchainu není jen marketingovou vějičkou, nýbrž skutečností. Stále více projektů nyní přemýšlí, jak a do jaké míry decentralizovat svou aplikaci, jaké technické řešení zvolit a jestli využít existující, či vlastní tokeny. Toto rozhodnutí je přitom zásadní pro úspěch každého konceptu. Tokenomika je relativně nová věda a ukazuje se, že je vhodné přistoupit k ní sofistikovaně a dopředu. Přesvědčují se o tom i velké a etablované projekty jako Axie Infinity, když až po čase začínají draze a náročně nacházet a následně lepit díry ve vlastních systémech.
+
+    Na přednášce Vám představíme základní filozofii tvorby tokenu, definování utility/funkcionalit, výběr vhodného technického řešení, definování stake holderů a typů cílových uživatelů, stock-flow konsistentní modelování, distribuci a výběr správných incentiv. Naučíte se taky pár tipů, jak rozpoznat projekt, kde tokenomika slouží jeho rozšíření a zpříjemnění uživatelského zážitku, a kde naopak slouží jenom k tomu, aby vývojáři vyraisovali peníze. Z pohledu investora se pak budete chtít druhému jmenovanému případu vyhnout obloukem.
+  tags:
+    - tokenomika
 
 
 # Workshops (workshopy)
