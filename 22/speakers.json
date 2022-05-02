@@ -572,7 +572,6 @@
     "tracks": [
       "regulace"
     ],
-    "lead": true,
     "photos": [
       "web:jpg",
       "twitter:jpg"
@@ -712,7 +711,9 @@
     ],
     "country": "cz",
     "desc": "Členka [Holek v kryptu](https://holkyvkryptu.cz) se zaměřením na NFT. Jako technický projekťák v Red Hatu se přirozeně zaměřuje na fundamentální analýzy krypto projektů a Use cases NFT nejen jako prezentace obrázku. Své NFT znalosti sdílí na workshopech nebo konferencích v Evropě.\n",
+    "lead": true,
     "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },
