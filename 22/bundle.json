@@ -96,7 +96,7 @@
         "id": "damsky",
         "name": "damsky",
         "twitter": "CryptoDamSky",
-        "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz)\n",
+        "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz), YT kanál [CryptoDamsky](https://www.youtube.com/channel/UCp1uzKebERLIyxzJexq0bCA)\n",
         "tracks": [
           "zaklady",
           "eth",
@@ -371,6 +371,7 @@
         "name": "Jan Struhala",
         "twitter": "jan_struhala",
         "bio": "Soudní překladatel, krypto investor",
+        "orgs": "Česká KryptoNadace",
         "web": {
           "url": "http://struhala.cz"
         },
@@ -426,6 +427,7 @@
         ],
         "country": "cz",
         "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -486,6 +488,7 @@
         "tracks": [
           "regulace"
         ],
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -531,7 +534,9 @@
         ],
         "country": "sk",
         "desc": "Lenka vedie projekty a iniciatívy v [Sustainable Ecosystem Scaling Core Unit](https://ses.makerdao.network/), tíme pracujúcom pre [MakerDAO](https://makerdao.com/). Predtím bola súčasťou MarComms teamu v Maker Foundation, kde budovala komunitu a mala na starosti eventy. Pred Makerom bola v crypto trading a platbonej platforme Coinify a mala nastarosti marketing a komunikáciu. Mimo to spolubuduje komunity okolo nezávislej kultúry, startupov, a krypta.\n",
+        "lead": true,
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -562,6 +567,7 @@
         "tracks": [
           "regulace"
         ],
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -592,6 +598,7 @@
         "tracks": [
           "regulace"
         ],
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -4137,5 +4144,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-02T00:49:28.789Z"
+  "time": "2022-05-02T01:17:07.613Z"
 }
