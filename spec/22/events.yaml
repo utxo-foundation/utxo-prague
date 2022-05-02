@@ -138,6 +138,7 @@
   tags:
     - cypherpunk
     - Bitcoin
+    - historie
 
 - id: pokrok-bez-povoleni
   type: talk
@@ -334,6 +335,20 @@
     Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)
   tags:
     - Bitcoin
+
+- id: kdyz-byl-bitcoin-jeste-divoky-zapad
+  type: talk
+  name: Když byl Bitcoin ještě Divoký západ
+  track: btc
+  speakers: [ frantisek-fuka ]
+  duration: 55
+  difficulty: beginner
+  description: |
+    Jak to fungovalo, když jste v roce 2013 šířili Bitcoinovou osvětu a nechali si posílat dobrovolné bitcoinové dary. A jak se ty dary v roce 2022 zdaňují.
+  tags:
+    - Bitcoin
+    - historie
+    - adopce
 
 - id: budoucnost-kryptomen
   type: talk

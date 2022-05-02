@@ -739,4 +739,9 @@
   tracks: [ spolecnost, btc ]
   desc: |
     Mastodon: [fuxoft@kompost.cz](https://kompost.cz/@fuxoft)
+  available:
+    - from: '2022-06-04T14:00:00'
+      to: '2022-06-04T23:59:59'
+    - from: '2022-06-05T14:00:00'
+      to: '2022-06-05T23:59:59'
 
