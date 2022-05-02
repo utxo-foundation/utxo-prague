@@ -674,6 +674,22 @@
     ]
   },
   {
+    "id": "polkadot-governance",
+    "type": "talk",
+    "name": "Polkadot governance",
+    "difficulty": "advanced",
+    "track": "alty",
+    "speakers": [
+      "pavel-kahoun"
+    ],
+    "duration": 55,
+    "tags": [
+      "Polkadot",
+      "governance",
+      "DAO"
+    ]
+  },
+  {
     "id": "bezpecnost-workshop",
     "type": "workshop",
     "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -908,6 +924,21 @@
       "smart-contract"
     ],
     "description": "Workshop, kde se dozvíte z čeho se skládá zisková arbitráž, jak se zorientovat v dokumentaci smart-kontraktů a společně si napíšeme arbitrážovací Solidity smart-kontrakt.\n\nNa workshopu se dovíte:\n  * z čeho se skládá zisková arbitráž\n  * jak se zorientovat v docs DEXes APIs\n\nNapíšeme arbitrážovací Solidity contract.\n"
+  },
+  {
+    "id": "staking-a-polkadot-aukce",
+    "type": "workshop",
+    "name": "Staking a Polkadot aukce",
+    "track": "alty",
+    "speakers": [
+      "petr-mensik"
+    ],
+    "duration": 50,
+    "difficulty": "advanced",
+    "tags": [
+      "Polkadot",
+      "staking"
+    ]
   },
   {
     "id": "cryptobyte-recap",
