@@ -229,6 +229,23 @@
         ]
       },
       {
+        "id": "frantisek-fuka",
+        "name": "František Fuka",
+        "bio": "Programátor a publicista, který začínal s Bitcoinem v dřevních dobách před 10 lety\n",
+        "web": {
+          "url": "https://www.fuxoft.cz"
+        },
+        "country": "cz",
+        "tracks": [
+          "spolecnost",
+          "btc"
+        ],
+        "desc": "Mastodon: [fuxoft@kompost.cz](https://kompost.cz/@fuxoft)\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "helena-horska",
         "name": "Helena Horská",
         "twitter": "helenahorska",
@@ -4190,7 +4207,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 70,
+      "speakers": 71,
       "tracks": 9,
       "events": 87,
       "faqs": 5,
@@ -4198,5 +4215,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-02T06:53:49.250Z"
+  "time": "2022-05-02T07:37:10.711Z"
 }
