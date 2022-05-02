@@ -579,6 +579,18 @@
     - governance
     - DAO
 
+- id: devpill-me-public-goods
+  type: talk
+  name: Úvod do public goods (devpill.me)
+  track: eth
+  speakers: [ dcbuilder ]
+  duration: 55
+  tags:
+    - Ethereum
+    - public good
+    - smart-contract
+
+
 # Workshops (workshopy)
 # =======================
 

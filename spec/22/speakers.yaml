@@ -745,3 +745,13 @@
     - from: '2022-06-05T14:00:00'
       to: '2022-06-05T23:59:59'
 
+- id: dcbuilder
+  name: dcbuilder.eth
+  twitter: DCbuild3r
+  bio: |
+    Etherean, regen, math
+  orgs: |
+    Autor [devpillme.eth](https://www.devpill.me/), research engineer [Alongside](https://www.alongside.xyz/)
+  country: cz
+  tracks: [ eth, defi ]
+
