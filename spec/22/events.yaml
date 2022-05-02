@@ -242,13 +242,13 @@
 
 - id: adopce-btc
   type: talk
-  name: Adopce Bitcoinu pro obchodní korporace
+  name: Bitcoin a české korporace
   track: btc
   speakers: [ adam-lokaj ]
   duration: 25
   difficulty: expert
   description: |
-    Přednáška od autora [stejnojmenné knihy](https://www.adopcebtc.cz/)
+    Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte.
   tags:
     - Bitcoin
     - regulace
