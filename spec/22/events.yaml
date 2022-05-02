@@ -583,11 +583,29 @@
 
 - id: devpill-me-public-goods
   type: talk
-  name: Úvod do public goods (devpill.me)
+  name: Úvod k devpill.me a public goods
   difficulty: advanced
   track: eth
   speakers: [ dcbuilder ]
   duration: 55
+  description: |
+    [Devpill.me](https://www.devpill.me/) je veřejně přístupný návod ke vývoji na blockchainu, který slouží jako agregátor vzdělávacích zdrojů pro vše, co může vývojář na blockchainu potřebovat. Existují specializace zaměřené na širokou škálu různých dovedností (tj. chytré kontrakty, front-end, kryptografie) a různá témata, jako je DeFi, MEV, NFT a další. Na co se soustředit? Jak získat zaměstnání v oboru? Jakou specializaci si vybrat a jak se v ní zdokonalovat?
+
+    ---
+
+    ## Předmluva k *devpill.me*
+
+    V dnešní době existuje nespočet dobře zpracovaných zdrojů o tom, jak se naučit vyvíjet na blockchainech všeho druhu a s ohledem na různé specializace, nicméně je stále velmi těžké získat konkrétní rady na základě vašich zájmů. Tuto příručku píšu proto, abych poskytl agregátor všech zdrojů, které jsem v průběhu let našel, a navíc poskytl názorový komentář k tomu, jak k nim přistupovat a jak je používat, abyste se co nejvíce naučili a prakticky pochopili, a mohli tak co nejdříve začít stavět cool věci v tomto prostoru.
+
+    Tento průvodce se zaměří na ekosystém Ethereum, protože tam se nachází většina vývojářů a aplikací. Pokud vás zajímají jiné ekosystémy, které nejsou kompatibilní s EvM a nejsou L2 na Ethereu, pak se podívejte na jejich příslušnou dokumentaci nebo průvodce napsané jejich vývojářskými komunitami. Příklady dalších blockchainů nekompatibilních s EVM, které jsou populární, jsou Solana (Rust/Anchor), Polkadot (Rust/Substrate), Cosmos, Terra a další. Většina těchto blockchainů podporuje nebo bude podporovat EVM stack prostřednictvím různých iniciativ, jako je Neon EVM (Solana), Moonbeam/Moonriver (Polkadot/Kusama), EVMOS (Cosmos) atd.
+
+    Opravdu bych chtěl, aby se tento průvodce stal veřejným statkem, jehož zdrojem bude komunita a který bude moci využívat každý. Udělám vše pro to, abych ji představil širší komunitě blockchainových vývojářů a získal konstruktivní zpětnou vazbu, pomoc s korekturami a náhled na to, jak z ní udělat nejlepší dostupnou příručku.
+
+    (překlad [anglického originálu](https://www.devpill.me/docs/introduction/foreword/))
+
+    ---
+
+    [devpill.me](https://www.devpill.me/) / [GitHub](https://github.com/dcbuild3r/devpill.me) / [Twitter](https://twitter.com/devpillme)
   tags:
     - Ethereum
     - public good

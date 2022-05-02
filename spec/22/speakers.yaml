@@ -752,6 +752,8 @@
     Etherean, regen, math
   orgs: |
     Autor [devpillme.eth](https://www.devpill.me/), research engineer [Alongside](https://www.alongside.xyz/)
+  web:
+    url: https://dcbuilder.dev
   country: cz
   tracks: [ eth, defi ]
 
