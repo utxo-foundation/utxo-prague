@@ -38,6 +38,13 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 
 - [https://spec.utxo.cz/](https://spec.utxo.cz/)
 
+## Bundle
+
+Všechny datové sady v jednom souboru:
+
+- [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json)
+
+
 ## Datové sady
 
 |              | Popis                                       | Ročník 2022                                                                    |
@@ -49,7 +56,6 @@ Veřejný HTTP endpoint s datovými soubory ve formátu JSON naleznete na adrese
 | **faqs**     | Často kladené dotazy (FAQ)                  | [https://spec.utxo.cz/22/faqs.json](https://spec.utxo.cz/22/faqs.json)         |
 | **partners** | Partneři (sponzoři, mediální partneři atp.) | [https://spec.utxo.cz/22/partners.json](https://spec.utxo.cz/22/partners.json) |
 | **projects** | Projekty                                    | [https://spec.utxo.cz/22/projects.json](https://spec.utxo.cz/22/projects.json) |
-| **bundle**   | Vše v jednom souboru                        | [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json)     |
 
 Schema si můžete prohlédnout zde:
 https://json-schema.app/view/%23%2Fdefinitions%2Fspeaker?url=https%3A%2F%2Fspec.utxo.cz%2Fschema%2F1%2Fbundle.json
