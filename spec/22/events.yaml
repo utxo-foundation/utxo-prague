@@ -1077,6 +1077,17 @@
   tags:
     - DAO
 
+- id: skovo
+  type: lightning
+  name: Skovo.cz
+  track: zaklady
+  speakers: [ jiri-skrivan ]
+  duration: 10
+  parent: lokalni-projekty-intro
+  tags:
+    - seed
+    - bezpečnost
+
 
 # Ostatní
 # ==========================

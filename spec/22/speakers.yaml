@@ -702,6 +702,8 @@
     UI/UX Designer v [Pledged Capital](https://pledged-capital.app/)
   country: cz
   tracks: [ spolecnost ]
+  desc: |
+    UI/UX Designérka, momentálně pracuji pro krypto startup [Pledged Capital](https://pledged-capital.app/), kde mám na starosti návrh rozhraní naší decentralizované aplikace a webu. Startup byla založen v Portugalsku, náš tým je mezinárodní a plně remote.
 
 - id: pavel-kahoun
   name: Pavel Kahoun
@@ -718,3 +720,12 @@
   country: cz
   tracks: [ eth, defi ]
   
+- id: jiri-skrivan
+  name: Jiří Skřivan
+  orgs: |
+    [Skovo.cz](https://www.skovo.cz/)
+  country: cz
+  tracks: [ zaklady ]
+  desc: |
+    Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.
+
