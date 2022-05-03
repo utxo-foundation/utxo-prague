@@ -178,3 +178,12 @@
   web:
     url: https://www.investocka.cz/
 
+- id: vojta-zizka
+  name: Vojta Žižka
+  type: medium
+  twitter: VojtaZizka
+  desc: Podcast a videa ze světa financí, investic a kryptoměn.
+  web:
+    url: https://www.vojtazizka.cz/
+
+
