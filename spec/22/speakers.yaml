@@ -757,3 +757,15 @@
   country: cz
   tracks: [ eth, defi ]
 
+- id: vojta-zizka
+  name: Vojta Žižka
+  twitter: VojtaZizka
+  orgs: |
+    Investiční podcast [Vojta Žižka](https://www.youtube.com/VojtaZizka)
+  web:
+    url: https://www.vojtazizka.cz/
+  country: cz
+  tracks: [ zaklady, spolecnost ]
+  desc: |
+    Followerům zvyšuji finanční gramotnost. Zajímá mě svět financí, investic, nemovitostí a kryptoměn. Baví mě tvorba pasivních příjmů, fintech a mems.
+
