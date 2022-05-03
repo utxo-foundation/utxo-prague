@@ -783,12 +783,10 @@
 
 - id: frantisek-vinopal
   name: František Vinopal
-  linkedin: linkedin.com/in/vinfra
+  linkedin: vinfra
   bio: |
     Právník pro oblast fintech a kryptoměn
   orgs: | 
-    [COINMATE CRYPTOEXCHANGE] (https://www.coinmate.io/), [CONFIRMO CRYPTOPAYMENTS] (https://www.confirmo.net/)
+    Předseda [České kryptoměnové asociace (ČKMA)](https://www.ckma.cz), [Coinnmate](https://www.coinmate.io/), [Confirmo](https://www.confirmo.net/)
   country: cz
-  tracks: [ defi ]
-  desc: | 
-    [Předseda] české kryptoměnové asociace (https://www.ckma.cz)
+  tracks: [ regulace ]
