@@ -68,7 +68,7 @@ function checkCol(col, d, current) {
       if (!d[col].removed) {
         d[col].removed = [];
       }
-      d[col].removed.push([sp.id, sp.name]);
+      d[col].removed.push({ id: sp.id, name: sp.name });
     }
   }
 }
