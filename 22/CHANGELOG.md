@@ -32,6 +32,10 @@
 * přidáno [Staking a Polkadot aukce](https://utxo.cz/udalosti?id=staking-a-polkadot-aukce)
 * přidáno [Skovo.cz](https://utxo.cz/udalosti?id=skovo)
 
+### Partneři
+
+* přidáno [Investocka](https://utxo.cz/#partneri?id=investocka)
+
 
 ## 30.4.2022
 
@@ -66,6 +70,11 @@
 * přidáno [NFT a Metaverse](https://utxo.cz/udalosti?id=nft-metaverse-panel)
 * přidáno [Proč a jak používat Bitcoin](https://utxo.cz/udalosti?id=proc-a-jak-pouzivat-bitcoin)
 * přidáno [Mise projektu Cardano](https://utxo.cz/udalosti?id=mise-projektu-cardano)
+
+### Partneři
+
+* přidáno [DAO všech slovanských národů](https://utxo.cz/#partneri?id=slavicdao)
+* přidáno [PWN DAO](https://utxo.cz/#partneri?id=pwn)
 
 
 ## 25.4.2022
@@ -111,6 +120,10 @@
 ### Události
 
 * přidáno [Volný trh peněz](https://utxo.cz/udalosti?id=volny-trh-penez)
+
+### Partneři
+
+* odebráno [Bitcoach](https://utxo.cz/#partneri?id=bitcoach-komunita)
 
 
 ## 20.4.2022
@@ -250,6 +263,28 @@
 * přidáno [Cardanians](https://utxo.cz/udalosti?id=cardanians)
 
 
+## 5.4.2022
+
+### Partneři
+
+* přidáno [Bitcoach](https://utxo.cz/#partneri?id=bitcoach-komunita)
+
+
+## 4.4.2022
+
+### Partneři
+
+* přidáno [KryptoDeník](https://utxo.cz/#partneri?id=kryptodenik)
+
+
+## 3.4.2022
+
+### Partneři
+
+* přidáno [Bitcoach](https://utxo.cz/#partneri?id=bitcoach)
+* přidáno [Anycoin.cz](https://utxo.cz/#partneri?id=anycoin)
+
+
 ## 23.3.2022
 
 ### Přednášející
@@ -331,6 +366,11 @@
 * přidáno [Základy zabezpečení (ne)jen ve světě kryptoměn](https://utxo.cz/udalosti?id=zaklady-zabezpeceni)
 * přidáno [Základy zabezpečení (ne)jen ve světě kryptoměn](https://utxo.cz/udalosti?id=bezpecnost-workshop)
 
+### Partneři
+
+* přidáno [dYdX Grants Program](https://utxo.cz/#partneri?id=dydx-grants)
+* přidáno [Kryptomagazin CZ](https://utxo.cz/#partneri?id=kryptomagazin-cz)
+
 
 ## 28.1.2022
 
@@ -342,6 +382,10 @@
 ### Události
 
 * přidáno [Jak nastartovat DeFi projekt a vybrat $1M+ od investorů v USA/Asii](https://utxo.cz/udalosti?id=nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu)
+
+### Partneři
+
+* přidáno [Trader 2.0](https://utxo.cz/#partneri?id=trader20)
 
 
 ## 27.1.2022
@@ -391,12 +435,24 @@
 
 * přidáno [RΞSISTANCΞ](https://utxo.cz/lide?id=resistance)
 
+### Partneři
+
+* přidáno [Česká kryptoměnová asociace - ČKMA](https://utxo.cz/#partneri?id=ckma)
+
 
 ## 13.1.2022
 
 ### Přednášející
 
 * přidáno [Matthew Cook](https://utxo.cz/lide?id=matthew-cook)
+
+
+## 11.1.2022
+
+### Partneři
+
+* přidáno [KryptoHerna](https://utxo.cz/#partneri?id=kryptoherna)
+* přidáno [Svět Androida](https://utxo.cz/#partneri?id=svet-androida)
 
 
 ## 10.1.2022
@@ -407,4 +463,10 @@
 * přidáno [Dominik Stroukal](https://utxo.cz/lide?id=dominik-stroukal)
 * přidáno [Hynek Jína](https://utxo.cz/lide?id=hynek-jina)
 * přidáno [Michaela Malatin](https://utxo.cz/lide?id=michaela-malatin)
+
+### Partneři
+
+* přidáno [Bitcoinovej Kanál komunita (BTCKNL)](https://utxo.cz/#partneri?id=btcknl)
+* přidáno [Kryptonovinky.sk (.cz)](https://utxo.cz/#partneri?id=kryptonovinky-sk)
+* přidáno [KryptoDoupě.cz](https://utxo.cz/#partneri?id=kryptodoupe)
 
