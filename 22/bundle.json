@@ -876,7 +876,8 @@
           "alty"
         ],
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -3089,6 +3090,19 @@
         "photos": [
           "web:png"
         ]
+      },
+      {
+        "id": "vojta-zizka",
+        "name": "Vojta Žižka",
+        "type": "medium",
+        "twitter": "VojtaZizka",
+        "desc": "Podcast a videa ze světa financí, investic a kryptoměn.",
+        "web": {
+          "url": "https://www.vojtazizka.cz/"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
       }
     ],
     "projects": [
@@ -4358,9 +4372,9 @@
       "tracks": 9,
       "events": 91,
       "faqs": 5,
-      "partners": 26,
+      "partners": 27,
       "projects": 72
     }
   },
-  "time": "2022-05-03T14:26:34.515Z"
+  "time": "2022-05-03T14:59:15.052Z"
 }
