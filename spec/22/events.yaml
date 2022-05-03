@@ -625,6 +625,17 @@
   tags:
     - tokenomika
 
+- id: ztratou-recovery-seedu-neztratite-jenom-finance
+  type: talk
+  name: Ztrátou Recovery Seedu neztratíte pouze finance
+  track: zaklady
+  difficulty: beginner
+  speakers: [ jiri-skrivan ]
+  duration: 55
+  tags:
+    - bezpečnost
+    - seed
+
 
 # Workshops (workshopy)
 # =======================
