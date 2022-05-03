@@ -44,7 +44,6 @@ Všechny datové sady v jednom souboru:
 
 - [https://spec.utxo.cz/22/bundle.json](https://spec.utxo.cz/22/bundle.json)
 
-
 ## Datové sady
 
 |              | Popis                                       | Ročník 2022                                                                    |
@@ -78,4 +77,3 @@ https://json-schema.app/view/%23%2Fdefinitions%2Fspeaker?url=https%3A%2F%2Fspec.
 - Web: [utxo.cz](https://utxo.cz)
 - Dokumentace: [docs.utxo.cz](https://docs.utxo.cz)
 - Foundation: [utxo.foundation](https://utxo.foundation)
-

@@ -66,3 +66,6 @@ server:
 
 media-kit:
 	deno run --unstable --allow-read --allow-run utils/media-kit.js
+
+changelog:
+	deno run --unstable --allow-read --allow-write --allow-run utils/changelog.js

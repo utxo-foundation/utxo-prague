@@ -21,6 +21,9 @@ jobs:
       - name: Build sources
         run: make
 
+      - name: Build changelog
+        run: make changelog
+
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"spec.utxo.cz\" >> dist/CNAME"
 
