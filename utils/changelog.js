@@ -18,7 +18,7 @@ async function gitCommits() {
     "--no-pager",
     "log",
     '--format=format:"%H;%cs"',
-    "1ba66399e6989c038dc7d362d7bd2c7653a65512..gh-pages",
+    "1ba66399e6989c038dc7d362d7bd2c7653a65512..origin/gh-pages",
   ]);
   return resp.split("\n").map((i) => {
     const [hash, date] = i.replace(new RegExp('^"(.+)"$'), "$1").split(";");
