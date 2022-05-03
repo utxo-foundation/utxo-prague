@@ -366,10 +366,13 @@
   tracks: [ eth, defi, dao, nft ]
   bio: Zakladatel a komunitní organizátor
   orgs: |
-    Zakladatel [PWN Finance](https://pwn.finance/)
+    Zakladatel [PWN Finance](https://pwn.finance/), [ETHPrague](https://ethprague.com/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
   country: cz
   desc: |
-    V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky.
+    V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky. 
+      
+    V sočasnosti organizuje [ETHPrague](https://ethprague.com/), které se uskuteční 10.-12. června 2022.
+  lead: true
 
 - id: jakub-kralovansky
   name: Jakub Kraľovanský
@@ -733,6 +736,7 @@
 
 - id: frantisek-fuka
   name: František Fuka
+  nickname: fuxoft
   bio: |
     Programátor a publicista, který začínal s Bitcoinem v dřevních dobách před 10 lety
   web:
@@ -758,6 +762,7 @@
     url: https://dcbuilder.dev
   country: cz
   tracks: [ eth, defi ]
+  lead: true
 
 - id: vojta-zizka
   name: Vojta Žižka
