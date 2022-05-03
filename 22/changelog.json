@@ -720,10 +720,10 @@
         }
       ],
       "removed": [
-        [
-          "anett-rohlikova",
-          "Anett Rolikova"
-        ]
+        {
+          "id": "anett-rohlikova",
+          "name": "Anett Rolikova"
+        }
       ]
     },
     "events": {},
@@ -892,10 +892,10 @@
         }
       ],
       "removed": [
-        [
-          "jak-tezit-bitcoin",
-          "Jak těžit bitcoin"
-        ]
+        {
+          "id": "jak-tezit-bitcoin",
+          "name": "Jak těžit bitcoin"
+        }
       ]
     },
     "partners": {}
@@ -904,10 +904,10 @@
     "date": "2022-04-16",
     "speakers": {
       "removed": [
-        [
-          "michal-repetny",
-          "Michael Repetný"
-        ]
+        {
+          "id": "michal-repetny",
+          "name": "Michael Repetný"
+        }
       ]
     },
     "events": {
@@ -925,10 +925,10 @@
     "speakers": {},
     "events": {
       "removed": [
-        [
-          "marinade",
-          "Marinade Finance"
-        ]
+        {
+          "id": "marinade",
+          "name": "Marinade Finance"
+        }
       ]
     },
     "partners": {}
@@ -986,10 +986,10 @@
     },
     "partners": {
       "removed": [
-        [
-          "bitcoach-komunita",
-          "Bitcoach"
-        ]
+        {
+          "id": "bitcoach-komunita",
+          "name": "Bitcoach"
+        }
       ]
     }
   },
@@ -1061,10 +1061,10 @@
         }
       ],
       "removed": [
-        [
-          "mirek-h",
-          "Mirek H"
-        ]
+        {
+          "id": "mirek-h",
+          "name": "Mirek H"
+        }
       ]
     },
     "events": {
@@ -1278,10 +1278,10 @@
         }
       ],
       "removed": [
-        [
-          "slavicdao",
-          "SlavicDAO"
-        ]
+        {
+          "id": "slavicdao",
+          "name": "SlavicDAO"
+        }
       ]
     }
   }

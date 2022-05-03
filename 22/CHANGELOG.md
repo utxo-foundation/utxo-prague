@@ -18,7 +18,7 @@
 
 ### Partneři
 
-* odebráno [undefined](https://utxo.cz/#partneri?id=undefined)
+* odebráno [SlavicDAO](https://utxo.cz/#partneri?id=slavicdao)
 
 
 ## 2.5.2022
@@ -94,7 +94,7 @@
 
 ### Přednášející
 
-* odebráno [undefined](https://utxo.cz/lide?id=undefined)
+* odebráno [Mirek H](https://utxo.cz/lide?id=mirek-h)
 
 ### Události
 
@@ -131,7 +131,7 @@
 
 ### Partneři
 
-* odebráno [undefined](https://utxo.cz/#partneri?id=undefined)
+* odebráno [Bitcoach](https://utxo.cz/#partneri?id=bitcoach-komunita)
 
 
 ## 20.4.2022
@@ -154,14 +154,14 @@
 
 ### Události
 
-* odebráno [undefined](https://utxo.cz/udalosti?id=undefined)
+* odebráno [Marinade Finance](https://utxo.cz/udalosti?id=marinade)
 
 
 ## 16.4.2022
 
 ### Přednášející
 
-* odebráno [undefined](https://utxo.cz/lide?id=undefined)
+* odebráno [Michael Repetný](https://utxo.cz/lide?id=michal-repetny)
 
 ### Události
 
@@ -176,7 +176,7 @@
 
 ### Události
 
-* odebráno [undefined](https://utxo.cz/udalosti?id=undefined)
+* odebráno [Jak těžit bitcoin](https://utxo.cz/udalosti?id=jak-tezit-bitcoin)
 
 
 ## 14.4.2022
@@ -249,7 +249,7 @@
 
 ### Přednášející
 
-* odebráno [undefined](https://utxo.cz/lide?id=undefined)
+* odebráno [Anett Rolikova](https://utxo.cz/lide?id=anett-rohlikova)
 
 
 ## 6.4.2022
