@@ -42,6 +42,9 @@ async function gitCommitFile(commit, file) {
 }
 
 function checkCol(col, d, current) {
+  if (!d.json.spec[col] || !current.spec[col]) {
+    return null;
+  }
   for (const sp of d.json.spec[col]) {
     if (!current.spec[col].find((s) => s.id === sp.id)) {
       if (!d[col].added) {
@@ -66,6 +69,7 @@ async function generate(entry = "22") {
   const cols = {
     speakers: { title: "Přednášející", url: "lide" },
     events: { title: "Události", url: "udalosti" },
+    partners: { title: "Partneři", url: "#partneri" },
   };
   const types = {
     added: { title: "přidáno" },
@@ -74,7 +78,11 @@ async function generate(entry = "22") {
 
   for (const commit of commits) {
     if (!dates[commit.date]) {
-      dates[commit.date] = { json: null, speakers: {}, events: {} };
+      const obj = { json: null };
+      for (const col of Object.keys(cols)) {
+        obj[col] = {};
+      }
+      dates[commit.date] = obj;
     }
     const file = await gitCommitFile(commit, `${entry}/bundle.json`);
     if (!file) {
@@ -93,7 +101,11 @@ async function generate(entry = "22") {
       }
     }
     current = d.json;
-    output.push({ date, speakers: d.speakers, events: d.events });
+    const obj = { date };
+    for (const col of Object.keys(cols)) {
+      obj[col] = d[col];
+    }
+    output.push(obj);
   }
 
   const items = [];
