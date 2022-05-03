@@ -16,6 +16,10 @@
 
 * přidáno [Vojta Žižka](https://utxo.cz/#partneri?id=vojta-zizka)
 
+### Partneři
+
+* odebráno [SlavicDAO](https://utxo.cz/#partneri?id=slavicdao)
+
 
 ## 2.5.2022
 

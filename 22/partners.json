@@ -295,6 +295,7 @@
       "url": "https://www.vojtazizka.cz/"
     },
     "photos": [
+      "web:webp",
       "twitter:jpg"
     ]
   }
