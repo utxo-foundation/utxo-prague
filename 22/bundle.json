@@ -274,6 +274,20 @@
         ]
       },
       {
+        "id": "frantisek-vinopal",
+        "name": "František Vinopal",
+        "linkedin": "vinfra",
+        "bio": "Právník pro oblast fintech a kryptoměn\n",
+        "orgs": "Předseda [České kryptoměnové asociace (ČKMA)](https://www.ckma.cz), [Coinnmate](https://www.coinmate.io/), [Confirmo](https://www.confirmo.net/)\n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "helena-horska",
         "name": "Helena Horská",
         "twitter": "helenahorska",
@@ -1413,8 +1427,9 @@
         "speakers": [
           "david-antos",
           "radek-svarz",
-          "simona-pacakova",
-          "marek-kyrsch"
+          "frantisek-vinopal",
+          "marek-kyrsch",
+          "simona-pacakova"
         ],
         "properties": {
           "moderators": [
@@ -4337,7 +4352,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 74,
+      "speakers": 75,
       "tracks": 9,
       "events": 91,
       "faqs": 5,
@@ -4345,5 +4360,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-03T09:34:05.703Z"
+  "time": "2022-05-03T11:31:59.469Z"
 }
