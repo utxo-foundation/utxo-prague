@@ -817,7 +817,9 @@
     "tracks": [
       "alty"
     ],
-    "photos": []
+    "photos": [
+      "web:jpg"
+    ]
   },
   {
     "id": "pavel-precechtel",
