@@ -1,0 +1,1288 @@
+[
+  {
+    "date": "2022-01-01",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-07",
+    "speakers": {
+      "added": [
+        {
+          "id": "adam-kracik",
+          "name": "Adam Kracík"
+        },
+        {
+          "id": "adam-studenik",
+          "name": "Adam Studeník"
+        },
+        {
+          "id": "anett-rohlikova",
+          "name": "Anett Rohlikova"
+        },
+        {
+          "id": "damsky",
+          "name": "damsky"
+        },
+        {
+          "id": "david-bankless",
+          "name": "DavidBankless"
+        },
+        {
+          "id": "honza-dvorak",
+          "name": "Honza Dvořák"
+        },
+        {
+          "id": "jiri-cepelka",
+          "name": "Jiří Čepelka"
+        },
+        {
+          "id": "juraj-bednar",
+          "name": "Juraj Bednár"
+        },
+        {
+          "id": "vladimir-pinker",
+          "name": "Vladimír Pinker"
+        },
+        {
+          "id": "mario-havel",
+          "name": "Mario Havel"
+        },
+        {
+          "id": "m0xt",
+          "name": "m0xt"
+        },
+        {
+          "id": "petr-klein",
+          "name": "Petr Klein"
+        },
+        {
+          "id": "petr-mara",
+          "name": "Petr Mára"
+        },
+        {
+          "id": "petr-mensik",
+          "name": "Petr Menšík"
+        },
+        {
+          "id": "pavel-precechtel",
+          "name": "Pavel Přecechtěl"
+        },
+        {
+          "id": "robert-chovanculiak",
+          "name": "Róbert Chovanculiak"
+        },
+        {
+          "id": "tomas-zdrazil",
+          "name": "Tomáš Zdražil"
+        },
+        {
+          "id": "tomas-kryptovlada",
+          "name": "Tomáš"
+        },
+        {
+          "id": "urza",
+          "name": "Urza"
+        },
+        {
+          "id": "martin-gregor",
+          "name": "Martin Gregor"
+        },
+        {
+          "id": "david-antos",
+          "name": "David Antoš"
+        },
+        {
+          "id": "jaromir-tesar",
+          "name": "Jaromír Tesař"
+        },
+        {
+          "id": "michal-repetny",
+          "name": "Michael Repetný"
+        },
+        {
+          "id": "jan-cerny",
+          "name": "Jan Černý"
+        },
+        {
+          "id": "mirek-h",
+          "name": "Mirek H"
+        },
+        {
+          "id": "adam-lokaj",
+          "name": "Adam Lokaj"
+        },
+        {
+          "id": "fetyas",
+          "name": "Fetyas"
+        },
+        {
+          "id": "vojtch",
+          "name": "Vojtěch Studený"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-08",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-09",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-10",
+    "speakers": {
+      "added": [
+        {
+          "id": "david-stancel",
+          "name": "David Stancel"
+        },
+        {
+          "id": "dominik-stroukal",
+          "name": "Dominik Stroukal"
+        },
+        {
+          "id": "hynek-jina",
+          "name": "Hynek Jína"
+        },
+        {
+          "id": "michaela-malatin",
+          "name": "Michaela Malatin"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "btcknl",
+          "name": "Bitcoinovej Kanál komunita (BTCKNL)"
+        },
+        {
+          "id": "kryptonovinky-sk",
+          "name": "Kryptonovinky.sk (.cz)"
+        },
+        {
+          "id": "kryptodoupe",
+          "name": "KryptoDoupě.cz"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-01-11",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "kryptoherna",
+          "name": "KryptoHerna"
+        },
+        {
+          "id": "svet-androida",
+          "name": "Svět Androida"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-01-12",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-13",
+    "speakers": {
+      "added": [
+        {
+          "id": "matthew-cook",
+          "name": "Matthew Cook"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-14",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-15",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-19",
+    "speakers": {
+      "added": [
+        {
+          "id": "resistance",
+          "name": "RΞSISTANCΞ"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "ckma",
+          "name": "Česká kryptoměnová asociace - ČKMA"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-01-25",
+    "speakers": {
+      "added": [
+        {
+          "id": "mark-stopka",
+          "name": "Mark Stopka"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-01-27",
+    "speakers": {
+      "added": [
+        {
+          "id": "josefj",
+          "name": "JosefJ"
+        },
+        {
+          "id": "radek-svarz",
+          "name": "Radek Švarz"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "czk-stablecoin-panel",
+          "name": "Decentralizováná krypto-koruna (CZK stablecoin)"
+        },
+        {
+          "id": "historie-cypherpunku",
+          "name": "Historie Cypherpunku"
+        },
+        {
+          "id": "pokrok-bez-povoleni",
+          "name": "Pokrok bez povolení: Jak sdílená ekonomika, crowfunding a kryptoměny změnily svět"
+        },
+        {
+          "id": "fire-movement",
+          "name": "FIRE movement (Financial Independence, Retire Early)"
+        },
+        {
+          "id": "prace-zivobyti-v-kryptomenach",
+          "name": "Práce a možnosti živobytí v kryptoměnách"
+        },
+        {
+          "id": "lightning-ekosystem",
+          "name": "Co všechno jde dělat na Lightning Network"
+        },
+        {
+          "id": "l2-zaklady",
+          "name": "Layer2s - úvod do druhýh vrstev a proč je potřebujeme"
+        },
+        {
+          "id": "adopce-btc",
+          "name": "Adopce Bitcoinu pro obchodní korporace"
+        },
+        {
+          "id": "czk-stablecoin",
+          "name": "Decentralizováná krypto-koruna (CZK stablecoin)"
+        },
+        {
+          "id": "oracles-obecne",
+          "name": "Co jsou to oracles + CZK kurz na blockchainu"
+        },
+        {
+          "id": "ceska-kryptonadace",
+          "name": "\"Česká kryptonadace\""
+        },
+        {
+          "id": "privacy-workshop",
+          "name": "Základy soukromí a anonymizace"
+        },
+        {
+          "id": "l2-bridge-rampy-prakticky",
+          "name": "Layer2s - bridge a fiat rampy prakticky"
+        },
+        {
+          "id": "btc-privacy",
+          "name": "BTC on-chain soukromí (privacy)"
+        },
+        {
+          "id": "defi-pro-zacatecniky",
+          "name": "DeFi pro začátečníky"
+        },
+        {
+          "id": "btc-platby",
+          "name": "BTCPlatby.cz"
+        },
+        {
+          "id": "bleskomat",
+          "name": "Bleskomat"
+        },
+        {
+          "id": "pwn",
+          "name": "PWN Finance"
+        },
+        {
+          "id": "chainkeepers",
+          "name": "Chainkeepers"
+        },
+        {
+          "id": "flipper-zone",
+          "name": "Flipper.Zone"
+        },
+        {
+          "id": "marinade",
+          "name": "Marinade Finance"
+        },
+        {
+          "id": "apus",
+          "name": "APUS"
+        },
+        {
+          "id": "liqwid",
+          "name": "Liqwid Finance"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-01-28",
+    "speakers": {
+      "added": [
+        {
+          "id": "jakub-kralovansky",
+          "name": "Jakub Kraľovanský"
+        },
+        {
+          "id": "roman-mazur",
+          "name": "Roman Mazur"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu",
+          "name": "Jak nastartovat DeFi projekt a vybrat $1M+ od investorů v USA/Asii"
+        }
+      ]
+    },
+    "partners": {
+      "added": [
+        {
+          "id": "trader20",
+          "name": "Trader 2.0"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-01-29",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "zaklady-zabezpeceni",
+          "name": "Základy zabezpečení (ne)jen ve světě kryptoměn"
+        },
+        {
+          "id": "bezpecnost-workshop",
+          "name": "Základy zabezpečení (ne)jen ve světě kryptoměn"
+        }
+      ]
+    },
+    "partners": {
+      "added": [
+        {
+          "id": "dydx-grants",
+          "name": "dYdX Grants Program"
+        },
+        {
+          "id": "kryptomagazin-cz",
+          "name": "Kryptomagazin CZ"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-02-02",
+    "speakers": {
+      "added": [
+        {
+          "id": "dusan-kmetyo",
+          "name": "Dušan Kmetyo"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "cryptobyte-recap",
+          "name": "CryptoByte 2022 - ohlédnutí"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-02-07",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-02-08",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-02-09",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-02-11",
+    "speakers": {
+      "added": [
+        {
+          "id": "jakub-jedlinsky",
+          "name": "Jakub Jedlinský"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-02-21",
+    "speakers": {
+      "added": [
+        {
+          "id": "josef-gattermayer",
+          "name": "Josef Gattermayer"
+        },
+        {
+          "id": "lubos-kovarik",
+          "name": "Luboš Kovařík"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "stosujcz",
+          "name": "Štosuj.cz - DCA spoření do kryptomě"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-02-23",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-03-14",
+    "speakers": {
+      "added": [
+        {
+          "id": "lenka-hudakova",
+          "name": "Lenka Hudáková"
+        },
+        {
+          "id": "michael-chobanian",
+          "name": "Michael Chobanian (Михайло Чобанян)"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-03-20",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "social-tokeny",
+          "name": "Sociální tokeny (Social Tokens)"
+        },
+        {
+          "id": "eth2",
+          "name": "The Merge (Eth2)"
+        },
+        {
+          "id": "defi-pro-zacatecniky-workshop",
+          "name": "DeFi pro začátečníky (workshop)"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-03-21",
+    "speakers": {
+      "added": [
+        {
+          "id": "stanislav-hruska",
+          "name": "Stanislav Hruška"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "pribeh-nejvetsiho-btc-donejtu",
+          "name": "Příběh o největším BTC donejtu na české YouTube scéně"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-03-22",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-03-23",
+    "speakers": {
+      "added": [
+        {
+          "id": "pavel-riha",
+          "name": "Pavel Říha"
+        },
+        {
+          "id": "petr-sanetrnik",
+          "name": "Petr Sanetrník"
+        },
+        {
+          "id": "sona-parke",
+          "name": "Soňa Parke"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "budoucnost-kryptomen",
+          "name": "Budoucnost kryptoměn"
+        },
+        {
+          "id": "krypto-z-pohledu-rodicu",
+          "name": "Krypto z pohledu rodičů"
+        },
+        {
+          "id": "bleskomat-worskhop",
+          "name": "Postav si svůj Bleskomat (DIY)"
+        },
+        {
+          "id": "futureland",
+          "name": "Futureland.io"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-03",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "bitcoach",
+          "name": "Bitcoach"
+        },
+        {
+          "id": "anycoin",
+          "name": "Anycoin.cz"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-04-04",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "kryptodenik",
+          "name": "KryptoDeník"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-04-05",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "bitcoach-komunita",
+          "name": "Bitcoach"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-04-06",
+    "speakers": {
+      "added": [
+        {
+          "id": "tereza-starostova",
+          "name": "Tereza Starostová"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "lokalni-komunity-intro",
+          "name": "Lokální krypto komunity"
+        },
+        {
+          "id": "lokalni-projekty-intro",
+          "name": "Lokální krypto projekty"
+        },
+        {
+          "id": "lokalni-defi-intro",
+          "name": "Lokální DeFi projekty"
+        },
+        {
+          "id": "lokalni-nft-intro",
+          "name": "Lokální NFT projekty"
+        },
+        {
+          "id": "holky-v-kryptu",
+          "name": "Holky v kryptu"
+        },
+        {
+          "id": "gwei-cz",
+          "name": "Gwei.cz"
+        },
+        {
+          "id": "bankless-cz",
+          "name": "Bankless.cz"
+        },
+        {
+          "id": "polkadotters",
+          "name": "Polkadotters.cz"
+        },
+        {
+          "id": "cardanians",
+          "name": "Cardanians"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-07",
+    "speakers": {
+      "added": [
+        {
+          "id": "petr-lukac",
+          "name": "Petr Lukáč"
+        }
+      ],
+      "removed": [
+        [
+          "anett-rohlikova",
+          "Anett Rolikova"
+        ]
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-04-11",
+    "speakers": {
+      "added": [
+        {
+          "id": "ondrej-vostal",
+          "name": "Ondřej Vostal"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "high-freq-algo-trading-solana",
+          "name": "High frequency algo trading na Solaně"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-12",
+    "speakers": {
+      "added": [
+        {
+          "id": "dmitry",
+          "name": "Dmitrij Malyšev"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "uvod-do-polkadot-a-ekosystemu",
+          "name": "Úvod do Polkadotu a jeho ekosystému"
+        },
+        {
+          "id": "gaming-v-rozvojovych-zemich",
+          "name": "Blockchainové hry v rozvojových zemích"
+        },
+        {
+          "id": "pujcka-na-blockchainu-jednoduse-rychle",
+          "name": "Pujčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)"
+        },
+        {
+          "id": "kryptoherna",
+          "name": "KryptoHerna"
+        },
+        {
+          "id": "bohemiandao",
+          "name": "BohemianDAO"
+        },
+        {
+          "id": "slavicdao",
+          "name": "SlavicDAO"
+        },
+        {
+          "id": "party-electronic-stage",
+          "name": "UTXO.Party - Elektronická stage"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-13",
+    "speakers": {
+      "added": [
+        {
+          "id": "jan-malina",
+          "name": "Jan Malina"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "blockchain-hry-a-deti",
+          "name": "Blockchain, hry a děti"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-14",
+    "speakers": {
+      "added": [
+        {
+          "id": "helena-horska",
+          "name": "Helena Horská"
+        },
+        {
+          "id": "kristian-csepcsar",
+          "name": "Kristian Csepcsar"
+        },
+        {
+          "id": "martin-stava",
+          "name": "Martin Šťáva"
+        },
+        {
+          "id": "tree",
+          "name": "tree"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "digitalni-identita-v-metaverse",
+          "name": "Digitální identita v metaverse"
+        },
+        {
+          "id": "uvod-cosmos-ekosystem",
+          "name": "Úvod do Cosmos Ekosystému"
+        },
+        {
+          "id": "uvod-near",
+          "name": "Úvod do NEAR"
+        },
+        {
+          "id": "zijeme-bez-fiatu",
+          "name": "Žijeme bez fiatu"
+        },
+        {
+          "id": "jan-krypto-zmenilo-zabehle-firemni-struktury",
+          "name": "Jak krypto změnilo zaběhlé firemní struktury"
+        },
+        {
+          "id": "je-krypto-letadlo",
+          "name": "Je krypto letadlo?"
+        },
+        {
+          "id": "near-v-praxi",
+          "name": "NEAR v praxi"
+        },
+        {
+          "id": "jak-tezit-bitcoin",
+          "name": "Jak těžit bitcoin"
+        },
+        {
+          "id": "braiins",
+          "name": "Braiins"
+        },
+        {
+          "id": "scavenger-land",
+          "name": "Scavenger Land"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-15",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "bitcoin-tezba",
+          "name": "Bitcoin těžba"
+        }
+      ],
+      "removed": [
+        [
+          "jak-tezit-bitcoin",
+          "Jak těžit bitcoin"
+        ]
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-16",
+    "speakers": {
+      "removed": [
+        [
+          "michal-repetny",
+          "Michael Repetný"
+        ]
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "prilezitosti-a-slabiny-nft-ve-hrach",
+          "name": "Příležitosti a slabiny NFT ve hrách"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-17",
+    "speakers": {},
+    "events": {
+      "removed": [
+        [
+          "marinade",
+          "Marinade Finance"
+        ]
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-20",
+    "speakers": {
+      "added": [
+        {
+          "id": "kirill-juran",
+          "name": "Kirill Juran"
+        },
+        {
+          "id": "lukas-kovanda",
+          "name": "Lukáš Kovanda"
+        },
+        {
+          "id": "ondrej-pilny",
+          "name": "Ondřej Pilný"
+        },
+        {
+          "id": "simona-pacakova",
+          "name": "Simona Pacáková"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "regulace-panel",
+          "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)"
+        },
+        {
+          "id": "fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv",
+          "name": "Fundamentální analýza jako základ investice do krypto aktiv"
+        },
+        {
+          "id": "baserank",
+          "name": "Baserank"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-21",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "volny-trh-penez",
+          "name": "Volný trh peněz"
+        }
+      ]
+    },
+    "partners": {
+      "removed": [
+        [
+          "bitcoach-komunita",
+          "Bitcoach"
+        ]
+      ]
+    }
+  },
+  {
+    "date": "2022-04-22",
+    "speakers": {
+      "added": [
+        {
+          "id": "jacob-jelen",
+          "name": "Jacob Jelen"
+        },
+        {
+          "id": "matej-zimak",
+          "name": "Matěj Zimák"
+        },
+        {
+          "id": "stana-mutlova",
+          "name": "Stáňa Mutlová"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "o-praci-v-kryptu",
+          "name": "Z normální práce do krypta"
+        },
+        {
+          "id": "lightning-transakce-a-penezenky-pro-zacatecniky",
+          "name": "Lightning transakce a peněženky pro začátečníky"
+        },
+        {
+          "id": "team-building-najdi-partaka",
+          "name": "Team Building - najdi parťáky na budování crypto projektů"
+        },
+        {
+          "id": "jak-si-posichrovat-a-rozlozit-portfolio",
+          "name": "Jak si posichrovat a rozložit svoje portfolio?"
+        },
+        {
+          "id": "divergents",
+          "name": "The Divergents"
+        },
+        {
+          "id": "cz-sk-nft-community",
+          "name": "CZ/SK NFT Community"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-23",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-04-25",
+    "speakers": {
+      "added": [
+        {
+          "id": "andy-kalvoda",
+          "name": "Andy Kalvoda"
+        },
+        {
+          "id": "rene-darmos",
+          "name": "Rene Darmos"
+        }
+      ],
+      "removed": [
+        [
+          "mirek-h",
+          "Mirek H"
+        ]
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "dao-101",
+          "name": "DAO 101"
+        },
+        {
+          "id": "future-of-defi",
+          "name": "Future of DeFi"
+        },
+        {
+          "id": "smart-contracts-audits",
+          "name": "Smart contract audits - scam or legit?"
+        },
+        {
+          "id": "investovani-20",
+          "name": "Investování 2.0"
+        },
+        {
+          "id": "chyby-pri-skladani-portfolia",
+          "name": "Chyby, které děláš při skládání portfolia (a jak je opravit)"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-26",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "nft-metaverse-panel",
+          "name": "NFT a Metaverse"
+        },
+        {
+          "id": "proc-a-jak-pouzivat-bitcoin",
+          "name": "Proč a jak používat Bitcoin"
+        },
+        {
+          "id": "mise-projektu-cardano",
+          "name": "Mise projektu Cardano"
+        }
+      ]
+    },
+    "partners": {
+      "added": [
+        {
+          "id": "slavicdao",
+          "name": "DAO všech slovanských národů"
+        },
+        {
+          "id": "pwn",
+          "name": "PWN DAO"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-04-27",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "hackujeme-defi-arbitraze",
+          "name": "Hackujeme DeFi arbitráže"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-28",
+    "speakers": {},
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-04-29",
+    "speakers": {
+      "added": [
+        {
+          "id": "marek-kyrsch",
+          "name": "Marek Kyrsch"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "altaria",
+          "name": "Altaria"
+        }
+      ]
+    },
+    "partners": {}
+  },
+  {
+    "date": "2022-04-30",
+    "speakers": {
+      "added": [
+        {
+          "id": "denisa-brichtova",
+          "name": "Denisa Brichtová"
+        },
+        {
+          "id": "jan-struhala",
+          "name": "Jan Struhala"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
+  },
+  {
+    "date": "2022-05-02",
+    "speakers": {
+      "added": [
+        {
+          "id": "dcbuilder",
+          "name": "dcbuilder.eth"
+        },
+        {
+          "id": "frantisek-fuka",
+          "name": "František Fuka"
+        },
+        {
+          "id": "jiri-skrivan",
+          "name": "Jiří Skřivan"
+        },
+        {
+          "id": "pavel-kahoun",
+          "name": "Pavel Kahoun"
+        },
+        {
+          "id": "stepan-fau",
+          "name": "Štěpán Fau"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "kdyz-byl-bitcoin-jeste-divoky-zapad",
+          "name": "Když byl Bitcoin ještě Divoký západ"
+        },
+        {
+          "id": "polkadot-governance",
+          "name": "Polkadot governance"
+        },
+        {
+          "id": "devpill-me-public-goods",
+          "name": "Úvod k devpill.me a public goods"
+        },
+        {
+          "id": "zakladni-filozofie-tvorby-tokenu",
+          "name": "Základní filozofie tvorby tokenu (tokenomiky)"
+        },
+        {
+          "id": "staking-a-polkadot-aukce",
+          "name": "Staking a Polkadot aukce"
+        },
+        {
+          "id": "skovo",
+          "name": "Skovo.cz"
+        }
+      ]
+    },
+    "partners": {
+      "added": [
+        {
+          "id": "investocka",
+          "name": "Investocka"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-05-03",
+    "speakers": {
+      "added": [
+        {
+          "id": "frantisek-vinopal",
+          "name": "František Vinopal"
+        },
+        {
+          "id": "jana-kubatova",
+          "name": "Jana Kubátová"
+        },
+        {
+          "id": "vojta-zizka",
+          "name": "Vojta Žižka"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "ztratou-recovery-seedu-neztratite-jenom-finance",
+          "name": "Ztrátou Recovery Seedu neztratíte pouze finance"
+        }
+      ]
+    },
+    "partners": {
+      "added": [
+        {
+          "id": "vojta-zizka",
+          "name": "Vojta Žižka"
+        }
+      ],
+      "removed": [
+        [
+          "slavicdao",
+          "SlavicDAO"
+        ]
+      ]
+    }
+  }
+]

@@ -18,7 +18,7 @@
 
 ### Partneři
 
-* odebráno [SlavicDAO](https://utxo.cz/#partneri?id=slavicdao)
+* odebráno [undefined](https://utxo.cz/#partneri?id=undefined)
 
 
 ## 2.5.2022
@@ -94,7 +94,7 @@
 
 ### Přednášející
 
-* odebráno [Mirek H](https://utxo.cz/lide?id=mirek-h)
+* odebráno [undefined](https://utxo.cz/lide?id=undefined)
 
 ### Události
 
@@ -131,7 +131,7 @@
 
 ### Partneři
 
-* odebráno [Bitcoach](https://utxo.cz/#partneri?id=bitcoach-komunita)
+* odebráno [undefined](https://utxo.cz/#partneri?id=undefined)
 
 
 ## 20.4.2022
@@ -154,14 +154,14 @@
 
 ### Události
 
-* odebráno [Marinade Finance](https://utxo.cz/udalosti?id=marinade)
+* odebráno [undefined](https://utxo.cz/udalosti?id=undefined)
 
 
 ## 16.4.2022
 
 ### Přednášející
 
-* odebráno [Michael Repetný](https://utxo.cz/lide?id=michal-repetny)
+* odebráno [undefined](https://utxo.cz/lide?id=undefined)
 
 ### Události
 
@@ -176,7 +176,7 @@
 
 ### Události
 
-* odebráno [Jak těžit bitcoin](https://utxo.cz/udalosti?id=jak-tezit-bitcoin)
+* odebráno [undefined](https://utxo.cz/udalosti?id=undefined)
 
 
 ## 14.4.2022
@@ -249,7 +249,7 @@
 
 ### Přednášející
 
-* odebráno [Anett Rolikova](https://utxo.cz/lide?id=anett-rohlikova)
+* odebráno [undefined](https://utxo.cz/lide?id=undefined)
 
 
 ## 6.4.2022
@@ -477,4 +477,38 @@
 * přidáno [Bitcoinovej Kanál komunita (BTCKNL)](https://utxo.cz/#partneri?id=btcknl)
 * přidáno [Kryptonovinky.sk (.cz)](https://utxo.cz/#partneri?id=kryptonovinky-sk)
 * přidáno [KryptoDoupě.cz](https://utxo.cz/#partneri?id=kryptodoupe)
+
+
+## 7.1.2022
+
+### Přednášející
+
+* přidáno [Adam Kracík](https://utxo.cz/lide?id=adam-kracik)
+* přidáno [Adam Studeník](https://utxo.cz/lide?id=adam-studenik)
+* přidáno [Anett Rohlikova](https://utxo.cz/lide?id=anett-rohlikova)
+* přidáno [damsky](https://utxo.cz/lide?id=damsky)
+* přidáno [DavidBankless](https://utxo.cz/lide?id=david-bankless)
+* přidáno [Honza Dvořák](https://utxo.cz/lide?id=honza-dvorak)
+* přidáno [Jiří Čepelka](https://utxo.cz/lide?id=jiri-cepelka)
+* přidáno [Juraj Bednár](https://utxo.cz/lide?id=juraj-bednar)
+* přidáno [Vladimír Pinker](https://utxo.cz/lide?id=vladimir-pinker)
+* přidáno [Mario Havel](https://utxo.cz/lide?id=mario-havel)
+* přidáno [m0xt](https://utxo.cz/lide?id=m0xt)
+* přidáno [Petr Klein](https://utxo.cz/lide?id=petr-klein)
+* přidáno [Petr Mára](https://utxo.cz/lide?id=petr-mara)
+* přidáno [Petr Menšík](https://utxo.cz/lide?id=petr-mensik)
+* přidáno [Pavel Přecechtěl](https://utxo.cz/lide?id=pavel-precechtel)
+* přidáno [Róbert Chovanculiak](https://utxo.cz/lide?id=robert-chovanculiak)
+* přidáno [Tomáš Zdražil](https://utxo.cz/lide?id=tomas-zdrazil)
+* přidáno [Tomáš](https://utxo.cz/lide?id=tomas-kryptovlada)
+* přidáno [Urza](https://utxo.cz/lide?id=urza)
+* přidáno [Martin Gregor](https://utxo.cz/lide?id=martin-gregor)
+* přidáno [David Antoš](https://utxo.cz/lide?id=david-antos)
+* přidáno [Jaromír Tesař](https://utxo.cz/lide?id=jaromir-tesar)
+* přidáno [Michael Repetný](https://utxo.cz/lide?id=michal-repetny)
+* přidáno [Jan Černý](https://utxo.cz/lide?id=jan-cerny)
+* přidáno [Mirek H](https://utxo.cz/lide?id=mirek-h)
+* přidáno [Adam Lokaj](https://utxo.cz/lide?id=adam-lokaj)
+* přidáno [Fetyas](https://utxo.cz/lide?id=fetyas)
+* přidáno [Vojtěch Studený](https://utxo.cz/lide?id=vojtch)
 
