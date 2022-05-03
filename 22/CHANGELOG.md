@@ -14,6 +14,7 @@
 
 ### Partneři
 
+* přidáno [Sollarion](https://utxo.cz/#partneri?id=sollarion)
 * přidáno [Vojta Žižka](https://utxo.cz/#partneri?id=vojta-zizka)
 
 ### Partneři

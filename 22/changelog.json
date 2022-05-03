@@ -1273,6 +1273,10 @@
     "partners": {
       "added": [
         {
+          "id": "sollarion",
+          "name": "Sollarion"
+        },
+        {
           "id": "vojta-zizka",
           "name": "Vojta Žižka"
         }

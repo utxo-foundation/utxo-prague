@@ -2928,6 +2928,18 @@
         ]
       },
       {
+        "id": "sollarion",
+        "name": "Sollarion",
+        "type": "sponsor",
+        "twitter": "solanagalaxynft",
+        "web": {
+          "url": "https://sollarion.com/"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "pwn",
         "name": "PWN DAO",
         "type": "sponsor",
@@ -4362,9 +4374,9 @@
       "tracks": 9,
       "events": 91,
       "faqs": 5,
-      "partners": 26,
+      "partners": 27,
       "projects": 72
     }
   },
-  "time": "2022-05-03T17:38:51.583Z"
+  "time": "2022-05-03T17:52:10.594Z"
 }

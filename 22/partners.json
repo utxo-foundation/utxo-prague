@@ -133,6 +133,18 @@
     ]
   },
   {
+    "id": "sollarion",
+    "name": "Sollarion",
+    "type": "sponsor",
+    "twitter": "solanagalaxynft",
+    "web": {
+      "url": "https://sollarion.com/"
+    },
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "pwn",
     "name": "PWN DAO",
     "type": "sponsor",
