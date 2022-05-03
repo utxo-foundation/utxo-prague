@@ -431,6 +431,21 @@
         ]
       },
       {
+        "id": "jana-kubatova",
+        "name": "Jana Kubátová",
+        "twitter": "NfTense",
+        "bio": "Idea-maker, copywriter, kurátorka, manažerka projektů\n",
+        "orgs": "Spoluzakladatelka [NFTense](https://twitter.com/NfTense) a [The Divergents](https://thedivergents.io/)\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "desc": "Spoluzakladatelka digitálního kolektivu umělců [NFTense](https://twitter.com/NfTense) a NFT projektu [The Divergents](https://thedivergents.io/), který iniciuje web3 filantropii. Idea-maker, copywriter, kurátorka, manažerka projektů. Animal Spirit.\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "jaromir-tesar",
         "name": "Jaromír Tesař",
         "twitter": "JaromirTesar",
@@ -1348,7 +1363,8 @@
         "speakers": [
           "sona-parke",
           "stana-mutlova",
-          "denisa-brichtova"
+          "denisa-brichtova",
+          "jana-kubatova"
         ],
         "track": "zaklady",
         "duration": 85,
@@ -4320,7 +4336,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 73,
+      "speakers": 74,
       "tracks": 9,
       "events": 91,
       "faqs": 5,
@@ -4328,5 +4344,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-03T08:59:41.370Z"
+  "time": "2022-05-03T09:22:44.558Z"
 }
