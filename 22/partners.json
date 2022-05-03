@@ -109,17 +109,6 @@
     ]
   },
   {
-    "id": "slavicdao",
-    "name": "SlavicDAO",
-    "type": "community",
-    "twitter": "SlavicDAO",
-    "desc": "DAO snažící se propojit slovanskou komunitu",
-    "photos": [
-      "web:jpg",
-      "twitter:jpg"
-    ]
-  },
-  {
     "id": "dydx-grants",
     "name": "dYdX Grants Program",
     "type": "sponsor",

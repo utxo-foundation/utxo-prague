@@ -12,6 +12,10 @@
 
 * přidáno [Ztrátou Recovery Seedu neztratíte pouze finance](https://utxo.cz/udalosti?id=ztratou-recovery-seedu-neztratite-jenom-finance)
 
+### Partneři
+
+* přidáno [Vojta Žižka](https://utxo.cz/#partneri?id=vojta-zizka)
+
 
 ## 2.5.2022
 
