@@ -1265,8 +1265,16 @@
     "events": {
       "added": [
         {
+          "id": "eticky-vekslak",
+          "name": "Etický vekslák - kryptomeny bez povolenia"
+        },
+        {
           "id": "ztratou-recovery-seedu-neztratite-jenom-finance",
           "name": "Ztrátou Recovery Seedu neztratíte pouze finance"
+        },
+        {
+          "id": "eticky-vekslak-workshop",
+          "name": "Etický vekslák - praktický workshop"
         }
       ]
     },

@@ -10,7 +10,9 @@
 
 ### Události
 
+* přidáno [Etický vekslák - kryptomeny bez povolenia](https://utxo.cz/udalosti?id=eticky-vekslak)
 * přidáno [Ztrátou Recovery Seedu neztratíte pouze finance](https://utxo.cz/udalosti?id=ztratou-recovery-seedu-neztratite-jenom-finance)
+* přidáno [Etický vekslák - praktický workshop](https://utxo.cz/udalosti?id=eticky-vekslak-workshop)
 
 ### Partneři
 
