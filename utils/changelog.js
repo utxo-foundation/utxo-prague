@@ -60,8 +60,7 @@ function checkCol(col, d, current) {
   }
 }
 
-async function run() {
-  const files = ["spec/22/speakers.yaml"];
+async function generate(entry = "22") {
   const commits = await gitCommits();
   const dates = {};
   const cols = {
@@ -77,7 +76,7 @@ async function run() {
     if (!dates[commit.date]) {
       dates[commit.date] = { json: null, speakers: {}, events: {} };
     }
-    const file = await gitCommitFile(commit, "22/bundle.json");
+    const file = await gitCommitFile(commit, `${entry}/bundle.json`);
     if (!file) {
       continue;
     }
@@ -102,14 +101,18 @@ async function run() {
     const sitems = [];
     for (const col of Object.keys(cols)) {
       for (const type of Object.keys(types)) {
+        const colitems = [];
         if (d[col][type]) {
           for (const i of d[col][type]) {
-            sitems.push(
-              `* [${cols[col].title}] ${types[type].title} [${
-                i[1]
-              }](https://utxo.cz/${cols[col].url}?id=${i[0]})`,
+            colitems.push(
+              `* ${types[type].title} [${i[1]}](https://utxo.cz/${
+                cols[col].url
+              }?id=${i[0]})`,
             );
           }
+        }
+        if (colitems.length > 0) {
+          sitems.push(`### ${cols[col].title}\n\n${colitems.join("\n")}\n`);
         }
       }
     }
@@ -121,9 +124,9 @@ async function run() {
     }
   }
   const str = `# Changelog\n\n${items.join("\n")}`;
-  const fn = "./dist/CHANGELOG.md";
+  const fn = `./dist/${entry}/CHANGELOG.md`;
   await Deno.writeTextFile(fn, str);
   console.log(`Changelog write to file: ${fn}`);
 }
 
-run();
+generate();
