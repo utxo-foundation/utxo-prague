@@ -1,6 +1,16 @@
 import { load } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 import { format } from "https://deno.land/std/datetime/mod.ts";
 
+const cols = {
+  speakers: { title: "Přednášející", url: "lide" },
+  events: { title: "Události", url: "udalosti" },
+  partners: { title: "Partneři", url: "#partneri" },
+};
+const types = {
+  added: { title: "přidáno" },
+  removed: { title: "odebráno" },
+};
+
 async function runCommand(cmd) {
   //console.log(cmd.join(' '))
   const p = await Deno.run({ cmd, stdout: "piped", stderr: "piped" });
@@ -50,7 +60,7 @@ function checkCol(col, d, current) {
       if (!d[col].added) {
         d[col].added = [];
       }
-      d[col].added.push([sp.id, sp.name]);
+      d[col].added.push({ id: sp.id, name: sp.name });
     }
   }
   for (const sp of current.spec[col]) {
@@ -67,15 +77,13 @@ async function generate(entry = "22") {
   const commits = await gitCommits();
   const bundleFn = `${entry}/bundle.json`;
   const dates = {};
-  const cols = {
-    speakers: { title: "Přednášející", url: "lide" },
-    events: { title: "Události", url: "udalosti" },
-    partners: { title: "Partneři", url: "#partneri" },
-  };
-  const types = {
-    added: { title: "přidáno" },
-    removed: { title: "odebráno" },
-  };
+
+  const basic = { json: { spec: {} } };
+  for (const col of Object.keys(cols)) {
+    basic[col] = {};
+    basic.json.spec[col] = [];
+  }
+  dates["2022-01-01"] = basic;
 
   for (const commit of commits) {
     if (!dates[commit.date]) {
@@ -120,6 +128,10 @@ async function generate(entry = "22") {
     output.push(obj);
   }
 
+  const fn = `./dist/${entry}/changelog.json`;
+  await Deno.writeTextFile(fn, JSON.stringify(output, null, 2));
+  console.log(`JSON writed to file: ${fn}`);
+
   const items = [];
   for (const d of output.reverse()) {
     const sitems = [];
@@ -129,9 +141,9 @@ async function generate(entry = "22") {
         if (d[col][type]) {
           for (const i of d[col][type]) {
             colitems.push(
-              `* ${types[type].title} [${i[1]}](https://utxo.cz/${
+              `* ${types[type].title} [${i.name}](https://utxo.cz/${
                 cols[col].url
-              }?id=${i[0]})`,
+              }?id=${i.id})`,
             );
           }
         }
@@ -147,10 +159,10 @@ async function generate(entry = "22") {
       );
     }
   }
-  const str = `# Changelog\n\n${items.join("\n")}`;
-  const fn = `./dist/${entry}/CHANGELOG.md`;
-  await Deno.writeTextFile(fn, str);
-  console.log(`Changelog write to file: ${fn}`);
+  const md = `# Changelog\n\n${items.join("\n")}`;
+  const fnMd = `./dist/${entry}/CHANGELOG.md`;
+  await Deno.writeTextFile(fnMd, md);
+  console.log(`Markdown writed to file: ${fnMd}`);
 }
 
 generate();
