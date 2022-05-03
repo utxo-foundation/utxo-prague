@@ -2064,6 +2064,21 @@
         ]
       },
       {
+        "id": "ztratou-recovery-seedu-neztratite-jenom-finance",
+        "type": "talk",
+        "name": "Ztrátou Recovery Seedu neztratíte pouze finance",
+        "track": "zaklady",
+        "difficulty": "beginner",
+        "speakers": [
+          "jiri-skrivan"
+        ],
+        "duration": 55,
+        "tags": [
+          "bezpečnost",
+          "seed"
+        ]
+      },
+      {
         "id": "bezpecnost-workshop",
         "type": "workshop",
         "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
@@ -4289,11 +4304,11 @@
     "counts": {
       "speakers": 72,
       "tracks": 9,
-      "events": 90,
+      "events": 91,
       "faqs": 5,
       "partners": 26,
       "projects": 72
     }
   },
-  "time": "2022-05-03T06:37:46.540Z"
+  "time": "2022-05-03T08:47:51.284Z"
 }
