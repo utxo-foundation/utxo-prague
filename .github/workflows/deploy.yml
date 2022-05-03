@@ -13,6 +13,8 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v2
+        width:
+           fetch-depth: 0
 
       - uses: denoland/setup-deno@v1
         with:
