@@ -143,6 +143,20 @@
     ]
   },
   {
+    "id": "budoucnost-kryptomen",
+    "type": "talk",
+    "name": "Budoucnost kryptoměn",
+    "track": "spolecnost",
+    "speakers": [
+      "sona-parke"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "tags": [
+      "budoucnost"
+    ]
+  },
+  {
     "id": "pribeh-nejvetsiho-btc-donejtu",
     "type": "talk",
     "name": "Příběh o největším BTC donejtu na české YouTube scéně",
@@ -175,6 +189,56 @@
     ]
   },
   {
+    "id": "ceska-kryptonadace",
+    "type": "talk",
+    "name": "Česká KryptoNadace - spolupráce mezi krypto a neziskovým sektorem",
+    "track": "regulace",
+    "speakers": [
+      "jan-struhala",
+      "radek-svarz"
+    ],
+    "duration": 25,
+    "difficulty": "beginner",
+    "tags": [
+      "regulace",
+      "adopce",
+      "filantropie"
+    ],
+    "description": "Nedávné události ukázaly, že mezi držiteli krypta je již dostatek lidí s filantropickým cítěním. Tito kryptodárci věří v budoucí výrazný růst hodnoty virtuálních aktiv, naráží však na to, že tradiční neziskové organizace neumí krypto uchovávat a pracovat s ním pro vytváření dodatečných výnosů pro dobročinné účely. Lightning talk představí projekt české KryptoNadace, která má ambici adresovat několik problémů souvisejících ve střetu krypto-světa a tradičního neziskového světa.\n\nProblémy jako: zbytečná byrokracie pro krypto dárce; neschopnost, či obavy neziskových organizací přijímat krypto; zbytečný exit z kryptoměn; neefektivita využívání kryptoměn.\n\nProjekt vzniká v úzké spolupráci s [Nadací VIA](https://www.nadacevia.cz ) a [ČKMA](https://www.ckma.cz).\n"
+  },
+  {
+    "id": "adopce-btc",
+    "type": "talk",
+    "name": "Bitcoin a české korporace",
+    "track": "btc",
+    "speakers": [
+      "adam-lokaj"
+    ],
+    "duration": 25,
+    "difficulty": "expert",
+    "description": "Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte.\n\nPřednáška od autora knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/).\n",
+    "tags": [
+      "Bitcoin",
+      "regulace",
+      "adopce"
+    ]
+  },
+  {
+    "id": "czk-stablecoin",
+    "type": "talk",
+    "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25,
+    "difficulty": "advanced",
+    "tags": [
+      "stablecoin",
+      "DeFi"
+    ]
+  },
+  {
     "id": "gaming-v-rozvojovych-zemich",
     "type": "talk",
     "name": "Blockchainové hry v rozvojových zemích",
@@ -192,22 +256,81 @@
     ]
   },
   {
-    "id": "ceska-kryptonadace",
+    "id": "blockchain-hry-a-deti",
     "type": "talk",
-    "name": "Česká KryptoNadace - spolupráce mezi krypto a neziskovým sektorem",
-    "track": "regulace",
+    "name": "Blockchain, hry a děti",
+    "track": "nft",
     "speakers": [
-      "jan-struhala",
-      "radek-svarz"
+      "jan-malina"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "description": "Pokud vám dává smysl aby i ve školách byl přístup k základním informacím o blockchainu a NFTs, přijďtě si poslechnout jak to dělám já a společně rozvedeme diskuzi na toto téma.\n",
+    "tags": [
+      "gaming",
+      "děti"
+    ]
+  },
+  {
+    "id": "social-tokeny",
+    "type": "talk",
+    "name": "Sociální tokeny (Social Tokens)",
+    "track": "eth",
+    "speakers": [
+      "michaela-malatin"
+    ],
+    "duration": 55,
+    "difficulty": "advanced",
+    "tags": [
+      "sociální tokeny"
+    ]
+  },
+  {
+    "id": "jan-krypto-zmenilo-zabehle-firemni-struktury",
+    "type": "talk",
+    "name": "Jak krypto změnilo zaběhlé firemní struktury",
+    "track": "dao",
+    "speakers": [
+      "vladimir-pinker"
     ],
     "duration": 25,
     "difficulty": "beginner",
     "tags": [
-      "regulace",
-      "adopce",
-      "filantropie"
+      "DAO",
+      "organizace",
+      "společnost"
+    ]
+  },
+  {
+    "id": "prace-zivobyti-v-kryptomenach",
+    "type": "talk",
+    "name": "Práce a možnosti živobytí v kryptoměnách",
+    "track": "zaklady",
+    "duration": 25,
+    "speakers": [
+      "damsky"
     ],
-    "description": "Nedávné události ukázaly, že mezi držiteli krypta je již dostatek lidí s filantropickým cítěním. Tito kryptodárci věří v budoucí výrazný růst hodnoty virtuálních aktiv, naráží však na to, že tradiční neziskové organizace neumí krypto uchovávat a pracovat s ním pro vytváření dodatečných výnosů pro dobročinné účely. Lightning talk představí projekt české KryptoNadace, která má ambici adresovat několik problémů souvisejících ve střetu krypto-světa a tradičního neziskového světa.\n\nProblémy jako: zbytečná byrokracie pro krypto dárce; neschopnost, či obavy neziskových organizací přijímat krypto; zbytečný exit z kryptoměn; neefektivita využívání kryptoměn.\n\nProjekt vzniká v úzké spolupráci s Nadací VIA ( www.nadacevia.cz ) a ČKMA ( www.ckma.cz).\n"
+    "difficulty": "beginner",
+    "tags": [
+      "finanční nezávislost",
+      "práce",
+      "DAO"
+    ],
+    "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n"
+  },
+  {
+    "id": "zijeme-bez-fiatu",
+    "type": "talk",
+    "name": "Žijeme bez fiatu",
+    "track": "zaklady",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "tags": [
+      "finanční nezávislost"
+    ]
   },
   {
     "id": "devpill-me-public-goods",
@@ -242,23 +365,6 @@
     ]
   },
   {
-    "id": "prace-zivobyti-v-kryptomenach",
-    "type": "talk",
-    "name": "Práce a možnosti živobytí v kryptoměnách",
-    "track": "zaklady",
-    "duration": 25,
-    "speakers": [
-      "damsky"
-    ],
-    "difficulty": "beginner",
-    "tags": [
-      "finanční nezávislost",
-      "práce",
-      "DAO"
-    ],
-    "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n"
-  },
-  {
     "id": "nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu",
     "type": "talk",
     "name": "Jak založit US startup a získat $1M+ od investorů v USA a Asii – na dálku z České Republiky",
@@ -272,6 +378,35 @@
     "tags": [
       "seed investice",
       "startupy"
+    ]
+  },
+  {
+    "id": "dao-101",
+    "type": "talk",
+    "name": "DAO 101",
+    "track": "dao",
+    "speakers": [
+      "lenka-hudakova"
+    ],
+    "difficulty": "beginner",
+    "duration": 55,
+    "tags": [
+      "DAO"
+    ]
+  },
+  {
+    "id": "future-of-defi",
+    "type": "talk",
+    "name": "Future of DeFi",
+    "track": "defi",
+    "speakers": [
+      "david-stancel"
+    ],
+    "difficulty": "beginner",
+    "duration": 25,
+    "tags": [
+      "DeFi",
+      "budoucnost"
     ]
   },
   {
@@ -324,54 +459,6 @@
     "description": "Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.\n"
   },
   {
-    "id": "adopce-btc",
-    "type": "talk",
-    "name": "Bitcoin a české korporace",
-    "track": "btc",
-    "speakers": [
-      "adam-lokaj"
-    ],
-    "duration": 25,
-    "difficulty": "expert",
-    "description": "Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte.\n\nPřednáška od autora knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/).\n",
-    "tags": [
-      "Bitcoin",
-      "regulace",
-      "adopce"
-    ]
-  },
-  {
-    "id": "blockchain-hry-a-deti",
-    "type": "talk",
-    "name": "Blockchain, hry a děti",
-    "track": "nft",
-    "speakers": [
-      "jan-malina"
-    ],
-    "duration": 55,
-    "difficulty": "beginner",
-    "description": "Pokud vám dává smysl aby i ve školách byl přístup k základním informacím o blockchainu a NFTs, přijďtě si poslechnout jak to dělám já a společně rozvedeme diskuzi na toto téma.\n",
-    "tags": [
-      "gaming",
-      "děti"
-    ]
-  },
-  {
-    "id": "czk-stablecoin",
-    "type": "talk",
-    "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
-    "track": "defi",
-    "speakers": [
-      "radek-svarz"
-    ],
-    "duration": 25,
-    "difficulty": "advanced",
-    "tags": [
-      "stablecoin",
-      "DeFi"
-    ]
-  },
-  {
     "id": "oracles-obecne",
     "type": "talk",
     "name": "Co jsou to oracles + CZK kurz na blockchainu",
@@ -385,20 +472,6 @@
       "oracles",
       "stablecoin",
       "DeFi"
-    ]
-  },
-  {
-    "id": "social-tokeny",
-    "type": "talk",
-    "name": "Sociální tokeny (Social Tokens)",
-    "track": "eth",
-    "speakers": [
-      "michaela-malatin"
-    ],
-    "duration": 55,
-    "difficulty": "advanced",
-    "tags": [
-      "sociální tokeny"
     ]
   },
   {
@@ -431,20 +504,6 @@
     ]
   },
   {
-    "id": "budoucnost-kryptomen",
-    "type": "talk",
-    "name": "Budoucnost kryptoměn",
-    "track": "spolecnost",
-    "speakers": [
-      "sona-parke"
-    ],
-    "duration": 55,
-    "difficulty": "beginner",
-    "tags": [
-      "budoucnost"
-    ]
-  },
-  {
     "id": "high-freq-algo-trading-solana",
     "type": "talk",
     "name": "High frequency algo trading na Solaně",
@@ -461,20 +520,6 @@
     "description": "Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.\n"
   },
   {
-    "id": "uvod-do-polkadot-a-ekosystemu",
-    "type": "talk",
-    "name": "Úvod do Polkadotu a jeho ekosystému",
-    "track": "alty",
-    "speakers": [
-      "petr-mensik"
-    ],
-    "duration": 55,
-    "difficulty": "advanced",
-    "tags": [
-      "Polkadot"
-    ]
-  },
-  {
     "id": "digitalni-identita-v-metaverse",
     "type": "talk",
     "name": "Digitální identita v metaverse",
@@ -489,6 +534,34 @@
       "metaverse"
     ],
     "description": "Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.\n"
+  },
+  {
+    "id": "uvod-do-polkadot-a-ekosystemu",
+    "type": "talk",
+    "name": "Úvod do Polkadotu a jeho ekosystému",
+    "track": "alty",
+    "speakers": [
+      "petr-mensik"
+    ],
+    "duration": 55,
+    "difficulty": "advanced",
+    "tags": [
+      "Polkadot"
+    ]
+  },
+  {
+    "id": "mise-projektu-cardano",
+    "type": "talk",
+    "name": "Mise projektu Cardano",
+    "difficulty": "beginner",
+    "track": "alty",
+    "speakers": [
+      "jaromir-tesar"
+    ],
+    "duration": 55,
+    "tags": [
+      "Cardano"
+    ]
   },
   {
     "id": "uvod-cosmos-ekosystem",
@@ -537,36 +610,6 @@
     ]
   },
   {
-    "id": "zijeme-bez-fiatu",
-    "type": "talk",
-    "name": "Žijeme bez fiatu",
-    "track": "zaklady",
-    "speakers": [
-      "vladimir-pinker"
-    ],
-    "duration": 55,
-    "difficulty": "beginner",
-    "tags": [
-      "finanční nezávislost"
-    ]
-  },
-  {
-    "id": "jan-krypto-zmenilo-zabehle-firemni-struktury",
-    "type": "talk",
-    "name": "Jak krypto změnilo zaběhlé firemní struktury",
-    "track": "dao",
-    "speakers": [
-      "vladimir-pinker"
-    ],
-    "duration": 25,
-    "difficulty": "beginner",
-    "tags": [
-      "DAO",
-      "organizace",
-      "společnost"
-    ]
-  },
-  {
     "id": "je-krypto-letadlo",
     "type": "talk",
     "name": "Je krypto letadlo?",
@@ -578,81 +621,6 @@
     "difficulty": "beginner",
     "tags": [
       "letectví"
-    ]
-  },
-  {
-    "id": "prilezitosti-a-slabiny-nft-ve-hrach",
-    "type": "talk",
-    "name": "Příležitosti a slabiny NFT ve hrách",
-    "track": "nft",
-    "speakers": [
-      "martin-stava"
-    ],
-    "duration": 55,
-    "difficulty": "advanced",
-    "tags": [
-      "NFT",
-      "gaming"
-    ]
-  },
-  {
-    "id": "fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv",
-    "type": "talk",
-    "name": "Fundamentální analýza jako základ investice do krypto aktiv",
-    "track": "zaklady",
-    "speakers": [
-      "ondrej-pilny"
-    ],
-    "duration": 55,
-    "difficulty": "beginner",
-    "tags": [
-      "investice"
-    ],
-    "description": "Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?\n"
-  },
-  {
-    "id": "dao-101",
-    "type": "talk",
-    "name": "DAO 101",
-    "track": "dao",
-    "speakers": [
-      "lenka-hudakova"
-    ],
-    "difficulty": "beginner",
-    "duration": 55,
-    "tags": [
-      "DAO"
-    ]
-  },
-  {
-    "id": "future-of-defi",
-    "type": "talk",
-    "name": "Future of DeFi",
-    "track": "defi",
-    "speakers": [
-      "david-stancel"
-    ],
-    "difficulty": "beginner",
-    "duration": 25,
-    "tags": [
-      "DeFi",
-      "budoucnost"
-    ]
-  },
-  {
-    "id": "smart-contracts-audits",
-    "type": "talk",
-    "name": "Smart contract audits - scam or legit?",
-    "track": "eth",
-    "speakers": [
-      "josef-gattermayer"
-    ],
-    "duration": 55,
-    "difficulty": "advanced",
-    "tags": [
-      "smart-contract",
-      "bezpečnost",
-      "Ethereum"
     ]
   },
   {
@@ -688,17 +656,49 @@
     ]
   },
   {
-    "id": "mise-projektu-cardano",
+    "id": "prilezitosti-a-slabiny-nft-ve-hrach",
     "type": "talk",
-    "name": "Mise projektu Cardano",
-    "difficulty": "beginner",
-    "track": "alty",
+    "name": "Příležitosti a slabiny NFT ve hrách",
+    "track": "nft",
     "speakers": [
-      "jaromir-tesar"
+      "martin-stava"
     ],
     "duration": 55,
+    "difficulty": "advanced",
     "tags": [
-      "Cardano"
+      "NFT",
+      "gaming"
+    ]
+  },
+  {
+    "id": "fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv",
+    "type": "talk",
+    "name": "Fundamentální analýza jako základ investice do krypto aktiv",
+    "track": "zaklady",
+    "speakers": [
+      "ondrej-pilny"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "tags": [
+      "investice"
+    ],
+    "description": "Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?\n"
+  },
+  {
+    "id": "smart-contracts-audits",
+    "type": "talk",
+    "name": "Smart contract audits - scam or legit?",
+    "track": "eth",
+    "speakers": [
+      "josef-gattermayer"
+    ],
+    "duration": 55,
+    "difficulty": "advanced",
+    "tags": [
+      "smart-contract",
+      "bezpečnost",
+      "Ethereum"
     ]
   },
   {

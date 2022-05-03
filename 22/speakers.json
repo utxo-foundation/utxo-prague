@@ -149,6 +149,7 @@
       "eth",
       "defi"
     ],
+    "lead": true,
     "photos": [
       "twitter:jpg"
     ]
@@ -223,6 +224,7 @@
   {
     "id": "frantisek-fuka",
     "name": "František Fuka",
+    "nickname": "fuxoft",
     "bio": "Programátor a publicista, který začínal s Bitcoinem v dřevních dobách před 10 lety\n",
     "web": {
       "url": "https://www.fuxoft.cz"
@@ -505,9 +507,10 @@
       "nft"
     ],
     "bio": "Zakladatel a komunitní organizátor",
-    "orgs": "Zakladatel [PWN Finance](https://pwn.finance/)\n",
+    "orgs": "Zakladatel [PWN Finance](https://pwn.finance/), [ETHPrague](https://ethprague.com/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)\n",
     "country": "cz",
-    "desc": "V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky.\n",
+    "desc": "V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky. \n  \nV sočasnosti organizuje [ETHPrague](https://ethprague.com/), které se uskuteční 10.-12. června 2022.\n",
+    "lead": true,
     "photos": [
       "twitter:jpg"
     ]
