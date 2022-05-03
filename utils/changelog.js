@@ -65,6 +65,7 @@ function checkCol(col, d, current) {
 
 async function generate(entry = "22") {
   const commits = await gitCommits();
+  const bundleFn = `${entry}/bundle.json`;
   const dates = {};
   const cols = {
     speakers: { title: "Přednášející", url: "lide" },
@@ -84,12 +85,23 @@ async function generate(entry = "22") {
       }
       dates[commit.date] = obj;
     }
-    const file = await gitCommitFile(commit, `${entry}/bundle.json`);
+    const file = await gitCommitFile(commit, bundleFn);
     if (!file) {
       continue;
     }
     dates[commit.date].json = JSON.parse(file);
   }
+
+  // add today
+  const today = format(new Date(), "yyyy-MM-dd");
+  if (!dates[today]) {
+    const obj = { json: null };
+    for (const col of Object.keys(cols)) {
+      obj[col] = {};
+    }
+    dates[today] = obj;
+  }
+  dates[today].json = JSON.parse(await Deno.readTextFile(`dist/${bundleFn}`));
 
   let current = null;
   const output = [];
