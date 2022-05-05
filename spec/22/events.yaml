@@ -555,17 +555,6 @@
     - investice
     - trading
 
-- id: prilezitosti-a-slabiny-nft-ve-hrach
-  type: talk
-  name: Příležitosti a slabiny NFT ve hrách
-  track: nft
-  speakers: [ martin-stava ]
-  duration: 55
-  difficulty: advanced
-  tags:
-    - NFT
-    - gaming
-
 - id: fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv
   type: talk
   name: Fundamentální analýza jako základ investice do krypto aktiv
