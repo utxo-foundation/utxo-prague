@@ -111,9 +111,12 @@
   twitter: kleinptr
   bio: Libertarián, nadšenec do nových technologií
   orgs: |
-    Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/)
+    Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), Zakladatel APUS Finance
   tracks: [ zaklady, eth, dao, alty ]
   country: cz
+  desc: |
+    Petr se celý život věnuje vývoji webů, aplikací a systémů na míru. S příchodem web3 se mu otevřel nový svět, který se rozhodl prozkoumávat ve všech směrech. Jeho vášní je decentralizace, Cypherpunk a objevování [FOSS](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_a_otev%C5%99en%C3%BD_software) nástrojů.
+
 
 - id: petr-mara
   name: Petr Mára

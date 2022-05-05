@@ -680,13 +680,20 @@
   name: Základy soukromí a anonymizace
   track: zaklady
   speakers: [ petr-klein ]
-  duration: 50
+  duration: 110
   difficulty: advanced
   description: |
-    > privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍
+    Na workshopu se pobavíme o základních principech soukromí a následně přejdeme na téma anonymity. Nainstalujeme si Tails OS na usb a zkusíme si [Tornado.cash](https://tornado.cash/). Zároveň si ukážeme další možnosti anonymizace tokenů jako např. SCRT.network nebo AZTEC protokol. Když bude prostor, pobavíme se i o dalších open source nástrojích zaměřených na soukromí (operační systémy, VPN, komunikace, ...)
+
+    Pokud se budete chtít plně zapojit, připravte si: 
+    - [ ] USB stick (alespoň 8GB)
+    - [ ] Notebook
+    - [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)
+    - [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/) 
   tags:
     - bezpečnost
     - soukromí
+    - anonymizace
 
 - id: l2-bridge-rampy-prakticky
   type: workshop
