@@ -833,7 +833,6 @@
         ],
         "country": "cz",
         "desc": "Členka [Holek v kryptu](https://holkyvkryptu.cz) se zaměřením na NFT. Jako technický projekťák v Red Hatu se přirozeně zaměřuje na fundamentální analýzy krypto projektů a Use cases NFT nejen jako prezentace obrázku. Své NFT znalosti sdílí na workshopech nebo konferencích v Evropě.\n",
-        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -2007,7 +2006,7 @@
         ],
         "duration": 25,
         "difficulty": "beginner",
-        "description": "https://en.wikipedia.org/wiki/FIRE_movement\n",
+        "description": "Hnutí [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) (*Financial Independence, Retire Early*) usiluje o finanční nezávislost a možnost odejít do důchodu i o desítky let dříve. Běžně se využívají akcie a Pravidlo 4 %. Hlavní kouzlo potom udělá efekt složeného úročení. Nicméně jak by tyto myšlenky vypadaly v krypto světě? Kryptoměny a DeFi přináší další nové možnosti, o kterých se akciovým investorům ani nezdá. Pojďme si tedy představit aktuální možnosti a zamyslet se nad kryptem z trochu jiného než technologického pohledu.\n",
         "tags": [
           "finanční nezávislost"
         ]
@@ -4409,5 +4408,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-05T11:48:41.997Z"
+  "time": "2022-05-05T14:56:53.134Z"
 }
