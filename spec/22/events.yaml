@@ -1033,20 +1033,6 @@
   description: |
     Jaké plány má vzdělávací web3 startup [Futureland DAO](https://futureland.io/), v čem se liší od ostatní NFT projektů, a proč vydáváme jednu z prvních tokenizovaných knih?
 
-- id: scavenger-land
-  type: lightning
-  name: Scavenger Land
-  track: nft
-  speakers: [ martin-stava ]
-  duration: 10
-  parent: lokalni-nft-intro
-  tags:
-    - NFT
-    - gaming
-    - metaverse
-  description: |
-    Představení multiplayerové hry inspirované NFT s názvem [Scavenger Lands](https://scavengerland.com/).
-
 - id: altaria
   type: lightning
   name: Altaria

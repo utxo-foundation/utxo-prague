@@ -792,3 +792,18 @@
     Předseda [České kryptoměnové asociace (ČKMA)](https://www.ckma.cz), [Coinnmate](https://www.coinmate.io/), [Confirmo](https://www.confirmo.net/)
   country: cz
   tracks: [ regulace ]
+
+- id: ales-janda
+  name: Aleš Janda
+  linkedin: alesjanda
+  bio: |
+    Jeden z prvních kryptoveksláků, specialista na anonymitu
+  orgs: |
+    Programování a výzkum v [Chainalysis](https://www.chainalysis.com)
+  web:
+    url: http://www.alesjanda.cz
+  desc: |
+    [Facebook](https://www.facebook.com/ales.janda/)
+  country: cz
+  tracks: [ btc, regulace, spolecnost ]
+
