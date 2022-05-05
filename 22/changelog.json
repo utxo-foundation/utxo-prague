@@ -1304,6 +1304,10 @@
         {
           "id": "ales-janda",
           "name": "Aleš Janda"
+        },
+        {
+          "id": "artur-sychov",
+          "name": "Artur Sychov"
         }
       ],
       "removed": [
@@ -1318,6 +1322,14 @@
         {
           "id": "jak-jsem-prodaval-bitcoiny-pred-deseti-lety",
           "name": "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety"
+        },
+        {
+          "id": "somnium-space-talk",
+          "name": "Somnium Space - představení a demo [TBD]"
+        },
+        {
+          "id": "somnium-space-workshop",
+          "name": "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]"
         }
       ],
       "removed": [

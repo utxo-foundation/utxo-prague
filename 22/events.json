@@ -256,6 +256,22 @@
     ]
   },
   {
+    "id": "somnium-space-talk",
+    "type": "talk",
+    "name": "Somnium Space - představení a demo [TBD]",
+    "track": "nft",
+    "speakers": [
+      "artur-sychov"
+    ],
+    "duration": 25,
+    "difficulty": "beginner",
+    "tags": [
+      "Metaverse",
+      "NFT",
+      "VR"
+    ]
+  },
+  {
     "id": "gaming-v-rozvojovych-zemich",
     "type": "talk",
     "name": "Blockchainové hry v rozvojových zemích",
@@ -1042,6 +1058,22 @@
     "tags": [
       "Polkadot",
       "staking"
+    ]
+  },
+  {
+    "id": "somnium-space-workshop",
+    "type": "workshop",
+    "name": "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]",
+    "track": "nft",
+    "speakers": [
+      "artur-sychov"
+    ],
+    "duration": 50,
+    "difficulty": "beginner",
+    "tags": [
+      "Metaverse",
+      "NFT",
+      "VR"
     ]
   },
   {

@@ -113,6 +113,21 @@
         ]
       },
       {
+        "id": "artur-sychov",
+        "name": "Artur Sychov",
+        "linkedin": "artursychov",
+        "twitter": "asychov",
+        "bio": "VR evangelist & Metaverse builder\n",
+        "orgs": "Zakladatel [Somnium Space](https://somniumspace.com/)\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "damsky",
         "name": "damsky",
         "twitter": "CryptoDamSky",
@@ -1641,6 +1656,22 @@
         ]
       },
       {
+        "id": "somnium-space-talk",
+        "type": "talk",
+        "name": "Somnium Space - představení a demo [TBD]",
+        "track": "nft",
+        "speakers": [
+          "artur-sychov"
+        ],
+        "duration": 25,
+        "difficulty": "beginner",
+        "tags": [
+          "Metaverse",
+          "NFT",
+          "VR"
+        ]
+      },
+      {
         "id": "gaming-v-rozvojovych-zemich",
         "type": "talk",
         "name": "Blockchainové hry v rozvojových zemích",
@@ -2427,6 +2458,22 @@
         "tags": [
           "Polkadot",
           "staking"
+        ]
+      },
+      {
+        "id": "somnium-space-workshop",
+        "type": "workshop",
+        "name": "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]",
+        "track": "nft",
+        "speakers": [
+          "artur-sychov"
+        ],
+        "duration": 50,
+        "difficulty": "beginner",
+        "tags": [
+          "Metaverse",
+          "NFT",
+          "VR"
         ]
       },
       {
@@ -4400,13 +4447,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 75,
+      "speakers": 76,
       "tracks": 9,
-      "events": 92,
+      "events": 94,
       "faqs": 5,
       "partners": 27,
       "projects": 72
     }
   },
-  "time": "2022-05-05T15:00:01.586Z"
+  "time": "2022-05-05T23:45:48.526Z"
 }

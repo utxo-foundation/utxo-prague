@@ -5,6 +5,7 @@
 ### Přednášející
 
 * přidáno [Aleš Janda](https://utxo.cz/lide?id=ales-janda)
+* přidáno [Artur Sychov](https://utxo.cz/lide?id=artur-sychov)
 
 ### Přednášející
 
@@ -13,6 +14,8 @@
 ### Události
 
 * přidáno [Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety](https://utxo.cz/udalosti?id=jak-jsem-prodaval-bitcoiny-pred-deseti-lety)
+* přidáno [Somnium Space - představení a demo [TBD]](https://utxo.cz/udalosti?id=somnium-space-talk)
+* přidáno [Somnium Space workshop: SDK, world building, VR words, avatars [TBD]](https://utxo.cz/udalosti?id=somnium-space-workshop)
 
 ### Události
 
