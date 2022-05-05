@@ -77,6 +77,26 @@
         ]
       },
       {
+        "id": "ales-janda",
+        "name": "Aleš Janda",
+        "linkedin": "alesjanda",
+        "bio": "Jeden z prvních kryptoveksláků, specialista na anonymitu\n",
+        "orgs": "Programování a výzkum v [Chainalysis](https://www.chainalysis.com)\n",
+        "web": {
+          "url": "http://www.alesjanda.cz"
+        },
+        "desc": "[Facebook](https://www.facebook.com/ales.janda/)\n",
+        "country": "cz",
+        "tracks": [
+          "btc",
+          "regulace",
+          "spolecnost"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "andy-kalvoda",
         "name": "Andy Kalvoda",
         "twitter": "andy_blockspace",
@@ -743,20 +763,6 @@
         ]
       },
       {
-        "id": "martin-stava",
-        "name": "Martin Šťáva",
-        "twitter": "martinstava",
-        "orgs": "Autor [Scavenger Land](https://t.co/GGqugcBUF1), spoluzakladatel [STRV](https://www.strv.com/)\n",
-        "country": "cz",
-        "tracks": [
-          "nft"
-        ],
-        "photos": [
-          "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "matej-zimak",
         "name": "Matěj Zimák",
         "twitter": "mattbullish",
@@ -922,7 +928,7 @@
         "name": "Petr Klein",
         "twitter": "kleinptr",
         "bio": "Libertarián, nadšenec do nových technologií",
-        "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/)\n",
+        "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), Zakladatel APUS Finance\n",
         "tracks": [
           "zaklady",
           "eth",
@@ -930,6 +936,7 @@
           "alty"
         ],
         "country": "cz",
+        "desc": "Petr se celý život věnuje vývoji webů, aplikací a systémů na míru. S příchodem web3 se mu otevřel nový svět, který se rozhodl prozkoumávat ve všech směrech. Jeho vášní je decentralizace, Cypherpunk a objevování [FOSS](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_a_otev%C5%99en%C3%BD_software) nástrojů.\n",
         "photos": [
           "twitter:jpg"
         ]
@@ -1289,6 +1296,7 @@
         "id": "vojta-zizka",
         "name": "Vojta Žižka",
         "twitter": "VojtaZizka",
+        "bio": "Content Specialist",
         "orgs": "Investiční podcast [Vojta Žižka](https://www.youtube.com/VojtaZizka)\n",
         "web": {
           "url": "https://www.vojtazizka.cz/"
@@ -2034,21 +2042,6 @@
         ]
       },
       {
-        "id": "prilezitosti-a-slabiny-nft-ve-hrach",
-        "type": "talk",
-        "name": "Příležitosti a slabiny NFT ve hrách",
-        "track": "nft",
-        "speakers": [
-          "martin-stava"
-        ],
-        "duration": 55,
-        "difficulty": "advanced",
-        "tags": [
-          "NFT",
-          "gaming"
-        ]
-      },
-      {
         "id": "fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv",
         "type": "talk",
         "name": "Fundamentální analýza jako základ investice do krypto aktiv",
@@ -2192,12 +2185,13 @@
         "speakers": [
           "petr-klein"
         ],
-        "duration": 50,
+        "duration": 110,
         "difficulty": "advanced",
-        "description": "> privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍\n",
+        "description": "Na workshopu se pobavíme o základních principech soukromí a následně přejdeme na téma anonymity. Nainstalujeme si Tails OS na usb a zkusíme si [Tornado.cash](https://tornado.cash/). Zároveň si ukážeme další možnosti anonymizace tokenů jako např. SCRT.network nebo AZTEC protokol. Když bude prostor, pobavíme se i o dalších open source nástrojích zaměřených na soukromí (operační systémy, VPN, komunikace, ...)\n\nPokud se budete chtít plně zapojit, připravte si: \n- [ ] USB stick (alespoň 8GB)\n- [ ] Notebook\n- [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)\n- [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/) \n",
         "tags": [
           "bezpečnost",
-          "soukromí"
+          "soukromí",
+          "anonymizace"
         ]
       },
       {
@@ -2612,23 +2606,6 @@
           "metaverse"
         ],
         "description": "Jaké plány má vzdělávací web3 startup [Futureland DAO](https://futureland.io/), v čem se liší od ostatní NFT projektů, a proč vydáváme jednu z prvních tokenizovaných knih?\n"
-      },
-      {
-        "id": "scavenger-land",
-        "type": "lightning",
-        "name": "Scavenger Land",
-        "track": "nft",
-        "speakers": [
-          "martin-stava"
-        ],
-        "duration": 10,
-        "parent": "lokalni-nft-intro",
-        "tags": [
-          "NFT",
-          "gaming",
-          "metaverse"
-        ],
-        "description": "Představení multiplayerové hry inspirované NFT s názvem [Scavenger Lands](https://scavengerland.com/).\n"
       },
       {
         "id": "altaria",
@@ -4409,11 +4386,11 @@
     "counts": {
       "speakers": 75,
       "tracks": 9,
-      "events": 93,
+      "events": 91,
       "faqs": 5,
       "partners": 27,
       "projects": 72
     }
   },
-  "time": "2022-05-03T23:50:52.452Z"
+  "time": "2022-05-05T11:45:37.822Z"
 }

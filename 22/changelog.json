@@ -1296,5 +1296,35 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-05-05",
+    "speakers": {
+      "added": [
+        {
+          "id": "ales-janda",
+          "name": "Aleš Janda"
+        }
+      ],
+      "removed": [
+        {
+          "id": "martin-stava",
+          "name": "Martin Šťáva"
+        }
+      ]
+    },
+    "events": {
+      "removed": [
+        {
+          "id": "prilezitosti-a-slabiny-nft-ve-hrach",
+          "name": "Příležitosti a slabiny NFT ve hrách"
+        },
+        {
+          "id": "scavenger-land",
+          "name": "Scavenger Land"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

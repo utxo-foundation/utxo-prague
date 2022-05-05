@@ -51,6 +51,26 @@
     ]
   },
   {
+    "id": "ales-janda",
+    "name": "Aleš Janda",
+    "linkedin": "alesjanda",
+    "bio": "Jeden z prvních kryptoveksláků, specialista na anonymitu\n",
+    "orgs": "Programování a výzkum v [Chainalysis](https://www.chainalysis.com)\n",
+    "web": {
+      "url": "http://www.alesjanda.cz"
+    },
+    "desc": "[Facebook](https://www.facebook.com/ales.janda/)\n",
+    "country": "cz",
+    "tracks": [
+      "btc",
+      "regulace",
+      "spolecnost"
+    ],
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "andy-kalvoda",
     "name": "Andy Kalvoda",
     "twitter": "andy_blockspace",
@@ -717,20 +737,6 @@
     ]
   },
   {
-    "id": "martin-stava",
-    "name": "Martin Šťáva",
-    "twitter": "martinstava",
-    "orgs": "Autor [Scavenger Land](https://t.co/GGqugcBUF1), spoluzakladatel [STRV](https://www.strv.com/)\n",
-    "country": "cz",
-    "tracks": [
-      "nft"
-    ],
-    "photos": [
-      "web:jpg",
-      "twitter:jpg"
-    ]
-  },
-  {
     "id": "matej-zimak",
     "name": "Matěj Zimák",
     "twitter": "mattbullish",
@@ -896,7 +902,7 @@
     "name": "Petr Klein",
     "twitter": "kleinptr",
     "bio": "Libertarián, nadšenec do nových technologií",
-    "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/)\n",
+    "orgs": "Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), Zakladatel APUS Finance\n",
     "tracks": [
       "zaklady",
       "eth",
@@ -904,6 +910,7 @@
       "alty"
     ],
     "country": "cz",
+    "desc": "Petr se celý život věnuje vývoji webů, aplikací a systémů na míru. S příchodem web3 se mu otevřel nový svět, který se rozhodl prozkoumávat ve všech směrech. Jeho vášní je decentralizace, Cypherpunk a objevování [FOSS](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_a_otev%C5%99en%C3%BD_software) nástrojů.\n",
     "photos": [
       "twitter:jpg"
     ]
@@ -1263,6 +1270,7 @@
     "id": "vojta-zizka",
     "name": "Vojta Žižka",
     "twitter": "VojtaZizka",
+    "bio": "Content Specialist",
     "orgs": "Investiční podcast [Vojta Žižka](https://www.youtube.com/VojtaZizka)\n",
     "web": {
       "url": "https://www.vojtazizka.cz/"

@@ -1,5 +1,21 @@
 # Changelog
 
+## 5.5.2022
+
+### Přednášející
+
+* přidáno [Aleš Janda](https://utxo.cz/lide?id=ales-janda)
+
+### Přednášející
+
+* odebráno [Martin Šťáva](https://utxo.cz/lide?id=martin-stava)
+
+### Události
+
+* odebráno [Příležitosti a slabiny NFT ve hrách](https://utxo.cz/udalosti?id=prilezitosti-a-slabiny-nft-ve-hrach)
+* odebráno [Scavenger Land](https://utxo.cz/udalosti?id=scavenger-land)
+
+
 ## 3.5.2022
 
 ### Přednášející
