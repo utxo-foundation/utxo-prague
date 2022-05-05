@@ -806,3 +806,14 @@
   country: cz
   tracks: [ btc, regulace, spolecnost ]
 
+- id: artur-sychov
+  name: Artur Sychov
+  linkedin: artursychov
+  twitter: asychov
+  bio: |
+    VR evangelist & Metaverse builder
+  orgs: |
+    Zakladatel [Somnium Space](https://somniumspace.com/)
+  country: cz
+  tracks: [ nft ]
+    
