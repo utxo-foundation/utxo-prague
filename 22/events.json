@@ -157,6 +157,23 @@
     ]
   },
   {
+    "id": "jak-jsem-prodaval-bitcoiny-pred-deseti-lety",
+    "name": "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety",
+    "type": "talk",
+    "track": "btc",
+    "speakers": [
+      "ales-janda"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "description": "O začátcích kryptoměn panuje mezi veřejností spousta mylných představ: „Kdybych se o nich dozvěděl dřív, mohl bych je nakoupit a byl bych bohatý“ nebo „Dřív se těžba bitcoinů vyplatila, teď už ne“. Jak fungoval Bitcoin v roce 2010 - 2013? Kdo a proč se o něj tehdy vůbec zajímal? Jaké byly tehdejší představy o dalším vývoji?\n\nSvých prvních 83 BTC jsem koupil dohromady za 500 Kč, když ještě Satoshi přispíval na fórum. Abych poznal komunitu, začal jsem postupně vekslovat za hotovost a udělal vyšší stovky obchodů v hotovosti. Poté jsem z lenosti přešel na obchodování z účtu na účet, založil 11 různých účtů, a brzy zase skončil po přijetí špinavých peněz a blokaci účtů policií. Jaká specifika mělo obchodování tehdy a dnes? Jaké zvláštnosti, specifika protokolu a podivné služby existovaly, které dnes už nejsou? A jak je možné, že tehdy neexistovalo žádné KYC?\n",
+    "tags": [
+      "Bitcoin",
+      "historie",
+      "adopce"
+    ]
+  },
+  {
     "id": "pribeh-nejvetsiho-btc-donejtu",
     "type": "talk",
     "name": "Příběh o největším BTC donejtu na české YouTube scéně",

@@ -12,6 +12,10 @@
 
 ### Události
 
+* přidáno [Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety](https://utxo.cz/udalosti?id=jak-jsem-prodaval-bitcoiny-pred-deseti-lety)
+
+### Události
+
 * odebráno [Příležitosti a slabiny NFT ve hrách](https://utxo.cz/udalosti?id=prilezitosti-a-slabiny-nft-ve-hrach)
 * odebráno [Scavenger Land](https://utxo.cz/udalosti?id=scavenger-land)
 

@@ -1314,6 +1314,12 @@
       ]
     },
     "events": {
+      "added": [
+        {
+          "id": "jak-jsem-prodaval-bitcoiny-pred-deseti-lety",
+          "name": "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety"
+        }
+      ],
       "removed": [
         {
           "id": "prilezitosti-a-slabiny-nft-ve-hrach",
