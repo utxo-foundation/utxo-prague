@@ -1350,6 +1350,10 @@
     "speakers": {
       "added": [
         {
+          "id": "jakub-hort",
+          "name": "Jakub Hort"
+        },
+        {
           "id": "stanislav-simek",
           "name": "Stanislav Šimek"
         },

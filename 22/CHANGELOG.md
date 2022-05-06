@@ -4,6 +4,7 @@
 
 ### Přednášející
 
+* přidáno [Jakub Hort](https://utxo.cz/lide?id=jakub-hort)
 * přidáno [Stanislav Šimek](https://utxo.cz/lide?id=stanislav-simek)
 * přidáno [Zdeněk Mihalco](https://utxo.cz/lide?id=zdenek-mihalco)
 
