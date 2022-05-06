@@ -836,3 +836,14 @@
   desc: |
     Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.
   country: cz
+  
+- id: jakub-hort
+  name: Jakub Hort
+  linkedin: jakub-hort-2919098
+  twitter: jakub_hort
+  bio: |
+    Lékař, vědec, profesor neurologie se specializací na neurovědní výzkum, paměť, Alzheimerovu chorobu, nové technologie v neurologii. 300+ odborných publikací, 3000+ citací, H-index 31.
+  orgs: |
+    Principal investigator [Czech Brain Aging Study](https://www.cbas.cz), zakladatel [Alzheimerchain](https://alzheimerchain.com/), spoluzakladatel [Non-Fungible Brain](www.nonfungiblebrain.com/), Předseda [Alzheimer nadační fond](https://www.alzheimernf.cz/), lékař [FN Motol](https://www.fnmotol.cz/), profesor [2. lékařská fakulta Univerzity Karlovy](https://www.lf2.cuni.cz/).
+  country: cz
+  tracks: [ spolecnost, nft ]
