@@ -1350,6 +1350,10 @@
     "speakers": {
       "added": [
         {
+          "id": "stanislav-simek",
+          "name": "Stanislav Šimek"
+        },
+        {
           "id": "zdenek-mihalco",
           "name": "Zdeněk Mihalco"
         }

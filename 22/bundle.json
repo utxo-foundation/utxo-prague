@@ -1182,6 +1182,23 @@
         ]
       },
       {
+        "id": "stanislav-simek",
+        "name": "Stanislav Šimek",
+        "web": {
+          "url": "https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/"
+        },
+        "bio": "Právník a kryptoměnový konzultant",
+        "tracks": [
+          "regulace",
+          "nft"
+        ],
+        "desc": "Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.\n",
+        "country": "cz",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "stepan-fau",
         "name": "Štěpán Fau",
         "twitter": "steve_fau",
@@ -4471,7 +4488,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 77,
+      "speakers": 78,
       "tracks": 9,
       "events": 94,
       "faqs": 5,
@@ -4479,5 +4496,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-06T09:29:59.307Z"
+  "time": "2022-05-06T09:38:20.286Z"
 }
