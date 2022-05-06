@@ -29,7 +29,7 @@
 
 - id: david-bankless
   name: David Bailey
-  twitter: davidbankless
+  twitter: davidbailey_eth
   orgs: |
     Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)
   tracks: [ zaklady, dao, nft ]
@@ -808,11 +808,21 @@
 
  - id: zdenek-mihalco
    name: Zdeněk Mihalco
-   twitter: @ZdenekMihalco
-   linkedin: https://www.linkedin.com/in/zdenek-mihalco-75091131/
+   twitter: ZdenekMihalco
+   linkedin: zdenek-mihalco-75091131
    bio: Ředitel Nadace Via, která usiluje o rozvoj filantropie v Česku
    orgs: ředitel [Nadace Via](https://www.nadacevia.cz)
-   tracks: [filantropie, spolecnost ]
-   desc: |Bývalý novinář, (Forbes, HN, Aktuálně.cz)
+   tracks: [ spolecnost ]
+   desc: Bývalý novinář, (Forbes, HN, Aktuálně.cz)
    country: cz
   
+- id: artur-sychov
+  name: Artur Sychov
+  linkedin: artursychov
+  twitter: asychov
+  bio: |
+    VR evangelist & Metaverse builder
+  orgs: |
+    Zakladatel [Somnium Space](https://somniumspace.com/)
+  country: cz
+  tracks: [ nft ]

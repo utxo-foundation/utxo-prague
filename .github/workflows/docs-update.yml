@@ -13,8 +13,9 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
-          repository: gweicz/utxo22-docs
+          repository: utxo-foundation/utxo22-docs
           ref: master
           path: docs
           token: ${{ secrets.TOKEN_DOCS }}
