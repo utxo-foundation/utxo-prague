@@ -1342,6 +1342,20 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "zdenek-mihalco",
+        "name": "Zdeněk Mihalco",
+        "twitter": "ZdenekMihalco",
+        "linkedin": "zdenek-mihalco-75091131",
+        "bio": "Ředitel Nadace Via, která usiluje o rozvoj filantropie v Česku",
+        "orgs": "ředitel [Nadace Via](https://www.nadacevia.cz)",
+        "tracks": [
+          "spolecnost"
+        ],
+        "desc": "Bývalý novinář, (Forbes, HN, Aktuálně.cz)",
+        "country": "cz",
+        "photos": []
       }
     ],
     "tracks": [
@@ -4453,7 +4467,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 76,
+      "speakers": 77,
       "tracks": 9,
       "events": 94,
       "faqs": 5,
@@ -4461,5 +4475,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-06T00:52:46.739Z"
+  "time": "2022-05-06T00:57:05.927Z"
 }

@@ -1,5 +1,12 @@
 # Changelog
 
+## 6.5.2022
+
+### Přednášející
+
+* přidáno [Zdeněk Mihalco](https://utxo.cz/lide?id=zdenek-mihalco)
+
+
 ## 5.5.2022
 
 ### Přednášející
