@@ -806,6 +806,16 @@
   country: cz
   tracks: [ btc, regulace, spolecnost ]
 
+- id: zdenek-mihalco
+  name: Zdeněk Mihalco
+  twitter: ZdenekMihalco
+  linkedin: zdenek-mihalco-75091131
+  bio: Ředitel Nadace Via, která usiluje o rozvoj filantropie v Česku
+  orgs: ředitel [Nadace Via](https://www.nadacevia.cz)
+  tracks: [ spolecnost ]
+  desc: Bývalý novinář, (Forbes, HN, Aktuálně.cz)
+  country: cz
+  
 - id: artur-sychov
   name: Artur Sychov
   linkedin: artursychov
@@ -816,4 +826,3 @@
     Zakladatel [Somnium Space](https://somniumspace.com/)
   country: cz
   tracks: [ nft ]
-    
