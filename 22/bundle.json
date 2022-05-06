@@ -1934,8 +1934,12 @@
         "duration": 55,
         "difficulty": "beginner",
         "tags": [
-          "DeFi"
-        ]
+          "DeFi",
+          "DEX",
+          "pujčky",
+          "deriváty"
+        ],
+        "description": "Všechno ze světa DeFi, probereme si to celé od začátku, od toho jak fungují klasické centralizované finance přes decentralizované směnárny až po využití DeFi pro dobročinné účely. Dojde i na půjčky, pojištění nebo třeba decentralizované deriváty akcií. Přednáška bude spíše filozofická a bude k ní potřeba jenom minimální znalost blockchainu.\n\nPoté navážeme workshopem [Defi pro začátečníky (workshop)](/udalosti?id=defi-pro-zacatecniky-workshop) na stejné téma\n"
       },
       {
         "id": "high-freq-algo-trading-solana",
@@ -2288,7 +2292,8 @@
         ],
         "tags": [
           "DeFi"
-        ]
+        ],
+        "description": "Workshopem navážeme na stejnojmennou přednášku [DeFi pro začátečníky](/udalosti?id=defi-pro-zacatecniky), tentokrát mnohem víc technicky, všechno si prakticky ukážeme a probereme. Vezměte si s sebou notebooky popřípadě telefony s jakoukoliv smart kontrakt peněženkou a prostředky na ní, na workshop samozřejmě půjde jít i bez notebooku/telefonu a jenom se koukat, pro lepší zážitek bude ale lepší si něco donést.\n\n## Ideální peněženky a sítě\n### PC peněženky\nMetamask: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... ) \nKelpr: ( Terra Luna, Osmosis, Juno, Secret Network, KAVA,..... )\n\n### peněženky do telefonu\nTrust Wallet: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... )\nKelpr: ( Osmosis ) \n\n**Nejlepší bude samozřejmě využít levné síťe , Ethereum je spíš pro větší kapitál a na vyzkoušení budou lepší ostatní síťe které mají pro začátečníky přívětivé poplatky.*\n"
       },
       {
         "id": "krypto-z-pohledu-rodicu",
@@ -4456,5 +4461,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-05T23:59:26.576Z"
+  "time": "2022-05-06T00:18:58.463Z"
 }
