@@ -17,7 +17,7 @@ jobs:
           repository: utxo-foundation/utxo22-docs
           ref: master
           path: docs
-          token: ${{ secrets.TOKEN_DOCS }}
+          #token: ${{ secrets.TOKEN_DOCS }}
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
