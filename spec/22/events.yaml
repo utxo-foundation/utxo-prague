@@ -466,6 +466,13 @@
   difficulty: beginner
   tags:
     - DeFi
+    - DEX
+    - pujčky
+    - deriváty
+  description: |
+    Všechno ze světa DeFi, probereme si to celé od začátku, od toho jak fungují klasické centralizované finance přes decentralizované směnárny až po využití DeFi pro dobročinné účely. Dojde i na půjčky, pojištění nebo třeba decentralizované deriváty akcií. Přednáška bude spíše filozofická a bude k ní potřeba jenom minimální znalost blockchainu.
+
+    Poté navážeme workshopem [Defi pro začátečníky (workshop)](/udalosti?id=defi-pro-zacatecniky-workshop) na stejné téma
 
 - id: high-freq-algo-trading-solana
   type: talk
@@ -758,6 +765,20 @@
     - defi-pro-zacatecniky
   tags:
     - DeFi
+  description: |
+    Workshopem navážeme na stejnojmennou přednášku [DeFi pro začátečníky](/udalosti?id=defi-pro-zacatecniky), tentokrát mnohem víc technicky, všechno si prakticky ukážeme a probereme. Vezměte si s sebou notebooky popřípadě telefony s jakoukoliv smart kontrakt peněženkou a prostředky na ní, na workshop samozřejmě půjde jít i bez notebooku/telefonu a jenom se koukat, pro lepší zážitek bude ale lepší si něco donést.
+
+    ## Ideální peněženky a sítě
+    ### PC peněženky
+    Metamask: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... ) 
+    Kelpr: ( Terra Luna, Osmosis, Juno, Secret Network, KAVA,..... )
+
+    ### peněženky do telefonu
+    Trust Wallet: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... )
+    Kelpr: ( Osmosis ) 
+    
+    **Nejlepší bude samozřejmě využít levné síťe , Ethereum je spíš pro větší kapitál a na vyzkoušení budou lepší ostatní síťe které mají pro začátečníky přívětivé poplatky.*
+
 
 - id: krypto-z-pohledu-rodicu
   type: workshop
