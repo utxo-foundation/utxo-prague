@@ -1348,14 +1348,16 @@
         "name": "Zdeněk Mihalco",
         "twitter": "ZdenekMihalco",
         "linkedin": "zdenek-mihalco-75091131",
-        "bio": "Ředitel Nadace Via, která usiluje o rozvoj filantropie v Česku",
-        "orgs": "ředitel [Nadace Via](https://www.nadacevia.cz)",
+        "bio": "Filantrop",
+        "orgs": "Ředitel [Nadace Via](https://www.nadacevia.cz)",
         "tracks": [
           "spolecnost"
         ],
         "desc": "Bývalý novinář, (Forbes, HN, Aktuálně.cz)",
         "country": "cz",
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       }
     ],
     "tracks": [
@@ -2642,7 +2644,8 @@
         "tags": [
           "DeFi",
           "pujčky"
-        ]
+        ],
+        "description": "Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.\n"
       },
       {
         "id": "liqwid",
@@ -4475,5 +4478,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-06T00:57:05.927Z"
+  "time": "2022-05-06T01:03:43.163Z"
 }
