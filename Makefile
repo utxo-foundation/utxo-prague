@@ -1,6 +1,3 @@
-NAME = gweicz/utxo
-VERSION = 0.1.0
-
 .PHONY: all build
 
 all: test build

@@ -826,3 +826,13 @@
     Zakladatel [Somnium Space](https://somniumspace.com/)
   country: cz
   tracks: [ nft ]
+
+- id: stanislav-simek
+  name: Stanislav Šimek
+  web:
+    url: 'https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/'
+  bio: Právník a kryptoměnový konzultant
+  tracks: [ regulace, nft ]
+  desc: |
+    Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.
+  country: cz
