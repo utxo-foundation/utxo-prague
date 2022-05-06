@@ -139,6 +139,22 @@
   tags:
     - budoucnost
 
+- id: jak-jsem-prodaval-bitcoiny-pred-deseti-lety
+  name: "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety"
+  type: talk
+  track: btc
+  speakers: [ ales-janda ]
+  duration: 55
+  difficulty: beginner
+  description: |
+    O začátcích kryptoměn panuje mezi veřejností spousta mylných představ: „Kdybych se o nich dozvěděl dřív, mohl bych je nakoupit a byl bych bohatý“ nebo „Dřív se těžba bitcoinů vyplatila, teď už ne“. Jak fungoval Bitcoin v roce 2010 - 2013? Kdo a proč se o něj tehdy vůbec zajímal? Jaké byly tehdejší představy o dalším vývoji?
+
+    Svých prvních 83 BTC jsem koupil dohromady za 500 Kč, když ještě Satoshi přispíval na fórum. Abych poznal komunitu, začal jsem postupně vekslovat za hotovost a udělal vyšší stovky obchodů v hotovosti. Poté jsem z lenosti přešel na obchodování z účtu na účet, založil 11 různých účtů, a brzy zase skončil po přijetí špinavých peněz a blokaci účtů policií. Jaká specifika mělo obchodování tehdy a dnes? Jaké zvláštnosti, specifika protokolu a podivné služby existovaly, které dnes už nejsou? A jak je možné, že tehdy neexistovalo žádné KYC?
+  tags:
+    - Bitcoin
+    - historie
+    - adopce
+
 - id: pribeh-nejvetsiho-btc-donejtu
   type: talk
   name: Příběh o největším BTC donejtu na české YouTube scéně
@@ -535,7 +551,7 @@
   duration: 25
   difficulty: beginner
   description: |
-    https://en.wikipedia.org/wiki/FIRE_movement
+    Hnutí [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) (*Financial Independence, Retire Early*) usiluje o finanční nezávislost a možnost odejít do důchodu i o desítky let dříve. Běžně se využívají akcie a Pravidlo 4 %. Hlavní kouzlo potom udělá efekt složeného úročení. Nicméně jak by tyto myšlenky vypadaly v krypto světě? Kryptoměny a DeFi přináší další nové možnosti, o kterých se akciovým investorům ani nezdá. Pojďme si tedy představit aktuální možnosti a zamyslet se nad kryptem z trochu jiného než technologického pohledu.
   tags:
     - finanční nezávislost
 
@@ -573,17 +589,6 @@
     - portfolio
     - investice
     - trading
-
-- id: prilezitosti-a-slabiny-nft-ve-hrach
-  type: talk
-  name: Příležitosti a slabiny NFT ve hrách
-  track: nft
-  speakers: [ martin-stava ]
-  duration: 55
-  difficulty: advanced
-  tags:
-    - NFT
-    - gaming
 
 - id: fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv
   type: talk
@@ -710,13 +715,20 @@
   name: Základy soukromí a anonymizace
   track: zaklady
   speakers: [ petr-klein ]
-  duration: 50
+  duration: 110
   difficulty: advanced
   description: |
-    > privacy, Tails OS, Qubes OS, nejaky zaklady, jak se anonymizovat apod. ale musi to trochu dozrat 👍
+    Na workshopu se pobavíme o základních principech soukromí a následně přejdeme na téma anonymity. Nainstalujeme si Tails OS na usb a zkusíme si [Tornado.cash](https://tornado.cash/). Zároveň si ukážeme další možnosti anonymizace tokenů jako např. SCRT.network nebo AZTEC protokol. Když bude prostor, pobavíme se i o dalších open source nástrojích zaměřených na soukromí (operační systémy, VPN, komunikace, ...)
+
+    Pokud se budete chtít plně zapojit, připravte si: 
+    - [ ] USB stick (alespoň 8GB)
+    - [ ] Notebook
+    - [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)
+    - [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/) 
   tags:
     - bezpečnost
     - soukromí
+    - anonymizace
 
 - id: l2-bridge-rampy-prakticky
   type: workshop
@@ -1044,14 +1056,8 @@
   parent: lokalni-defi-intro
   tags:
     - DeFi
-    - budoucnost
-    - bankovnictví
-    - využití_krypta
-  description: |
-    Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance.
-    Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat.
-    Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.
-  
+    - pujčky
+
 - id: liqwid
   type: lightning
   name: Liqwid Finance
@@ -1087,20 +1093,6 @@
     - metaverse
   description: |
     Jaké plány má vzdělávací web3 startup [Futureland DAO](https://futureland.io/), v čem se liší od ostatní NFT projektů, a proč vydáváme jednu z prvních tokenizovaných knih?
-
-- id: scavenger-land
-  type: lightning
-  name: Scavenger Land
-  track: nft
-  speakers: [ martin-stava ]
-  duration: 10
-  parent: lokalni-nft-intro
-  tags:
-    - NFT
-    - gaming
-    - metaverse
-  description: |
-    Představení multiplayerové hry inspirované NFT s názvem [Scavenger Lands](https://scavengerland.com/).
 
 - id: altaria
   type: lightning
