@@ -639,6 +639,17 @@
     - bezpečnost
     - seed
 
+- id: opravdu-vlastnite-cryptopunka
+  type: talk
+  name: Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT [TBD]
+  track: nft
+  difficulty: beginner
+  speakers: [ stanislav-simek ]
+  duration: 55
+  tags:
+    - NFT
+    - autorské právo
+
  # Lightning talks (series)
  # =========================
 
