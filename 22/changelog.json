@@ -1359,7 +1359,14 @@
         }
       ]
     },
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "opravdu-vlastnite-cryptopunka",
+          "name": "Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT [TBD]"
+        }
+      ]
+    },
     "partners": {}
   }
 ]

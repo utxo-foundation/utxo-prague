@@ -7,6 +7,10 @@
 * přidáno [Stanislav Šimek](https://utxo.cz/lide?id=stanislav-simek)
 * přidáno [Zdeněk Mihalco](https://utxo.cz/lide?id=zdenek-mihalco)
 
+### Události
+
+* přidáno [Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT [TBD]](https://utxo.cz/udalosti?id=opravdu-vlastnite-cryptopunka)
+
 
 ## 5.5.2022
 
