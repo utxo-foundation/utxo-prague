@@ -1057,6 +1057,8 @@
   tags:
     - DeFi
     - pujčky
+  description: |
+    Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.
 
 - id: liqwid
   type: lightning
