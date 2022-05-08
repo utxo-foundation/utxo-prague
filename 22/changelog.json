@@ -1389,6 +1389,10 @@
         {
           "id": "btc-full-node-workshop",
           "name": "Full node, sluha každého správného Bitcoinera"
+        },
+        {
+          "id": "indices",
+          "name": "Indices.fi"
         }
       ]
     },

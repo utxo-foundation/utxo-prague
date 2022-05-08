@@ -7,6 +7,7 @@
 * přidáno [Od mozku k blockchainu aneb Decentralizovaná věda (DeSci)](https://utxo.cz/udalosti?id=od-mozku-k-blockchainu-decentralizovana-veda-desci)
 * přidáno [Hypotéky pro Cryptonatives](https://utxo.cz/udalosti?id=hypoteky-pro-cryptonatives)
 * přidáno [Full node, sluha každého správného Bitcoinera](https://utxo.cz/udalosti?id=btc-full-node-workshop)
+* přidáno [Indices.fi](https://utxo.cz/udalosti?id=indices)
 
 
 ## 6.5.2022

@@ -2708,6 +2708,20 @@
         ]
       },
       {
+        "id": "indices",
+        "type": "lightning",
+        "name": "Indices.fi",
+        "track": "defi",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-defi-intro",
+        "description": "[Indices.fi](https://www.indices.fi/)\n",
+        "tags": [
+          "Ethereum",
+          "deriváty"
+        ]
+      },
+      {
         "id": "flipper-zone",
         "type": "lightning",
         "name": "Flipper.Zone",
@@ -4578,11 +4592,11 @@
     "counts": {
       "speakers": 79,
       "tracks": 9,
-      "events": 98,
+      "events": 99,
       "faqs": 5,
       "partners": 27,
       "projects": 72
     }
   },
-  "time": "2022-05-08T12:26:40.640Z"
+  "time": "2022-05-08T12:32:33.295Z"
 }
