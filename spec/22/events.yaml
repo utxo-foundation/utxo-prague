@@ -1082,6 +1082,19 @@
     - DeFi
     - arbitráže
 
+- id: indices
+  type: lightning
+  name: Indices.fi
+  track: defi
+  speakers: []
+  duration: 10
+  parent: lokalni-defi-intro
+  description: |
+    [Indices.fi](https://www.indices.fi/)
+  tags:
+    - Ethereum
+    - deriváty
+
 - id: flipper-zone
   type: lightning
   name: Flipper.Zone
