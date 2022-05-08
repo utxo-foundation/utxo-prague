@@ -387,7 +387,7 @@
     "id": "hypoteky-pro-cryptonatives",
     "type": "talk",
     "name": "Hypotéky pro Cryptonatives",
-    "track": "eth",
+    "track": "defi",
     "speakers": [
       "josefj"
     ],
@@ -558,6 +558,26 @@
     ]
   },
   {
+    "id": "zaklady-a-historie-defi-protokolu",
+    "type": "talk",
+    "name": "Základy a história DeFi protokolov",
+    "track": "defi",
+    "speakers": [
+      "adam-studenik"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "tags": [
+      "DeFi",
+      "Ethereum",
+      "stablecoin",
+      "DEX",
+      "pujčky",
+      "liquidity mining",
+      "historie"
+    ]
+  },
+  {
     "id": "defi-pro-zacatecniky",
     "type": "talk",
     "name": "DeFi pro začátečníky",
@@ -569,6 +589,7 @@
     "difficulty": "beginner",
     "tags": [
       "DeFi",
+      "Ethereum",
       "DEX",
       "pujčky",
       "deriváty"
