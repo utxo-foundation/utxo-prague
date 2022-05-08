@@ -1774,7 +1774,7 @@
         "id": "od-mozku-k-blockchainu-decentralizovana-veda-desci",
         "type": "talk",
         "name": "Od mozku k blockchainu aneb Decentralizovaná věda (DeSci)",
-        "track": "regulace",
+        "track": "spolecnost",
         "speakers": [
           "jakub-hort",
           "radek-svarz"
@@ -4584,5 +4584,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-08T12:25:57.511Z"
+  "time": "2022-05-08T12:26:40.640Z"
 }
