@@ -133,6 +133,18 @@
     ]
   },
   {
+    "id": "rockaway-block-fund",
+    "name": "Rockaway Blockchain Fund",
+    "type": "sponsor",
+    "twitter": "rbf_cap",
+    "web": {
+      "url": "https://rbf.capital/"
+    },
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "sollarion",
     "name": "Sollarion Game",
     "type": "sponsor",

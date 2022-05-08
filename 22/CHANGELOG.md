@@ -10,6 +10,10 @@
 * přidáno [Full node, sluha každého správného Bitcoinera](https://utxo.cz/udalosti?id=btc-full-node-workshop)
 * přidáno [Indices.fi](https://utxo.cz/udalosti?id=indices)
 
+### Partneři
+
+* přidáno [Rockaway Blockchain Fund](https://utxo.cz/#partneri?id=rockaway-block-fund)
+
 
 ## 6.5.2022
 

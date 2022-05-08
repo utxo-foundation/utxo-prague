@@ -1400,6 +1400,13 @@
         }
       ]
     },
-    "partners": {}
+    "partners": {
+      "added": [
+        {
+          "id": "rockaway-block-fund",
+          "name": "Rockaway Blockchain Fund"
+        }
+      ]
+    }
   }
 ]

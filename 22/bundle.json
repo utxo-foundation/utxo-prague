@@ -410,7 +410,8 @@
         ],
         "desc": "Lékař, vědec, profesor neurologie se specializací na neurovědní výzkum, paměť, Alzheimerovu chorobu, nové technologie v neurologii. 300+ odborných publikací, 3000+ citací, H-index 31.\n\nPrincipal investigator [Czech Brain Aging Study](https://www.cbas.cz), zakladatel [Alzheimerchain](https://alzheimerchain.com/), spoluzakladatel [Non-Fungible Brain](https://www.nonfungiblebrain.com/), Předseda [Alzheimer nadační fond](https://www.alzheimernf.cz/), lékař [FN Motol](https://www.fnmotol.cz/), profesor [2. lékařská fakulta Univerzity Karlovy](https://www.lf2.cuni.cz/).\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -3171,6 +3172,18 @@
         ]
       },
       {
+        "id": "rockaway-block-fund",
+        "name": "Rockaway Blockchain Fund",
+        "type": "sponsor",
+        "twitter": "rbf_cap",
+        "web": {
+          "url": "https://rbf.capital/"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "sollarion",
         "name": "Sollarion Game",
         "type": "sponsor",
@@ -4617,9 +4630,9 @@
       "tracks": 9,
       "events": 100,
       "faqs": 5,
-      "partners": 27,
+      "partners": 28,
       "projects": 72
     }
   },
-  "time": "2022-05-08T14:37:13.080Z"
+  "time": "2022-05-08T16:13:57.751Z"
 }
