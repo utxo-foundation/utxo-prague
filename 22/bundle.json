@@ -2698,7 +2698,9 @@
         "type": "lightning",
         "name": "Chainkeepers",
         "track": "defi",
-        "speakers": [],
+        "speakers": [
+          "ondrej-vostal"
+        ],
         "duration": 10,
         "parent": "lokalni-defi-intro",
         "tags": [
@@ -4598,5 +4600,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-08T12:32:33.295Z"
+  "time": "2022-05-08T12:38:22.943Z"
 }
