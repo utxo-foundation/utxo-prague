@@ -1074,7 +1074,7 @@
   type: lightning
   name: Chainkeepers
   track: defi
-  speakers: []
+  speakers: [ ondrej-vostal ]
   duration: 10
   parent: lokalni-defi-intro
   tags:
