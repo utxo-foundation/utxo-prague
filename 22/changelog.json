@@ -1381,6 +1381,10 @@
         {
           "id": "hypoteky-pro-cryptonatives",
           "name": "Hypotéky pro Cryptonatives"
+        },
+        {
+          "id": "btc-full-node-workshop",
+          "name": "Full node, sluha každého správného Bitcoinera"
         }
       ]
     },

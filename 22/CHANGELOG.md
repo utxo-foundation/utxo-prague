@@ -5,6 +5,7 @@
 ### Události
 
 * přidáno [Hypotéky pro Cryptonatives](https://utxo.cz/udalosti?id=hypoteky-pro-cryptonatives)
+* přidáno [Full node, sluha každého správného Bitcoinera](https://utxo.cz/udalosti?id=btc-full-node-workshop)
 
 
 ## 6.5.2022

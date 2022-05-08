@@ -2220,7 +2220,8 @@
         "duration": 55,
         "tags": [
           "bezpečnost",
-          "seed"
+          "seed",
+          "hardware"
         ]
       },
       {
@@ -2452,7 +2453,8 @@
         "difficulty": "advanced",
         "tags": [
           "Bitcoin",
-          "mining"
+          "mining",
+          "hardware"
         ]
       },
       {
@@ -2566,6 +2568,23 @@
         ]
       },
       {
+        "id": "btc-full-node-workshop",
+        "type": "workshop",
+        "name": "Full node, sluha každého správného Bitcoinera",
+        "track": "btc",
+        "speakers": [
+          "honza-dvorak"
+        ],
+        "duration": 110,
+        "difficulty": "beginner",
+        "tags": [
+          "BTC",
+          "full-node",
+          "hardware"
+        ],
+        "description": "Chcete mít jistotu, že vám v bitcoinové síti nikdo nelže? Jedině vlastním ověřením celého blockchainu dosáhnete stoprocentní jistoty. Don’t trust, verify. Malé zařízení rozměrů smartphonu nebo starý notebook Vám tuto službu zajistí. Od jednoduchých řešení až po ty složitější.\n"
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -2607,7 +2626,8 @@
         "tags": [
           "Bitcoin",
           "Lightning Network",
-          "platby"
+          "platby",
+          "hardware"
         ]
       },
       {
@@ -2622,7 +2642,8 @@
         "parent": "lokalni-projekty-intro",
         "tags": [
           "Bitcoin",
-          "mining"
+          "mining",
+          "hardware"
         ]
       },
       {
@@ -4540,11 +4561,11 @@
     "counts": {
       "speakers": 79,
       "tracks": 9,
-      "events": 96,
+      "events": 97,
       "faqs": 5,
       "partners": 27,
       "projects": 72
     }
   },
-  "time": "2022-05-08T12:05:11.219Z"
+  "time": "2022-05-08T12:17:24.888Z"
 }
