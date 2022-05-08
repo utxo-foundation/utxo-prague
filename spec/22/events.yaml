@@ -278,6 +278,32 @@
   tags:
     - sociální tokeny
 
+- id: od-mozku-k-blockchainu-decentralizovana-veda-desci
+  type: talk
+  name: Od mozku k blockchainu aneb Decentralizovaná věda (DeSci)
+  track: regulace
+  speakers: 
+    - jakub-hort
+    - radek-svarz
+  duration: 55
+  difficulty: beginner
+  description: |
+    Lidský mozek tu byl dřív než blockchain a je také decentralizovaný. Medicína, neurologie a výzkum Alzheimerovy nemoci jsou novým technologiím otevřené, ať již se jedná o virtuální realitu, AI, či propojení s blockchainem, které je na samém počátku. A my máme možnost nejen být u toho, ale dokonce našimi projekty toto propojení posouvat za hranice dosud v lékařské vědě a výzkumu nemyslitelné.
+
+    Přednáška představí decentralizovanou vědu (DeSci), projekt [Alzheimerchain](https://alzheimerchain.com/) a NFT projekt [Non Fungible Brain](https://www.nonfungiblebrain.com/).
+
+    ---
+
+    Mozek má 100 miliard nervových buněk a každá z nich průměrně 1000 spojů se svými sousedy nebo vzdálenými příbuznými někde na druhém konci hlavy, které nikdy nepotká, nikdy s nimi nepromluví, přesto spolu komunikují a tvoří nebo ověřují naše biochemické transakce a myšlenky. Zapojit všechny počítače na zeměkouli do sítě a konečně opravdu namodelovat činnost mozku, to by byl velký počin, ale tam ještě nejsme. Medicína, neurologie a výzkum Alzheimerovy nemoci jsou novým technologiím otevřené, ať již se jedná o virtuální realitu nebo AI, ale propojení s blockchainem je na samém počátku. 
+
+    A my se snažíme u toho být jak s telemedicínskou aplikací Alzheimerchain, tak s Non-Fungible Brainem. Propojení by ale pomohlo vědě a medicíně obecně. Nabízí se v motivaci pacientů pro zdravý životní styl a v prevenci. Může zcela změnit paradigma ve výzkumu. Pacienti se na něm dosud podíleli převážně zdarma a často pomohli něčemu, čeho se již nedožili a jejich potomci se o tom třeba ani nedozvěděli. Brzy bude možná každý moci bezpečně sdílet nebo prodávat svá zdravotní data, možná své největší bohatství nebo altruistický potenciál, tak aby konečně i v medicíně vznikla big data pro AI zpracování a tím akceleraci výzkumu. 
+
+    Propojení obou světů by pomohlo i v demokratizaci vědy, při zkvalitnění a zrychlení recenzního řízení nebo při zaručení svobody vědeckého bádání, které je aktuálně ohrožováno. Pomohlo by při financování, efektivnější, rychlejší a udržitelnější vědecké práci a v open science. Publikovat článek v dobrém časopise dnes stojí tisíce dolarů. Je zde prostor jak pro kryptoměny, tak pro NFT nebo technologii samotnou při ukládání dat.
+  tags:
+    - DeSci
+    - věda
+
+
 - id: jan-krypto-zmenilo-zabehle-firemni-struktury
   type: talk
   name: Jak krypto změnilo zaběhlé firemní struktury
