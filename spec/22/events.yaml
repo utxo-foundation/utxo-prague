@@ -651,6 +651,7 @@
   tags:
     - bezpečnost
     - seed
+    - hardware
 
 - id: opravdu-vlastnite-cryptopunka
   type: talk
@@ -860,6 +861,7 @@
   tags:
     - Bitcoin
     - mining
+    - hardware
 
 - id: lightning-transakce-a-penezenky-pro-zacatecniky
   type: workshop
@@ -953,6 +955,21 @@
     - NFT
     - VR
 
+- id: btc-full-node-workshop
+  type: workshop
+  name: Full node, sluha každého správného Bitcoinera
+  track: btc
+  speakers: [ honza-dvorak ]
+  duration: 110
+  difficulty: beginner
+  tags:
+    - BTC
+    - full-node
+    - hardware
+  description: |
+    Chcete mít jistotu, že vám v bitcoinové síti nikdo nelže? Jedině vlastním ověřením celého blockchainu dosáhnete stoprocentní jistoty. Don’t trust, verify. Malé zařízení rozměrů smartphonu nebo starý notebook Vám tuto službu zajistí. Od jednoduchých řešení až po ty složitější.
+
+
 # Lightning talks
 # ==========================
 
@@ -988,6 +1005,7 @@
     - Bitcoin
     - Lightning Network
     - platby
+    - hardware
 
 - id: braiins
   type: lightning
@@ -999,6 +1017,7 @@
   tags:
     - Bitcoin
     - mining
+    - hardware
 
 - id: baserank
   type: lightning
