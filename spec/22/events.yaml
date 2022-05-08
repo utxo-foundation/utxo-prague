@@ -314,6 +314,19 @@
   tags:
     - finanční nezávislost
 
+- id: hypoteky-pro-cryptonatives
+  type: talk
+  name: Hypotéky pro Cryptonatives
+  track: eth
+  speakers: [ josefj ]
+  duration: 55
+  difficulty: advanced
+  tags:
+    - Ethereum
+    - DeFi
+    - hypotéka
+    - pujčky
+
 - id: devpill-me-public-goods
   type: talk
   name: Úvod k devpill.me a public goods
@@ -1031,6 +1044,10 @@
   speakers: [ david-bankless ]
   duration: 10
   parent: lokalni-nft-intro
+  description: |
+    [FlipperZone](https://www.flipper.zone/) je profesionální nástroj sloužící k práci s NFTs, budovaný komunitou, zastřešený odborníky. Díky inovativním funkcím umožňuje rychlé vyhledání nejlepších kusů z dané NFT kolekce, bez nutnosti složitě prohledávat OpenSea. Umožňuje svým uživatelům včas reagovat a získat nejlepší možné kusy z kolekce. O tom, co team buduje, rozhodují vlastníci FlipperZone Membership Passů. Přesné zpracování nových funkcí ovšem náleží na teamu odborníků. Ti funkce vybalancují tak, aby byly pro uživatele co nejlepší a zároveň technologicky na vysoké úrovni.
+
+    V přednášce bude představeno rozhraní FlipperZone a lehký úvod do praktického využití.
   tags:
     - NFT
 
