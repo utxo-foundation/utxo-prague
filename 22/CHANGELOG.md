@@ -1,5 +1,12 @@
 # Changelog
 
+## 8.5.2022
+
+### Události
+
+* přidáno [Hypotéky pro Cryptonatives](https://utxo.cz/udalosti?id=hypoteky-pro-cryptonatives)
+
+
 ## 6.5.2022
 
 ### Přednášející

@@ -1372,5 +1372,18 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-08",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "hypoteky-pro-cryptonatives",
+          "name": "Hypotéky pro Cryptonatives"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
