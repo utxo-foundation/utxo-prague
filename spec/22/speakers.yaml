@@ -79,6 +79,9 @@
   lead: true
   tracks: [ zaklady, btc, dao, spolecnost ]
   country: sk
+  available:
+    - from: '2022-06-04T09:00:00'
+      to: '2022-06-05T12:59:59'
 
 - id: vladimir-pinker
   name: Vladimír Pinker
