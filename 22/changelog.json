@@ -1418,12 +1418,20 @@
           "name": "Blažena Kuthanová"
         },
         {
+          "id": "jiri-havranek",
+          "name": "Jiří Havránek"
+        },
+        {
           "id": "martin-panek",
           "name": "Martin Pánek"
         },
         {
           "id": "kryptomates",
           "name": "Matěj Švancer"
+        },
+        {
+          "id": "michal-hardyn",
+          "name": "Michal Hardyn"
         },
         {
           "id": "ondrej-kovarik",
@@ -1433,6 +1441,10 @@
     },
     "events": {
       "added": [
+        {
+          "id": "politicka-a-regulatorni-situace-kryptomen-co-nas-ceka",
+          "name": "Politická a regulatorní situace kryptoměn. Co nás čeká?"
+        },
         {
           "id": "jak-spustit-krypto-projekt-regulace-omezeni",
           "name": "Jak spustit krypto projekt? (pohled právníka)"

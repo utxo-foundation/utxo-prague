@@ -5,12 +5,15 @@
 ### Přednášející
 
 * přidáno [Blažena Kuthanová](https://utxo.cz/lide?id=blazena-kuthanova)
+* přidáno [Jiří Havránek](https://utxo.cz/lide?id=jiri-havranek)
 * přidáno [Martin Pánek](https://utxo.cz/lide?id=martin-panek)
 * přidáno [Matěj Švancer](https://utxo.cz/lide?id=kryptomates)
+* přidáno [Michal Hardyn](https://utxo.cz/lide?id=michal-hardyn)
 * přidáno [Ondřej Kovařík](https://utxo.cz/lide?id=ondrej-kovarik)
 
 ### Události
 
+* přidáno [Politická a regulatorní situace kryptoměn. Co nás čeká?](https://utxo.cz/udalosti?id=politicka-a-regulatorni-situace-kryptomen-co-nas-ceka)
 * přidáno [Jak spustit krypto projekt? (pohled právníka)](https://utxo.cz/udalosti?id=jak-spustit-krypto-projekt-regulace-omezeni)
 * přidáno [Daňové triky tipy a kouzla](https://utxo.cz/udalosti?id=danove-triky-a-kouzla)
 * přidáno [Tweetoshi](https://utxo.cz/udalosti?id=tweetoshi)

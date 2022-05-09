@@ -76,6 +76,22 @@
     ]
   },
   {
+    "id": "politicka-a-regulatorni-situace-kryptomen-co-nas-ceka",
+    "type": "panel",
+    "name": "Politická a regulatorní situace kryptoměn. Co nás čeká?",
+    "speakers": [
+      "martin-panek",
+      "michal-hardyn",
+      "jiri-havranek"
+    ],
+    "track": "spolecnost",
+    "duration": 110,
+    "tags": [
+      "politika",
+      "regulace"
+    ]
+  },
+  {
     "id": "eticky-vekslak",
     "type": "talk",
     "name": "Etický vekslák - kryptomeny bez povolenia",

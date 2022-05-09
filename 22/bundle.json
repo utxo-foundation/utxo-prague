@@ -561,6 +561,20 @@
         ]
       },
       {
+        "id": "jiri-havranek",
+        "name": "Jiří Havránek",
+        "twitter": "j_havranek",
+        "bio": "Politik",
+        "orgs": "Poslanec [PSP ČR](https://www.psp.cz/) za ODS\n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jiri-skrivan",
         "name": "Jiří Skřivan",
         "orgs": "[Skovo.cz](https://www.skovo.cz/)\n",
@@ -922,6 +936,21 @@
         "desc": "Členka [Holek v kryptu](https://holkyvkryptu.cz) se zaměřením na NFT. Jako technický projekťák v Red Hatu se přirozeně zaměřuje na fundamentální analýzy krypto projektů a Use cases NFT nejen jako prezentace obrázku. Své NFT znalosti sdílí na workshopech nebo konferencích v Evropě.\n",
         "photos": [
           "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "michal-hardyn",
+        "name": "Michal Hardyn",
+        "linkedin": "michalhardyn",
+        "twitter": "michalhardyn",
+        "bio": "Podnikatel",
+        "orgs": "CEO @ [Tipli](https://www.tipli.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
           "twitter:jpg"
         ]
       },
@@ -1599,6 +1628,22 @@
           "stablecoin",
           "Ethereum",
           "DeFi"
+        ]
+      },
+      {
+        "id": "politicka-a-regulatorni-situace-kryptomen-co-nas-ceka",
+        "type": "panel",
+        "name": "Politická a regulatorní situace kryptoměn. Co nás čeká?",
+        "speakers": [
+          "martin-panek",
+          "michal-hardyn",
+          "jiri-havranek"
+        ],
+        "track": "spolecnost",
+        "duration": 110,
+        "tags": [
+          "politika",
+          "regulace"
         ]
       },
       {
@@ -4759,13 +4804,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 83,
+      "speakers": 85,
       "tracks": 9,
-      "events": 103,
+      "events": 104,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-09T16:13:49.306Z"
+  "time": "2022-05-09T22:03:45.050Z"
 }
