@@ -57,8 +57,7 @@
         "country": "cz",
         "desc": "[Instagram](https://www.instagram.com/adopcebitcoinu/)\n",
         "photos": [
-          "web:jpg",
-          "twitter:jpg"
+          "web:jpg"
         ]
       },
       {
@@ -1045,7 +1044,8 @@
         "country": "cz",
         "desc": "Petr se celý život věnuje vývoji webů, aplikací a systémů na míru. S příchodem web3 se mu otevřel nový svět, který se rozhodl prozkoumávat ve všech směrech. Jeho vášní je decentralizace, Cypherpunk a objevování [FOSS](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_a_otev%C5%99en%C3%BD_software) nástrojů.\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -4767,5 +4767,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-09T16:10:33.396Z"
+  "time": "2022-05-09T16:13:49.306Z"
 }
