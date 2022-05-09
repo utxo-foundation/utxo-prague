@@ -1051,6 +1051,18 @@
   description: |
     Chcete mít jistotu, že vám v bitcoinové síti nikdo nelže? Jedině vlastním ověřením celého blockchainu dosáhnete stoprocentní jistoty. Don’t trust, verify. Malé zařízení rozměrů smartphonu nebo starý notebook Vám tuto službu zajistí. Od jednoduchých řešení až po ty složitější.
 
+- id: liberalismus-a-svoboda
+  type: workshop
+  name: Liberalismus a svoboda
+  track: spolecnost
+  speakers:
+    - martin-panek
+    - jan-mosovsky
+  duration: 80
+  difficulty: beginner
+  tags:
+    - liberalismus
+
 
 # Lightning talks
 # ==========================

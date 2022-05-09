@@ -918,3 +918,11 @@
   country: cz
   tracks: [ regulace ]
 
+- id: jan-mosovsky
+  name: Jan Mošovský
+  twitter: JanMosovsky
+  orgs: |
+    Ředitel výzkumu [Liberálního institutu](https://libinst.cz/), člen [Students for Liberty CZ](https://studentsforlibertycz.cz/)
+  country: cz
+  tracks: [ spolecnost ]
+
