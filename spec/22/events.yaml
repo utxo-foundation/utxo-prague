@@ -1062,6 +1062,17 @@
     - mining
     - hardware
 
+- id: tweetoshi
+  type: lightning
+  name: Tweetoshi
+  track: btc
+  speakers: [ kryptomates ]
+  duration: 10
+  tags:
+    - Bitcoin
+    - Lightning Network
+    - sociální síťe
+
 - id: baserank
   type: lightning
   name: Baserank
