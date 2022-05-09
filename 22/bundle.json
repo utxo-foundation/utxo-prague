@@ -1028,7 +1028,7 @@
         "country": "cz",
         "desc": "Petr se celý život věnuje vývoji webů, aplikací a systémů na míru. S příchodem web3 se mu otevřel nový svět, který se rozhodl prozkoumávat ve všech směrech. Jeho vášní je decentralizace, Cypherpunk a objevování [FOSS](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_a_otev%C5%99en%C3%BD_software) nástrojů.\n",
         "photos": [
-          "twitter:jpg"
+          "web:jpg"
         ]
       },
       {
@@ -4749,5 +4749,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-09T14:50:07.291Z"
+  "time": "2022-05-09T15:55:50.768Z"
 }
