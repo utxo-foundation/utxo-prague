@@ -1225,14 +1225,14 @@
   type: lightning
   name: Altaria
   track: nft
-  speakers: [ fetyas ]
+  speakers: [ fetyas, blazena-kuthanova ]
   duration: 10
   parent: lokalni-nft-intro
   tags:
     - NFT
     - gaming
   description: |
-    Představení úplně první Thrive-to-Earn aplikace, která odměňuje zdravý životní styl.
+    Představení první Thrive-and-Earn aplikace, která gamifikuje celkový životní styl uživatelů prostřednictvím odměn a významných sociálních a herních prvků.
 
 - id: holky-v-kryptu
   type: lightning

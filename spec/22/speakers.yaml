@@ -873,3 +873,12 @@
   country: cz
   tracks: [ spolecnost ]
 
+- id: blazena-kuthanova
+  name: Blažena Kuthanová
+  linkedin: blazena-kuthanova
+  bio: Právnička
+  orgs: |
+    Spoluzakladatelka Altaria
+  country: cz
+  tracks: [ nft ]
+
