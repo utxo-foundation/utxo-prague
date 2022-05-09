@@ -10,6 +10,8 @@
 
 ### Události
 
+* přidáno [Jak spustit krypto projekt? (pohled právníka)](https://utxo.cz/udalosti?id=jak-spustit-krypto-projekt-regulace-omezeni)
+* přidáno [Daňové triky tipy a kouzla](https://utxo.cz/udalosti?id=danove-triky-a-kouzla)
 * přidáno [Tweetoshi](https://utxo.cz/udalosti?id=tweetoshi)
 
 ### Partneři

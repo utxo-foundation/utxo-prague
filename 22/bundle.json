@@ -642,6 +642,7 @@
         "id": "kirill-juran",
         "name": "Kirill Juran",
         "linkedin": "kirilljuran",
+        "twitter": "KirillJuran",
         "web": {
           "url": "https://www.youtube.com/c/KirillJuran/videos",
           "name": "Kirill Juran @ YouTube"
@@ -1842,6 +1843,38 @@
         "tags": [
           "DeSci",
           "věda"
+        ]
+      },
+      {
+        "id": "jak-spustit-krypto-projekt-regulace-omezeni",
+        "type": "talk",
+        "name": "Jak spustit krypto projekt? (pohled právníka)",
+        "track": "regulace",
+        "speakers": [
+          "kirill-juran"
+        ],
+        "duration": 55,
+        "difficulty": "advanced",
+        "description": "Tvorba krypto projektů od vydávání tokenů, DAOs, budování směnárny, vydávání NFTs je provázena množstvím regulací a omezení. Na přednášce se dozvíte jak se aktuálně krypto projekty staví a na co všechno je třeba si dát pozor.\n",
+        "tags": [
+          "regulace",
+          "daně"
+        ]
+      },
+      {
+        "id": "danove-triky-a-kouzla",
+        "type": "talk",
+        "name": "Daňové triky tipy a kouzla",
+        "track": "regulace",
+        "speakers": [
+          "kirill-juran"
+        ],
+        "duration": 55,
+        "difficulty": "beginner",
+        "description": "Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější.\n",
+        "tags": [
+          "regulace",
+          "daně"
         ]
       },
       {
@@ -4710,11 +4743,11 @@
     "counts": {
       "speakers": 82,
       "tracks": 9,
-      "events": 101,
+      "events": 103,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-09T13:28:23.375Z"
+  "time": "2022-05-09T14:50:07.291Z"
 }

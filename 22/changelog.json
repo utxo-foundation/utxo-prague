@@ -1430,6 +1430,14 @@
     "events": {
       "added": [
         {
+          "id": "jak-spustit-krypto-projekt-regulace-omezeni",
+          "name": "Jak spustit krypto projekt? (pohled právníka)"
+        },
+        {
+          "id": "danove-triky-a-kouzla",
+          "name": "Daňové triky tipy a kouzla"
+        },
+        {
           "id": "tweetoshi",
           "name": "Tweetoshi"
         }
