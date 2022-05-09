@@ -1408,5 +1408,25 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-05-09",
+    "speakers": {
+      "added": [
+        {
+          "id": "kryptomates",
+          "name": "Matěj Švancer"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "tweetoshi",
+          "name": "Tweetoshi"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

@@ -1,5 +1,16 @@
 # Changelog
 
+## 9.5.2022
+
+### Přednášející
+
+* přidáno [Matěj Švancer](https://utxo.cz/lide?id=kryptomates)
+
+### Události
+
+* přidáno [Tweetoshi](https://utxo.cz/udalosti?id=tweetoshi)
+
+
 ## 8.5.2022
 
 ### Události

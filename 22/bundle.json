@@ -797,6 +797,19 @@
         ]
       },
       {
+        "id": "kryptomates",
+        "name": "Matěj Švancer",
+        "twitter": "kryptomates",
+        "orgs": "CEO [Tweetoshi](https://tweetoshi.com/), YT [Krypto Mates](https://www.youtube.com/channel/UCybNmFCoe9Nkfw6pDx057gQ)\n",
+        "country": "cz",
+        "tracks": [
+          "btc"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "matej-zimak",
         "name": "Matěj Zimák",
         "twitter": "mattbullish",
@@ -2683,6 +2696,21 @@
           "Bitcoin",
           "mining",
           "hardware"
+        ]
+      },
+      {
+        "id": "tweetoshi",
+        "type": "lightning",
+        "name": "Tweetoshi",
+        "track": "btc",
+        "speakers": [
+          "kryptomates"
+        ],
+        "duration": 10,
+        "tags": [
+          "Bitcoin",
+          "Lightning Network",
+          "sociální síťe"
         ]
       },
       {
@@ -4626,13 +4654,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 79,
+      "speakers": 80,
       "tracks": 9,
-      "events": 100,
+      "events": 101,
       "faqs": 5,
       "partners": 28,
       "projects": 72
     }
   },
-  "time": "2022-05-08T19:32:37.088Z"
+  "time": "2022-05-09T10:38:05.476Z"
 }
