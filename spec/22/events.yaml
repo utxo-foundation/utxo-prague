@@ -313,6 +313,31 @@
     - DeSci
     - věda
 
+- id: jak-spustit-krypto-projekt-regulace-omezeni
+  type: talk
+  name: Jak spustit krypto projekt? (pohled právníka)
+  track: regulace
+  speakers: [ kirill-juran ]
+  duration: 55
+  difficulty: advanced
+  description: |
+    Tvorba krypto projektů od vydávání tokenů, DAOs, budování směnárny, vydávání NFTs je provázena množstvím regulací a omezení. Na přednášce se dozvíte jak se aktuálně krypto projekty staví a na co všechno je třeba si dát pozor.
+  tags:
+    - regulace
+    - daně
+
+- id: danove-triky-a-kouzla
+  type: talk
+  name: Daňové triky tipy a kouzla
+  track: regulace
+  speakers: [ kirill-juran ]
+  duration: 55
+  difficulty: beginner
+  description: |
+    Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější.
+  tags:
+    - regulace
+    - daně
 
 - id: jan-krypto-zmenilo-zabehle-firemni-struktury
   type: talk
