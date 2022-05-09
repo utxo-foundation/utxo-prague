@@ -65,6 +65,12 @@
   type: community
   twitter: CeskaCkma
   desc: Spolek hájící zájmy podnikatelů v oblasti kryptoměn
+
+- id: liberalni-institut
+  name: Liberální institut
+  type: community
+  twitter: libinstcz
+  desc: Think-tank, jehož cílem je rozvíjet a aplikovat ideje a programy založené na principech klasického liberalismu
   
 # Sponsors
 # ======================

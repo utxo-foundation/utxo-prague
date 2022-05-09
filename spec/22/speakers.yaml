@@ -858,5 +858,19 @@
   twitter: kryptomates
   orgs: |
     CEO [Tweetoshi](https://tweetoshi.com/), YT [Krypto Mates](https://www.youtube.com/channel/UCybNmFCoe9Nkfw6pDx057gQ)
+  web:
+    url: https://www.youtube.com/channel/UCybNmFCoe9Nkfw6pDx057gQ
   country: cz
   tracks: [ btc ]
+
+- id: martin-panek
+  name: Martin Pánek
+  twitter: mmister
+  bio: Průmyslník, filantrop a cyklista
+  orgs: |
+    Ředitel [Liberálního institutu](https://libinst.cz/)
+  web:
+    url: http://mmister.com
+  country: cz
+  tracks: [ spolecnost ]
+
