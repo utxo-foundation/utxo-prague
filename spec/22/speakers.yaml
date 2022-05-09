@@ -112,6 +112,8 @@
   bio: Libertarián, nadšenec do nových technologií
   orgs: |
     Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), Zakladatel APUS Finance
+  web:
+    url: https://mastodon.social/@kleinptr
   tracks: [ zaklady, eth, dao, alty ]
   country: cz
   desc: |
