@@ -129,6 +129,20 @@
         ]
       },
       {
+        "id": "blazena-kuthanova",
+        "name": "Blažena Kuthanová",
+        "linkedin": "blazena-kuthanova",
+        "bio": "Právnička",
+        "orgs": "Spoluzakladatelka Altaria\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "damsky",
         "name": "damsky",
         "twitter": "CryptoDamSky",
@@ -2891,7 +2905,8 @@
         "name": "Altaria",
         "track": "nft",
         "speakers": [
-          "fetyas"
+          "fetyas",
+          "blazena-kuthanova"
         ],
         "duration": 10,
         "parent": "lokalni-nft-intro",
@@ -2899,7 +2914,7 @@
           "NFT",
           "gaming"
         ],
-        "description": "Představení úplně první Thrive-to-Earn aplikace, která odměňuje zdravý životní styl.\n"
+        "description": "Představení první Thrive-and-Earn aplikace, která gamifikuje celkový životní styl uživatelů prostřednictvím odměn a významných sociálních a herních prvků.\n"
       },
       {
         "id": "holky-v-kryptu",
@@ -4684,7 +4699,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 81,
+      "speakers": 82,
       "tracks": 9,
       "events": 101,
       "faqs": 5,
@@ -4692,5 +4707,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-09T11:26:40.291Z"
+  "time": "2022-05-09T11:33:43.869Z"
 }

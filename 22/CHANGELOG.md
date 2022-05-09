@@ -4,6 +4,7 @@
 
 ### Přednášející
 
+* přidáno [Blažena Kuthanová](https://utxo.cz/lide?id=blazena-kuthanova)
 * přidáno [Martin Pánek](https://utxo.cz/lide?id=martin-panek)
 * přidáno [Matěj Švancer](https://utxo.cz/lide?id=kryptomates)
 

@@ -1414,6 +1414,10 @@
     "speakers": {
       "added": [
         {
+          "id": "blazena-kuthanova",
+          "name": "Blažena Kuthanová"
+        },
+        {
           "id": "martin-panek",
           "name": "Martin Pánek"
         },

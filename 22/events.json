@@ -1406,7 +1406,8 @@
     "name": "Altaria",
     "track": "nft",
     "speakers": [
-      "fetyas"
+      "fetyas",
+      "blazena-kuthanova"
     ],
     "duration": 10,
     "parent": "lokalni-nft-intro",
@@ -1414,7 +1415,7 @@
       "NFT",
       "gaming"
     ],
-    "description": "Představení úplně první Thrive-to-Earn aplikace, která odměňuje zdravý životní styl.\n"
+    "description": "Představení první Thrive-and-Earn aplikace, která gamifikuje celkový životní styl uživatelů prostřednictvím odměn a významných sociálních a herních prvků.\n"
   },
   {
     "id": "holky-v-kryptu",
