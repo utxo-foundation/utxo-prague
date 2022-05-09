@@ -797,11 +797,31 @@
         ]
       },
       {
+        "id": "martin-panek",
+        "name": "Martin Pánek",
+        "twitter": "mmister",
+        "bio": "Průmyslník, filantrop a cyklista",
+        "orgs": "Ředitel [Liberálního institutu](https://libinst.cz/)\n",
+        "web": {
+          "url": "http://mmister.com"
+        },
+        "country": "cz",
+        "tracks": [
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "kryptomates",
         "name": "Matěj Švancer",
         "nickname": "KRYPTO Mates",
         "twitter": "kryptomates",
         "orgs": "CEO [Tweetoshi](https://tweetoshi.com/), YT [Krypto Mates](https://www.youtube.com/channel/UCybNmFCoe9Nkfw6pDx057gQ)\n",
+        "web": {
+          "url": "https://www.youtube.com/channel/UCybNmFCoe9Nkfw6pDx057gQ"
+        },
         "country": "cz",
         "tracks": [
           "btc"
@@ -3177,6 +3197,16 @@
         ]
       },
       {
+        "id": "liberalni-institut",
+        "name": "Liberální institut",
+        "type": "community",
+        "twitter": "libinstcz",
+        "desc": "Think-tank, jehož cílem je rozvíjet a aplikovat ideje a programy založené na principech klasického liberalismu",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "dydx-grants",
         "name": "dYdX Grants Program",
         "type": "sponsor",
@@ -4655,13 +4685,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 80,
+      "speakers": 81,
       "tracks": 9,
       "events": 101,
       "faqs": 5,
-      "partners": 28,
+      "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-09T10:45:07.403Z"
+  "time": "2022-05-09T10:57:12.731Z"
 }

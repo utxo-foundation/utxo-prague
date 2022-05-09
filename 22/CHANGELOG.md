@@ -4,11 +4,16 @@
 
 ### Přednášející
 
+* přidáno [Martin Pánek](https://utxo.cz/lide?id=martin-panek)
 * přidáno [Matěj Švancer](https://utxo.cz/lide?id=kryptomates)
 
 ### Události
 
 * přidáno [Tweetoshi](https://utxo.cz/udalosti?id=tweetoshi)
+
+### Partneři
+
+* přidáno [Liberální institut](https://utxo.cz/#partneri?id=liberalni-institut)
 
 
 ## 8.5.2022

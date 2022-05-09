@@ -1414,6 +1414,10 @@
     "speakers": {
       "added": [
         {
+          "id": "martin-panek",
+          "name": "Martin Pánek"
+        },
+        {
           "id": "kryptomates",
           "name": "Matěj Švancer"
         }
@@ -1427,6 +1431,13 @@
         }
       ]
     },
-    "partners": {}
+    "partners": {
+      "added": [
+        {
+          "id": "liberalni-institut",
+          "name": "Liberální institut"
+        }
+      ]
+    }
   }
 ]
