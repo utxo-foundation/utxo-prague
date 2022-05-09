@@ -799,6 +799,7 @@
       {
         "id": "kryptomates",
         "name": "Matěj Švancer",
+        "nickname": "kryptomates",
         "twitter": "kryptomates",
         "orgs": "CEO [Tweetoshi](https://tweetoshi.com/), YT [Krypto Mates](https://www.youtube.com/channel/UCybNmFCoe9Nkfw6pDx057gQ)\n",
         "country": "cz",
@@ -4662,5 +4663,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-09T10:38:05.476Z"
+  "time": "2022-05-09T10:40:25.287Z"
 }
