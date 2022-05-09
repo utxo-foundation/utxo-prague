@@ -899,3 +899,22 @@
   country: cz
   tracks: [ regulace ]
 
+- id: michal-hardyn
+  name: Michal Hardyn
+  linkedin: michalhardyn
+  twitter: michalhardyn
+  bio: Podnikatel
+  orgs: |
+    CEO @ [Tipli](https://www.tipli.cz/)
+  country: cz
+  tracks: [ regulace ]
+
+- id: jiri-havranek
+  name: Jiří Havránek
+  twitter: j_havranek
+  bio: Politik
+  orgs: |
+    Poslanec [PSP ČR](https://www.psp.cz/) za ODS
+  country: cz
+  tracks: [ regulace ]
+

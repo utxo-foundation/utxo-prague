@@ -67,15 +67,18 @@
     - Ethereum
     - DeFi
 
-# - id: liberalni-institut-panel
-#  type: panel
-#  name: Panel - Liberální institut [TBD]
-#  speakers:
-#    - martin-panek
-#  track: spolecnost
-#  duration: 110
-#  tags:
-#    - volný trh
+- id: politicka-a-regulatorni-situace-kryptomen-co-nas-ceka
+  type: panel
+  name: Politická a regulatorní situace kryptoměn. Co nás čeká?
+  speakers:
+    - martin-panek
+    - michal-hardyn
+    - jiri-havranek
+  track: spolecnost
+  duration: 110
+  tags:
+    - politika
+    - regulace
 
 
 # Talks (přednášky)
