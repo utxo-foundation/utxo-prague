@@ -927,6 +927,23 @@
         ]
       },
       {
+        "id": "ondrej-kovarik",
+        "name": "Ondřej Kovařík",
+        "twitter": "OKovarikMEP",
+        "bio": "Politik",
+        "orgs": "Europoslanec za [Renew Europe](https://www.reneweuropegroup.eu/) / ANO 2011\n",
+        "web": {
+          "url": "https://ondrejkovarik.eu"
+        },
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "ondrej-pilny",
         "name": "Ondřej Pilný",
         "twitter": "Ondrej_Pilny",
@@ -1531,7 +1548,8 @@
         "type": "panel",
         "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)",
         "speakers": [
-          "kirill-juran"
+          "kirill-juran",
+          "ondrej-kovarik"
         ],
         "track": "regulace",
         "duration": 85,
@@ -4741,7 +4759,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 82,
+      "speakers": 83,
       "tracks": 9,
       "events": 103,
       "faqs": 5,
@@ -4749,5 +4767,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-09T15:55:50.768Z"
+  "time": "2022-05-09T16:10:33.396Z"
 }

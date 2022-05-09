@@ -7,6 +7,7 @@
 * přidáno [Blažena Kuthanová](https://utxo.cz/lide?id=blazena-kuthanova)
 * přidáno [Martin Pánek](https://utxo.cz/lide?id=martin-panek)
 * přidáno [Matěj Švancer](https://utxo.cz/lide?id=kryptomates)
+* přidáno [Ondřej Kovařík](https://utxo.cz/lide?id=ondrej-kovarik)
 
 ### Události
 

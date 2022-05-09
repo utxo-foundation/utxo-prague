@@ -901,6 +901,23 @@
     ]
   },
   {
+    "id": "ondrej-kovarik",
+    "name": "Ondřej Kovařík",
+    "twitter": "OKovarikMEP",
+    "bio": "Politik",
+    "orgs": "Europoslanec za [Renew Europe](https://www.reneweuropegroup.eu/) / ANO 2011\n",
+    "web": {
+      "url": "https://ondrejkovarik.eu"
+    },
+    "country": "cz",
+    "tracks": [
+      "regulace"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "ondrej-pilny",
     "name": "Ondřej Pilný",
     "twitter": "Ondrej_Pilny",
