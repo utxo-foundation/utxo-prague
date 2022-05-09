@@ -496,6 +496,19 @@
         ]
       },
       {
+        "id": "jan-mosovsky",
+        "name": "Jan Mošovský",
+        "twitter": "JanMosovsky",
+        "orgs": "Ředitel výzkumu [Liberálního institutu](https://libinst.cz/), člen [Students for Liberty CZ](https://studentsforlibertycz.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "spolecnost"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jan-struhala",
         "name": "Jan Struhala",
         "twitter": "jan_struhala",
@@ -2776,6 +2789,21 @@
         "description": "Chcete mít jistotu, že vám v bitcoinové síti nikdo nelže? Jedině vlastním ověřením celého blockchainu dosáhnete stoprocentní jistoty. Don’t trust, verify. Malé zařízení rozměrů smartphonu nebo starý notebook Vám tuto službu zajistí. Od jednoduchých řešení až po ty složitější.\n"
       },
       {
+        "id": "liberalismus-a-svoboda",
+        "type": "workshop",
+        "name": "Liberalismus a svoboda",
+        "track": "spolecnost",
+        "speakers": [
+          "martin-panek",
+          "jan-mosovsky"
+        ],
+        "duration": 80,
+        "difficulty": "beginner",
+        "tags": [
+          "liberalismus"
+        ]
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -4804,13 +4832,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 85,
+      "speakers": 86,
       "tracks": 9,
-      "events": 104,
+      "events": 105,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-09T22:03:45.050Z"
+  "time": "2022-05-09T22:18:09.344Z"
 }

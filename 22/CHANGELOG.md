@@ -5,6 +5,7 @@
 ### Přednášející
 
 * přidáno [Blažena Kuthanová](https://utxo.cz/lide?id=blazena-kuthanova)
+* přidáno [Jan Mošovský](https://utxo.cz/lide?id=jan-mosovsky)
 * přidáno [Jiří Havránek](https://utxo.cz/lide?id=jiri-havranek)
 * přidáno [Martin Pánek](https://utxo.cz/lide?id=martin-panek)
 * přidáno [Matěj Švancer](https://utxo.cz/lide?id=kryptomates)
@@ -16,6 +17,7 @@
 * přidáno [Politická a regulatorní situace kryptoměn. Co nás čeká?](https://utxo.cz/udalosti?id=politicka-a-regulatorni-situace-kryptomen-co-nas-ceka)
 * přidáno [Jak spustit krypto projekt? (pohled právníka)](https://utxo.cz/udalosti?id=jak-spustit-krypto-projekt-regulace-omezeni)
 * přidáno [Daňové triky tipy a kouzla](https://utxo.cz/udalosti?id=danove-triky-a-kouzla)
+* přidáno [Liberalismus a svoboda](https://utxo.cz/udalosti?id=liberalismus-a-svoboda)
 * přidáno [Tweetoshi](https://utxo.cz/udalosti?id=tweetoshi)
 
 ### Partneři
