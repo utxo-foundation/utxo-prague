@@ -1478,7 +1478,14 @@
   },
   {
     "date": "2022-05-10",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "ondrej-bajer",
+          "name": "Ondřej Bajer"
+        }
+      ]
+    },
     "events": {
       "added": [
         {

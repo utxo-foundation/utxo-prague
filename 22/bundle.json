@@ -968,6 +968,22 @@
         ]
       },
       {
+        "id": "ondrej-bajer",
+        "name": "Ondřej Bajer",
+        "nickname": "WaltΞer",
+        "twitter": "DeFiWalter",
+        "bio": "Podnikatel, investor & web2/3 builder",
+        "orgs": "Spoluzakladatel [Indices.fi](https://www.indices.fi/)\n",
+        "country": "cz",
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "ondrej-kovarik",
         "name": "Ondřej Kovařík",
         "twitter": "OKovarikMEP",
@@ -2934,7 +2950,9 @@
         "type": "lightning",
         "name": "Indices.fi",
         "track": "defi",
-        "speakers": [],
+        "speakers": [
+          "ondrej-bajer"
+        ],
         "duration": 10,
         "parent": "lokalni-defi-intro",
         "description": "[Indices.fi](https://www.indices.fi/)\n",
@@ -4873,7 +4891,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 86,
+      "speakers": 87,
       "tracks": 9,
       "events": 107,
       "faqs": 5,
@@ -4881,5 +4899,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-10T01:46:42.377Z"
+  "time": "2022-05-10T06:49:47.580Z"
 }

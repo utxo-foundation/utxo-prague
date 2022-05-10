@@ -942,6 +942,22 @@
     ]
   },
   {
+    "id": "ondrej-bajer",
+    "name": "Ondřej Bajer",
+    "nickname": "WaltΞer",
+    "twitter": "DeFiWalter",
+    "bio": "Podnikatel, investor & web2/3 builder",
+    "orgs": "Spoluzakladatel [Indices.fi](https://www.indices.fi/)\n",
+    "country": "cz",
+    "tracks": [
+      "defi"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "ondrej-kovarik",
     "name": "Ondřej Kovařík",
     "twitter": "OKovarikMEP",

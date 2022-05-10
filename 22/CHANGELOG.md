@@ -2,6 +2,10 @@
 
 ## 10.5.2022
 
+### Přednášející
+
+* přidáno [Ondřej Bajer](https://utxo.cz/lide?id=ondrej-bajer)
+
 ### Události
 
 * přidáno [Setkání s Gwei.cz komunitou](https://utxo.cz/udalosti?id=gwei-cz-setkani)
