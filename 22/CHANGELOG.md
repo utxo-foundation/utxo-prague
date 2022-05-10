@@ -1,5 +1,13 @@
 # Changelog
 
+## 10.5.2022
+
+### Události
+
+* přidáno [Setkání s Gwei.cz komunitou](https://utxo.cz/udalosti?id=gwei-cz-setkani)
+* přidáno [BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů](https://utxo.cz/udalosti?id=bohemiandao-campfire)
+
+
 ## 9.5.2022
 
 ### Přednášející

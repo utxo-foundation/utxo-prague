@@ -1479,7 +1479,18 @@
   {
     "date": "2022-05-10",
     "speakers": {},
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "gwei-cz-setkani",
+          "name": "Setkání s Gwei.cz komunitou"
+        },
+        {
+          "id": "bohemiandao-campfire",
+          "name": "BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů"
+        }
+      ]
+    },
     "partners": {}
   }
 ]

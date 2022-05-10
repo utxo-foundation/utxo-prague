@@ -3206,6 +3206,42 @@
         ]
       },
       {
+        "id": "gwei-cz-setkani",
+        "type": "campfire",
+        "name": "Setkání s Gwei.cz komunitou",
+        "track": "eth",
+        "speakers": [
+          "tree",
+          "m0xt",
+          "damsky",
+          "jiri-cepelka"
+        ],
+        "duration": 30,
+        "tags": [
+          "Ethereum",
+          "komunity"
+        ]
+      },
+      {
+        "id": "bohemiandao-campfire",
+        "type": "campfire",
+        "name": "BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů",
+        "track": "eth",
+        "speakers": [
+          "tree",
+          "petr-klein",
+          "radek-svarz",
+          "simona-pacakova"
+        ],
+        "duration": 45,
+        "tags": [
+          "Ethereum",
+          "DeFi",
+          "filantropie",
+          "DAO"
+        ]
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "name": "UTXO.Party - Elektronická stage",
@@ -4837,11 +4873,11 @@
     "counts": {
       "speakers": 86,
       "tracks": 9,
-      "events": 105,
+      "events": 107,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-10T00:52:18.784Z"
+  "time": "2022-05-10T00:59:37.767Z"
 }
