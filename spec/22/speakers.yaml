@@ -929,3 +929,13 @@
   country: cz
   tracks: [ spolecnost ]
 
+- id: ondrej-bajer
+  name: Ondřej Bajer
+  nickname: WaltΞer
+  twitter: DeFiWalter
+  bio: Podnikatel, investor & web2/3 builder
+  orgs: |
+    Spoluzakladatel [Indices.fi](https://www.indices.fi/)
+  country: cz
+  tracks: [ defi ]
+

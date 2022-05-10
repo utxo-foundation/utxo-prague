@@ -1168,7 +1168,7 @@
   type: lightning
   name: Indices.fi
   track: defi
-  speakers: []
+  speakers: [ ondrej-bajer ]
   duration: 10
   parent: lokalni-defi-intro
   description: |
