@@ -1409,6 +1409,38 @@
     - seed
     - bezpečnost
 
+# Campfire
+# ==========================
+
+- id: gwei-cz-setkani
+  type: campfire
+  name: Setkání s Gwei.cz komunitou
+  track: eth
+  speakers:
+    - tree
+    - m0xt
+    - damsky
+    - jiri-cepelka
+  duration: 30
+  tags:
+    - Ethereum
+    - komunity
+
+- id: bohemiandao-campfire
+  type: campfire
+  name: BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů
+  track: eth
+  speakers:
+    - tree
+    - petr-klein
+    - radek-svarz
+    - simona-pacakova
+  duration: 45
+  tags:
+    - Ethereum
+    - DeFi
+    - filantropie
+    - DAO
 
 # Ostatní
 # ==========================
