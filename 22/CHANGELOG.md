@@ -9,7 +9,7 @@
 
 ### Události
 
-* přidáno [Sorare: Play-to-earn](https://utxo.cz/udalosti?id=play-to-earn-sorare)
+* přidáno [Play-to-earn: Praktická ukázka, jak vydělávat koukáním na fotbal (Sorare)](https://utxo.cz/udalosti?id=play-to-earn-sorare)
 * přidáno [Setkání s Gwei.cz komunitou](https://utxo.cz/udalosti?id=gwei-cz-setkani)
 * přidáno [BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů](https://utxo.cz/udalosti?id=bohemiandao-campfire)
 * přidáno [dYdX - Perpetual Futures platforma, úvod a demo](https://utxo.cz/udalosti?id=dydx-intro)
