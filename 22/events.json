@@ -1642,15 +1642,17 @@
     "track": "eth",
     "speakers": [
       "tree",
-      "m0xt",
       "damsky",
+      "radek-svarz",
+      "m0xt",
       "jiri-cepelka"
     ],
     "duration": 30,
     "tags": [
       "Ethereum",
       "komunity"
-    ]
+    ],
+    "description": "Jsme česko-slovenská Ethereum a DeFi komunita [Gwei.cz](https://gwei.cz/). Pojďte se seznámit a popovídat si s členy našeho [Councilu](https://komunita.gwei.cz/council) a dalšími členy komunity. Zajímá vás na jakých projektech, nebo akcích právě pracujeme? Nevíte kde hledat informace o DeFi nebo Ethereu? Rádi byste pronikli do tajů smart-kontraktů, stakingu, predikčních marketů nebo třeba algoritmických stablecoinů a nevíte kde začít? Možná máte nějaký zajímavý nápad, kterému můžeme pomoci? Přijďte a my se vám pokusíme dát odpověď na všechny vaše otázky :)\n"
   },
   {
     "id": "bohemiandao-campfire",
