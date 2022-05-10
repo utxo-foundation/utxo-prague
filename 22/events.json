@@ -1237,6 +1237,24 @@
     ]
   },
   {
+    "id": "play-to-earn-sorare",
+    "type": "workshop",
+    "name": "Sorare: Play-to-earn",
+    "track": "nft",
+    "speakers": [
+      "jan-polak"
+    ],
+    "duration": 50,
+    "difficulty": "beginner",
+    "tags": [
+      "NFT",
+      "fotbal",
+      "trading",
+      "play-to-earn"
+    ],
+    "description": "Fantasy leagues propojují tradiční systém zábavných fanouškovských lig s technologií NFT a představují tak příslib zajímavých výdělků. Asi nejznámější z nich, francouzský start-up [Sorare](https://sorare.com/), navázal spolupráci s předními světovými fotbalovými ligami a těší se hráčské základně čítající více než sto tisíc aktivních uživatelů.\n\nDozvíte se:\n- v čem spočívá hodnota Sorare a proč má smysl ho sledovat;\n- jak si založit účet, nakoupit první hráče a účastnit se zápasů;\n- jaké další herní projekty má smysl mít v hledáčku;\n- jestli lze skutečně vydělávat sledováním fotbalu.\n"
+  },
+  {
     "id": "cryptobyte-recap",
     "type": "lightning",
     "name": "CryptoByte",
@@ -1677,6 +1695,19 @@
       "DeFi",
       "filantropie",
       "DAO"
+    ]
+  },
+  {
+    "id": "dydx-intro",
+    "type": "campfire",
+    "name": "dYdX - Perpetual Futures platforma, úvod a demo",
+    "track": "defi",
+    "speakers": [],
+    "duration": 30,
+    "tags": [
+      "trading",
+      "Ethereum",
+      "StarkWare"
     ]
   },
   {

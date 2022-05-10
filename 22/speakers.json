@@ -483,6 +483,24 @@
     ]
   },
   {
+    "id": "jan-polak",
+    "name": "Jan Polák",
+    "twitter": "sorarecz",
+    "web": {
+      "url": "https://www.linkedin.com/in/jan-pol%C3%A1k-878564b2"
+    },
+    "bio": "Trader, investor do fotbalových NFT",
+    "orgs": "[Altlift](https://www.altlift.cz/)\n",
+    "country": "cz",
+    "tracks": [
+      "nft"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "jan-struhala",
     "name": "Jan Struhala",
     "twitter": "jan_struhala",

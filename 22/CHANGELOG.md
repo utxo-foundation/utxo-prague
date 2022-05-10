@@ -4,12 +4,15 @@
 
 ### Přednášející
 
+* přidáno [Jan Polák](https://utxo.cz/lide?id=jan-polak)
 * přidáno [Ondřej Bajer](https://utxo.cz/lide?id=ondrej-bajer)
 
 ### Události
 
+* přidáno [Sorare: Play-to-earn](https://utxo.cz/udalosti?id=play-to-earn-sorare)
 * přidáno [Setkání s Gwei.cz komunitou](https://utxo.cz/udalosti?id=gwei-cz-setkani)
 * přidáno [BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů](https://utxo.cz/udalosti?id=bohemiandao-campfire)
+* přidáno [dYdX - Perpetual Futures platforma, úvod a demo](https://utxo.cz/udalosti?id=dydx-intro)
 
 
 ## 9.5.2022

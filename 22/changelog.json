@@ -1481,6 +1481,10 @@
     "speakers": {
       "added": [
         {
+          "id": "jan-polak",
+          "name": "Jan Polák"
+        },
+        {
           "id": "ondrej-bajer",
           "name": "Ondřej Bajer"
         }
@@ -1489,12 +1493,20 @@
     "events": {
       "added": [
         {
+          "id": "play-to-earn-sorare",
+          "name": "Sorare: Play-to-earn"
+        },
+        {
           "id": "gwei-cz-setkani",
           "name": "Setkání s Gwei.cz komunitou"
         },
         {
           "id": "bohemiandao-campfire",
           "name": "BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů"
+        },
+        {
+          "id": "dydx-intro",
+          "name": "dYdX - Perpetual Futures platforma, úvod a demo"
         }
       ]
     },

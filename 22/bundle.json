@@ -509,6 +509,24 @@
         ]
       },
       {
+        "id": "jan-polak",
+        "name": "Jan Polák",
+        "twitter": "sorarecz",
+        "web": {
+          "url": "https://www.linkedin.com/in/jan-pol%C3%A1k-878564b2"
+        },
+        "bio": "Trader, investor do fotbalových NFT",
+        "orgs": "[Altlift](https://www.altlift.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "nft"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jan-struhala",
         "name": "Jan Struhala",
         "twitter": "jan_struhala",
@@ -2823,6 +2841,24 @@
         ]
       },
       {
+        "id": "play-to-earn-sorare",
+        "type": "workshop",
+        "name": "Sorare: Play-to-earn",
+        "track": "nft",
+        "speakers": [
+          "jan-polak"
+        ],
+        "duration": 50,
+        "difficulty": "beginner",
+        "tags": [
+          "NFT",
+          "fotbal",
+          "trading",
+          "play-to-earn"
+        ],
+        "description": "Fantasy leagues propojují tradiční systém zábavných fanouškovských lig s technologií NFT a představují tak příslib zajímavých výdělků. Asi nejznámější z nich, francouzský start-up [Sorare](https://sorare.com/), navázal spolupráci s předními světovými fotbalovými ligami a těší se hráčské základně čítající více než sto tisíc aktivních uživatelů.\n\nDozvíte se:\n- v čem spočívá hodnota Sorare a proč má smysl ho sledovat;\n- jak si založit účet, nakoupit první hráče a účastnit se zápasů;\n- jaké další herní projekty má smysl mít v hledáčku;\n- jestli lze skutečně vydělávat sledováním fotbalu.\n"
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -3263,6 +3299,19 @@
           "DeFi",
           "filantropie",
           "DAO"
+        ]
+      },
+      {
+        "id": "dydx-intro",
+        "type": "campfire",
+        "name": "dYdX - Perpetual Futures platforma, úvod a demo",
+        "track": "defi",
+        "speakers": [],
+        "duration": 30,
+        "tags": [
+          "trading",
+          "Ethereum",
+          "StarkWare"
         ]
       },
       {
@@ -4895,13 +4944,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 87,
+      "speakers": 88,
       "tracks": 9,
-      "events": 107,
+      "events": 109,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-10T07:14:29.237Z"
+  "time": "2022-05-10T17:38:15.105Z"
 }
