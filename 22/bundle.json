@@ -1024,11 +1024,13 @@
         "name": "Pavel Kahoun",
         "nickname": "Paulkadotter",
         "twitter": "paulkadotter",
-        "orgs": "Člen [Polkadotters](https://twitter.com/polkadotterss)",
+        "bio": "Zakladatel Polkadot a Algorand komunit v ČR a na Slovensku",
+        "orgs": "Zakladatel [Polkadotters](https://twitter.com/polkadotterss)",
         "country": "cz",
         "tracks": [
           "alty"
         ],
+        "desc": "Zakladatel komunity Polkadot a Algorand v ČR a na Slovensku. V současnosti se však věnuji již výhradně Polkadotu, protože o něm píšeme pravidelně pro mezinárodní publikum a provozujeme validátory na Polkadotu, Kusamě a vybraných parachainech pod značkou [Polkadotters](https://twitter.com/polkadotterss).\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -2406,6 +2408,7 @@
           "pavel-kahoun"
         ],
         "duration": 55,
+        "description": "Polkadot on-chain governance umožňuje vlastníkům DOT tokenů podílet se na rozvoji protokolu několika různými způsoby. Ať už jde o samotný návrh upgradů protokolu, jeho následné schvalování veřejnými volbami nebo rozhodováním o využití prostředků z treasury či volbou členů councilu.\nCo to je Polkadot? Jak probíhá veřejné referendum od založení až po schválení? Jaké jsou jednotlivé role v samotném governance procesu? Co je úkolem technical committee? Jaké pravomoci má Polkadot council? Jaký mechanismus voleb se využívá? Jaké front-endy lze použít pro governance?\n",
         "tags": [
           "Polkadot",
           "governance",
@@ -4840,5 +4843,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-09T22:18:09.344Z"
+  "time": "2022-05-10T00:21:20.404Z"
 }

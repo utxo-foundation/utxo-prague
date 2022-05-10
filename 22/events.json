@@ -838,6 +838,7 @@
       "pavel-kahoun"
     ],
     "duration": 55,
+    "description": "Polkadot on-chain governance umožňuje vlastníkům DOT tokenů podílet se na rozvoji protokolu několika různými způsoby. Ať už jde o samotný návrh upgradů protokolu, jeho následné schvalování veřejnými volbami nebo rozhodováním o využití prostředků z treasury či volbou členů councilu.\nCo to je Polkadot? Jak probíhá veřejné referendum od založení až po schválení? Jaké jsou jednotlivé role v samotném governance procesu? Co je úkolem technical committee? Jaké pravomoci má Polkadot council? Jaký mechanismus voleb se využívá? Jaké front-endy lze použít pro governance?\n",
     "tags": [
       "Polkadot",
       "governance",
