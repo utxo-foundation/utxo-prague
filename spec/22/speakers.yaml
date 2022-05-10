@@ -711,10 +711,13 @@
   name: Pavel Kahoun
   nickname: Paulkadotter
   twitter: paulkadotter
+  bio: Zakladatel Polkadot a Algorand komunit v ČR a na Slovensku
   orgs:
-    Člen [Polkadotters](https://twitter.com/polkadotterss)
+    Zakladatel [Polkadotters](https://twitter.com/polkadotterss)
   country: cz
   tracks: [ alty ]
+  desc: |
+    Zakladatel komunity Polkadot a Algorand v ČR a na Slovensku. V současnosti se však věnuji již výhradně Polkadotu, protože o něm píšeme pravidelně pro mezinárodní publikum a provozujeme validátory na Polkadotu, Kusamě a vybraných parachainech pod značkou [Polkadotters](https://twitter.com/polkadotterss).
 
 - id: stepan-fau
   name: Štěpán Fau
