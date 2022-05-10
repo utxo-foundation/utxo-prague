@@ -2955,9 +2955,11 @@
         ],
         "duration": 10,
         "parent": "lokalni-defi-intro",
-        "description": "[Indices.fi](https://www.indices.fi/)\n",
+        "description": "Indexové produkty neboli ETF zažily v roce 2021 rekordní přítok peněz - 1 bilion dolarů. Tento trend se přenáší i na blockchain. Kryptoindexy jsou novým a nevyzrálým trhem a věříme, že v budoucích letech se za nimi skrývá obrovský příliv kapitálu společně s nárůstem zájmu o kryptoaktiva. Provádíme rozsáhlý průzkum současného marketu investičních indexů, tyto informace si nechceme nechat pro sebe, což nás dovedlo k vytvoření [indices.fi](https://www.indices.fi/). V průběhu analýz zároveň narážíme na mnoho nedostatků v tomto odvětví. Chceme poskytovat investiční a edukační platformu a časem začít pokrývat díry na tomto trhu.\n",
         "tags": [
           "Ethereum",
+          "indexy",
+          "investice",
           "deriváty"
         ]
       },
@@ -4901,5 +4903,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-10T07:01:30.370Z"
+  "time": "2022-05-10T07:14:29.237Z"
 }
