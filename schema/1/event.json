@@ -26,6 +26,7 @@
         "panel",
         "lightning-series",
         "lightning",
+        "campfire",
         "other"
       ],
       "title": "Typ události"
