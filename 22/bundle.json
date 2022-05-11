@@ -598,7 +598,9 @@
           "zaklady"
         ],
         "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
-        "photos": []
+        "photos": [
+          "web:jpg"
+        ]
       },
       {
         "id": "josef-gattermayer",
@@ -4988,5 +4990,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-11T18:47:25.628Z"
+  "time": "2022-05-11T19:22:41.284Z"
 }
