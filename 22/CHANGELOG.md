@@ -6,9 +6,14 @@
 
 * přidáno [Ondřej Chaloupka](https://utxo.cz/lide?id=ondrej-chaloupka)
 
+### Přednášející
+
+* odebráno [Adam Kracík](https://utxo.cz/lide?id=adam-kracik)
+
 ### Události
 
 * přidáno [Úvod do tvorby smart-contractů na Solana blockchainu](https://utxo.cz/udalosti?id=uvod-do-tvorby-smart-contractu-solana)
+* přidáno [Opékání marshmallow s Holky v Kryptu (HvK)](https://utxo.cz/udalosti?id=holky-v-kryptu-campfire)
 
 
 ## 10.5.2022

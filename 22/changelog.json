@@ -1520,6 +1520,12 @@
           "id": "ondrej-chaloupka",
           "name": "Ondřej Chaloupka"
         }
+      ],
+      "removed": [
+        {
+          "id": "adam-kracik",
+          "name": "Adam Kracík"
+        }
       ]
     },
     "events": {
@@ -1527,6 +1533,10 @@
         {
           "id": "uvod-do-tvorby-smart-contractu-solana",
           "name": "Úvod do tvorby smart-contractů na Solana blockchainu"
+        },
+        {
+          "id": "holky-v-kryptu-campfire",
+          "name": "Opékání marshmallow s Holky v Kryptu (HvK)"
         }
       ]
     },

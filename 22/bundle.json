@@ -26,22 +26,6 @@
   "spec": {
     "speakers": [
       {
-        "id": "adam-kracik",
-        "name": "Adam Kracík",
-        "bio": "Nezávislý žurnalista a kryptoměnový analytik",
-        "tracks": [
-          "zaklady",
-          "alty"
-        ],
-        "web": {
-          "url": "https://www.facebook.com/knox.gunner"
-        },
-        "country": "cz",
-        "photos": [
-          "web:jpg"
-        ]
-      },
-      {
         "id": "adam-lokaj",
         "name": "Adam Lokaj",
         "bio": "Právník, odborný lektor",
@@ -3312,7 +3296,9 @@
         "duration": 30,
         "tags": [
           "Ethereum",
-          "komunity"
+          "komunity",
+          "DeFi",
+          "DAO"
         ],
         "description": "Jsme česko-slovenská Ethereum a DeFi komunita [Gwei.cz](https://gwei.cz/). Pojďte se seznámit a popovídat si s členy našeho [Councilu](https://komunita.gwei.cz/council) a dalšími členy komunity. Zajímá vás na jakých projektech, nebo akcích právě pracujeme? Nevíte kde hledat informace o DeFi nebo Ethereu? Rádi byste pronikli do tajů smart-kontraktů, stakingu, predikčních marketů nebo třeba algoritmických stablecoinů a nevíte kde začít? Možná máte nějaký zajímavý nápad, kterému můžeme pomoci? Přijďte a my se vám pokusíme dát odpověď na všechny vaše otázky :)\n"
       },
@@ -3329,10 +3315,26 @@
         ],
         "duration": 45,
         "tags": [
+          "komunity",
           "Ethereum",
           "DeFi",
           "filantropie",
           "DAO"
+        ]
+      },
+      {
+        "id": "holky-v-kryptu-campfire",
+        "type": "campfire",
+        "name": "Opékání marshmallow s Holky v Kryptu (HvK)",
+        "track": "zaklady",
+        "speakers": [
+          "tereza-starostova",
+          "sona-parke"
+        ],
+        "duration": 30,
+        "tags": [
+          "komunity",
+          "ženy"
         ]
       },
       {
@@ -4978,13 +4980,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 89,
+      "speakers": 88,
       "tracks": 9,
-      "events": 110,
+      "events": 111,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-11T15:16:54.061Z"
+  "time": "2022-05-11T18:47:25.628Z"
 }

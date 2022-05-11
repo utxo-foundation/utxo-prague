@@ -1,21 +1,5 @@
 [
   {
-    "id": "adam-kracik",
-    "name": "Adam Kracík",
-    "bio": "Nezávislý žurnalista a kryptoměnový analytik",
-    "tracks": [
-      "zaklady",
-      "alty"
-    ],
-    "web": {
-      "url": "https://www.facebook.com/knox.gunner"
-    },
-    "country": "cz",
-    "photos": [
-      "web:jpg"
-    ]
-  },
-  {
     "id": "adam-lokaj",
     "name": "Adam Lokaj",
     "bio": "Právník, odborný lektor",
