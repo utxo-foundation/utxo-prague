@@ -1002,6 +1002,23 @@
         ]
       },
       {
+        "id": "ondrej-chaloupka",
+        "name": "Ondřej Chaloupka",
+        "nickname": "chalda",
+        "twitter": "_chalda",
+        "bio": "Programátor",
+        "orgs": "Člen teamu [ChainKeepers](https://www.chainkeepers.io/), [Krypto Meetupy Brno](https://www.facebook.com/kryptobrno)\n",
+        "country": "cz",
+        "tracks": [
+          "alty"
+        ],
+        "desc": "Programátor v současné době pracující ve firmě [ChainKeepers](https://chainkeepers.io). Děláme trading boty v Pythonu, pracujeme se smart contracty na Solaně a Ethereu. Do krypta přišel teprve nedávno (na konci minulého roku) a to díky technologickému zájmu o distribuované systémy. Předtím dlouhou dobu pracoval ve společnosti Red Hat na komponentě transakčního managera v Javě.\n\n Člen týmu firmy ChainKeepers, spolupracuje na tvorbě lineupu technické sekce brněnského blockchain meetupu.\n",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "ondrej-kovarik",
         "name": "Ondřej Kovařík",
         "twitter": "OKovarikMEP",
@@ -2857,6 +2874,23 @@
           "play-to-earn"
         ],
         "description": "Fantasy leagues propojují tradiční systém zábavných fanouškovských lig s technologií NFT a představují tak příslib zajímavých výdělků. Asi nejznámější z nich, francouzský start-up [Sorare](https://sorare.com/), navázal spolupráci s předními světovými fotbalovými ligami a těší se hráčské základně čítající více než sto tisíc aktivních uživatelů.\n\nDozvíte se:\n- v čem spočívá hodnota Sorare a proč má smysl ho sledovat;\n- jak si založit účet, nakoupit první hráče a účastnit se zápasů;\n- jaké další herní projekty má smysl mít v hledáčku;\n- jestli lze skutečně vydělávat sledováním fotbalu.\n"
+      },
+      {
+        "id": "uvod-do-tvorby-smart-contractu-solana",
+        "type": "workshop",
+        "name": "Úvod do tvorby smart-contractů na Solana blockchainu",
+        "track": "alty",
+        "speakers": [
+          "ondrej-chaloupka"
+        ],
+        "duration": 50,
+        "difficulty": "expert",
+        "tags": [
+          "Solana",
+          "vývoj",
+          "smart-contract"
+        ],
+        "description": "Úvod do tvorby smart contractů na Solana blockchainu. Představíme si jak funguje Solana blockchain, jaké jsou jeho rozdíly ve srovnání s Ethereem. Probereme account model Solany, který je třeba pochopit před samotnou prací se smart contracty na této síti, a hned si jeden smart contract vytvoříme a deployujeme na lokální instanci. Pro účast je výhodná alespoň základní znalost programování. Je možné přijít s notebookem a tvorbu kontraktu si vyzkoušet, nebo si jen poslechnout teorii a sledovat postup.\n"
       },
       {
         "id": "cryptobyte-recap",
@@ -4944,13 +4978,13 @@
   },
   "stats": {
     "counts": {
-      "speakers": 88,
+      "speakers": 89,
       "tracks": 9,
-      "events": 109,
+      "events": 110,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-10T18:47:08.206Z"
+  "time": "2022-05-11T15:16:54.061Z"
 }

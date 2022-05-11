@@ -1,5 +1,16 @@
 # Changelog
 
+## 11.5.2022
+
+### Přednášející
+
+* přidáno [Ondřej Chaloupka](https://utxo.cz/lide?id=ondrej-chaloupka)
+
+### Události
+
+* přidáno [Úvod do tvorby smart-contractů na Solana blockchainu](https://utxo.cz/udalosti?id=uvod-do-tvorby-smart-contractu-solana)
+
+
 ## 10.5.2022
 
 ### Přednášející

@@ -1511,5 +1511,25 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-11",
+    "speakers": {
+      "added": [
+        {
+          "id": "ondrej-chaloupka",
+          "name": "Ondřej Chaloupka"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "uvod-do-tvorby-smart-contractu-solana",
+          "name": "Úvod do tvorby smart-contractů na Solana blockchainu"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
