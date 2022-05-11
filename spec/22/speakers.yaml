@@ -2,13 +2,13 @@
 # ---------------------------
 # JSON Schema Viewer: https://json-schema.app/view/%23%2Fdefinitions%2Fspeaker?url=https%3A%2F%2Fspec.utxo.cz%2Fschema%2F1%2Fbundle.json
 
-- id: adam-kracik
-  name: Adam Kracík
-  bio: Nezávislý žurnalista a kryptoměnový analytik
-  tracks: [ zaklady, alty ]
-  web:
-    url: https://www.facebook.com/knox.gunner
-  country: cz
+#- id: adam-kracik
+#  name: Adam Kracík
+#  bio: Nezávislý žurnalista a kryptoměnový analytik
+#  tracks: [ zaklady, alty ]
+#  web:
+#    url: https://www.facebook.com/knox.gunner
+#  country: cz
 
 - id: adam-studenik
   name: Adam Studeník
