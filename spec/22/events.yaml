@@ -1088,6 +1088,20 @@
     - jaké další herní projekty má smysl mít v hledáčku;
     - jestli lze skutečně vydělávat sledováním fotbalu.
 
+- id: uvod-do-tvorby-smart-contractu-solana
+  type: workshop
+  name: Úvod do tvorby smart-contractů na Solana blockchainu
+  track: alty
+  speakers: [ ondrej-chaloupka ]
+  duration: 50
+  difficulty: expert
+  tags:
+    - Solana
+    - vývoj
+    - smart-contract
+  description: |
+    Úvod do tvorby smart contractů na Solana blockchainu. Představíme si jak funguje Solana blockchain, jaké jsou jeho rozdíly ve srovnání s Ethereem. Probereme account model Solany, který je třeba pochopit před samotnou prací se smart contracty na této síti, a hned si jeden smart contract vytvoříme a deployujeme na lokální instanci. Pro účast je výhodná alespoň základní znalost programování. Je možné přijít s notebookem a tvorbu kontraktu si vyzkoušet, nebo si jen poslechnout teorii a sledovat postup.
+
 
 # Lightning talks
 # ==========================

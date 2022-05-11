@@ -950,3 +950,17 @@
   country: cz
   tracks: [ nft ]
 
+- id: ondrej-chaloupka
+  name: Ondřej Chaloupka
+  nickname: chalda
+  twitter: _chalda
+  bio: Programátor
+  orgs: |
+    Člen teamu [ChainKeepers](https://www.chainkeepers.io/), [Krypto Meetupy Brno](https://www.facebook.com/kryptobrno)
+  country: cz
+  tracks: [ alty ]
+  desc: |
+    Programátor v současné době pracující ve firmě [ChainKeepers](https://chainkeepers.io). Děláme trading boty v Pythonu, pracujeme se smart contracty na Solaně a Ethereu. Do krypta přišel teprve nedávno (na konci minulého roku) a to díky technologickému zájmu o distribuované systémy. Předtím dlouhou dobu pracoval ve společnosti Red Hat na komponentě transakčního managera v Javě.
+
+     Člen týmu firmy ChainKeepers, spolupracuje na tvorbě lineupu technické sekce brněnského blockchain meetupu.
+  
