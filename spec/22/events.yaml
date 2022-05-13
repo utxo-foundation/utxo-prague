@@ -740,7 +740,7 @@
 
 - id: ztratou-recovery-seedu-neztratite-jenom-finance
   type: talk
-  name: Ztrátou Recovery Seedu neztratíte pouze finance
+  name: Ztrátou Recovery Seed neztratíte pouze finance…
   track: zaklady
   difficulty: beginner
   speakers: [ jiri-skrivan ]
@@ -749,6 +749,8 @@
     - bezpečnost
     - seed
     - hardware
+  description: |
+    Blockchain, peer to peer, proof of work….. několik slov a mají jeden velký význam a tím je poctivost. Jako výrobci produktů, které mohou ovlivnit život držitele, máme mnoho možností jak zákazníka ovlivnit. Je rok 2022,  je to téměř 14 let co vznikla technologie jménem BITCOIN. Tato revoluční metoda ve světě finančnictví způsobila vznik nového odvětví a tím jsou produkty pro uložení Recovery Seed. Recovery Seed, slova, která Vám změní svět a způsob života. Pár slov, kterým nedáváte význam,  avšak když se něco stane, jsou Vaší spásou. Přijďte se podívat na přednášku Jiřího Skřivana ze Skovo.CZ, jenž je prvním výrobcem produktů pro uložení Recovery Seed a zjistíte, že i tento svět je proof of work.
 
 - id: opravdu-vlastnite-cryptopunka
   type: talk
