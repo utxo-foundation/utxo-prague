@@ -750,7 +750,7 @@
     - seed
     - hardware
   description: |
-    Blockchain, peer to peer, proof of work….. několik slov a mají jeden velký význam a tím je poctivost. Jako výrobci produktů, které mohou ovlivnit život držitele, máme mnoho možností jak zákazníka ovlivnit. Je rok 2022,  je to téměř 14 let co vznikla technologie jménem BITCOIN. Tato revoluční metoda ve světě finančnictví způsobila vznik nového odvětví a tím jsou produkty pro uložení Recovery Seed. Recovery Seed, slova, která Vám změní svět a způsob života. Pár slov, kterým nedáváte význam,  avšak když se něco stane, jsou Vaší spásou. Přijďte se podívat na přednášku Jiřího Skřivana ze Skovo.CZ, jenž je prvním výrobcem produktů pro uložení Recovery Seed a zjistíte, že i tento svět je proof of work.
+    Blockchain, peer to peer, proof of work….. několik slov a mají jeden velký význam a tím je poctivost. Jako výrobci produktů, které mohou ovlivnit život držitele, máme mnoho možností jak zákazníka ovlivnit. Je rok 2022,  je to téměř 14 let co vznikla technologie jménem BITCOIN. Tato revoluční metoda ve světě finančnictví způsobila vznik nového odvětví a tím jsou produkty pro uložení Recovery Seed. Recovery Seed, slova, která Vám změní svět a způsob života. Pár slov, kterým nedáváte význam,  avšak když se něco stane, jsou Vaší spásou. Přijďte se podívat na přednášku Jiřího Skřivana ze [Skovo.CZ](https://www.skovo.cz/), jenž je prvním výrobcem produktů pro uložení Recovery Seed a zjistíte, že i tento svět je proof of work.
 
 - id: opravdu-vlastnite-cryptopunka
   type: talk
@@ -772,8 +772,8 @@
   duration: 35
   description: |
     Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.
-    Věděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukormí zpět do vlastních rukou? 
-    Jde to i jinak právě díky [Fediverse](https://fediverse.io).
+    Věděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukromí zpět do vlastních rukou? 
+    Jde to i jinak právě díky [Fediverse](https://fediverse.io) ([Mastodon](https://joinmastodon.org/)).
 
     Napadlo vás někdy, že by bylo fajn kdybyste mohli např. odebírat Youtube kanál z vašeho Instagram účtu nebo napsat zprávu někomu na Facebook z vašeho Twitter účtu?
     To vše je dnes možné a to navíc s ohledem na naše soukromí, tedy bez reklam a bezpečně.
