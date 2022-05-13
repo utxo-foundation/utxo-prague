@@ -1555,6 +1555,10 @@
     "events": {
       "added": [
         {
+          "id": "cbdc-panel",
+          "name": "CBDC – cesta do monetárního otroctví"
+        },
+        {
           "id": "fediverse",
           "name": "Fediverse aneb sociální síť kterou si Elon nekoupí"
         },

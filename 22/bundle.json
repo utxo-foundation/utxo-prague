@@ -1606,22 +1606,6 @@
         ]
       },
       {
-        "id": "regulace-panel",
-        "type": "panel",
-        "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)",
-        "speakers": [
-          "kirill-juran",
-          "ondrej-kovarik"
-        ],
-        "track": "regulace",
-        "duration": 85,
-        "difficulty": "beginner",
-        "tags": [
-          "regulace",
-          "soukromí"
-        ]
-      },
-      {
         "id": "nft-metaverse-panel",
         "type": "panel",
         "name": "NFT a Metaverse",
@@ -1661,6 +1645,37 @@
           "stablecoin",
           "Ethereum",
           "DeFi"
+        ]
+      },
+      {
+        "id": "cbdc-panel",
+        "type": "panel",
+        "name": "CBDC – cesta do monetárního otroctví",
+        "speakers": [
+          "lukas-kovanda",
+          "dominik-stroukal"
+        ],
+        "duration": 85,
+        "difficulty": "beginner",
+        "tags": [
+          "CBDC",
+          "regulace"
+        ]
+      },
+      {
+        "id": "regulace-panel",
+        "type": "panel",
+        "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)",
+        "speakers": [
+          "kirill-juran",
+          "ondrej-kovarik"
+        ],
+        "track": "regulace",
+        "duration": 85,
+        "difficulty": "beginner",
+        "tags": [
+          "regulace",
+          "soukromí"
         ]
       },
       {
@@ -5005,11 +5020,11 @@
     "counts": {
       "speakers": 87,
       "tracks": 9,
-      "events": 113,
+      "events": 114,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-13T20:38:38.196Z"
+  "time": "2022-05-13T20:48:25.723Z"
 }

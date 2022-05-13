@@ -8,6 +8,7 @@
 
 ### Události
 
+* přidáno [CBDC – cesta do monetárního otroctví](https://utxo.cz/udalosti?id=cbdc-panel)
 * přidáno [Fediverse aneb sociální síť kterou si Elon nekoupí](https://utxo.cz/udalosti?id=fediverse)
 * přidáno [Základy anonymizace tokenů (Tornado, SCRT, Aztec)](https://utxo.cz/udalosti?id=tornado-workshop)
 
