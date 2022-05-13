@@ -57,7 +57,7 @@
     - marek-kyrsch
     - simona-pacakova
   properties:
-    moderators: [david-antos]
+    moderators: [ david-antos ]
   track: defi
   duration: 85
   rightAfter: czk-stablecoin
@@ -79,6 +79,7 @@
   tags:
     - politika
     - regulace
+
 
 # Talks (přednášky)
 # ====================
@@ -117,7 +118,7 @@
   type: talk
   name: Cypherpunks a jejich role v dnešním světě
   track: spolecnost
-  speakers: [matthew-cook]
+  speakers: [ matthew-cook ]
   duration: 55
   difficulty: beginner
   description: |
@@ -129,9 +130,9 @@
 
 - id: pokrok-bez-povoleni
   type: talk
-  name: "Pokrok bez povolení: Jak sdílená ekonomika, crowdfunding a kryptoměny změnily svět"
+  name: 'Pokrok bez povolení: Jak sdílená ekonomika, crowdfunding a kryptoměny změnily svět'
   track: spolecnost
-  speakers: [robert-chovanculiak]
+  speakers: [ robert-chovanculiak ]
   duration: 55
   difficulty: beginner
   description: |
@@ -146,7 +147,7 @@
   type: talk
   name: Budoucnost kryptoměn
   track: spolecnost
-  speakers: [sona-parke]
+  speakers: [ sona-parke ]
   duration: 55
   difficulty: beginner
   tags:
@@ -156,7 +157,7 @@
   name: "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety"
   type: talk
   track: btc
-  speakers: [ales-janda]
+  speakers: [ ales-janda ]
   duration: 55
   difficulty: beginner
   description: |
@@ -172,7 +173,7 @@
   type: talk
   name: Příběh o největším BTC donejtu na české YouTube scéně
   track: spolecnost
-  speakers: [stanislav-hruska]
+  speakers: [ stanislav-hruska ]
   duration: 25
   difficulty: beginner
   description: |
@@ -184,7 +185,7 @@
   type: talk
   name: Když byl Bitcoin ještě Divoký západ
   track: btc
-  speakers: [frantisek-fuka]
+  speakers: [ frantisek-fuka ]
   duration: 55
   difficulty: beginner
   description: |
@@ -219,7 +220,7 @@
   type: talk
   name: Bitcoin a české korporace
   track: btc
-  speakers: [adam-lokaj]
+  speakers: [ adam-lokaj ]
   duration: 25
   difficulty: expert
   description: |
@@ -235,7 +236,7 @@
   type: talk
   name: Decentralizováná krypto-koruna (CZK stablecoin)
   track: defi
-  speakers: [radek-svarz]
+  speakers: [ radek-svarz ]
   duration: 25
   difficulty: advanced
   tags:
@@ -246,7 +247,7 @@
   type: talk
   name: Somnium Space - představení a demo [TBD]
   track: nft
-  speakers: [artur-sychov]
+  speakers: [ artur-sychov ]
   duration: 25
   difficulty: beginner
   tags:
@@ -258,7 +259,7 @@
   type: talk
   name: Blockchainové hry v rozvojových zemích
   track: nft
-  speakers: [fetyas]
+  speakers: [ fetyas ]
   duration: 25
   difficulty: beginner
   description: |
@@ -272,7 +273,7 @@
   type: talk
   name: Blockchain, hry a děti
   track: nft
-  speakers: [jan-malina]
+  speakers: [ jan-malina ]
   duration: 55
   difficulty: beginner
   description: |
@@ -285,7 +286,7 @@
   type: talk
   name: Sociální tokeny (Social Tokens)
   track: eth
-  speakers: [michaela-malatin]
+  speakers: [ michaela-malatin ]
   duration: 55
   difficulty: advanced
   tags:
@@ -295,7 +296,7 @@
   type: talk
   name: Od mozku k blockchainu aneb Decentralizovaná věda (DeSci)
   track: spolecnost
-  speakers:
+  speakers: 
     - jakub-hort
     - radek-svarz
   duration: 55
@@ -320,7 +321,7 @@
   type: talk
   name: Jak spustit krypto projekt? (pohled právníka)
   track: regulace
-  speakers: [kirill-juran]
+  speakers: [ kirill-juran ]
   duration: 55
   difficulty: advanced
   description: |
@@ -333,7 +334,7 @@
   type: talk
   name: Daňové triky tipy a kouzla
   track: regulace
-  speakers: [kirill-juran]
+  speakers: [ kirill-juran ]
   duration: 55
   difficulty: beginner
   description: |
@@ -346,7 +347,7 @@
   type: talk
   name: Jak krypto změnilo zaběhlé firemní struktury
   track: dao
-  speakers: [vladimir-pinker]
+  speakers: [ vladimir-pinker ]
   duration: 25
   difficulty: beginner
   tags:
@@ -359,7 +360,7 @@
   name: Práce a možnosti živobytí v kryptoměnách
   track: zaklady
   duration: 25
-  speakers: [damsky]
+  speakers: [ damsky ]
   difficulty: beginner
   tags:
     - finanční nezávislost
@@ -372,7 +373,7 @@
   type: talk
   name: Žijeme bez fiatu
   track: zaklady
-  speakers: [vladimir-pinker]
+  speakers: [ vladimir-pinker ]
   duration: 55
   difficulty: beginner
   tags:
@@ -382,7 +383,7 @@
   type: talk
   name: Hypotéky pro Cryptonatives
   track: defi
-  speakers: [josefj]
+  speakers: [ josefj ]
   duration: 55
   difficulty: advanced
   tags:
@@ -396,7 +397,7 @@
   name: Úvod k devpill.me a public goods
   difficulty: advanced
   track: eth
-  speakers: [dcbuilder]
+  speakers: [ dcbuilder ]
   duration: 55
   description: |
     [Devpill.me](https://www.devpill.me/) je veřejně přístupný návod ke vývoji na blockchainu, který slouží jako agregátor vzdělávacích zdrojů pro vše, co může vývojář na blockchainu potřebovat. Existují specializace zaměřené na širokou škálu různých dovedností (tj. chytré kontrakty, front-end, kryptografie) a různá témata, jako je DeFi, MEV, NFT a další. Na co se soustředit? Jak získat zaměstnání v oboru? Jakou specializaci si vybrat a jak se v ní zdokonalovat?
@@ -426,7 +427,7 @@
   name: Základní filozofie tvorby tokenu (tokenomiky)
   track: eth
   difficulty: advanced
-  speakers: [jakub-jedlinsky]
+  speakers: [ jakub-jedlinsky ]
   duration: 55
   description: |
     Po letech, kdy prakticky jedinou reálně používanou kryptoměnou byl Bitcoin, jsme se přesunuli do situace, kdy už aplikace blockchainu není jen marketingovou vějičkou, nýbrž skutečností. Stále více projektů nyní přemýšlí, jak a do jaké míry decentralizovat svou aplikaci, jaké technické řešení zvolit a jestli využít existující, či vlastní tokeny. Toto rozhodnutí je přitom zásadní pro úspěch každého konceptu. Tokenomika je relativně nová věda a ukazuje se, že je vhodné přistoupit k ní sofistikovaně a dopředu. Přesvědčují se o tom i velké a etablované projekty jako Axie Infinity, když až po čase začínají draze a náročně nacházet a následně lepit díry ve vlastních systémech.
@@ -440,7 +441,7 @@
   name: Jak založit US startup a získat $1M+ od investorů v USA a Asii – na dálku z České Republiky
   track: spolecnost
   difficulty: advanced
-  speakers: [roman-mazur]
+  speakers: [ roman-mazur ]
   duration: 55
   description: |
     Tato přednáška bude praktickým průvodcem k úspěšnému založení firmy v USA a přípravě na fundraising — vše na dálku z Česka. Dozvíte se kde sehnat co-foundera, ve kterém státě nejlépe firmu založit, kde sehnat právníky a účetní, na co si dát pozor během přípravy právních dokumentů pro získání peněz od investorů. Třešničkou na dortu pak bude tip na faxovací službu, kterou můžete použít pro vzdálenou komunikaci s americkými úřady v případě, kdy nevlastníte FAX.
@@ -456,7 +457,7 @@
   type: talk
   name: DAO 101
   track: dao
-  speakers: [lenka-hudakova]
+  speakers: [ lenka-hudakova ]
   difficulty: beginner
   duration: 55
   tags:
@@ -466,7 +467,7 @@
   type: talk
   name: Future of DeFi
   track: defi
-  speakers: [david-stancel]
+  speakers: [ david-stancel ]
   difficulty: beginner
   duration: 25
   tags:
@@ -477,7 +478,7 @@
   type: talk
   name: Základy zabezpečení (ne)jen ve světě kryptoměn
   track: zaklady
-  speakers: [jan-cerny]
+  speakers: [ jan-cerny ]
   duration: 55
   difficulty: beginner
   description: |
@@ -492,7 +493,7 @@
   type: talk
   name: Proč a jak používat Bitcoin
   track: btc
-  speakers: [hynek-jina]
+  speakers: [ hynek-jina ]
   duration: 55
   difficulty: beginner
   tags:
@@ -503,7 +504,7 @@
   type: talk
   name: Layer2s - úvod do druhých vrstev a proč je potřebujeme
   track: eth
-  speakers: [damsky]
+  speakers: [ damsky ]
   duration: 55
   difficulty: beginner
   tags:
@@ -516,7 +517,7 @@
   type: talk
   name: Co jsou to oracles + CZK kurz na blockchainu
   track: defi
-  speakers: [radek-svarz]
+  speakers: [ radek-svarz ]
   duration: 25
   difficulty: advanced
   tags:
@@ -528,7 +529,7 @@
   type: talk
   name: The Merge (Eth2)
   track: eth
-  speakers: [mario-havel]
+  speakers: [ mario-havel ]
   duration: 55
   difficulty: advanced
   tags:
@@ -539,7 +540,7 @@
   type: talk
   name: Základy a história DeFi protokolov
   track: defi
-  speakers: [adam-studenik]
+  speakers: [ adam-studenik ]
   duration: 55
   difficulty: beginner
   tags:
@@ -555,7 +556,7 @@
   type: talk
   name: DeFi pro začátečníky
   track: defi
-  speakers: [jiri-cepelka]
+  speakers: [ jiri-cepelka ]
   duration: 55
   difficulty: beginner
   tags:
@@ -573,7 +574,7 @@
   type: talk
   name: High frequency algo trading na Solaně
   track: alty
-  speakers: [ondrej-vostal]
+  speakers: [ ondrej-vostal ]
   duration: 55
   difficulty: expert
   tags:
@@ -586,7 +587,7 @@
   type: talk
   name: Digitální identita v metaverse
   track: nft
-  speakers: [pavel-riha]
+  speakers: [ pavel-riha ]
   duration: 25
   difficulty: advanced
   tags:
@@ -599,7 +600,7 @@
   type: talk
   name: Úvod do Polkadotu a jeho ekosystému
   track: alty
-  speakers: [petr-mensik]
+  speakers: [ petr-mensik ]
   duration: 55
   difficulty: advanced
   tags:
@@ -610,7 +611,7 @@
   name: Mise projektu Cardano
   difficulty: beginner
   track: alty
-  speakers: [jaromir-tesar]
+  speakers: [ jaromir-tesar ]
   duration: 55
   tags:
     - Cardano
@@ -619,7 +620,7 @@
   type: talk
   name: Úvod do Cosmos Ekosystému
   track: alty
-  speakers: [vladimir-pinker]
+  speakers: [ vladimir-pinker ]
   duration: 55
   difficulty: advanced
   tags:
@@ -632,7 +633,7 @@
   type: talk
   name: Úvod do NEAR
   track: alty
-  speakers: [vladimir-pinker]
+  speakers: [ vladimir-pinker ]
   duration: 25
   difficulty: beginner
   tags:
@@ -642,7 +643,7 @@
   type: talk
   name: FIRE movement (Financial Independence, Retire Early)
   track: spolecnost
-  speakers: [tomas-kryptovlada]
+  speakers: [ tomas-kryptovlada ]
   duration: 25
   difficulty: beginner
   description: |
@@ -650,11 +651,12 @@
   tags:
     - finanční nezávislost
 
+
 - id: je-krypto-letadlo
   type: talk
   name: Je krypto letadlo?
   track: zaklady
-  speakers: [vladimir-pinker]
+  speakers: [ vladimir-pinker ]
   duration: 25
   difficulty: beginner
   tags:
@@ -665,7 +667,7 @@
   name: Investování 2.0
   difficulty: beginner
   track: zaklady
-  speakers: [m0xt]
+  speakers: [ m0xt ]
   duration: 55
   tags:
     - investice
@@ -677,7 +679,7 @@
   name: Chyby, které děláš při skládání portfolia (a jak je opravit)
   difficulty: beginner
   track: zaklady
-  speakers: [andy-kalvoda]
+  speakers: [ andy-kalvoda ]
   duration: 55
   tags:
     - portfolio
@@ -688,7 +690,7 @@
   type: talk
   name: Fundamentální analýza jako základ investice do krypto aktiv
   track: zaklady
-  speakers: [ondrej-pilny]
+  speakers: [ ondrej-pilny ]
   duration: 55
   difficulty: beginner
   tags:
@@ -696,11 +698,12 @@
   description: |
     Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?
 
+
 - id: smart-contracts-audits
   type: talk
   name: Smart contract audits - scam or legit?
   track: eth
-  speakers: [josef-gattermayer]
+  speakers: [ josef-gattermayer ]
   duration: 55
   difficulty: advanced
   tags:
@@ -713,7 +716,7 @@
   name: Polkadot governance
   difficulty: advanced
   track: alty
-  speakers: [pavel-kahoun]
+  speakers: [ pavel-kahoun ]
   duration: 55
   description: |
     Polkadot on-chain governance umožňuje vlastníkům DOT tokenů podílet se na rozvoji protokolu několika různými způsoby. Ať už jde o samotný návrh upgradů protokolu, jeho následné schvalování veřejnými volbami nebo rozhodováním o využití prostředků z treasury či volbou členů councilu.
@@ -728,7 +731,7 @@
   name: Ztrátou Recovery Seedu neztratíte pouze finance
   track: zaklady
   difficulty: beginner
-  speakers: [jiri-skrivan]
+  speakers: [ jiri-skrivan ]
   duration: 55
   tags:
     - bezpečnost
@@ -740,7 +743,7 @@
   name: Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT [TBD]
   track: nft
   difficulty: beginner
-  speakers: [stanislav-simek]
+  speakers: [ stanislav-simek ]
   duration: 55
   tags:
     - NFT
@@ -751,7 +754,7 @@
   name: Fediverse aneb sociální síť kterou si Elon nekoupí
   track: zaklady
   difficulty: beginner
-  speakers: [petr-klein]
+  speakers: [ petr-klein ]
   duration: 35
   description: |
     Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.
@@ -766,8 +769,8 @@
     - identita
     - sociální sítě
 
-  # Lightning talks (series)
-  # =========================
+ # Lightning talks (series)
+ # =========================
 
 - id: lokalni-komunity-intro
   type: lightning-series
@@ -797,6 +800,7 @@
   description: |
     Představení lokálních DeFi projektů.
 
+
 - id: lokalni-nft-intro
   type: lightning-series
   name: Lokální NFT projekty
@@ -807,6 +811,7 @@
   description: |
     Představení lokálních NFT/Metaverse projektů.
 
+
 # Workshops (workshopy)
 # =======================
 
@@ -814,7 +819,7 @@
   type: workshop
   name: Etický vekslák - praktický workshop
   track: zaklady
-  speakers: [juraj-bednar]
+  speakers: [ juraj-bednar ]
   duration: 50
   difficulty: beginner
   description: |
@@ -828,7 +833,7 @@
   type: workshop
   name: Základy zabezpečení (ne)jen ve světě kryptoměn
   track: zaklady
-  speakers: [jan-cerny]
+  speakers: [ jan-cerny ]
   duration: 110
   difficulty: beginner
   tags:
@@ -840,7 +845,7 @@
   type: workshop
   name: Základy soukromí a anonymizace
   track: zaklady
-  speakers: [petr-klein]
+  speakers: [ petr-klein ]
   duration: 90
   difficulty: advanced
   description: |
@@ -862,7 +867,7 @@
   type: workshop
   name: Základy anonymizace tokenů (Tornado, SCRT, Aztec)
   track: zaklady
-  speakers: [petr-klein]
+  speakers: [ petr-klein ]
   duration: 50
   difficulty: advanced
   description: |
@@ -877,7 +882,7 @@
   type: workshop
   name: Layer2s - bridge a fiat rampy prakticky
   track: eth
-  speakers: [damsky]
+  speakers: [ damsky ]
   duration: 50
   difficulty: beginner
   tags:
@@ -890,7 +895,7 @@
   type: workshop
   name: BTC on-chain soukromí (privacy)
   track: btc
-  speakers: [matthew-cook]
+  speakers: [ matthew-cook ]
   duration: 50
   difficulty: advanced
   tags:
@@ -901,10 +906,10 @@
   type: workshop
   name: DeFi pro začátečníky (workshop)
   track: defi
-  speakers: [jiri-cepelka]
+  speakers: [ jiri-cepelka ]
   duration: 50
   difficulty: beginner
-  after:
+  after: 
     - defi-pro-zacatecniky
   tags:
     - DeFi
@@ -919,14 +924,15 @@
     ### peněženky do telefonu
     Trust Wallet: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... )
     Kelpr: ( Osmosis ) 
-
+    
     **Nejlepší bude samozřejmě využít levné síťe , Ethereum je spíš pro větší kapitál a na vyzkoušení budou lepší ostatní síťe které mají pro začátečníky přívětivé poplatky.*
+
 
 - id: krypto-z-pohledu-rodicu
   type: workshop
   name: Krypto z pohledu rodičů
   track: zaklady
-  speakers: [sona-parke]
+  speakers: [ sona-parke ]
   duration: 50
   difficulty: beginner
   tags:
@@ -937,7 +943,7 @@
   type: workshop
   name: Postav si svůj Bleskomat (DIY)
   track: btc
-  speakers: [mario-havel]
+  speakers: [ mario-havel ]
   duration: 50
   difficulty: expert
   tags:
@@ -948,7 +954,7 @@
   type: workshop
   name: Pujčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)
   track: defi
-  speakers: [radek-svarz]
+  speakers: [ radek-svarz ]
   duration: 50
   difficulty: beginner
   tags:
@@ -959,7 +965,7 @@
   type: workshop
   name: NEAR v praxi
   track: alty
-  speakers: [vladimir-pinker]
+  speakers: [ vladimir-pinker ]
   duration: 50
   difficulty: beginner
   after:
@@ -971,7 +977,7 @@
   type: workshop
   name: Bitcoin těžba
   track: btc
-  speakers: [kristian-csepcsar]
+  speakers: [ kristian-csepcsar ]
   duration: 80
   difficulty: advanced
   tags:
@@ -983,7 +989,7 @@
   type: workshop
   name: Lightning transakce a peněženky pro začátečníky
   track: btc
-  speakers: [honza-dvorak]
+  speakers: [ honza-dvorak ]
   duration: 50
   difficulty: beginner
   tags:
@@ -999,7 +1005,7 @@
   type: workshop
   name: Team Building - najdi parťáky na budování crypto projektů
   track: spolecnost
-  speakers: [jacob-jelen]
+  speakers: [ jacob-jelen ]
   duration: 80
   difficulty: advanced
   tags:
@@ -1009,7 +1015,7 @@
   type: workshop
   name: Jak si posichrovat a rozložit svoje portfolio?
   track: zaklady
-  speakers: [tomas-zdrazil]
+  speakers: [ tomas-zdrazil ]
   duration: 50
   difficulty: beginner
   tags:
@@ -1020,7 +1026,7 @@
   type: workshop
   name: Co všechno jde dělat na Lightning Network
   track: btc
-  speakers: [hynek-jina]
+  speakers: [ hynek-jina ]
   duration: 50
   difficulty: advanced
   tags:
@@ -1031,7 +1037,7 @@
   type: workshop
   name: Hackujeme DeFi arbitráže
   track: eth
-  speakers: [ondrej-vostal]
+  speakers: [ ondrej-vostal ]
   duration: 80
   difficulty: expert
   tags:
@@ -1052,7 +1058,7 @@
   type: workshop
   name: Staking a Polkadot aukce
   track: alty
-  speakers: [petr-mensik]
+  speakers: [ petr-mensik ]
   duration: 50
   difficulty: advanced
   tags:
@@ -1061,9 +1067,9 @@
 
 - id: somnium-space-workshop
   type: workshop
-  name: "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]"
+  name: 'Somnium Space workshop: SDK, world building, VR words, avatars [TBD]'
   track: nft
-  speakers: [artur-sychov]
+  speakers: [ artur-sychov ]
   duration: 50
   difficulty: beginner
   tags:
@@ -1075,7 +1081,7 @@
   type: workshop
   name: Full node, sluha každého správného Bitcoinera
   track: btc
-  speakers: [honza-dvorak]
+  speakers: [ honza-dvorak ]
   duration: 110
   difficulty: beginner
   tags:
@@ -1099,9 +1105,9 @@
 
 - id: play-to-earn-sorare
   type: workshop
-  name: "Play-to-earn: Praktická ukázka, jak vydělávat koukáním na fotbal (Sorare)"
+  name: 'Play-to-earn: Praktická ukázka, jak vydělávat koukáním na fotbal (Sorare)'
   track: nft
-  speakers: [jan-polak]
+  speakers: [ jan-polak ]
   duration: 50
   difficulty: beginner
   tags:
@@ -1123,7 +1129,7 @@
   type: workshop
   name: Úvod do tvorby smart-contractů na Solana blockchainu
   track: alty
-  speakers: [ondrej-chaloupka]
+  speakers: [ ondrej-chaloupka ]
   duration: 50
   difficulty: expert
   tags:
@@ -1133,6 +1139,7 @@
   description: |
     Úvod do tvorby smart contractů na Solana blockchainu. Představíme si jak funguje Solana blockchain, jaké jsou jeho rozdíly ve srovnání s Ethereem. Probereme account model Solany, který je třeba pochopit před samotnou prací se smart contracty na této síti, a hned si jeden smart contract vytvoříme a deployujeme na lokální instanci. Pro účast je výhodná alespoň základní znalost programování. Je možné přijít s notebookem a tvorbu kontraktu si vyzkoušet, nebo si jen poslechnout teorii a sledovat postup.
 
+
 # Lightning talks
 # ==========================
 
@@ -1140,7 +1147,7 @@
   type: lightning
   name: CryptoByte
   track: spolecnost
-  speakers: [dusan-kmetyo]
+  speakers: [ dusan-kmetyo ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1150,7 +1157,7 @@
   type: lightning
   name: BTCPlatby.cz
   track: btc
-  speakers: [honza-dvorak]
+  speakers: [ honza-dvorak ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1161,7 +1168,7 @@
   type: lightning
   name: Bleskomat
   track: btc
-  speakers: [mario-havel]
+  speakers: [ mario-havel ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1174,7 +1181,7 @@
   type: lightning
   name: Braiins
   track: btc
-  speakers: [kristian-csepcsar]
+  speakers: [ kristian-csepcsar ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1186,7 +1193,7 @@
   type: lightning
   name: Tweetoshi
   track: btc
-  speakers: [kryptomates]
+  speakers: [ kryptomates ]
   duration: 10
   tags:
     - Bitcoin
@@ -1197,7 +1204,7 @@
   type: lightning
   name: Baserank
   track: btc
-  speakers: [ondrej-pilny]
+  speakers: [ ondrej-pilny ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1222,7 +1229,7 @@
   type: lightning
   name: Chainkeepers
   track: defi
-  speakers: [ondrej-vostal]
+  speakers: [ ondrej-vostal ]
   duration: 10
   parent: lokalni-defi-intro
   tags:
@@ -1234,7 +1241,7 @@
   type: lightning
   name: Indices.fi
   track: defi
-  speakers: [ondrej-bajer]
+  speakers: [ ondrej-bajer ]
   duration: 10
   parent: lokalni-defi-intro
   description: |
@@ -1249,7 +1256,7 @@
   type: lightning
   name: Flipper.Zone
   track: nft
-  speakers: [david-bankless]
+  speakers: [ david-bankless ]
   duration: 10
   parent: lokalni-nft-intro
   description: |
@@ -1263,7 +1270,7 @@
   type: lightning
   name: The Divergents
   track: nft
-  speakers: [matej-zimak]
+  speakers: [ matej-zimak ]
   duration: 10
   parent: lokalni-nft-intro
   tags:
@@ -1288,7 +1295,7 @@
   type: lightning
   name: APUS Finance
   track: defi
-  speakers: [radek-svarz]
+  speakers: [ radek-svarz ]
   duration: 10
   parent: lokalni-defi-intro
   tags:
@@ -1301,7 +1308,7 @@
   type: lightning
   name: Liqwid Finance
   track: alty
-  speakers: [mark-stopka]
+  speakers: [ mark-stopka ]
   duration: 10
   parent: lokalni-defi-intro
   tags:
@@ -1311,7 +1318,7 @@
   type: lightning
   name: Štosuj.cz
   track: zaklady
-  speakers: [lubos-kovarik]
+  speakers: [ lubos-kovarik ]
   duration: 10
   parent: lokalni-projekty-intro
   description: |
@@ -1324,7 +1331,7 @@
   type: lightning
   name: Futureland
   track: nft
-  speakers: [pavel-riha]
+  speakers: [ pavel-riha ]
   duration: 10
   parent: lokalni-nft-intro
   tags:
@@ -1337,7 +1344,7 @@
   type: lightning
   name: Altaria
   track: nft
-  speakers: [fetyas, blazena-kuthanova]
+  speakers: [ fetyas, blazena-kuthanova ]
   duration: 10
   parent: lokalni-nft-intro
   tags:
@@ -1350,7 +1357,7 @@
   type: lightning
   name: Holky v kryptu
   track: zaklady
-  speakers: [tereza-starostova]
+  speakers: [ tereza-starostova ]
   duration: 10
   parent: lokalni-komunity-intro
   description: |
@@ -1385,7 +1392,7 @@
   type: lightning
   name: CZ/SK NFT Community
   track: nft
-  speakers: [resistance]
+  speakers: [ resistance ]
   duration: 10
   parent: lokalni-komunity-intro
   description: |
@@ -1411,7 +1418,7 @@
   type: lightning
   name: Polkadotters.cz
   track: alty
-  speakers: [petr-mensik]
+  speakers: [ petr-mensik ]
   duration: 10
   parent: lokalni-komunity-intro
   tags:
@@ -1433,7 +1440,7 @@
   type: lightning
   name: KryptoHerna
   track: nft
-  speakers: [fetyas]
+  speakers: [ fetyas ]
   duration: 10
   parent: lokalni-komunity-intro
   description: |
@@ -1460,7 +1467,7 @@
   type: lightning
   name: SlavicDAO
   track: eth
-  speakers: [rene-darmos]
+  speakers: [ rene-darmos ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1470,7 +1477,7 @@
   type: lightning
   name: Skovo.cz
   track: zaklady
-  speakers: [jiri-skrivan]
+  speakers: [ jiri-skrivan ]
   duration: 10
   parent: lokalni-projekty-intro
   tags:
@@ -1520,7 +1527,7 @@
 
 - id: holky-v-kryptu-campfire
   type: campfire
-  name: Opékání marshmallow s Holky v Kryptu (HvK)
+  name: Opékání marshmallow s Holky v Kryptu (HvK) 
   track: zaklady
   speakers:
     - tereza-starostova
@@ -1541,10 +1548,12 @@
     - Ethereum
     - StarkWare
 
+
 # Ostatní
 # ==========================
 
 - id: party-electronic-stage
   type: other
   name: UTXO.Party - Elektronická stage
-  speakers: [dmitry]
+  speakers: [ dmitry ]
+
