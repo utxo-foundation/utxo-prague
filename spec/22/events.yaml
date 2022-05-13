@@ -749,6 +749,26 @@
     - NFT
     - autorské právo
 
+- id: fediverse
+  type: talk
+  name: Fediverse aneb sociální síť kterou si Elon nekoupí
+  track: zaklady
+  difficulty: beginner
+  speakers: [ petr-klein ]
+  duration: 35
+  description: |
+    Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.
+    Věděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukormí zpět do vlastních rukou? 
+    Jde to i jinak právě díky [Fediverse](https://fediverse.io).
+
+    Napadlo vás někdy, že by bylo fajn kdybyste mohli např. odebírat Youtube kanál z vašeho Instagram účtu nebo napsat zprávu někomu na Facebook z vašeho Twitter účtu?
+    To vše je dnes možné a to navíc s ohledem na naše soukromí, tedy bez reklam a bezpečně.
+  tags:
+    - bezpečnost
+    - soukromí
+    - identita
+    - sociální sítě
+
  # Lightning talks (series)
  # =========================
 
@@ -826,18 +846,35 @@
   name: Základy soukromí a anonymizace
   track: zaklady
   speakers: [ petr-klein ]
-  duration: 110
+  duration: 90
   difficulty: advanced
   description: |
-    Na workshopu se pobavíme o základních principech soukromí a následně přejdeme na téma anonymity. Nainstalujeme si Tails OS na usb a zkusíme si [Tornado.cash](https://tornado.cash/). Zároveň si ukážeme další možnosti anonymizace tokenů jako např. SCRT.network nebo AZTEC protokol. Když bude prostor, pobavíme se i o dalších open source nástrojích zaměřených na soukromí (operační systémy, VPN, komunikace, ...)
+    Na workshopu si řekneme základní principy soukromí včetně toho, jakým nástrojům se vyhnout.
+    Nainstalujeme si Linux Tails OS na usb a řekneme si jak funguje TOR vs Lokinet vs VPN. 
+    Zároveň se pobavíme o operačních systémech, prohlížečích, případně komunikačních nástrojích jako je Signal, Session nebo Briar.
 
     Pokud se budete chtít plně zapojit, připravte si: 
     - [ ] USB stick (alespoň 8GB)
     - [ ] Notebook
     - [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)
-    - [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/) 
+    - [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/)
   tags:
     - bezpečnost
+    - soukromí
+    - anonymizace
+
+- id: tornado-workshop
+  type: workshop
+  name: Základy anonymizace tokenů (Tornado, SCRT, Aztec)
+  track: zaklady
+  speakers: [ petr-klein ]
+  duration: 50
+  difficulty: advanced
+  description: |
+    Na workshopu si řekneme základní principy anonymizace tokenů (primárně ETH), jaké jsou časté chyby typu linkování adres nebo browser fingerprinting. Vyzkoušíme si Tornado.cash v1 + vysvětlíme si jak funguje Tornado Nova.
+    Dále si řekneme výhody [SCRT.network](https://scrt.network) a ukážeme si jak ji začít jednoduše používat. 
+    Můžeme se pobavit také o Aztec prokolu.
+  tags:
     - soukromí
     - anonymizace
 
