@@ -921,25 +921,6 @@
         ]
       },
       {
-        "id": "michael-chobanian",
-        "name": "Michael Chobanian",
-        "nickname": "Михайло Чобанян",
-        "twitter": "ChobanianMike",
-        "orgs": "Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)\n",
-        "tracks": [
-          "regulace",
-          "spolecnost"
-        ],
-        "country": "ua",
-        "lead": true,
-        "desc": "Zakladatel první veřejné krypto burzy ve východní Evropě a [SNS](https://cs.wikipedia.org/wiki/Spole%C4%8Denstv%C3%AD_nez%C3%A1visl%C3%BDch_st%C3%A1t%C5%AF)\n",
-        "photos": [
-          "web:jpg",
-          "sm:png",
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "michaela-malatin",
         "name": "Michaela Malatin",
         "nickname": "Pethalusa",
@@ -5022,7 +5003,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 88,
+      "speakers": 87,
       "tracks": 9,
       "events": 113,
       "faqs": 5,
@@ -5030,5 +5011,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-13T20:29:28.434Z"
+  "time": "2022-05-13T20:38:38.196Z"
 }

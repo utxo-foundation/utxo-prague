@@ -2,6 +2,10 @@
 
 ## 13.5.2022
 
+### Přednášející
+
+* odebráno [Michael Chobanian](https://utxo.cz/lide?id=michael-chobanian)
+
 ### Události
 
 * přidáno [Fediverse aneb sociální síť kterou si Elon nekoupí](https://utxo.cz/udalosti?id=fediverse)

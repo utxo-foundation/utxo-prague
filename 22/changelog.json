@@ -1544,7 +1544,14 @@
   },
   {
     "date": "2022-05-13",
-    "speakers": {},
+    "speakers": {
+      "removed": [
+        {
+          "id": "michael-chobanian",
+          "name": "Michael Chobanian"
+        }
+      ]
+    },
     "events": {
       "added": [
         {
