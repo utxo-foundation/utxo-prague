@@ -21,19 +21,6 @@
     - práce
     - finanční nezávislost
 
-- id: regulace-panel
-  type: panel
-  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
-  speakers:
-    - kirill-juran
-    - ondrej-kovarik
-  track: regulace
-  duration: 85
-  difficulty: beginner
-  tags:
-    - regulace
-    - soukromí
-
 - id: nft-metaverse-panel
   type: panel
   name: NFT a Metaverse
@@ -66,6 +53,31 @@
     - stablecoin
     - Ethereum
     - DeFi
+
+- id: cbdc-panel
+  type: panel
+  name: CBDC – cesta do monetárního otroctví
+  speakers:
+    - lukas-kovanda
+    - dominik-stroukal
+  duration: 85
+  difficulty: beginner
+  tags:
+    - CBDC
+    - regulace
+
+- id: regulace-panel
+  type: panel
+  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
+  speakers:
+    - kirill-juran
+    - ondrej-kovarik
+  track: regulace
+  duration: 85
+  difficulty: beginner
+  tags:
+    - regulace
+    - soukromí
 
 - id: politicka-a-regulatorni-situace-kryptomen-co-nas-ceka
   type: panel
