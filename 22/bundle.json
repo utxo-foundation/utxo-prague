@@ -2484,6 +2484,24 @@
         ]
       },
       {
+        "id": "fediverse",
+        "type": "talk",
+        "name": "Fediverse aneb sociální síť kterou si Elon nekoupí",
+        "track": "zaklady",
+        "difficulty": "beginner",
+        "speakers": [
+          "petr-klein"
+        ],
+        "duration": 35,
+        "description": "Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.\nVěděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukormí zpět do vlastních rukou? \nJde to i jinak právě díky [Fediverse](https://fediverse.io).\n\nNapadlo vás někdy, že by bylo fajn kdybyste mohli např. odebírat Youtube kanál z vašeho Instagram účtu nebo napsat zprávu někomu na Facebook z vašeho Twitter účtu?\nTo vše je dnes možné a to navíc s ohledem na naše soukromí, tedy bez reklam a bezpečně.\n",
+        "tags": [
+          "bezpečnost",
+          "soukromí",
+          "identita",
+          "sociální sítě"
+        ]
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "lightning-series",
         "name": "Lokální krypto komunity",
@@ -2565,11 +2583,27 @@
         "speakers": [
           "petr-klein"
         ],
-        "duration": 110,
+        "duration": 90,
         "difficulty": "advanced",
-        "description": "Na workshopu se pobavíme o základních principech soukromí a následně přejdeme na téma anonymity. Nainstalujeme si Tails OS na usb a zkusíme si [Tornado.cash](https://tornado.cash/). Zároveň si ukážeme další možnosti anonymizace tokenů jako např. SCRT.network nebo AZTEC protokol. Když bude prostor, pobavíme se i o dalších open source nástrojích zaměřených na soukromí (operační systémy, VPN, komunikace, ...)\n\nPokud se budete chtít plně zapojit, připravte si: \n- [ ] USB stick (alespoň 8GB)\n- [ ] Notebook\n- [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)\n- [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/) \n",
+        "description": "Na workshopu si řekneme základní principy soukromí včetně toho, jakým nástrojům se vyhnout.\nNainstalujeme si Linux Tails OS na usb a řekneme si jak funguje TOR vs Lokinet vs VPN. \nZároveň se pobavíme o operačních systémech, prohlížečích, případně komunikačních nástrojích jako je Signal, Session nebo Briar.\n\nPokud se budete chtít plně zapojit, připravte si: \n- [ ] USB stick (alespoň 8GB)\n- [ ] Notebook\n- [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)\n- [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/)\n",
         "tags": [
           "bezpečnost",
+          "soukromí",
+          "anonymizace"
+        ]
+      },
+      {
+        "id": "tornado-workshop",
+        "type": "workshop",
+        "name": "Základy anonymizace tokenů (Tornado, SCRT, Aztec)",
+        "track": "zaklady",
+        "speakers": [
+          "petr-klein"
+        ],
+        "duration": 50,
+        "difficulty": "advanced",
+        "description": "Na workshopu si řekneme základní principy anonymizace tokenů (primárně ETH), jaké jsou časté chyby typu linkování adres nebo browser fingerprinting. Vyzkoušíme si Tornado.cash v1 + vysvětlíme si jak funguje Tornado Nova.\nDále si řekneme výhody [SCRT.network](https://scrt.network) a ukážeme si jak ji začít jednoduše používat. \nMůžeme se pobavit také o Aztec prokolu.\n",
+        "tags": [
           "soukromí",
           "anonymizace"
         ]
@@ -4984,11 +5018,11 @@
     "counts": {
       "speakers": 88,
       "tracks": 9,
-      "events": 111,
+      "events": 113,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-11T19:22:41.284Z"
+  "time": "2022-05-13T20:28:56.981Z"
 }

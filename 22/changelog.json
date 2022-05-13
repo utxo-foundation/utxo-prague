@@ -1541,5 +1541,22 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-13",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "fediverse",
+          "name": "Fediverse aneb sociální síť kterou si Elon nekoupí"
+        },
+        {
+          "id": "tornado-workshop",
+          "name": "Základy anonymizace tokenů (Tornado, SCRT, Aztec)"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
