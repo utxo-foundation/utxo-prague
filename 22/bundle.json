@@ -2690,17 +2690,23 @@
       {
         "id": "pujcka-na-blockchainu-jednoduse-rychle",
         "type": "workshop",
-        "name": "Pujčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)",
+        "name": "Půjčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)",
         "track": "defi",
         "speakers": [
+          "m0xt",
+          "petr-klein",
           "radek-svarz"
         ],
         "duration": 50,
         "difficulty": "beginner",
+        "after": [
+          "apus"
+        ],
         "tags": [
-          "pujčky",
+          "půjčky",
           "DeFi"
-        ]
+        ],
+        "description": "Vyzkoušejte si práci s rozhraním APUS.finance v testovacím prostředí. Naučíme vás, jak si v DeFi zřídit půjčku s 0% úrokem, jak správně nastavit výši zástavy, abyste o své krypto nepřišli a jak vypůjčené prostředky převést na vlastní účet. Workshop navazuje na bleskovou přednášku Apus.finance.\n"
       },
       {
         "id": "near-v-praxi",
@@ -5024,5 +5030,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-13T20:28:56.981Z"
+  "time": "2022-05-13T20:29:28.434Z"
 }
