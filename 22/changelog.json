@@ -1569,5 +1569,34 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-14",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "nft-usecases-panel",
+          "name": "NFT Use Cases [TBD]"
+        },
+        {
+          "id": "nft-curation-art-heritage",
+          "name": "NFT curation/art/heritage [TBD]"
+        },
+        {
+          "id": "guildy-odf-dao-organizacni-revoluce",
+          "name": "Guildy, ODF a DAO jako organizační revoluce"
+        },
+        {
+          "id": "closing-ceremony",
+          "name": "Ukončení konference"
+        },
+        {
+          "id": "opening-ceremony",
+          "name": "Slavnostní zahájení konference 🎉"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

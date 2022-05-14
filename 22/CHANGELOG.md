@@ -1,5 +1,16 @@
 # Changelog
 
+## 14.5.2022
+
+### Události
+
+* přidáno [NFT Use Cases [TBD]](https://utxo.cz/udalosti?id=nft-usecases-panel)
+* přidáno [NFT curation/art/heritage [TBD]](https://utxo.cz/udalosti?id=nft-curation-art-heritage)
+* přidáno [Guildy, ODF a DAO jako organizační revoluce](https://utxo.cz/udalosti?id=guildy-odf-dao-organizacni-revoluce)
+* přidáno [Ukončení konference](https://utxo.cz/udalosti?id=closing-ceremony)
+* přidáno [Slavnostní zahájení konference 🎉](https://utxo.cz/udalosti?id=opening-ceremony)
+
+
 ## 13.5.2022
 
 ### Přednášející

@@ -27,6 +27,7 @@
     "speakers": "https://spec.utxo.cz/22/speakers.json",
     "tracks": "https://spec.utxo.cz/22/tracks.json",
     "events": "https://spec.utxo.cz/22/events.json",
+    "stages": "https://spec.utxo.cz/22/stages.json",
     "faqs": "https://spec.utxo.cz/22/faqs.json",
     "partners": "https://spec.utxo.cz/22/partners.json",
     "projects": "https://spec.utxo.cz/22/projects.json",
@@ -36,11 +37,12 @@
     "counts": {
       "speakers": 87,
       "tracks": 9,
-      "events": 114,
+      "events": 119,
+      "stages": 9,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-13T23:55:23.240Z"
+  "time": "2022-05-14T16:15:29.958Z"
 }

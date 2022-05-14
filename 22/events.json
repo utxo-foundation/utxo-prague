@@ -20,17 +20,53 @@
   {
     "id": "nft-metaverse-panel",
     "type": "panel",
-    "name": "NFT a Metaverse",
+    "name": "NFT a Metaverse [TBD]",
     "speakers": [
+      "vojta-zizka",
       "petr-mara",
+      "resistance",
       "david-bankless"
     ],
+    "properties": {
+      "moderators": [
+        "vojta-zizka"
+      ]
+    },
     "duration": 85,
     "difficulty": "beginner",
     "track": "nft",
     "tags": [
       "NFT",
       "metaverse"
+    ]
+  },
+  {
+    "id": "nft-usecases-panel",
+    "type": "panel",
+    "name": "NFT Use Cases [TBD]",
+    "speakers": [
+      "lenka-hudakova",
+      "petr-mara"
+    ],
+    "duration": 85,
+    "difficulty": "advanced",
+    "track": "nft",
+    "tags": [
+      "NFT",
+      "metaverse"
+    ]
+  },
+  {
+    "id": "nft-curation-art-heritage",
+    "type": "panel",
+    "name": "NFT curation/art/heritage [TBD]",
+    "speakers": [],
+    "duration": 85,
+    "difficulty": "beginner",
+    "track": "nft",
+    "tags": [
+      "NFT",
+      "umění"
     ]
   },
   {
@@ -340,7 +376,7 @@
   {
     "id": "social-tokeny",
     "type": "talk",
-    "name": "Sociální tokeny (Social Tokens)",
+    "name": "Social Token Salad",
     "track": "eth",
     "speakers": [
       "michaela-malatin"
@@ -349,7 +385,8 @@
     "difficulty": "advanced",
     "tags": [
       "sociální tokeny"
-    ]
+    ],
+    "description": "Social Token je kategorie krypto aktiv, která není takřka probádána a přitom má velký potenciál. Někteří zaměňují NFT za Social Token. Nejsou stejné (ERC-721 vs. ERC-20), naopak se doplňují. Je to jako míchat jablka s hruškami. Nejsou stejné, ale je z nich skvělý salát. Pojďme si spolu projít recept na skvělou strategii propagace jednotlivce, projektů nebo si jen osvojit možnost vlastního tokenu.\n"
   },
   {
     "id": "od-mozku-k-blockchainu-decentralizovana-veda-desci",
@@ -446,6 +483,23 @@
     "tags": [
       "finanční nezávislost"
     ]
+  },
+  {
+    "id": "guildy-odf-dao-organizacni-revoluce",
+    "type": "talk",
+    "name": "Guildy, ODF a DAO jako organizační revoluce",
+    "track": "dao",
+    "speakers": [
+      "michaela-malatin"
+    ],
+    "duration": 55,
+    "difficulty": "advanced",
+    "tags": [
+      "DAO",
+      "organizace",
+      "společnost"
+    ],
+    "description": "Existují principy, které vytvořili decentralizaci a opensource, jak jej známe dnes a není to white paper Bitcoinu. Herní guildy, Open Decision Framework a Decentralized Autonomous Organization mají jedno společné. Meritokracie. Kašlete na volební právo v DAO, Discordové skupiny nebo vymazlené white papery. Pokud nemáte systém rovnosti, vášně pro danou věc a misi v každém jednotlivci, nemáte šanci v oceánu novodobých organizačních systémech. Budu s vámi sdílet mé zkušenosti s Development teamy, kde se mísí komunita a strategie.\n"
   },
   {
     "id": "hypoteky-pro-cryptonatives",
@@ -1808,6 +1862,35 @@
     "name": "UTXO.Party - Elektronická stage",
     "speakers": [
       "dmitry"
-    ]
+    ],
+    "fixed": {
+      "time": "1/20:00-23:59",
+      "stage": "pitevna"
+    }
+  },
+  {
+    "id": "closing-ceremony",
+    "type": "other",
+    "name": "Ukončení konference",
+    "speakers": [
+      "tereza-starostova",
+      "tree"
+    ],
+    "fixed": {
+      "time": "2/18:30-19:00",
+      "stage": "rajska-zahrada"
+    }
+  },
+  {
+    "id": "opening-ceremony",
+    "type": "other",
+    "name": "Slavnostní zahájení konference 🎉",
+    "speakers": [
+      "tereza-starostova"
+    ],
+    "fixed": {
+      "time": "1/09:00-09:30",
+      "stage": "rajska-zahrada"
+    }
   }
 ]
