@@ -22,6 +22,7 @@ specDef:
   - type: speakers
   - type: tracks
   - type: events
+  - type: stages
   - type: faqs
   - type: partners
   - type: projects
