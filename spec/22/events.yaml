@@ -501,6 +501,10 @@
   duration: 55
   description: |
     How we've utilised web3 in KodaDot development and why we are making this as public good?
+  tags:
+    - Polkadot
+    - public good
+    - vývoj
 
 - id: zakladni-filozofie-tvorby-tokenu
   type: talk
@@ -1703,6 +1707,7 @@
   duration: 60
   speakers:
     - damsky
+    - matej-yangwao
   tags:
     - komunita
     - vývoj
