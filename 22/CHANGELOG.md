@@ -12,6 +12,7 @@
 * přidáno [Lokální Bitcoin projekty](https://utxo.cz/udalosti?id=lokalni-btc-intro)
 * přidáno [Lokální DAO projekty](https://utxo.cz/udalosti?id=lokalni-dao-intro)
 * přidáno [Students for liberty CZ campfire [TBD]](https://utxo.cz/udalosti?id=students-for-liberty-campfire)
+* přidáno [KodaDot nfts and chill](https://utxo.cz/udalosti?id=kodadot-campfire)
 * přidáno [UTXO.Party - Hlavní stage [TBD]](https://utxo.cz/udalosti?id=party-rajska-zahrada)
 
 ### Události

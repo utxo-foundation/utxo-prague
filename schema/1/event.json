@@ -94,6 +94,9 @@
         },
         "stage": {
           "type": "string"
+        },
+        "date": {
+          "type": "string"
         }
       }
     }
