@@ -47,9 +47,11 @@ class UTXOPlanner {
     }
     for (const ev of this.events) {
       const haveAfter = this.events.filter((e) => {
-        return ((e.after && e.after.includes(ev.id)) || e.rightAfter === ev.id)
+        return ((e.after && e.after.includes(ev.id)) || e.rightAfter === ev.id);
       });
-      ev.priority = haveAfter.length > 0 ? 10 : (ev.after || ev.rightAfter ? 5 : 0);
+      ev.priority = haveAfter.length > 0
+        ? 10
+        : (ev.after || ev.rightAfter ? 5 : 0);
 
       if (ev.type === "lightning-series") {
         let sarr = [];
@@ -152,7 +154,7 @@ class UTXOPlanner {
     // check "after"
     if (ev.after) {
       for (const tId of ev.after) {
-        const target = this.schedule.find(si => si.event === tId)
+        const target = this.schedule.find((si) => si.event === tId);
         if (!target) {
           return false;
         }
