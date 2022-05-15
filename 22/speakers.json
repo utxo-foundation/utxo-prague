@@ -595,6 +595,20 @@
     ]
   },
   {
+    "id": "josef-tetek",
+    "name": "Josef Tětek",
+    "twitter": "SatsJoseph",
+    "bio": "Ekonom s dlouhodobým zájmem o podstatu peněz a bitcoin",
+    "orgs": "Bitcoin ambassador @ [Trezor](https://trezor.io/), přispěvatel do [Bitcoin Magazine](https://bitcoinmagazine.com/)\n",
+    "country": "cz",
+    "tracks": [
+      "btc"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "josefj",
     "name": "JosefJ",
     "twitter": "JosefJ_",

@@ -621,6 +621,20 @@
         ]
       },
       {
+        "id": "josef-tetek",
+        "name": "Josef Tětek",
+        "twitter": "SatsJoseph",
+        "bio": "Ekonom s dlouhodobým zájmem o podstatu peněz a bitcoin",
+        "orgs": "Bitcoin ambassador @ [Trezor](https://trezor.io/), přispěvatel do [Bitcoin Magazine](https://bitcoinmagazine.com/)\n",
+        "country": "cz",
+        "tracks": [
+          "btc"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "josefj",
         "name": "JosefJ",
         "twitter": "JosefJ_",
@@ -1606,6 +1620,22 @@
         ]
       },
       {
+        "id": "btc-vs-altcoiny",
+        "type": "panel",
+        "name": "Bitcoin vs. altcoiny [TBD]",
+        "speakers": [
+          "josef-tetek",
+          "david-stancel"
+        ],
+        "duration": 85,
+        "difficulty": "beginner",
+        "track": "btc",
+        "tags": [
+          "Bitcoin",
+          "Ethereum"
+        ]
+      },
+      {
         "id": "nft-metaverse-panel",
         "type": "panel",
         "name": "NFT a Metaverse [TBD]",
@@ -1846,7 +1876,10 @@
         "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n",
         "tags": [
           "Bitcoin"
-        ]
+        ],
+        "fixed": {
+          "stage": "rajska-zahrada"
+        }
       },
       {
         "id": "kdyz-byl-bitcoin-jeste-divoky-zapad",
@@ -2030,7 +2063,10 @@
         "tags": [
           "regulace",
           "daně"
-        ]
+        ],
+        "fixed": {
+          "stage": "rajska-zahrada"
+        }
       },
       {
         "id": "jan-krypto-zmenilo-zabehle-firemni-struktury",
@@ -2619,6 +2655,9 @@
           "finanční svoboda",
           "volný trh",
           "soukromí"
+        ],
+        "after": [
+          "eticky-vekslak"
         ]
       },
       {
@@ -2761,9 +2800,6 @@
         ],
         "duration": 50,
         "difficulty": "beginner",
-        "after": [
-          "apus"
-        ],
         "tags": [
           "půjčky",
           "DeFi"
@@ -2781,7 +2817,7 @@
         "duration": 50,
         "difficulty": "beginner",
         "after": [
-          "uvod-do-near"
+          "uvod-near"
         ],
         "tags": [
           "NEAR"
@@ -2911,6 +2947,9 @@
           "Metaverse",
           "NFT",
           "VR"
+        ],
+        "after": [
+          "somnium-space-talk"
         ]
       },
       {
@@ -3439,7 +3478,6 @@
           "vladimir-pinker"
         ],
         "duration": 30,
-        "difficulty": "beginner",
         "tags": [
           "letectví"
         ]
@@ -3452,11 +3490,19 @@
         "speakers": [
           "vladimir-pinker"
         ],
-        "duration": 55,
-        "difficulty": "beginner",
+        "duration": 60,
         "tags": [
           "finanční nezávislost"
         ]
+      },
+      {
+        "id": "students-for-liberty-campfire",
+        "type": "campfire",
+        "name": "Students for liberty CZ campfire [TBD]",
+        "track": "spolecnost",
+        "speakers": [],
+        "duration": 60,
+        "tags": []
       },
       {
         "id": "party-electronic-stage",
@@ -3521,9 +3567,9 @@
           "lightning-series"
         ],
         "times": [
-          "1/09:30-13:00",
+          "1/09:30-13:30",
           "1/14:00-19:00",
-          "2/10:00-13:00",
+          "2/10:00-13:30",
           "2/14:00-18:30"
         ]
       },
@@ -3535,9 +3581,9 @@
           "lightning-series"
         ],
         "times": [
-          "1/09:30-13:00",
+          "1/09:30-13:30",
           "1/14:00-19:00",
-          "2/10:00-13:00",
+          "2/10:00-13:30",
           "2/14:00-18:30"
         ]
       },
@@ -3547,9 +3593,9 @@
           "talk"
         ],
         "times": [
-          "1/09:30-13:00",
+          "1/09:30-13:30",
           "1/14:00-19:00",
-          "2/10:00-13:00",
+          "2/10:00-13:30",
           "2/14:00-18:30"
         ]
       },
@@ -3559,9 +3605,9 @@
           "workshop"
         ],
         "times": [
-          "1/09:30-13:00",
+          "1/09:30-13:30",
           "1/14:00-19:00",
-          "2/10:00-13:00",
+          "2/10:00-13:30",
           "2/14:00-18:30"
         ]
       },
@@ -3571,9 +3617,9 @@
           "workshop"
         ],
         "times": [
-          "1/09:30-13:00",
+          "1/09:30-13:30",
           "1/14:00-19:00",
-          "2/10:00-13:00",
+          "2/10:00-13:30",
           "2/14:00-18:30"
         ]
       },
@@ -5232,14 +5278,14 @@
   },
   "stats": {
     "counts": {
-      "speakers": 87,
+      "speakers": 88,
       "tracks": 9,
-      "events": 119,
+      "events": 121,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
       "projects": 72
     }
   },
-  "time": "2022-05-15T00:14:35.581Z"
+  "time": "2022-05-15T02:00:56.093Z"
 }

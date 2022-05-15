@@ -1601,9 +1601,20 @@
   },
   {
     "date": "2022-05-15",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "josef-tetek",
+          "name": "Josef Tětek"
+        }
+      ]
+    },
     "events": {
       "added": [
+        {
+          "id": "btc-vs-altcoiny",
+          "name": "Bitcoin vs. altcoiny [TBD]"
+        },
         {
           "id": "lokalni-btc-intro",
           "name": "Lokální Bitcoin projekty"
@@ -1611,6 +1622,10 @@
         {
           "id": "lokalni-dao-intro",
           "name": "Lokální DAO projekty"
+        },
+        {
+          "id": "students-for-liberty-campfire",
+          "name": "Students for liberty CZ campfire [TBD]"
         }
       ],
       "removed": [

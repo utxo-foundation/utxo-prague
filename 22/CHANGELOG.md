@@ -2,10 +2,16 @@
 
 ## 15.5.2022
 
+### Přednášející
+
+* přidáno [Josef Tětek](https://utxo.cz/lide?id=josef-tetek)
+
 ### Události
 
+* přidáno [Bitcoin vs. altcoiny [TBD]](https://utxo.cz/udalosti?id=btc-vs-altcoiny)
 * přidáno [Lokální Bitcoin projekty](https://utxo.cz/udalosti?id=lokalni-btc-intro)
 * přidáno [Lokální DAO projekty](https://utxo.cz/udalosti?id=lokalni-dao-intro)
+* přidáno [Students for liberty CZ campfire [TBD]](https://utxo.cz/udalosti?id=students-for-liberty-campfire)
 
 ### Události
 
