@@ -46,16 +46,16 @@ class UTXOPlanner {
       stage.timesFull = stage.times.map((st) => this.parsePeriod(st));
     }
     for (const ev of this.events) {
-      const haveAfter = this.events.find((e) =>
-        e.after === ev.id || e.rightAfter === ev.id
-      );
-      ev.priority = haveAfter ? 10 : (ev.after || ev.rightAfter ? 5 : 0);
+      const haveAfter = this.events.filter((e) => {
+        return ((e.after && e.after.includes(ev.id)) || e.rightAfter === ev.id)
+      });
+      ev.priority = haveAfter.length > 0 ? 10 : (ev.after || ev.rightAfter ? 5 : 0);
 
       if (ev.type === "lightning-series") {
         let sarr = [];
         for (
           const sp of this.eventsAll.filter((e) => e.parent === ev.id).map(
-            (e) => e.speakers
+            (e) => e.speakers,
           )
         ) {
           sarr = sarr.concat(sp);
@@ -149,6 +149,18 @@ class UTXOPlanner {
   }
 
   eventSlotValidator(ev, slot, stage) {
+    // check "after"
+    if (ev.after) {
+      for (const tId of ev.after) {
+        const target = this.schedule.find(si => si.event === tId)
+        if (!target) {
+          return false;
+        }
+        if (target.period.end.getTime() > slot.start.getTime()) {
+          return false;
+        }
+      }
+    }
     // check "rightAfter"
     if (ev.rightAfter) {
       const target = this.schedule.find((si) => si.event === ev.rightAfter);
@@ -210,19 +222,19 @@ class UTXOPlanner {
     const rand = Math.floor(Math.random() * events.length);
     const ev = events[rand];
 
-    const availStages = this.stages.filter((st) => st.types.includes(ev.type))
-      .map((s) => s.id);
-    if (availStages.length === 0) {
+    if (!this.tries[ev.id]) {
+      this.tries[ev.id] = 0;
+    }
+    this.tries[ev.id]++;
+    if (this.tries[ev.id] > 30) {
       this.events.splice(this.events.indexOf(ev), 1);
       this.unscheduled.push(ev.id);
       return null;
     }
 
-    if (!this.tries[ev.id]) {
-      this.tries[ev.id] = 0;
-    }
-    this.tries[ev.id]++;
-    if (this.tries[ev.id] > 10) {
+    const availStages = this.stages.filter((st) => st.types.includes(ev.type))
+      .map((s) => s.id);
+    if (availStages.length === 0) {
       this.events.splice(this.events.indexOf(ev), 1);
       this.unscheduled.push(ev.id);
       return null;

@@ -21,6 +21,19 @@
     - práce
     - finanční nezávislost
 
+- id: btc-vs-altcoiny
+  type: panel
+  name: Bitcoin vs. altcoiny [TBD]
+  speakers:
+    - josef-tetek
+    - david-stancel
+  duration: 85
+  difficulty: beginner
+  track: btc
+  tags:
+    - Bitcoin
+    - Ethereum
+
 - id: nft-metaverse-panel
   type: panel
   name: NFT a Metaverse [TBD]
@@ -223,6 +236,8 @@
     Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)
   tags:
     - Bitcoin
+  fixed:
+    stage: rajska-zahrada
 
 - id: kdyz-byl-bitcoin-jeste-divoky-zapad
   type: talk
@@ -389,6 +404,8 @@
   tags:
     - regulace
     - daně
+  fixed:
+    stage: rajska-zahrada
 
 - id: jan-krypto-zmenilo-zabehle-firemni-struktury
   type: talk
@@ -901,6 +918,8 @@
     - finanční svoboda
     - volný trh
     - soukromí
+  after:
+    - eticky-vekslak
 
 - id: bezpecnost-workshop
   type: workshop
@@ -1030,8 +1049,6 @@
   speakers: [ m0xt, petr-klein, radek-svarz ]
   duration: 50
   difficulty: beginner
-  after:
-    - apus
   tags:
     - půjčky
     - DeFi
@@ -1046,7 +1063,7 @@
   duration: 50
   difficulty: beginner
   after:
-    - uvod-do-near
+    - uvod-near
   tags:
     - NEAR
 
@@ -1153,6 +1170,8 @@
     - Metaverse
     - NFT
     - VR
+  after:
+    - somnium-space-talk
 
 - id: btc-full-node-workshop
   type: workshop
@@ -1634,7 +1653,6 @@
   track: zaklady
   speakers: [ vladimir-pinker ]
   duration: 30
-  difficulty: beginner
   tags:
     - letectví
 
@@ -1643,10 +1661,17 @@
   name: Žijeme bez fiatu
   track: zaklady
   speakers: [ vladimir-pinker ]
-  duration: 55
-  difficulty: beginner
+  duration: 60
   tags:
     - finanční nezávislost
+
+- id: students-for-liberty-campfire
+  type: campfire
+  name: Students for liberty CZ campfire [TBD]
+  track: spolecnost
+  speakers: []
+  duration: 60
+  tags: []
 
 
 # Ostatní
