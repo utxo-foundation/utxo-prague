@@ -837,7 +837,8 @@
       "portfolio",
       "investice",
       "trading"
-    ]
+    ],
+    "description": "Kryptoměny jsou pro mě jako nový svět a nová ekonomika, vznikající kompletně online. Všichni to vidíme a chceme být součástí tohoto paralelního světa. Některé fascinuje technologie, jiné investiční příležitosti, které díky růstu celého trhu přichází. A těch, které fascinuje růst ceny, je o poznání víc. Krypto investory nyní potkáváme všude, ale stále málokdo dokáže dlouhodobě vydělávat kvůli jednoduchým chybám, které děláme. Za svých 5 let v kryptu jsem to mohl pozorovat na sobě, ale zároveň díky Blockspace jsem to stejné viděl u stovek dalších lidí. Na této přednášce si tedy ukážeme, co jsou nejtypičtější chyby, které dělá v portfoliu téměř každý - a jak je velmi jednoduše odbourat.\n"
   },
   {
     "id": "fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv",
@@ -1267,6 +1268,10 @@
     "tags": [
       "Bitcoin",
       "Lightning Network"
+    ],
+    "description": "Jaké jsou nejlepší peněženky, jak se dá smysluplně vydělávat drobné a jaké nástroje máme již připravené ke stavění nových služeb a aplikací. Vše můžeme prakticky vyzkoušet a těším se také na Vaše zkušenosti s Lightning Network.\n",
+    "after": [
+      "proc-a-jak-pouzivat-bitcoin"
     ]
   },
   {
