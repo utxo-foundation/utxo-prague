@@ -5,6 +5,7 @@ required:
   - id
   - type
   - name
+  - duration
 properties:
   id:
     type: string
