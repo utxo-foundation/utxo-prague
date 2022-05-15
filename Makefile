@@ -68,4 +68,4 @@ changelog:
 	deno run --unstable --allow-read --allow-write --allow-run utils/changelog.js
 
 plan:
-	deno run --unstable --allow-read utils/plan.js
+	deno run --unstable --allow-read --allow-write utils/plan.js

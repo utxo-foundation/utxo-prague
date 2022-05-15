@@ -7,7 +7,7 @@
     - '2/14:00-19:00'
 
 - id: sloupcovy-sal
-  types: [ talk ]
+  types: [ talk, lightning-series ]
   times:
     - '1/09:30-13:00'
     - '1/14:00-19:00'

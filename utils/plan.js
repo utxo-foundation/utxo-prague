@@ -1,5 +1,6 @@
 import { format, parse } from "https://deno.land/std@0.139.0/datetime/mod.ts";
 import { UTXOEngine } from "./engine.js";
+import { MultiProgressBar } from "https://deno.land/x/progress@v1.2.4/mod.ts";
 
 const utxo = new UTXOEngine({ silent: true });
 await utxo.init();
@@ -7,8 +8,28 @@ const entry = utxo.entries["22"];
 const specs = entry.specs;
 const index = entry.index;
 
+function shuffle(array) {
+  let currentIndex = array.length, randomIndex;
+
+  // While there remain elements to shuffle.
+  while (currentIndex != 0) {
+    // Pick a remaining element.
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    // And swap it with the current element.
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex],
+      array[currentIndex],
+    ];
+  }
+
+  return array;
+}
+
 class UTXOPlanner {
   constructor() {
+    this.eventsAll = specs.events;
     this.eventsOriginal = specs.events.filter((ev) =>
       ev.type !== "lightning" && ev.duration
     );
@@ -17,6 +38,7 @@ class UTXOPlanner {
     this.startTime = new Date();
     this.schedule = [];
     this.unscheduled = [];
+    this.priorityLevel = 10;
     this.tries = {};
 
     // normalize stages
@@ -27,7 +49,19 @@ class UTXOPlanner {
       const haveAfter = this.events.find((e) =>
         e.after === ev.id || e.rightAfter === ev.id
       );
-      ev.priority = haveAfter ? 10 : 0;
+      ev.priority = haveAfter ? 10 : (ev.after || ev.rightAfter ? 5 : 0);
+
+      if (ev.type === "lightning-series") {
+        let sarr = [];
+        for (
+          const sp of this.eventsAll.filter((e) => e.parent === ev.id).map(
+            (e) => e.speakers
+          )
+        ) {
+          sarr = sarr.concat(sp);
+        }
+        ev.speakers = sarr;
+      }
     }
   }
 
@@ -43,14 +77,15 @@ class UTXOPlanner {
 
   addEvent(ev, data) {
     this.schedule.push({
+      date: format(data.period.start, "yyyy-MM-dd"),
       stage: data.stage,
       period: data.period,
       event: ev.id,
     });
     this.events.splice(this.events.indexOf(ev), 1);
-    console.log(
+    /*console.log(
       `Event ${ev.id} scheduled: ${data.stage} ${JSON.stringify(data.period)}`,
-    );
+    );*/
   }
 
   addFixedEvent(ev) {
@@ -88,7 +123,7 @@ class UTXOPlanner {
     const skipSegments = Math.floor(Math.random() * stage.timesFull.length) - 1;
     let segmentCount = 0;
 
-    for (const segment of stage.timesFull) {
+    for (const segment of shuffle(stage.timesFull)) {
       segmentCount++;
       if (segmentCount >= skipSegments) {
         let ctime = segment.start;
@@ -97,9 +132,9 @@ class UTXOPlanner {
           if (evPeriod.end.getTime() <= segment.end.getTime()) {
             const conflicts = this.findConflicts(stage, evPeriod);
             if (conflicts === 0) {
-              return evPeriod;
-              //this.addEvent(ev, { stage: stage.id, period: evPeriod })
-              //return null
+              if (this.eventSlotValidator(ev, evPeriod, stage)) {
+                return evPeriod;
+              }
             }
           }
           ctime = new Date(ctime.getTime() + slotDuration);
@@ -113,7 +148,20 @@ class UTXOPlanner {
       x.end.getTime() > y.start.getTime());
   }
 
-  eventSlotValidator(ev, slot) {
+  eventSlotValidator(ev, slot, stage) {
+    // check "rightAfter"
+    if (ev.rightAfter) {
+      const target = this.schedule.find((si) => si.event === ev.rightAfter);
+      if (!target) {
+        return false;
+      }
+      if (target.stage !== stage.id) {
+        return false;
+      }
+      if (target.period.end.getTime() !== slot.start.getTime()) {
+        return false;
+      }
+    }
     // check speakers
     for (const si of this.schedule) {
       const sev = this.eventsOriginal.find((e) => e.id === si.event);
@@ -127,11 +175,36 @@ class UTXOPlanner {
         }
       }
     }
+    // check speakers availability
+    for (const spId of ev.speakers) {
+      const sp = specs.speakers.find((s) => s.id === spId);
+      if (!sp) {
+        continue;
+      }
+      if (sp.available) {
+        let okey = false;
+        for (const spa of sp.available) {
+          if (
+            this.isPeriodOverlap({
+              start: new Date(spa.from),
+              end: new Date(spa.to),
+            }, slot)
+          ) {
+            okey = true;
+          }
+        }
+        if (!okey) {
+          return false;
+        }
+      }
+    }
+
     return true;
   }
 
   iterate() {
     const priorityEvents = this.events.filter((e) => e.priority > 0);
+
     const events = priorityEvents.length > 0 ? priorityEvents : this.events;
 
     const rand = Math.floor(Math.random() * events.length);
@@ -149,20 +222,29 @@ class UTXOPlanner {
       this.tries[ev.id] = 0;
     }
     this.tries[ev.id]++;
-    if (this.tries[ev.id] > 5000) {
+    if (this.tries[ev.id] > 10) {
       this.events.splice(this.events.indexOf(ev), 1);
       this.unscheduled.push(ev.id);
       return null;
     }
 
-    const randStage = Math.floor(Math.random() * availStages.length);
-    const stage = this.stages.find((s) => s.id === availStages[randStage]);
+    let stage = null;
+    if (ev.fixed && ev.fixed.stage) {
+      if (!availStages.includes(ev.fixed.stage)) {
+        return null;
+      }
+      stage = this.stages.find((s) => s.id === ev.fixed.stage);
+    } else {
+      const randStage = Math.floor(Math.random() * availStages.length);
+      stage = this.stages.find((s) => s.id === availStages[randStage]);
+    }
+
     const slot = this.findSlotInStage(ev, stage);
     if (slot) {
-      const valid = this.eventSlotValidator(ev, slot);
-      if (valid) {
-        this.addEvent(ev, { stage: stage.id, period: slot });
-      }
+      //const valid = this.eventSlotValidator(ev, slot, stage);
+      //if (valid) {
+      this.addEvent(ev, { stage: stage.id, period: slot });
+      //}
     }
 
     const diff = (new Date()).getTime() - this.startTime.getTime();
@@ -174,7 +256,9 @@ class UTXOPlanner {
 
   plan() {
     // nejprve umistime fixed
-    for (const ev of this.events.filter((e) => e.fixed && e.fixed.time)) {
+    for (
+      const ev of this.eventsOriginal.filter((e) => e.fixed && e.fixed.time)
+    ) {
       this.addFixedEvent(ev);
     }
 
@@ -182,7 +266,59 @@ class UTXOPlanner {
       this.iterate();
     }
 
-    this.renderResults();
+    // calculate metrics
+    for (const si of this.schedule) {
+      const ev = this.eventsOriginal.find((e) => e.id === si.event);
+
+      // calculate themes crossing
+      const crossings = [];
+      for (const ssi of this.schedule) {
+        if (ssi.event === si.event) {
+          continue;
+        }
+        if (this.isPeriodOverlap(si.period, ssi.period)) {
+          const eev = this.eventsOriginal.find((e) => e.id === ssi.event);
+          const tagsCrossing = ev.tags.reduce((prev, cur) =>
+            prev + (eev.tags.includes(cur)
+              ? 0
+              : 1), 0) / ev.tags.length;
+          crossings.push([
+            ev.track === eev.track
+              ? 0
+              : 1,
+            tagsCrossing,
+            ssi,
+          ]);
+        }
+      }
+
+      si.metrics = {
+        themeCrossing: (crossings.reduce((prev, cur) =>
+          prev + cur[0], 0) / crossings.length),
+        tagsCrossing: (crossings.reduce((prev, cur) =>
+          prev + cur[1], 0) / crossings.length),
+      };
+    }
+  }
+
+  calcScheduleMetric(metric) {
+    return this.schedule.reduce(
+      (prev, cur) =>
+        prev + (cur.metrics && cur.metrics[metric] ? cur.metrics[metric] : 1),
+      0,
+    ) / this.schedule.length;
+  }
+
+  metrics() {
+    const cols = ["themeCrossing", "tagsCrossing"];
+    const obj = {};
+    let total = 0;
+    for (const col of cols) {
+      obj[col] = this.calcScheduleMetric(col);
+      total += obj[col];
+    }
+    obj.score = total / cols.length;
+    return obj;
   }
 
   formatTime() {
@@ -219,5 +355,46 @@ class UTXOPlanner {
   }
 }
 
-const planner = new UTXOPlanner();
-planner.plan();
+async function main() {
+  const limit = 100000;
+  let i = 0;
+  console.log("Planning started ..");
+
+  const plans = [];
+
+  while (i < limit) {
+    const planner = new UTXOPlanner();
+    planner.plan();
+    //console.log(JSON.stringify(planner.unscheduled))
+
+    if (planner.unscheduled.length === 0) {
+      //planner.renderResults()
+      const metrics = planner.metrics();
+      console.log(
+        `solution #${
+          plans.length + 1
+        } : score ${metrics.score} {themeCrossing: ${metrics.themeCrossing}, tagsCrossing: ${metrics.tagsCrossing}}`,
+      );
+      //console.log(`----\nPlan found after ${i} tries`)
+      //break
+      plans.push({ schedule: planner.schedule, metrics });
+    }
+
+    if (plans.length >= 10) {
+      const outputFn = "./dist/22/schedule.json";
+      console.log(`Writing result: ${outputFn}`);
+      const filtered = plans.sort((x, y) =>
+        x.metrics.score > y.metrics.score ? -1 : 1
+      ).slice(0, 20);
+      Deno.writeTextFile(outputFn, JSON.stringify(filtered, null, 2));
+      break;
+    }
+
+    if (i % 100 === 0) {
+      console.log(`${i}/${limit} - solutions: ${plans.length}`);
+    }
+    i++;
+  }
+}
+
+main();

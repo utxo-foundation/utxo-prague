@@ -85,6 +85,7 @@
 - id: cbdc-panel
   type: panel
   name: CBDC – cesta do monetárního otroctví
+  track: regulace
   speakers:
     - lukas-kovanda
     - dominik-stroukal
@@ -153,6 +154,8 @@
     - volný trh
     - finanční svoboda
     - anarchokapitalismus
+  fixed:
+    stage: rajska-zahrada
 
 - id: historie-cypherpunku
   type: talk
@@ -290,6 +293,8 @@
   speakers: [ artur-sychov ]
   duration: 25
   difficulty: beginner
+  fixed:
+    stage: rajska-zahrada
   tags:
     - Metaverse
     - NFT
@@ -410,16 +415,6 @@
     - DAO
   description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
-
-- id: zijeme-bez-fiatu
-  type: talk
-  name: Žijeme bez fiatu
-  track: zaklady
-  speakers: [ vladimir-pinker ]
-  duration: 55
-  difficulty: beginner
-  tags:
-    - finanční nezávislost
 
 - id: guildy-odf-dao-organizacni-revoluce
   type: talk
@@ -710,16 +705,6 @@
     - finanční nezávislost
 
 
-- id: je-krypto-letadlo
-  type: talk
-  name: Je krypto letadlo?
-  track: zaklady
-  speakers: [ vladimir-pinker ]
-  duration: 25
-  difficulty: beginner
-  tags:
-    - letectví
-
 - id: investovani-20
   type: talk
   name: Investování 2.0
@@ -841,6 +826,7 @@
     Představení lokálních česko-slovenských kryptoměnových komunit.
   tags:
     - společnost
+  duration: 85
 
 - id: lokalni-projekty-intro
   type: lightning-series
@@ -849,6 +835,31 @@
   speakers: []
   description: |
     Představení lokálních kryptoměnových projektů.
+  tags:
+    - Bitcoin
+  duration: 55
+
+- id: lokalni-btc-intro
+  type: lightning-series
+  name: Lokální Bitcoin projekty
+  track: btc
+  speakers: []
+  description: |
+    Představení lokálních bitcoinově zaměřených projektů.
+  duration: 55
+  tags:
+    - Bitcoin
+
+- id: lokalni-dao-intro
+  type: lightning-series
+  name: Lokální DAO projekty
+  track: dao
+  speakers: []
+  description: |
+    Představení lokálních DAO projektů.
+  duration: 25
+  tags:
+    - DAO
 
 - id: lokalni-defi-intro
   type: lightning-series
@@ -859,6 +870,7 @@
     - DeFi
   description: |
     Představení lokálních DeFi projektů.
+  duration: 55
 
 
 - id: lokalni-nft-intro
@@ -870,6 +882,7 @@
     - NFT
   description: |
     Představení lokálních NFT/Metaverse projektů.
+  duration: 55
 
 
 # Workshops (workshopy)
@@ -1223,7 +1236,7 @@
   track: btc
   speakers: [ honza-dvorak ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - platby
@@ -1234,7 +1247,7 @@
   track: btc
   speakers: [ mario-havel ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - Lightning Network
@@ -1247,7 +1260,7 @@
   track: btc
   speakers: [ kristian-csepcsar ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - mining
@@ -1259,6 +1272,7 @@
   track: btc
   speakers: [ kryptomates ]
   duration: 10
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - Lightning Network
@@ -1368,15 +1382,15 @@
   description: |
     Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.
 
-- id: liqwid
-  type: lightning
-  name: Liqwid Finance
-  track: alty
-  speakers: [ mark-stopka ]
-  duration: 10
-  parent: lokalni-defi-intro
-  tags:
-    - DeFi
+# - id: liqwid
+#  type: lightning
+#  name: Liqwid Finance
+#  track: alty
+#  speakers: [ mark-stopka ]
+#  duration: 10
+#  parent: lokalni-defi-intro
+#  tags:
+#    - DeFi
 
 - id: stosujcz
   type: lightning
@@ -1466,17 +1480,17 @@
     - NFT
     - metaverse
 
-- id: bankless-cz
-  type: lightning
-  name: Bankless.cz
-  track: zaklady
-  speakers: []
-  duration: 10
-  parent: lokalni-komunity-intro
-  tags:
-    - komunity
-    - Bitcoin
-    - Ethereum
+# - id: bankless-cz
+#  type: lightning
+#  name: Bankless.cz
+#  track: zaklady
+#  speakers: []
+#  duration: 10
+#  parent: lokalni-komunity-intro
+#  tags:
+#    - komunity
+#    - Bitcoin
+#    - Ethereum
 
 - id: polkadotters
   type: lightning
@@ -1520,7 +1534,7 @@
   track: eth
   speakers: []
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-dao-intro
   tags:
     - Ethereum
     - DAO
@@ -1533,7 +1547,7 @@
   track: eth
   speakers: [ rene-darmos ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-dao-intro
   tags:
     - DAO
 
@@ -1600,6 +1614,8 @@
   tags:
     - komunity
     - ženy
+  fixed:
+    stage: campfire-outdoor
 
 - id: dydx-intro
   type: campfire
@@ -1612,6 +1628,26 @@
     - Ethereum
     - StarkWare
 
+- id: je-krypto-letadlo
+  type: campfire
+  name: Je krypto letadlo?
+  track: zaklady
+  speakers: [ vladimir-pinker ]
+  duration: 30
+  difficulty: beginner
+  tags:
+    - letectví
+
+- id: zijeme-bez-fiatu
+  type: campfire
+  name: Žijeme bez fiatu
+  track: zaklady
+  speakers: [ vladimir-pinker ]
+  duration: 55
+  difficulty: beginner
+  tags:
+    - finanční nezávislost
+
 
 # Ostatní
 # ==========================
@@ -1620,6 +1656,7 @@
   type: other
   name: UTXO.Party - Elektronická stage
   speakers: [ dmitry ]
+  duration: 360
   fixed:
     time: '1/20:00-23:59'
     stage: pitevna
@@ -1628,6 +1665,7 @@
   type: other
   name: Ukončení konference
   speakers: [ tereza-starostova, tree ]
+  duration: 30
   fixed:
     time: '2/18:30-19:00'
     stage: rajska-zahrada
@@ -1636,6 +1674,7 @@
   type: other
   name: Slavnostní zahájení konference 🎉
   speakers: [ tereza-starostova ]
+  duration: 30
   fixed:
     time: '1/09:00-09:30'
     stage: rajska-zahrada
