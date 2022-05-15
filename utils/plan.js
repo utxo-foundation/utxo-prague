@@ -119,13 +119,18 @@ class UTXOPlanner {
     };
   }
 
-  findSlotInStage(ev, stage) {
+  findSlotInStage(ev, stage, fixedDate = null) {
     const slotDuration = 15 * 60 * 1000;
     const stageEvents = this.schedule.filter((s) => s.stage === stage.id);
     const skipSegments = Math.floor(Math.random() * stage.timesFull.length) - 1;
     let segmentCount = 0;
 
-    for (const segment of shuffle(stage.timesFull)) {
+    const segments = stage.timesFull.filter((s) => {
+      return !fixedDate ||
+        (fixedDate && format(s.start, "yyyy-MM-dd") === fixedDate);
+    });
+
+    for (const segment of shuffle(segments)) {
       segmentCount++;
       if (segmentCount >= skipSegments) {
         let ctime = segment.start;
@@ -253,7 +258,11 @@ class UTXOPlanner {
       stage = this.stages.find((s) => s.id === availStages[randStage]);
     }
 
-    const slot = this.findSlotInStage(ev, stage);
+    const slot = this.findSlotInStage(
+      ev,
+      stage,
+      ev.fixed && ev.fixed.date ? ev.fixed.date : null,
+    );
     if (slot) {
       //const valid = this.eventSlotValidator(ev, slot, stage);
       //if (valid) {
@@ -395,7 +404,7 @@ async function main() {
     }
 
     if (plans.length >= 10) {
-      const outputFn = "./dist/22/schedule.json";
+      const outputFn = "./dist/22/schedule-candidates.json";
       console.log(`Writing result: ${outputFn}`);
       const filtered = plans.sort((x, y) =>
         x.metrics.score > y.metrics.score ? -1 : 1

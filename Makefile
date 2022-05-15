@@ -67,5 +67,12 @@ media-kit:
 changelog:
 	deno run --unstable --allow-read --allow-write --allow-run utils/changelog.js
 
+schedule: plan
+
 plan:
 	deno run --unstable --allow-read --allow-write utils/plan.js
+
+plan-candidates:
+	js-yaml dist/22/schedule-candidates.json > spec/22/schedule-candidates.yaml
+
+schedule: plan plan-candidates build

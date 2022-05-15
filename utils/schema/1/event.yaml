@@ -72,4 +72,6 @@ properties:
         type: string
       stage:
         type: string
+      date:
+        type: string
 

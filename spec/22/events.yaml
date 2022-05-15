@@ -1686,6 +1686,36 @@
   fixed:
     stage: campfire-outdoor
 
+- id: kodadot-campfire
+  type: campfire
+  name: KodaDot nfts and chill
+  track: nft
+  duration: 60
+  speakers:
+    - damsky
+  tags:
+    - komunita
+    - vývoj
+    - pracovní příležitosti
+  description: |
+    Podíváme se společně do útrob Kusama blockchainu, kde narazíme na NFTs z pradávných dob které dříve dělaly 100 milionové obraty. Jak je tomu teď a co se děje s NFTs které dříve stály mnoho peněz a nyní stojí 10x méně protože cena měny v které byly zalistované rapidně klesla? Jak můžeme pomocí dat a prohlížeče KodaDotu snipovat Kusama NFTs které mají trakci a v příštím bullrunu prodávat mnohonásobně dráž?
+
+    Mimo jiné si povíme i o tom, jaké je to začínat jako Web3 startup, na jaké strasti může člověk narazit a také si povíme o tom, v jakém stavu je KodaDot teď a proč by to pro vás mohla být ideální pracovní příležitost.
+
+    Potkáte se s manažery projektu, zakladateli a vývojáři celé KodaDot struktury.
+
+    Při návštěvě této campfire session si také ukážeme, jak airdropnout NFTs na libovolné množství adres na Kusama blockchainu a odnesete si merch a poap NFT!
+
+    Wagmi.
+
+    Campfire se účastní:
+      - https://twitter.com/damsky001
+      - https://twitter.com/yangWao
+      - https://twitter.com/vikiival
+      - https://twitter.com/petersopko
+      - https://twitter.com/De_luneClaire
+  fixed:
+    date: '2022-06-05'
 
 # Ostatní
 # ==========================
