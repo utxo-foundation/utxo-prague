@@ -925,7 +925,7 @@
   orgs: |
     Spoluzakladatel [Indices.fi](https://www.indices.fi/)
   country: cz
-  tracks: [ defi ]
+  tracks: [ defi, eth ]
 
 - id: jan-polak
   name: Jan Polák
@@ -946,7 +946,7 @@
   orgs: |
     Člen teamu [ChainKeepers](https://www.chainkeepers.io/), [Krypto Meetupy Brno](https://www.facebook.com/kryptobrno)
   country: cz
-  tracks: [ alty ]
+  tracks: [ alty, defi ]
   desc: |
     Programátor v současné době pracující ve firmě [ChainKeepers](https://chainkeepers.io). Děláme trading boty v Pythonu, pracujeme se smart contracty na Solaně a Ethereu. Do krypta přišel teprve nedávno (na konci minulého roku) a to díky technologickému zájmu o distribuované systémy. Předtím dlouhou dobu pracoval ve společnosti Red Hat na komponentě transakčního managera v Javě.
 
@@ -959,4 +959,14 @@
   orgs: |
     Bitcoin ambassador @ [Trezor](https://trezor.io/), přispěvatel do [Bitcoin Magazine](https://bitcoinmagazine.com/)
   country: cz
-  tracks: [ btc ]
+  tracks: [ btc, zaklady ]
+
+- id: matej-yangwao
+  name: Matej Yangwao
+  twitter: yangwao
+  bio: Radikální open-source web3 kouzelník
+  orgs: |
+    Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)
+  country: sk
+  tracks: [ alty, nft ]
+
