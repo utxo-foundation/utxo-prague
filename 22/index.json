@@ -7,6 +7,10 @@
     "2022-06-04",
     "2022-06-05"
   ],
+  "scheduleTimes": [
+    "1/09:00-22:00",
+    "2/10:00-19:00"
+  ],
   "place": "Gabriel Loci, Praha",
   "country": "Czech Republic",
   "links": {
@@ -46,5 +50,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-15T19:24:34.283Z"
+  "time": "2022-05-15T21:52:10.868Z"
 }
