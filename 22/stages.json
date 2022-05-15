@@ -16,7 +16,8 @@
   {
     "id": "sloupcovy-sal",
     "types": [
-      "talk"
+      "talk",
+      "lightning-series"
     ],
     "times": [
       "1/09:30-13:00",

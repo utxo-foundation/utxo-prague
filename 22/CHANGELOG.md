@@ -1,5 +1,18 @@
 # Changelog
 
+## 15.5.2022
+
+### Události
+
+* přidáno [Lokální Bitcoin projekty](https://utxo.cz/udalosti?id=lokalni-btc-intro)
+* přidáno [Lokální DAO projekty](https://utxo.cz/udalosti?id=lokalni-dao-intro)
+
+### Události
+
+* odebráno [Liqwid Finance](https://utxo.cz/udalosti?id=liqwid)
+* odebráno [Bankless.cz](https://utxo.cz/udalosti?id=bankless-cz)
+
+
 ## 14.5.2022
 
 ### Události

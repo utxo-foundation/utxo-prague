@@ -1598,5 +1598,32 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-15",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "lokalni-btc-intro",
+          "name": "Lokální Bitcoin projekty"
+        },
+        {
+          "id": "lokalni-dao-intro",
+          "name": "Lokální DAO projekty"
+        }
+      ],
+      "removed": [
+        {
+          "id": "liqwid",
+          "name": "Liqwid Finance"
+        },
+        {
+          "id": "bankless-cz",
+          "name": "Bankless.cz"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

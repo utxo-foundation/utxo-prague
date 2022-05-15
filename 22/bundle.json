@@ -658,8 +658,8 @@
         "country": "sk",
         "available": [
           {
-            "from": "2022-06-04T09:00:00",
-            "to": "2022-06-05T12:59:59"
+            "from": "2022-06-04T09:00:00+02:00",
+            "to": "2022-06-05T12:59:59+02:00"
           }
         ],
         "photos": [
@@ -1687,6 +1687,7 @@
         "id": "cbdc-panel",
         "type": "panel",
         "name": "CBDC – cesta do monetárního otroctví",
+        "track": "regulace",
         "speakers": [
           "lukas-kovanda",
           "dominik-stroukal"
@@ -1762,7 +1763,10 @@
           "volný trh",
           "finanční svoboda",
           "anarchokapitalismus"
-        ]
+        ],
+        "fixed": {
+          "stage": "rajska-zahrada"
+        }
       },
       {
         "id": "historie-cypherpunku",
@@ -1922,6 +1926,9 @@
         ],
         "duration": 25,
         "difficulty": "beginner",
+        "fixed": {
+          "stage": "rajska-zahrada"
+        },
         "tags": [
           "Metaverse",
           "NFT",
@@ -2057,20 +2064,6 @@
           "DAO"
         ],
         "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n"
-      },
-      {
-        "id": "zijeme-bez-fiatu",
-        "type": "talk",
-        "name": "Žijeme bez fiatu",
-        "track": "zaklady",
-        "speakers": [
-          "vladimir-pinker"
-        ],
-        "duration": 55,
-        "difficulty": "beginner",
-        "tags": [
-          "finanční nezávislost"
-        ]
       },
       {
         "id": "guildy-odf-dao-organizacni-revoluce",
@@ -2410,20 +2403,6 @@
         ]
       },
       {
-        "id": "je-krypto-letadlo",
-        "type": "talk",
-        "name": "Je krypto letadlo?",
-        "track": "zaklady",
-        "speakers": [
-          "vladimir-pinker"
-        ],
-        "duration": 25,
-        "difficulty": "beginner",
-        "tags": [
-          "letectví"
-        ]
-      },
-      {
         "id": "investovani-20",
         "type": "talk",
         "name": "Investování 2.0",
@@ -2562,7 +2541,8 @@
         "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n",
         "tags": [
           "společnost"
-        ]
+        ],
+        "duration": 85
       },
       {
         "id": "lokalni-projekty-intro",
@@ -2570,7 +2550,35 @@
         "name": "Lokální krypto projekty",
         "track": "zaklady",
         "speakers": [],
-        "description": "Představení lokálních kryptoměnových projektů.\n"
+        "description": "Představení lokálních kryptoměnových projektů.\n",
+        "tags": [
+          "Bitcoin"
+        ],
+        "duration": 55
+      },
+      {
+        "id": "lokalni-btc-intro",
+        "type": "lightning-series",
+        "name": "Lokální Bitcoin projekty",
+        "track": "btc",
+        "speakers": [],
+        "description": "Představení lokálních bitcoinově zaměřených projektů.\n",
+        "duration": 55,
+        "tags": [
+          "Bitcoin"
+        ]
+      },
+      {
+        "id": "lokalni-dao-intro",
+        "type": "lightning-series",
+        "name": "Lokální DAO projekty",
+        "track": "dao",
+        "speakers": [],
+        "description": "Představení lokálních DAO projektů.\n",
+        "duration": 25,
+        "tags": [
+          "DAO"
+        ]
       },
       {
         "id": "lokalni-defi-intro",
@@ -2581,7 +2589,8 @@
         "tags": [
           "DeFi"
         ],
-        "description": "Představení lokálních DeFi projektů.\n"
+        "description": "Představení lokálních DeFi projektů.\n",
+        "duration": 55
       },
       {
         "id": "lokalni-nft-intro",
@@ -2592,7 +2601,8 @@
         "tags": [
           "NFT"
         ],
-        "description": "Představení lokálních NFT/Metaverse projektů.\n"
+        "description": "Představení lokálních NFT/Metaverse projektů.\n",
+        "duration": 55
       },
       {
         "id": "eticky-vekslak-workshop",
@@ -2993,7 +3003,7 @@
           "honza-dvorak"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro",
+        "parent": "lokalni-btc-intro",
         "tags": [
           "Bitcoin",
           "platby"
@@ -3008,7 +3018,7 @@
           "mario-havel"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro",
+        "parent": "lokalni-btc-intro",
         "tags": [
           "Bitcoin",
           "Lightning Network",
@@ -3025,7 +3035,7 @@
           "kristian-csepcsar"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro",
+        "parent": "lokalni-btc-intro",
         "tags": [
           "Bitcoin",
           "mining",
@@ -3041,6 +3051,7 @@
           "kryptomates"
         ],
         "duration": 10,
+        "parent": "lokalni-btc-intro",
         "tags": [
           "Bitcoin",
           "Lightning Network",
@@ -3158,20 +3169,6 @@
         "description": "Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.\n"
       },
       {
-        "id": "liqwid",
-        "type": "lightning",
-        "name": "Liqwid Finance",
-        "track": "alty",
-        "speakers": [
-          "mark-stopka"
-        ],
-        "duration": 10,
-        "parent": "lokalni-defi-intro",
-        "tags": [
-          "DeFi"
-        ]
-      },
-      {
         "id": "stosujcz",
         "type": "lightning",
         "name": "Štosuj.cz",
@@ -3271,20 +3268,6 @@
         ]
       },
       {
-        "id": "bankless-cz",
-        "type": "lightning",
-        "name": "Bankless.cz",
-        "track": "zaklady",
-        "speakers": [],
-        "duration": 10,
-        "parent": "lokalni-komunity-intro",
-        "tags": [
-          "komunity",
-          "Bitcoin",
-          "Ethereum"
-        ]
-      },
-      {
         "id": "polkadotters",
         "type": "lightning",
         "name": "Polkadotters.cz",
@@ -3336,7 +3319,7 @@
         "track": "eth",
         "speakers": [],
         "duration": 10,
-        "parent": "lokalni-projekty-intro",
+        "parent": "lokalni-dao-intro",
         "tags": [
           "Ethereum",
           "DAO",
@@ -3353,7 +3336,7 @@
           "rene-darmos"
         ],
         "duration": 10,
-        "parent": "lokalni-projekty-intro",
+        "parent": "lokalni-dao-intro",
         "tags": [
           "DAO"
         ]
@@ -3429,7 +3412,10 @@
         "tags": [
           "komunity",
           "ženy"
-        ]
+        ],
+        "fixed": {
+          "stage": "campfire-outdoor"
+        }
       },
       {
         "id": "dydx-intro",
@@ -3445,12 +3431,41 @@
         ]
       },
       {
+        "id": "je-krypto-letadlo",
+        "type": "campfire",
+        "name": "Je krypto letadlo?",
+        "track": "zaklady",
+        "speakers": [
+          "vladimir-pinker"
+        ],
+        "duration": 30,
+        "difficulty": "beginner",
+        "tags": [
+          "letectví"
+        ]
+      },
+      {
+        "id": "zijeme-bez-fiatu",
+        "type": "campfire",
+        "name": "Žijeme bez fiatu",
+        "track": "zaklady",
+        "speakers": [
+          "vladimir-pinker"
+        ],
+        "duration": 55,
+        "difficulty": "beginner",
+        "tags": [
+          "finanční nezávislost"
+        ]
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "name": "UTXO.Party - Elektronická stage",
         "speakers": [
           "dmitry"
         ],
+        "duration": 360,
         "fixed": {
           "time": "1/20:00-23:59",
           "stage": "pitevna"
@@ -3464,6 +3479,7 @@
           "tereza-starostova",
           "tree"
         ],
+        "duration": 30,
         "fixed": {
           "time": "2/18:30-19:00",
           "stage": "rajska-zahrada"
@@ -3476,6 +3492,7 @@
         "speakers": [
           "tereza-starostova"
         ],
+        "duration": 30,
         "fixed": {
           "time": "1/09:00-09:30",
           "stage": "rajska-zahrada"
@@ -3500,7 +3517,8 @@
       {
         "id": "sloupcovy-sal",
         "types": [
-          "talk"
+          "talk",
+          "lightning-series"
         ],
         "times": [
           "1/09:30-13:00",
@@ -5223,5 +5241,5 @@
       "projects": 72
     }
   },
-  "time": "2022-05-14T16:15:29.958Z"
+  "time": "2022-05-15T00:14:35.581Z"
 }
