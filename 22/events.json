@@ -956,6 +956,22 @@
     ]
   },
   {
+    "id": "oracles-obecne",
+    "type": "talk",
+    "name": "Co jsou to oracles + CZK kurz na blockchainu",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25,
+    "difficulty": "advanced",
+    "tags": [
+      "oracles",
+      "stablecoin",
+      "DeFi"
+    ]
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "lightning-series",
     "name": "Lokální krypto komunity",
@@ -1900,22 +1916,6 @@
       "metaverse"
     ],
     "description": "Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.\n"
-  },
-  {
-    "id": "oracles-obecne",
-    "type": "campfire",
-    "name": "Co jsou to oracles + CZK kurz na blockchainu",
-    "track": "defi",
-    "speakers": [
-      "radek-svarz"
-    ],
-    "duration": 25,
-    "difficulty": "advanced",
-    "tags": [
-      "oracles",
-      "stablecoin",
-      "DeFi"
-    ]
   },
   {
     "id": "skovo",
