@@ -1626,6 +1626,10 @@
         {
           "id": "students-for-liberty-campfire",
           "name": "Students for liberty CZ campfire [TBD]"
+        },
+        {
+          "id": "party-rajska-zahrada",
+          "name": "UTXO.Party - Hlavní stage [TBD]"
         }
       ],
       "removed": [

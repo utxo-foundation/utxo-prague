@@ -228,7 +228,10 @@
       "sdílená ekonomika",
       "crowdfunding",
       "společnost"
-    ]
+    ],
+    "fixed": {
+      "stage": "rajska-zahrada"
+    }
   },
   {
     "id": "budoucnost-kryptomen",
@@ -325,7 +328,7 @@
     ],
     "duration": 25,
     "difficulty": "expert",
-    "description": "Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte.\n\nPřednáška od autora knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/).\n",
+    "description": "Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte. Konkrétně se dozvíte jednotlivé důvody pro adopci Bitcoinu, jak jí správně v rámci korporace provést, jak na to reaguje české daňové právo a účetnictví. Zároveň budou prezentovány příklady z praxe, kde adopce již proběhla.\n\nPřednáška od autora knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/).\n",
     "tags": [
       "Bitcoin",
       "regulace",
@@ -661,22 +664,6 @@
     "description": "Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.\n"
   },
   {
-    "id": "oracles-obecne",
-    "type": "talk",
-    "name": "Co jsou to oracles + CZK kurz na blockchainu",
-    "track": "defi",
-    "speakers": [
-      "radek-svarz"
-    ],
-    "duration": 25,
-    "difficulty": "advanced",
-    "tags": [
-      "oracles",
-      "stablecoin",
-      "DeFi"
-    ]
-  },
-  {
     "id": "eth2",
     "type": "talk",
     "name": "The Merge (Eth2)",
@@ -745,22 +732,6 @@
       "trading"
     ],
     "description": "Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.\n"
-  },
-  {
-    "id": "digitalni-identita-v-metaverse",
-    "type": "talk",
-    "name": "Digitální identita v metaverse",
-    "track": "nft",
-    "speakers": [
-      "pavel-riha"
-    ],
-    "duration": 25,
-    "difficulty": "advanced",
-    "tags": [
-      "digitální identita",
-      "metaverse"
-    ],
-    "description": "Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.\n"
   },
   {
     "id": "uvod-do-polkadot-a-ekosystemu",
@@ -925,7 +896,7 @@
     "speakers": [
       "jiri-skrivan"
     ],
-    "duration": 55,
+    "duration": 25,
     "tags": [
       "bezpečnost",
       "seed",
@@ -1779,21 +1750,6 @@
     ]
   },
   {
-    "id": "skovo",
-    "type": "lightning",
-    "name": "Skovo.cz",
-    "track": "zaklady",
-    "speakers": [
-      "jiri-skrivan"
-    ],
-    "duration": 10,
-    "parent": "lokalni-projekty-intro",
-    "tags": [
-      "seed",
-      "bezpečnost"
-    ]
-  },
-  {
     "id": "gwei-cz-setkani",
     "type": "campfire",
     "name": "Setkání s Gwei.cz komunitou",
@@ -1807,14 +1763,17 @@
       "m0xt",
       "jiri-cepelka"
     ],
-    "duration": 30,
+    "duration": 60,
     "tags": [
       "Ethereum",
       "komunity",
       "DeFi",
       "DAO"
     ],
-    "description": "Jsme česko-slovenská Ethereum a DeFi komunita [Gwei.cz](https://gwei.cz/). Pojďte se seznámit a popovídat si s členy našeho [Councilu](https://komunita.gwei.cz/council) a dalšími členy komunity. Zajímá vás na jakých projektech, nebo akcích právě pracujeme? Nevíte kde hledat informace o DeFi nebo Ethereu? Rádi byste pronikli do tajů smart-kontraktů, stakingu, predikčních marketů nebo třeba algoritmických stablecoinů a nevíte kde začít? Možná máte nějaký zajímavý nápad, kterému můžeme pomoci? Přijďte a my se vám pokusíme dát odpověď na všechny vaše otázky :)\n"
+    "description": "Jsme česko-slovenská Ethereum a DeFi komunita [Gwei.cz](https://gwei.cz/). Pojďte se seznámit a popovídat si s členy našeho [Councilu](https://komunita.gwei.cz/council) a dalšími členy komunity. Zajímá vás na jakých projektech, nebo akcích právě pracujeme? Nevíte kde hledat informace o DeFi nebo Ethereu? Rádi byste pronikli do tajů smart-kontraktů, stakingu, predikčních marketů nebo třeba algoritmických stablecoinů a nevíte kde začít? Možná máte nějaký zajímavý nápad, kterému můžeme pomoci? Přijďte a my se vám pokusíme dát odpověď na všechny vaše otázky :)\n",
+    "fixed": {
+      "stage": "campfire-outdoor"
+    }
   },
   {
     "id": "bohemiandao-campfire",
@@ -1845,7 +1804,7 @@
       "tereza-starostova",
       "sona-parke"
     ],
-    "duration": 30,
+    "duration": 60,
     "tags": [
       "komunity",
       "ženy"
@@ -1859,7 +1818,9 @@
     "type": "campfire",
     "name": "dYdX - Perpetual Futures platforma, úvod a demo",
     "track": "defi",
-    "speakers": [],
+    "speakers": [
+      "tree"
+    ],
     "duration": 30,
     "tags": [
       "trading",
@@ -1903,6 +1864,55 @@
     "tags": []
   },
   {
+    "id": "digitalni-identita-v-metaverse",
+    "type": "campfire",
+    "name": "Digitální identita v metaverse",
+    "track": "nft",
+    "speakers": [
+      "pavel-riha"
+    ],
+    "duration": 30,
+    "difficulty": "advanced",
+    "tags": [
+      "digitální identita",
+      "metaverse"
+    ],
+    "description": "Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.\n"
+  },
+  {
+    "id": "oracles-obecne",
+    "type": "campfire",
+    "name": "Co jsou to oracles + CZK kurz na blockchainu",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25,
+    "difficulty": "advanced",
+    "tags": [
+      "oracles",
+      "stablecoin",
+      "DeFi"
+    ]
+  },
+  {
+    "id": "skovo",
+    "type": "campfire",
+    "name": "Skovo.cz - ukázka",
+    "track": "zaklady",
+    "speakers": [
+      "jiri-skrivan"
+    ],
+    "duration": 30,
+    "tags": [
+      "seed",
+      "bezpečnost"
+    ],
+    "fixed": {
+      "stage": "campfire-outdoor"
+    }
+  },
+  {
     "id": "party-electronic-stage",
     "type": "other",
     "name": "UTXO.Party - Elektronická stage",
@@ -1913,12 +1923,25 @@
     "fixed": {
       "time": "1/20:00-23:59",
       "stage": "pitevna"
-    }
+    },
+    "tags": []
+  },
+  {
+    "id": "party-rajska-zahrada",
+    "type": "other",
+    "name": "UTXO.Party - Hlavní stage [TBD]",
+    "speakers": [],
+    "duration": 120,
+    "fixed": {
+      "time": "1/20:00-22:00",
+      "stage": "rajska-zahrada"
+    },
+    "tags": []
   },
   {
     "id": "closing-ceremony",
     "type": "other",
-    "name": "Ukončení konference",
+    "name": "Ukončení konference 🎉",
     "speakers": [
       "tereza-starostova",
       "tree"
@@ -1927,7 +1950,8 @@
     "fixed": {
       "time": "2/18:30-19:00",
       "stage": "rajska-zahrada"
-    }
+    },
+    "tags": []
   },
   {
     "id": "opening-ceremony",
@@ -1940,6 +1964,7 @@
     "fixed": {
       "time": "1/09:00-09:30",
       "stage": "rajska-zahrada"
-    }
+    },
+    "tags": []
   }
 ]
