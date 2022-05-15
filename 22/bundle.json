@@ -628,7 +628,8 @@
         "orgs": "Bitcoin ambassador @ [Trezor](https://trezor.io/), přispěvatel do [Bitcoin Magazine](https://bitcoinmagazine.com/)\n",
         "country": "cz",
         "tracks": [
-          "btc"
+          "btc",
+          "zaklady"
         ],
         "photos": [
           "twitter:jpg"
@@ -895,6 +896,21 @@
         ]
       },
       {
+        "id": "matej-yangwao",
+        "name": "Matej Yangwao",
+        "twitter": "yangwao",
+        "bio": "Radikální open-source web3 kouzelník",
+        "orgs": "Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)\n",
+        "country": "sk",
+        "tracks": [
+          "alty",
+          "nft"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "matej-zimak",
         "name": "Matěj Zimák",
         "twitter": "mattbullish",
@@ -975,7 +991,8 @@
         "orgs": "Spoluzakladatel [Indices.fi](https://www.indices.fi/)\n",
         "country": "cz",
         "tracks": [
-          "defi"
+          "defi",
+          "eth"
         ],
         "photos": [
           "web:jpg",
@@ -991,7 +1008,8 @@
         "orgs": "Člen teamu [ChainKeepers](https://www.chainkeepers.io/), [Krypto Meetupy Brno](https://www.facebook.com/kryptobrno)\n",
         "country": "cz",
         "tracks": [
-          "alty"
+          "alty",
+          "defi"
         ],
         "desc": "Programátor v současné době pracující ve firmě [ChainKeepers](https://chainkeepers.io). Děláme trading boty v Pythonu, pracujeme se smart contracty na Solaně a Ethereu. Do krypta přišel teprve nedávno (na konci minulého roku) a to díky technologickému zájmu o distribuované systémy. Předtím dlouhou dobu pracoval ve společnosti Red Hat na komponentě transakčního managera v Javě.\n\n Člen týmu firmy ChainKeepers, spolupracuje na tvorbě lineupu technické sekce brněnského blockchain meetupu.\n",
         "photos": [
@@ -2154,6 +2172,18 @@
           "public good",
           "smart-contract"
         ]
+      },
+      {
+        "id": "quadratic-developer-rewards",
+        "type": "talk",
+        "name": "Quadratic Developer Rewards (KodaDot) [TBD]",
+        "track": "alty",
+        "difficulty": "advanced",
+        "speakers": [
+          "matej-yangwao"
+        ],
+        "duration": 55,
+        "description": "How we've utilised web3 in KodaDot development and why we are making this as public good?\n"
       },
       {
         "id": "zakladni-filozofie-tvorby-tokenu",
@@ -18419,9 +18449,9 @@
   },
   "stats": {
     "counts": {
-      "speakers": 88,
+      "speakers": 89,
       "tracks": 9,
-      "events": 123,
+      "events": 124,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -18429,5 +18459,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-15T16:43:02.949Z"
+  "time": "2022-05-15T17:06:35.965Z"
 }

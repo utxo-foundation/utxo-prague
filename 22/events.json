@@ -554,6 +554,18 @@
     ]
   },
   {
+    "id": "quadratic-developer-rewards",
+    "type": "talk",
+    "name": "Quadratic Developer Rewards (KodaDot) [TBD]",
+    "track": "alty",
+    "difficulty": "advanced",
+    "speakers": [
+      "matej-yangwao"
+    ],
+    "duration": 55,
+    "description": "How we've utilised web3 in KodaDot development and why we are making this as public good?\n"
+  },
+  {
     "id": "zakladni-filozofie-tvorby-tokenu",
     "type": "talk",
     "name": "Základní filozofie tvorby tokenu (tokenomiky)",

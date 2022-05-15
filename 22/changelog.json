@@ -1606,6 +1606,10 @@
         {
           "id": "josef-tetek",
           "name": "Josef Tětek"
+        },
+        {
+          "id": "matej-yangwao",
+          "name": "Matej Yangwao"
         }
       ]
     },
@@ -1614,6 +1618,10 @@
         {
           "id": "btc-vs-altcoiny",
           "name": "Bitcoin vs. altcoiny [TBD]"
+        },
+        {
+          "id": "quadratic-developer-rewards",
+          "name": "Quadratic Developer Rewards (KodaDot) [TBD]"
         },
         {
           "id": "lokalni-btc-intro",

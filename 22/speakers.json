@@ -602,7 +602,8 @@
     "orgs": "Bitcoin ambassador @ [Trezor](https://trezor.io/), přispěvatel do [Bitcoin Magazine](https://bitcoinmagazine.com/)\n",
     "country": "cz",
     "tracks": [
-      "btc"
+      "btc",
+      "zaklady"
     ],
     "photos": [
       "twitter:jpg"
@@ -869,6 +870,21 @@
     ]
   },
   {
+    "id": "matej-yangwao",
+    "name": "Matej Yangwao",
+    "twitter": "yangwao",
+    "bio": "Radikální open-source web3 kouzelník",
+    "orgs": "Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)\n",
+    "country": "sk",
+    "tracks": [
+      "alty",
+      "nft"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "matej-zimak",
     "name": "Matěj Zimák",
     "twitter": "mattbullish",
@@ -949,7 +965,8 @@
     "orgs": "Spoluzakladatel [Indices.fi](https://www.indices.fi/)\n",
     "country": "cz",
     "tracks": [
-      "defi"
+      "defi",
+      "eth"
     ],
     "photos": [
       "web:jpg",
@@ -965,7 +982,8 @@
     "orgs": "Člen teamu [ChainKeepers](https://www.chainkeepers.io/), [Krypto Meetupy Brno](https://www.facebook.com/kryptobrno)\n",
     "country": "cz",
     "tracks": [
-      "alty"
+      "alty",
+      "defi"
     ],
     "desc": "Programátor v současné době pracující ve firmě [ChainKeepers](https://chainkeepers.io). Děláme trading boty v Pythonu, pracujeme se smart contracty na Solaně a Ethereu. Do krypta přišel teprve nedávno (na konci minulého roku) a to díky technologickému zájmu o distribuované systémy. Předtím dlouhou dobu pracoval ve společnosti Red Hat na komponentě transakčního managera v Javě.\n\n Člen týmu firmy ChainKeepers, spolupracuje na tvorbě lineupu technické sekce brněnského blockchain meetupu.\n",
     "photos": [

@@ -5,10 +5,12 @@
 ### Přednášející
 
 * přidáno [Josef Tětek](https://utxo.cz/lide?id=josef-tetek)
+* přidáno [Matej Yangwao](https://utxo.cz/lide?id=matej-yangwao)
 
 ### Události
 
 * přidáno [Bitcoin vs. altcoiny [TBD]](https://utxo.cz/udalosti?id=btc-vs-altcoiny)
+* přidáno [Quadratic Developer Rewards (KodaDot) [TBD]](https://utxo.cz/udalosti?id=quadratic-developer-rewards)
 * přidáno [Lokální Bitcoin projekty](https://utxo.cz/udalosti?id=lokalni-btc-intro)
 * přidáno [Lokální DAO projekty](https://utxo.cz/udalosti?id=lokalni-dao-intro)
 * přidáno [Students for liberty CZ campfire [TBD]](https://utxo.cz/udalosti?id=students-for-liberty-campfire)
