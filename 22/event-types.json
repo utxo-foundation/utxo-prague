@@ -1,0 +1,30 @@
+[
+  {
+    "id": "panel",
+    "name": "Panelová debata"
+  },
+  {
+    "id": "talk",
+    "name": "Přednáška"
+  },
+  {
+    "id": "workshop",
+    "name": "Workshop"
+  },
+  {
+    "id": "lightning",
+    "name": "Blesková přednáška"
+  },
+  {
+    "id": "lightning-series",
+    "name": "Pásmo bleskových přednášek"
+  },
+  {
+    "id": "campfire",
+    "name": "Campfire"
+  },
+  {
+    "id": "other",
+    "name": "ostatní"
+  }
+]

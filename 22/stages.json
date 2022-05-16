@@ -1,6 +1,7 @@
 [
   {
     "id": "rajska-zahrada",
+    "name": "Rajská zahrada",
     "types": [
       "talk",
       "panel",
@@ -15,6 +16,7 @@
   },
   {
     "id": "lustrovy-sal",
+    "name": "Lustrový sál",
     "types": [
       "talk",
       "panel",
@@ -29,19 +31,21 @@
   },
   {
     "id": "sloupcovy-sal",
+    "name": "Sloupcový sál",
     "types": [
       "talk",
       "lightning-series"
     ],
     "times": [
       "1/09:30-13:00",
-      "1/13:30-20:00",
+      "1/13:30-19:00",
       "2/10:00-13:00",
       "2/13:30-18:30"
     ]
   },
   {
     "id": "exit-room",
+    "name": "Východová místnost",
     "types": [
       "talk"
     ],
@@ -54,6 +58,7 @@
   },
   {
     "id": "knihovna",
+    "name": "Knihovna",
     "types": [
       "workshop"
     ],
@@ -66,6 +71,7 @@
   },
   {
     "id": "white-workshop-room",
+    "name": "Bílá workshop místnost",
     "types": [
       "workshop"
     ],
@@ -78,6 +84,7 @@
   },
   {
     "id": "campfire-outdoor",
+    "name": "Campfire (venku)",
     "types": [
       "campfire"
     ],
@@ -89,6 +96,7 @@
   },
   {
     "id": "campfire-indoor",
+    "name": "Campfire (uvnitř)",
     "types": [
       "campfire"
     ],
@@ -100,6 +108,7 @@
   },
   {
     "id": "pitevna",
+    "name": "Pitevna",
     "types": [
       "other"
     ],

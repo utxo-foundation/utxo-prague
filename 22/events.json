@@ -969,7 +969,10 @@
       "oracles",
       "stablecoin",
       "DeFi"
-    ]
+    ],
+    "fixed": {
+      "stage": "exit-room"
+    }
   },
   {
     "id": "lokalni-komunity-intro",
@@ -1864,7 +1867,10 @@
       "trading",
       "Ethereum",
       "StarkWare"
-    ]
+    ],
+    "fixed": {
+      "stage": "campfire-indoor"
+    }
   },
   {
     "id": "je-krypto-letadlo",

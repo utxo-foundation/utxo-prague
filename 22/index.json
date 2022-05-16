@@ -30,6 +30,7 @@
   "spec": {
     "speakers": "https://spec.utxo.cz/22/speakers.json",
     "tracks": "https://spec.utxo.cz/22/tracks.json",
+    "event-types": "https://spec.utxo.cz/22/event-types.json",
     "events": "https://spec.utxo.cz/22/events.json",
     "stages": "https://spec.utxo.cz/22/stages.json",
     "faqs": "https://spec.utxo.cz/22/faqs.json",
@@ -42,6 +43,7 @@
     "counts": {
       "speakers": 89,
       "tracks": 9,
+      "event-types": 7,
       "events": 124,
       "stages": 9,
       "faqs": 5,
@@ -50,5 +52,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-15T21:57:15.439Z"
+  "time": "2022-05-16T13:43:27.116Z"
 }
