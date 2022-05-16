@@ -24,6 +24,7 @@ schemaVersion: 1
 specDef:
   - type: speakers
   - type: tracks
+  - type: event-types
   - type: events
   - type: stages
   - type: faqs

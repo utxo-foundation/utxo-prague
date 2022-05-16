@@ -836,6 +836,8 @@
     - oracles
     - stablecoin
     - DeFi
+  fixed:
+    stage: exit-room
 
 
  # Lightning talks (series)
@@ -1649,6 +1651,8 @@
     - trading
     - Ethereum
     - StarkWare
+  fixed:
+    stage: campfire-indoor
 
 - id: je-krypto-letadlo
   type: campfire
