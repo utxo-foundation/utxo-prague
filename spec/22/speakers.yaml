@@ -724,6 +724,8 @@
   desc: |
     Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.
 
+    Podnikatel, milovník svobody, nadšenec do krypta, zakladatel firmy. To by mohlo bohatě stačit.
+
 - id: frantisek-fuka
   name: František Fuka
   nickname: fuxoft
@@ -969,4 +971,13 @@
     Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)
   country: sk
   tracks: [ alty, nft ]
+
+- id: martin-bitcoin-mindset
+  name: Martin - Bitcoin Mindset
+  twitter: btcmnd
+  bio: Programátor
+  orgs: |
+    Tvůrce [Bitcoin Mindset](https://bitcoinmindset.org/)
+  country: cz
+  tracks: [ btc ]
 
