@@ -81,6 +81,7 @@
   twitter: dydx_grants
   web:
     url: https://dydxgrants.com/
+  desc: dYdX, decentralizovaná burza derivátů, má za cíl vybudovat přední světovou platformu pro obchodování s kryptoměnami. V rámci této mise nyní tým vyvíjí další verzi protokolu, V4. DYdX V4, která bude spuštěna na konci roku 2022, bude mít open-source kód, bude plně decentralizovaná a zcela pod kontrolou komunity. DYdX mají program Grants s finančními prostředky určenými pro tvůrce open source kódu a přispěvatele do ekosystému. Přijďte pomoci budovat budoucnost decentralizovaného obchodování v rámci programu dYdX Grants!
 
 - id: mitonc
   name: MitonC
@@ -102,6 +103,7 @@
   twitter: solanagalaxynft
   web:
     url: https://sollarion.com/
+  desc: Sollarion je jedna z prvních Českých blockchain her běžících z části na Solaně. Jedná se o P2E hexa-tahovou strategickou karetní hru, kde hráči dostávájí odměny za zápasy, plnění úkolů, výhry z turnajů a v neposlední řadě držitelé NFT landů mají zaručený pasivní příjem z hraní her, aniž by se přímo účastnili. 
 
 - id: pwn
   name: PWN DAO
@@ -109,6 +111,7 @@
   twitter: pwndao
   web:
     url: https://pwn.finance/
+  desc: PWN je protokol ve kterém si můžete půjčit proti jakýmkoli digitálním aktivům. To znamená i NFT! Díky principu Peer-to-Peer půjček můžete nabídnout opravdu jakékoli aktivum jako zástavu a to bez možnosti likvidace.
     
 - id: bitcoach
   name: Bitcoach.org
@@ -116,6 +119,7 @@
   twitter: BitC0ach
   web:
     url: https://t.me/join_bitcoachCHAT
+  desc: Komunitní skupina fungující zejména na telegramu, kde se probírají novinky ve světě kryptoměn. 
     
 - id: anycoin
   name: Anycoin.cz
@@ -123,6 +127,7 @@
   twitter: anycoin_cz
   web:
     url: https://anycoin.cz/
+  desc: Na Anycoin.cz můžete jednoduše obchodovat více než 130 různých kryptoměn, Bitcoin zakoupíte již od částky kolem 100 Kč nebo 5 Euro. Jako první směnárna v České republice, a jedna z mála na celém světě, nabízí podporu bleskově rychlých a levných plateb Bitcoinem přes Lightning network, které uživatelům výrazně urychlují a zlevňují proces směny.
     
 # Press partners
 # ======================
