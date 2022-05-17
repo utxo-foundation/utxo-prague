@@ -381,7 +381,7 @@
       "stage": "rajska-zahrada"
     },
     "tags": [
-      "Metaverse",
+      "metaverse",
       "NFT",
       "VR"
     ]
@@ -1392,7 +1392,7 @@
     "duration": 50,
     "difficulty": "beginner",
     "tags": [
-      "Metaverse",
+      "metaverse",
       "NFT",
       "VR"
     ],
@@ -1738,6 +1738,23 @@
     "description": "Představení první Thrive-and-Earn aplikace, která gamifikuje celkový životní styl uživatelů prostřednictvím odměn a významných sociálních a herních prvků.\n"
   },
   {
+    "id": "sollarion",
+    "type": "lightning",
+    "name": "Sollarion [TBD]",
+    "track": "nft",
+    "speakers": [],
+    "duration": 10,
+    "parent": "lokalni-nft-intro",
+    "tags": [
+      "NFT",
+      "gaming",
+      "Solana",
+      "metaverse",
+      "play-to-earn"
+    ],
+    "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n"
+  },
+  {
     "id": "holky-v-kryptu",
     "type": "lightning",
     "name": "Holky v kryptu",
@@ -2055,12 +2072,12 @@
     "speakers": [],
     "track": "nft",
     "duration": 30,
-    "description": "Představení jedné z prvních Českých P2E her Sollarion, která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n",
+    "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n",
     "tags": [
       "NFT",
       "gaming",
       "P2E",
-      "Metaverse",
+      "metaverse",
       "Solana",
       "giveaway"
     ],

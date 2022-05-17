@@ -13,6 +13,7 @@
 * přidáno [Talent ve Web3 (z pohledu VC)](https://utxo.cz/udalosti?id=talent-ve-web3-vc-pohled)
 * přidáno [1ab](https://utxo.cz/udalosti?id=1ab)
 * přidáno [Bitcoin Mindset](https://utxo.cz/udalosti?id=bitcoin-mindset)
+* přidáno [Sollarion [TBD]](https://utxo.cz/udalosti?id=sollarion)
 * přidáno [KryptoVláďa Q&A](https://utxo.cz/udalosti?id=kryptovlada-qa)
 * přidáno [Sollarion introduction and giveaway](https://utxo.cz/udalosti?id=sollarion-campfire)
 

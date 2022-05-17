@@ -2067,7 +2067,7 @@
           "stage": "rajska-zahrada"
         },
         "tags": [
-          "Metaverse",
+          "metaverse",
           "NFT",
           "VR"
         ]
@@ -3078,7 +3078,7 @@
         "duration": 50,
         "difficulty": "beginner",
         "tags": [
-          "Metaverse",
+          "metaverse",
           "NFT",
           "VR"
         ],
@@ -3424,6 +3424,23 @@
         "description": "Představení první Thrive-and-Earn aplikace, která gamifikuje celkový životní styl uživatelů prostřednictvím odměn a významných sociálních a herních prvků.\n"
       },
       {
+        "id": "sollarion",
+        "type": "lightning",
+        "name": "Sollarion [TBD]",
+        "track": "nft",
+        "speakers": [],
+        "duration": 10,
+        "parent": "lokalni-nft-intro",
+        "tags": [
+          "NFT",
+          "gaming",
+          "Solana",
+          "metaverse",
+          "play-to-earn"
+        ],
+        "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n"
+      },
+      {
         "id": "holky-v-kryptu",
         "type": "lightning",
         "name": "Holky v kryptu",
@@ -3741,12 +3758,12 @@
         "speakers": [],
         "track": "nft",
         "duration": 30,
-        "description": "Představení jedné z prvních Českých P2E her Sollarion, která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n",
+        "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n",
         "tags": [
           "NFT",
           "gaming",
           "P2E",
-          "Metaverse",
+          "metaverse",
           "Solana",
           "giveaway"
         ],
@@ -19170,7 +19187,7 @@
       "speakers": 91,
       "tracks": 9,
       "event-types": 7,
-      "events": 130,
+      "events": 131,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -19178,5 +19195,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T16:02:27.393Z"
+  "time": "2022-05-17T16:12:17.124Z"
 }
