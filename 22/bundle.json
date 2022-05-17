@@ -2552,7 +2552,8 @@
         "duration": 55,
         "tags": [
           "Cardano"
-        ]
+        ],
+        "description": "Tržní kapitalizace není jediným měřítkem úspěchu blockchain projektů. Mnohem důležitější je mise projektu a silný tým, který je spolu s komunitou odhodlaný dosáhnout cíle. Cardano poskytuje finanční identitu lidem, kteří ji nemají. Chudí lidé nepotřebují spekulovat na růst ceny. Potřebují identitu, možnost zaplatit digitálně poplatky za energie a propojení s okolním světem. To vše bez neefektivních a drahých prostředníků. Vládám v rozvojových zemích se díky korupčnímu prostředí nedaří budovat finanční služby. Banky jsou orientované na profit, takže je chudé země nelákají. Cardano je všude tam, kde je internet. To otevírá dveře adopci v řádech desítek milionů lidí.\n"
       },
       {
         "id": "uvod-cosmos-ekosystem",
@@ -19378,5 +19379,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T18:17:00.988Z"
+  "time": "2022-05-17T18:59:58.147Z"
 }
