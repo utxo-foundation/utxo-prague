@@ -689,6 +689,20 @@
         ]
       },
       {
+        "id": "karel-zheng",
+        "name": "Karel Zheng",
+        "twitter": "karelzheng",
+        "linkedin": "karelzheng",
+        "orgs": "Web3 @ [MitonC](https://mitonc.com/)\n",
+        "country": "cz",
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "kirill-juran",
         "name": "Kirill Juran",
         "linkedin": "kirilljuran",
@@ -2188,6 +2202,24 @@
           "DAO"
         ],
         "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n"
+      },
+      {
+        "id": "talent-ve-web3-vc-pohled",
+        "type": "talk",
+        "name": "Talent ve Web3 (z pohledu VC)",
+        "track": "defi",
+        "duration": 55,
+        "speakers": [
+          "karel-zheng"
+        ],
+        "difficulty": "advanced",
+        "tags": [
+          "práce",
+          "vývoj",
+          "DeFi",
+          "VC"
+        ],
+        "description": "Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?\n"
       },
       {
         "id": "guildy-odf-dao-organizacni-revoluce",
@@ -18723,10 +18755,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 90,
+      "speakers": 91,
       "tracks": 9,
       "event-types": 7,
-      "events": 128,
+      "events": 129,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -18734,5 +18766,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T13:00:47.306Z"
+  "time": "2022-05-17T14:26:40.494Z"
 }

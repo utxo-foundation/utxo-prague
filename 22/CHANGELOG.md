@@ -4,11 +4,13 @@
 
 ### Přednášející
 
+* přidáno [Karel Zheng](https://utxo.cz/lide?id=karel-zheng)
 * přidáno [Martin - Bitcoin Mindset](https://utxo.cz/lide?id=martin-bitcoin-mindset)
 
 ### Události
 
 * přidáno [Token = energie, Likvidita = život [TBD]](https://utxo.cz/udalosti?id=token-energie-likvidita-zivot)
+* přidáno [Talent ve Web3 (z pohledu VC)](https://utxo.cz/udalosti?id=talent-ve-web3-vc-pohled)
 * přidáno [1ab](https://utxo.cz/udalosti?id=1ab)
 * přidáno [Bitcoin Mindset](https://utxo.cz/udalosti?id=bitcoin-mindset)
 * přidáno [KryptoVláďa Q&A](https://utxo.cz/udalosti?id=kryptovlada-qa)

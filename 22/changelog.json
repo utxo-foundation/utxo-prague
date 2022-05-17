@@ -1668,6 +1668,10 @@
     "speakers": {
       "added": [
         {
+          "id": "karel-zheng",
+          "name": "Karel Zheng"
+        },
+        {
           "id": "martin-bitcoin-mindset",
           "name": "Martin - Bitcoin Mindset"
         }
@@ -1678,6 +1682,10 @@
         {
           "id": "token-energie-likvidita-zivot",
           "name": "Token = energie, Likvidita = život [TBD]"
+        },
+        {
+          "id": "talent-ve-web3-vc-pohled",
+          "name": "Talent ve Web3 (z pohledu VC)"
         },
         {
           "id": "1ab",
