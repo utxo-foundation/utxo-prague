@@ -33,6 +33,8 @@
   tags:
     - Bitcoin
     - Ethereum
+    - DeFi
+    - finanční svoboda
 
 - id: nft-metaverse-panel
   type: panel
@@ -148,6 +150,8 @@
   tags:
     - politika
     - regulace
+  fixed:
+    date: '2022-06-05'
 
 
 # Talks (přednášky)

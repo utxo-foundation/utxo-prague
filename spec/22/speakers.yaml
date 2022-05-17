@@ -994,3 +994,26 @@
   country: cz
   tracks: [ defi ]
 
+- id: adela-sipova
+  name: Adéla Šípová
+  twitter: adela_sipova
+  linkedin: adelasipova
+  orgs: |
+    Senátorka za [Pirátskou stranu](https://www.pirati.cz/)
+  country: cz
+  web:
+    url: https://www.adelasipova.cz/
+  tracks: [ regulace ]
+
+- id: hana-kocourkova
+  name: Hana Kocourková
+  twitter: danehned
+  orgs: |
+    [DaněHned.cz](https://www.danehned.cz/)
+  country: cz
+  web:
+    url: https://www.linkedin.com/in/hana-trnkov%C3%A1-kocourkov%C3%A1-88523a1a
+  tracks: [ regulace ]
+  desc: |
+    [O mně @ DaněHned.cz](https://www.danehned.cz/ucetnictvi/o-me-profesni-zivotopis)
+
