@@ -1017,3 +1017,15 @@
   desc: |
     [O mně @ DaněHned.cz](https://www.danehned.cz/ucetnictvi/o-me-profesni-zivotopis)
 
+- id: martin-bok
+  name: Martin Bok
+  orgs: |
+    Altlift Gaming DAO, analytik pro [Altlift](https://altlift.cz/), student [VŠE](https://www.vse.cz/)
+  country: cz
+  web:
+    url: https://www.facebook.com/martin.bok.96
+  tracks: [ nft, dao ]
+  desc: |
+    Modelování stock flow consistent modelů – navrhování tokenomik. Projekty: Altlift Gaming DAO
+
+

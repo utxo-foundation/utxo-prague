@@ -1673,6 +1673,25 @@
   tags:
     - DAO
 
+- id: altlift-gaming-dao
+  type: lightning
+  name: Altlift Gaming DAO
+  parent: lokalni-dao-intro
+  track: dao
+  speakers: [ martin-bok ]
+  description: |
+    Jak Altlift vstoupil do perspektivního ale extrémně volatilního NFT gaming trhu.
+
+    Dozvíte se:
+      * Proč DAO na NFT gaming? 
+      * Výhody pro investory a pro hráče 
+      * Technické provedení
+  duration: 10
+  tags:
+    - DAO
+    - gaming
+    - DeFi
+
 # Campfire
 # ==========================
 
