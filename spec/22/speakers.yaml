@@ -717,14 +717,13 @@
   
 - id: jiri-skrivan
   name: Jiří Skřivan
+  bio: Podnikatel, milovník svobody, nadšenec do krypta
   orgs: |
-    [Skovo.cz](https://www.skovo.cz/)
+    Zakladatel [Skovo.cz](https://www.skovo.cz/)
   country: cz
   tracks: [ zaklady ]
   desc: |
     Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.
-
-    Podnikatel, milovník svobody, nadšenec do krypta, zakladatel firmy. To by mohlo bohatě stačit.
 
 - id: frantisek-fuka
   name: František Fuka
