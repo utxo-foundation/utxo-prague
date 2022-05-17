@@ -14,6 +14,7 @@
 * přidáno [1ab](https://utxo.cz/udalosti?id=1ab)
 * přidáno [Bitcoin Mindset](https://utxo.cz/udalosti?id=bitcoin-mindset)
 * přidáno [KryptoVláďa Q&A](https://utxo.cz/udalosti?id=kryptovlada-qa)
+* přidáno [Sollarion introduction and giveaway](https://utxo.cz/udalosti?id=sollarion-campfire)
 
 
 ## 15.5.2022

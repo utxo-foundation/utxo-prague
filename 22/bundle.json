@@ -637,6 +637,7 @@
           "zaklady"
         ],
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -3734,6 +3735,26 @@
         ]
       },
       {
+        "id": "sollarion-campfire",
+        "type": "campfire",
+        "name": "Sollarion introduction and giveaway",
+        "speakers": [],
+        "track": "nft",
+        "duration": 30,
+        "description": "Představení jedné z prvních Českých P2E her Sollarion, která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n",
+        "tags": [
+          "NFT",
+          "gaming",
+          "P2E",
+          "Metaverse",
+          "Solana",
+          "giveaway"
+        ],
+        "fixed": {
+          "date": "2022-06-04"
+        }
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "name": "UTXO.Party - Elektronická stage",
@@ -4137,7 +4158,7 @@
         },
         "desc": "Na Anycoin.cz můžete jednoduše obchodovat více než 130 různých kryptoměn, Bitcoin zakoupíte již od částky kolem 100 Kč nebo 5 Euro. Jako první směnárna v České republice, a jedna z mála na celém světě, nabízí podporu bleskově rychlých a levných plateb Bitcoinem přes Lightning network, které uživatelům výrazně urychlují a zlevňují proces směny.",
         "photos": [
-          "web:jpg",
+          "web:svg",
           "twitter:jpg"
         ]
       },
@@ -19149,7 +19170,7 @@
       "speakers": 91,
       "tracks": 9,
       "event-types": 7,
-      "events": 129,
+      "events": 130,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -19157,5 +19178,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T14:54:46.387Z"
+  "time": "2022-05-17T16:02:27.393Z"
 }
