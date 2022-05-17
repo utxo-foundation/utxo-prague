@@ -86,6 +86,23 @@
     ]
   },
   {
+    "id": "token-energie-likvidita-zivot",
+    "type": "panel",
+    "name": "Token = energie, Likvidita = život [TBD]",
+    "track": "defi",
+    "duration": 85,
+    "difficulty": "advanced",
+    "speakers": [
+      "m0xt"
+    ],
+    "description": "Efektivní použití energie vede k dlouhodobému a udržitelnému životu. Většina krypto projektů však do této fáze ještě nedošla. Jaké jsou tedy ty správné cesty a způsoby jak toto dilema řešit?\n",
+    "tags": [
+      "Ethereum",
+      "DeFi",
+      "udržitelnost"
+    ]
+  },
+  {
     "id": "czk-stablecoin-panel",
     "type": "panel",
     "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
@@ -829,7 +846,7 @@
   {
     "id": "investovani-20",
     "type": "talk",
-    "name": "Investování 2.0",
+    "name": "Změna paradigmatu (Investování 2.0) [TBD]",
     "difficulty": "beginner",
     "track": "zaklady",
     "speakers": [
@@ -840,7 +857,8 @@
       "investice",
       "portfolio",
       "DeFi"
-    ]
+    ],
+    "description": "Modely chování, které máme naučené a přebrané z historie, nemusí fungovat/nefungují v dnešním světě. Krypto je dobrým příkladem, ale pouze jedním z mnoha. Na spoustu problémů už dnes existují alternativní řešení, nicméně se o těchto věcech a inovativních přístupech příliš nemluví. Blokchainové technologie nabízejí zajímavé paralely a představují hodnoty, na kterých by nové vzorce chování mohly fungovat lépe.\n"
   },
   {
     "id": "chyby-pri-skladani-portfolia",
@@ -1571,6 +1589,23 @@
       "indexy",
       "investice",
       "deriváty"
+    ]
+  },
+  {
+    "id": "1ab",
+    "type": "lightning",
+    "name": "1ab",
+    "track": "eth",
+    "speakers": [
+      "m0xt"
+    ],
+    "duration": 10,
+    "parent": "lokalni-defi-intro",
+    "description": "Efektivní řízení se neobejde bez datové analýzy. Spousta projektů bohužel tyto velmi cenné informace neřeší. Na vině je i komunita, která by měla vyvíjet tlak na vytvoření alespoň základního dashboardu na Dune a mít tak jasný přehled o aktuálním dění okolo daného projektu. To je další známka toho, že jsme stále ve velmi ranné fázi a podobné věci a služby se teprve tvoří. 1ab poskytuje tato data a následně reportuje získané informace týmu/komunitě.\n",
+    "tags": [
+      "Ethereum",
+      "datová analýza",
+      "vývoj"
     ]
   },
   {

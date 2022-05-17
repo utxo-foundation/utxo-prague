@@ -1676,6 +1676,14 @@
     "events": {
       "added": [
         {
+          "id": "token-energie-likvidita-zivot",
+          "name": "Token = energie, Likvidita = život [TBD]"
+        },
+        {
+          "id": "1ab",
+          "name": "1ab"
+        },
+        {
           "id": "bitcoin-mindset",
           "name": "Bitcoin Mindset"
         },

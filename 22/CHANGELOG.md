@@ -8,6 +8,8 @@
 
 ### Události
 
+* přidáno [Token = energie, Likvidita = život [TBD]](https://utxo.cz/udalosti?id=token-energie-likvidita-zivot)
+* přidáno [1ab](https://utxo.cz/udalosti?id=1ab)
 * přidáno [Bitcoin Mindset](https://utxo.cz/udalosti?id=bitcoin-mindset)
 * přidáno [KryptoVláďa Q&A](https://utxo.cz/udalosti?id=kryptovlada-qa)
 
