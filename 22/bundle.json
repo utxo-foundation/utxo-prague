@@ -918,6 +918,23 @@
         ]
       },
       {
+        "id": "martin-bok",
+        "name": "Martin Bok",
+        "orgs": "Altlift Gaming DAO, analytik pro [Altlift](https://altlift.cz/), student [VŠE](https://www.vse.cz/)\n",
+        "country": "cz",
+        "web": {
+          "url": "https://www.facebook.com/martin.bok.96"
+        },
+        "tracks": [
+          "nft",
+          "dao"
+        ],
+        "desc": "Modelování stock flow consistent modelů – navrhování tokenomik. Projekty: Altlift Gaming DAO\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "martin-gregor",
         "name": "Martin Gregor",
         "nickname": "ZaujaloMa",
@@ -3616,6 +3633,23 @@
         "parent": "lokalni-dao-intro",
         "tags": [
           "DAO"
+        ]
+      },
+      {
+        "id": "altlift-gaming-dao",
+        "type": "lightning",
+        "name": "Altlift Gaming DAO",
+        "parent": "lokalni-dao-intro",
+        "track": "dao",
+        "speakers": [
+          "martin-bok"
+        ],
+        "description": "Jak Altlift vstoupil do perspektivního ale extrémně volatilního NFT gaming trhu.\n\nDozvíte se:\n  * Proč DAO na NFT gaming? \n  * Výhody pro investory a pro hráče \n  * Technické provedení\n",
+        "duration": 10,
+        "tags": [
+          "DAO",
+          "gaming",
+          "DeFi"
         ]
       },
       {
@@ -19368,10 +19402,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 93,
+      "speakers": 94,
       "tracks": 9,
       "event-types": 7,
-      "events": 131,
+      "events": 132,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -19379,5 +19413,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T18:59:58.147Z"
+  "time": "2022-05-17T20:35:45.717Z"
 }

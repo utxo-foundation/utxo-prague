@@ -8,6 +8,7 @@
 * přidáno [Hana Kocourková](https://utxo.cz/lide?id=hana-kocourkova)
 * přidáno [Karel Zheng](https://utxo.cz/lide?id=karel-zheng)
 * přidáno [Martin - Bitcoin Mindset](https://utxo.cz/lide?id=martin-bitcoin-mindset)
+* přidáno [Martin Bok](https://utxo.cz/lide?id=martin-bok)
 
 ### Události
 
@@ -16,6 +17,7 @@
 * přidáno [1ab](https://utxo.cz/udalosti?id=1ab)
 * přidáno [Bitcoin Mindset](https://utxo.cz/udalosti?id=bitcoin-mindset)
 * přidáno [Sollarion [TBD]](https://utxo.cz/udalosti?id=sollarion)
+* přidáno [Altlift Gaming DAO](https://utxo.cz/udalosti?id=altlift-gaming-dao)
 * přidáno [KryptoVláďa Q&A](https://utxo.cz/udalosti?id=kryptovlada-qa)
 * přidáno [Sollarion introduction and giveaway](https://utxo.cz/udalosti?id=sollarion-campfire)
 
