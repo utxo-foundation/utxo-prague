@@ -604,7 +604,7 @@
   {
     "id": "dao-101",
     "type": "talk",
-    "name": "DAO 101",
+    "name": "DAOs 101 - Úvod do Decentralizovaných Autonómnych Organizácií",
     "track": "dao",
     "speakers": [
       "lenka-hudakova"
@@ -612,8 +612,10 @@
     "difficulty": "beginner",
     "duration": 55,
     "tags": [
-      "DAO"
-    ]
+      "DAO",
+      "Ethereum"
+    ],
+    "description": "Predstavím vám magický svet DAOs: preberieme čo DAOs sú, čím sú užitocné, ako sa podobajú líšia od bežných foriem organizacií. Prejdeme si viacerími oblasťami, cez ktoré sa v DAOs realizujú (technická, spoločenská, ekonomická, politická, právna). Popri ukážke niekoľkých príkladov DAOs budeme mať aj čas na diskusiu a otázky z publika. \n"
   },
   {
     "id": "future-of-defi",
