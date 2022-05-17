@@ -1813,6 +1813,25 @@
   tags:
     - komunity
 
+- id: sollarion-campfire
+  type: campfire
+  name: Sollarion introduction and giveaway
+  speakers: []
+  track: nft
+  duration: 30
+  description: |
+    Představení jedné z prvních Českých P2E her Sollarion, která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.
+
+    Campfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)
+  tags:
+    - NFT
+    - gaming
+    - P2E
+    - Metaverse
+    - Solana
+    - giveaway
+  fixed:
+    date: '2022-06-04'
 
 # Ostatní
 # ==========================
