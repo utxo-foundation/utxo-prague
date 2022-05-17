@@ -699,6 +699,7 @@
           "defi"
         ],
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -18766,5 +18767,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T14:26:40.494Z"
+  "time": "2022-05-17T14:42:14.481Z"
 }
