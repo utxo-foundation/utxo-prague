@@ -1900,7 +1900,9 @@
         "speakers": [
           "martin-panek",
           "michal-hardyn",
-          "jiri-havranek"
+          "jiri-havranek",
+          "adela-sipova",
+          "hana-kocourkova"
         ],
         "track": "spolecnost",
         "duration": 110,
@@ -19376,5 +19378,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T18:13:46.612Z"
+  "time": "2022-05-17T18:17:00.988Z"
 }
