@@ -450,6 +450,21 @@
   description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
 
+- id: talent-ve-web3-vc-pohled
+  type: talk
+  name: Talent ve Web3 (z pohledu VC)
+  track: defi
+  duration: 55
+  speakers: [ karel-zheng ]
+  difficulty: advanced
+  tags:
+    - práce
+    - vývoj
+    - DeFi
+    - VC
+  description: |
+    Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?
+
 - id: guildy-odf-dao-organizacni-revoluce
   type: talk
   name: Guildy, ODF a DAO jako organizační revoluce

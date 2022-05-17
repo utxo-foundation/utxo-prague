@@ -980,3 +980,12 @@
   country: cz
   tracks: [ btc ]
 
+- id: karel-zheng
+  name: Karel Zheng
+  twitter: karelzheng
+  linkedin: karelzheng
+  orgs: |
+    Web3 @ [MitonC](https://mitonc.com/)
+  country: cz
+  tracks: [ defi ]
+
