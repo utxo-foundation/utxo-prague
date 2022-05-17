@@ -2073,7 +2073,9 @@
     "speakers": [],
     "track": "nft",
     "duration": 30,
-    "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n",
+    "fixed": {
+      "date": "2022-06-04"
+    },
     "tags": [
       "NFT",
       "gaming",
@@ -2082,9 +2084,7 @@
       "Solana",
       "giveaway"
     ],
-    "fixed": {
-      "date": "2022-06-04"
-    }
+    "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n"
   },
   {
     "id": "party-electronic-stage",
