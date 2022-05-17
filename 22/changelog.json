@@ -1668,6 +1668,14 @@
     "speakers": {
       "added": [
         {
+          "id": "adela-sipova",
+          "name": "Adéla Šípová"
+        },
+        {
+          "id": "hana-kocourkova",
+          "name": "Hana Kocourková"
+        },
+        {
           "id": "karel-zheng",
           "name": "Karel Zheng"
         },

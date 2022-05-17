@@ -34,6 +34,23 @@
     ]
   },
   {
+    "id": "adela-sipova",
+    "name": "Adéla Šípová",
+    "twitter": "adela_sipova",
+    "linkedin": "adelasipova",
+    "orgs": "Senátorka za [Pirátskou stranu](https://www.pirati.cz/)\n",
+    "country": "cz",
+    "web": {
+      "url": "https://www.adelasipova.cz/"
+    },
+    "tracks": [
+      "regulace"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "ales-janda",
     "name": "Aleš Janda",
     "linkedin": "alesjanda",
@@ -294,6 +311,24 @@
     ],
     "photos": [
       "web:jpg"
+    ]
+  },
+  {
+    "id": "hana-kocourkova",
+    "name": "Hana Kocourková",
+    "twitter": "danehned",
+    "orgs": "[DaněHned.cz](https://www.danehned.cz/)\n",
+    "country": "cz",
+    "web": {
+      "url": "https://www.linkedin.com/in/hana-trnkov%C3%A1-kocourkov%C3%A1-88523a1a"
+    },
+    "tracks": [
+      "regulace"
+    ],
+    "desc": "[O mně @ DaněHned.cz](https://www.danehned.cz/ucetnictvi/o-me-profesni-zivotopis)\n",
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {

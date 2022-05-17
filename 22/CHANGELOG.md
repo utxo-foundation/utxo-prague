@@ -4,6 +4,8 @@
 
 ### Přednášející
 
+* přidáno [Adéla Šípová](https://utxo.cz/lide?id=adela-sipova)
+* přidáno [Hana Kocourková](https://utxo.cz/lide?id=hana-kocourkova)
 * přidáno [Karel Zheng](https://utxo.cz/lide?id=karel-zheng)
 * přidáno [Martin - Bitcoin Mindset](https://utxo.cz/lide?id=martin-bitcoin-mindset)
 

@@ -30,7 +30,9 @@
     "track": "btc",
     "tags": [
       "Bitcoin",
-      "Ethereum"
+      "Ethereum",
+      "DeFi",
+      "finanční svoboda"
     ]
   },
   {
@@ -174,7 +176,10 @@
     "tags": [
       "politika",
       "regulace"
-    ]
+    ],
+    "fixed": {
+      "date": "2022-06-05"
+    }
   },
   {
     "id": "eticky-vekslak",
