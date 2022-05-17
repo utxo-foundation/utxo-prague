@@ -1634,6 +1634,22 @@
     ]
   },
   {
+    "id": "bitcoin-mindset",
+    "type": "lightning",
+    "name": "Bitcoin Mindset",
+    "track": "zaklady",
+    "speakers": [
+      "martin-bitcoin-mindset"
+    ],
+    "duration": 10,
+    "parent": "lokalni-projekty-intro",
+    "description": "Užitečný pomocník pro kryptonadšence, který je k dispozici zcela zdarma jako aplikace pro Android, iOS nebo jako rozšíření do webového prohlížeče. Jedná se o šikovnou kalkulačku, která umí bleskově přepočítat hodnotu jednotlivých měn/kryptoměn mezi sebou. Zadaná hodnota v kterékoliv měně/kryptoměně se ihned přepočte do všech ostatních zvolených měn. Další užitečnou vlastností je například správa vlastního portfolia a možnost jednoduše přepnout všechny statistiky do jakékoliv zvolené měny.\nJednoduché nastavení, důraz na použitelnost a bez otravných reklam. Více info na: [bitcoinmindset.org](https://bitcoinmindset.org/)\n",
+    "tags": [
+      "aplikace",
+      "kurzy"
+    ]
+  },
+  {
     "id": "futureland",
     "type": "lightning",
     "name": "Futureland",
@@ -1951,7 +1967,7 @@
       "matej-yangwao"
     ],
     "tags": [
-      "komunita",
+      "komunity",
       "vývoj",
       "pracovní příležitosti"
     ],
@@ -1959,6 +1975,23 @@
     "fixed": {
       "date": "2022-06-05"
     }
+  },
+  {
+    "id": "kryptovlada-qa",
+    "type": "campfire",
+    "name": "KryptoVláďa Q&A",
+    "speakers": [
+      "vladimir-pinker"
+    ],
+    "track": "defi",
+    "duration": 60,
+    "fixed": {
+      "time": "1/19:00-20:00",
+      "stage": "campfire-outdoor"
+    },
+    "tags": [
+      "komunity"
+    ]
   },
   {
     "id": "party-electronic-stage",

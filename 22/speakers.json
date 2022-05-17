@@ -571,7 +571,7 @@
     "tracks": [
       "zaklady"
     ],
-    "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
+    "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n\nPodnikatel, milovník svobody, nadšenec do krypta, zakladatel firmy. To by mohlo bohatě stačit.\n",
     "photos": [
       "web:jpg"
     ]
@@ -817,6 +817,21 @@
     ],
     "country": "cz",
     "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "martin-bitcoin-mindset",
+    "name": "Martin - Bitcoin Mindset",
+    "twitter": "btcmnd",
+    "bio": "Programátor",
+    "orgs": "Tvůrce [Bitcoin Mindset](https://bitcoinmindset.org/)\n",
+    "country": "cz",
+    "tracks": [
+      "btc"
+    ],
+    "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },

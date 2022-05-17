@@ -1,5 +1,17 @@
 # Changelog
 
+## 17.5.2022
+
+### Přednášející
+
+* přidáno [Martin - Bitcoin Mindset](https://utxo.cz/lide?id=martin-bitcoin-mindset)
+
+### Události
+
+* přidáno [Bitcoin Mindset](https://utxo.cz/udalosti?id=bitcoin-mindset)
+* přidáno [KryptoVláďa Q&A](https://utxo.cz/udalosti?id=kryptovlada-qa)
+
+
 ## 15.5.2022
 
 ### Přednášející

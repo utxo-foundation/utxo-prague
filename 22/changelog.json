@@ -1662,5 +1662,29 @@
     "speakers": {},
     "events": {},
     "partners": {}
+  },
+  {
+    "date": "2022-05-17",
+    "speakers": {
+      "added": [
+        {
+          "id": "martin-bitcoin-mindset",
+          "name": "Martin - Bitcoin Mindset"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "bitcoin-mindset",
+          "name": "Bitcoin Mindset"
+        },
+        {
+          "id": "kryptovlada-qa",
+          "name": "KryptoVláďa Q&A"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
