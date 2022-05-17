@@ -90,7 +90,7 @@ class UTXOPlanner {
     );*/
   }
 
-  addFixedEvent(ev) {
+  addFixedTimeEvent(ev) {
     this.addEvent(ev, {
       stage: ev.fixed.stage,
       period: this.parsePeriod(ev.fixed.time),
@@ -280,9 +280,9 @@ class UTXOPlanner {
   plan() {
     // nejprve umistime fixed
     for (
-      const ev of this.eventsOriginal.filter((e) => e.fixed && e.fixed.time)
+      const ev of this.events.filter((e) => e.fixed && e.fixed.time)
     ) {
-      this.addFixedEvent(ev);
+      this.addFixedTimeEvent(ev);
     }
 
     while (this.events.length > 0) {
