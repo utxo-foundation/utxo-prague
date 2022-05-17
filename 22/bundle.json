@@ -596,12 +596,13 @@
       {
         "id": "jiri-skrivan",
         "name": "Jiří Skřivan",
-        "orgs": "[Skovo.cz](https://www.skovo.cz/)\n",
+        "bio": "Podnikatel, milovník svobody, nadšenec do krypta",
+        "orgs": "Zakladatel [Skovo.cz](https://www.skovo.cz/)\n",
         "country": "cz",
         "tracks": [
           "zaklady"
         ],
-        "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n\nPodnikatel, milovník svobody, nadšenec do krypta, zakladatel firmy. To by mohlo bohatě stačit.\n",
+        "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
         "photos": [
           "web:jpg"
         ]
@@ -18696,5 +18697,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T12:23:38.014Z"
+  "time": "2022-05-17T12:31:13.979Z"
 }
