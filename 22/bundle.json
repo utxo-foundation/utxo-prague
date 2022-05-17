@@ -2041,17 +2041,18 @@
       {
         "id": "czk-stablecoin",
         "type": "talk",
-        "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
+        "name": "Koruna česká na blockchainu (dCZK stablecoin)",
         "track": "defi",
         "speakers": [
           "radek-svarz"
         ],
         "duration": 25,
-        "difficulty": "advanced",
+        "difficulty": "beginner",
         "tags": [
           "stablecoin",
           "DeFi"
-        ]
+        ],
+        "description": "Již přes rok v kryptokomunitě probíhají intenzivní diskuze o možnosti zavedení Kč (CZK) stablecoinu. K jakým závěrům komunita dospěla? Měl by být centralizovaný, či decentralizovaný? Na jakém blockchainu by měl běžet? V jaké fázi je projekt? Jak je zorganizován? Lze na něm spolupracovat? Mohl by potkat CZK stablecoin stejný osud jako TerraUSD? Přednáška je úvodem pro následující panelovou diskuzi o dCZK stablecoinu.\n"
       },
       {
         "id": "somnium-space-talk",
@@ -19325,5 +19326,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-17T16:21:14.418Z"
+  "time": "2022-05-17T16:32:30.434Z"
 }
