@@ -1883,6 +1883,7 @@
 
 - id: party-electronic-stage
   type: other
+  track: other
   name: UTXO.Party - Elektronická stage
   speakers: [ dmitry ]
   duration: 360
@@ -1893,6 +1894,7 @@
 
 - id: party-rajska-zahrada
   type: other
+  track: other
   name: UTXO.Party - Hlavní stage [TBD]
   speakers: []
   duration: 120
@@ -1903,6 +1905,7 @@
 
 - id: closing-ceremony
   type: other
+  track: other
   name: Ukončení konference 🎉
   speakers: [ tereza-starostova, tree ]
   duration: 30
@@ -1913,6 +1916,7 @@
 
 - id: opening-ceremony
   type: other
+  track: other
   name: Slavnostní zahájení konference 🎉
   speakers: [ tereza-starostova ]
   duration: 30
