@@ -112,6 +112,16 @@
     - stablecoin
     - Ethereum
     - DeFi
+  description: |
+    Jaké jsou dopady zavedení CZK stablecoinu? Má to vůbec smysl, když se ČR zavázala přijmout euro?
+    
+    Je to vůbec možné v kontextu současných i budoucích národních a EU regulací?
+    
+    Mohly by s dCZK počítat firmy do svého účetnictví? Jaké to má daňové souvislosti?
+    
+    Jak by s dCZK pracovaly směnárny a platební brány?
+    
+    Panel navazuje na přednášku dCZK stablecoin.
 
 - id: cbdc-panel
   type: panel
