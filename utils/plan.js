@@ -286,6 +286,10 @@ class UTXOPlanner {
     }
 
     while (this.events.length > 0) {
+      if (this.unscheduled.length > 0) {
+        return null;
+      }
+
       this.iterate();
     }
 

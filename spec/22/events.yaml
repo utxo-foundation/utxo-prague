@@ -297,6 +297,16 @@
 
     Projekt vzniká v úzké spolupráci s [Nadací VIA](https://www.nadacevia.cz ) a [ČKMA](https://www.ckma.cz).
 
+- id: adopce-kryptomen
+  type: talk
+  name: Adopce kryptoměn [TBD]
+  track: regulace
+  speakers: [ marek-kyrsch ]
+  duration: 55
+  difficulty: beginner
+  tags:
+    - adopce
+
 - id: adopce-btc
   type: talk
   name: Bitcoin a české korporace
@@ -1877,6 +1887,27 @@
     Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.
 
     Campfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)
+
+- id: hopium-diaries-ape-tax-rekt
+  type: campfire
+  name: Hopiové deníky + Degenská daň (video)
+  speakers: [ tree ]
+  track: defi
+  duration: 30
+  fixed:
+    stage: campfire-indoor
+  tags:
+    - video
+    - bezpečnost
+    - budoucnost
+    - DeFi
+  description: |
+    Promítání krátkých filmů od [Rekt DAO](https://rekt.news/). "Hopium Diaries - Dystopian Dreams" (5 min) a "Ape Tax" (15 min) v angličtině s *českými* titulky.
+
+    Krátké filmy:
+      * Hopiové deníky - Dystopické sny [[Hopium Diaries - Dystopian Dreams](https://www.youtube.com/watch?v=v1Z5BnBuFyE)] (15 min)
+      * Degenská daň [[Ape Tax](https://www.youtube.com/watch?v=HJzwEi9iJsc)] (5 min)
+
 
 # Ostatní
 # ==========================
