@@ -70,7 +70,7 @@ changelog:
 schedule: plan
 
 plan:
-	deno run --unstable --allow-read --allow-write utils/plan.js
+	deno run --unstable --allow-read --allow-write utils/plan.js $(num)
 
 plan-candidates:
 	js-yaml dist/22/schedule-candidates.json > spec/22/schedule-candidates.yaml

@@ -381,7 +381,10 @@ class UTXOPlanner {
 async function main() {
   const limit = 100000;
   let i = 0;
+  const numResults = Deno.args[0] || 10;
+
   console.log("Planning started ..");
+  console.log(`Looking for ${numResults} results`);
 
   const plans = [];
 
@@ -403,7 +406,7 @@ async function main() {
       plans.push({ schedule: planner.schedule, metrics });
     }
 
-    if (plans.length >= 10) {
+    if (plans.length >= numResults) {
       const outputFn = "./dist/22/schedule-candidates.json";
       console.log(`Writing result: ${outputFn}`);
       const filtered = plans.sort((x, y) =>

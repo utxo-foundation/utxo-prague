@@ -85,3 +85,4 @@
     
 - id: other
   name: Ostatní
+  hidden: true

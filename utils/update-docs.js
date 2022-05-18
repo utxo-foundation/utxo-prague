@@ -85,6 +85,9 @@ const methods = {
   async tracksGen() {
     const output = [];
     for (const track of tracks) {
+      if (track.hidden) {
+        continue;
+      }
       output.push(
         `<details>\n\n<summary>${track.name}</summary>\n\n${track.examples.trim()}\n\n</details>`,
       );
