@@ -9,6 +9,8 @@
 ### Události
 
 * přidáno [Adopce kryptoměn [TBD]](https://utxo.cz/udalosti?id=adopce-kryptomen)
+* přidáno [Jak využít potenciál DeFi na maximum [TBD]](https://utxo.cz/udalosti?id=jak-vyuzit-potencial-defi-na-maximum)
+* přidáno [Maximální yield bez ohledu na chain [TBD]](https://utxo.cz/udalosti?id=maximalni-yield-bez-ohledu-na-chain)
 * přidáno [Hopiové deníky + Degenská daň (video)](https://utxo.cz/udalosti?id=hopium-diaries-ape-tax-rekt)
 * přidáno [Blockchain and gaming: How to prevent getting scammed [EN]](https://utxo.cz/udalosti?id=blockchain-gaming-scams)
 * přidáno [Krypto v podnikaní](https://utxo.cz/udalosti?id=krypto-v-podnikani-campfire)

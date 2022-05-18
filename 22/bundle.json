@@ -2809,6 +2809,20 @@
         }
       },
       {
+        "id": "jak-vyuzit-potencial-defi-na-maximum",
+        "type": "talk",
+        "name": "Jak využít potenciál DeFi na maximum [TBD]",
+        "track": "defi",
+        "speakers": [
+          "stepan-fau"
+        ],
+        "duration": 25,
+        "difficulty": "advanced",
+        "tags": [
+          "DeFi"
+        ]
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "lightning-series",
         "name": "Lokální krypto komunity",
@@ -3265,6 +3279,24 @@
         "description": "Úvod do tvorby smart contractů na Solana blockchainu. Představíme si jak funguje Solana blockchain, jaké jsou jeho rozdíly ve srovnání s Ethereem. Probereme account model Solany, který je třeba pochopit před samotnou prací se smart contracty na této síti, a hned si jeden smart contract vytvoříme a deployujeme na lokální instanci. Pro účast je výhodná alespoň základní znalost programování. Je možné přijít s notebookem a tvorbu kontraktu si vyzkoušet, nebo si jen poslechnout teorii a sledovat postup.\n"
       },
       {
+        "id": "maximalni-yield-bez-ohledu-na-chain",
+        "type": "workshop",
+        "name": "Maximální yield bez ohledu na chain [TBD]",
+        "track": "defi",
+        "speakers": [
+          "stepan-fau"
+        ],
+        "duration": 50,
+        "difficulty": "expert",
+        "after": [
+          "jak-vyuzit-potencial-defi-na-maximum"
+        ],
+        "tags": [
+          "DeFi",
+          "yield farming"
+        ]
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -3594,12 +3626,12 @@
         ],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
-        "description": "[Pozvánka na Discord](https://discord.gg/X4MV9Pn5P8)\n",
         "tags": [
           "komunity",
           "NFT",
           "metaverse"
-        ]
+        ],
+        "description": "Představení historicky první československé NFT komunity. Ke komunikaci používáme aplikaci [Discord](https://discord.gg/X4MV9Pn5P8), kde je již přes 700 členů. Naše komunita je přístupná každému zdarma.  Dostanete zde odpovědí na své otázky, přístup k edukačním materiálům, alpha leaky a tipy na zajímavé NFT projekty. Primárně se snažíme zaměřovat na long term kvalitní projekty, kde se vyplatí NFTs dlouhodobě držet, než prodávat, ale i NFT projekty s možností rychlého výnosu, tedy takzvaného „flipu“, kdy NFT vymintujete a následně jej prodáte na sekundárním trhu za účelem rychlého zisku.  Ne vždy to však vyjde, je třeba si dávat pozor. Možnost konzultovat případné investice s větší skupinou NFT nadšenců a expertů, kteří již mají nějaké zkušenosti však rizika ztrát značně snižuje. Přístup do komunity je sice zdarma, ale pro držitelé Resistance Club NFTs se otevírají další možnosti, jako přístupy do tajných kanálů, neveřejně zmiňované alpha leaky a další výhody, o kterých se můžete dozvědět více, pokud se připojíte na discord, nebo navštívíte tuto bleskovou přednášku.\n\nV naší komunitě panuje stále přátelská nálada a uvítáme nové aktivní členy. Pokud se k nám tedy chcete přidat a začít objevovat tento nový trend, připojte se na discord: https://discord.gg/X4MV9Pn5P8\n- Resistance\n"
       },
       {
         "id": "polkadotters",
@@ -20024,7 +20056,7 @@
       "speakers": 95,
       "tracks": 10,
       "event-types": 7,
-      "events": 136,
+      "events": 138,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -20032,5 +20064,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-18T15:01:34.402Z"
+  "time": "2022-05-18T22:51:17.858Z"
 }
