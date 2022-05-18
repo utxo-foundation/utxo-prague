@@ -1717,7 +1717,8 @@
       },
       {
         "id": "other",
-        "name": "Ostatní"
+        "name": "Ostatní",
+        "hidden": true
       }
     ],
     "event-types": [
@@ -19421,5 +19422,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-18T00:17:33.473Z"
+  "time": "2022-05-18T00:51:05.029Z"
 }

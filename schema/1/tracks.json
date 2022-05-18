@@ -21,6 +21,9 @@
       },
       "examples": {
         "type": "string"
+      },
+      "hidden": {
+        "type": "boolean"
       }
     }
   }

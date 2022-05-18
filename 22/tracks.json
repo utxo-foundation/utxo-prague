@@ -54,6 +54,7 @@
   },
   {
     "id": "other",
-    "name": "Ostatní"
+    "name": "Ostatní",
+    "hidden": true
   }
 ]
