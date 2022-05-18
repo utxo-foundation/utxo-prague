@@ -51,5 +51,9 @@
     "name": "Krypto-společnost",
     "shortname": "Společnost",
     "examples": "* odluka peněz od státu\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* představení lokálních krypto-komunit\n* fenomén maximalismu\n"
+  },
+  {
+    "id": "other",
+    "name": "Ostatní"
   }
 ]
