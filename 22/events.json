@@ -2157,12 +2157,28 @@
       "edvard-meliksetyan"
     ],
     "track": "nft",
-    "duration": 30,
+    "duration": 15,
     "description": "With the rapidly growing interest in the industry of crypto assets, blockchain and NFTs, the amount of scammers in the industry is growing just as fast and their techniques are getting more and more sophisticated. What are the common red flags? Is it possible to tell a cryptoscam? And how? Explained by Edvard Meliksetyan, NFT gaming expert from Altlift.\n\nTato campfire bude angličtině (EN).\n",
     "tags": [
       "NFT",
       "gaming",
       "scamy"
+    ]
+  },
+  {
+    "id": "krypto-v-podnikani-campfire",
+    "type": "campfire",
+    "name": "Krypto v podnikaní",
+    "speakers": [
+      "juraj-bednar"
+    ],
+    "track": "spolecnost",
+    "duration": 45,
+    "description": "Ak podnikáte (v inej oblasti ako priamo v kryptomenách) a používate alebo by ste chceli používať kryptomeny vo svojom podnikaní, poďte sa porozprávať o tom ako využívate Bitcoin. Akceptovanie, mzdy v krypte, Bitcoin na súvahe, firemné krypto fondy, čo robiť v bear markete, príbehy o tom ako vám Bitcoin zachránil prdel alebo zlomil krk.\n",
+    "tags": [
+      "podnikání",
+      "Bitcoin",
+      "adopce"
     ]
   },
   {
