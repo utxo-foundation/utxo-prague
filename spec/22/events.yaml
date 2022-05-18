@@ -20,6 +20,7 @@
   tags:
     - práce
     - finanční nezávislost
+    - ženy
 
 - id: btc-vs-altcoiny
   type: panel
@@ -68,7 +69,7 @@
 
 - id: nft-curation-art-heritage
   type: panel
-  name: NFT curation/art/heritage [TBD]
+  name: NFT curation / art / heritage [TBD]
   speakers: []
   duration: 85
   difficulty: beginner
@@ -1639,12 +1640,14 @@
   type: lightning
   name: Cardanians
   track: alty
-  speakers: []
+  speakers: [ jaromir-tesar ]
   duration: 10
   parent: lokalni-komunity-intro
   tags:
     - komunity
     - Cardano
+  description: |
+    V roce 2017 měl běžný projekt hezké webové stránky, white paper a v lepším případě 5 vývojářů. Cardano bylo od začátku jiné. Projekt založený na vědeckém výzkumu a budovaný jako software pro letecký průmysl krypto světu chyběl. Bitcoin i Ethereum mají velké komunity. My jsem se rozhodli budovat Cardano komunitu. Provozujeme Cardano pool, budujeme aplikace, udržujeme českou facebookovou skupinu, jsme aktivní na [Twitteru](https://twitter.com/Cardanians_io), píšeme články, které se běžně překládají do několika jazyků. To jsou [Cardanians](https://cardanians.io/en).
 
 - id: kryptoherna
   type: lightning
@@ -1908,6 +1911,20 @@
       * Hopiové deníky - Dystopické sny [[Hopium Diaries - Dystopian Dreams](https://www.youtube.com/watch?v=v1Z5BnBuFyE)] (15 min)
       * Degenská daň [[Ape Tax](https://www.youtube.com/watch?v=HJzwEi9iJsc)] (5 min)
 
+- id: blockchain-gaming-scams
+  type: campfire
+  name: 'Blockchain and gaming: How to prevent getting scammed [EN]'
+  speakers: [ edvard-meliksetyan ]
+  track: nft
+  duration: 30
+  description: |
+    With the rapidly growing interest in the industry of crypto assets, blockchain and NFTs, the amount of scammers in the industry is growing just as fast and their techniques are getting more and more sophisticated. What are the common red flags? Is it possible to tell a cryptoscam? And how? Explained by Edvard Meliksetyan, NFT gaming expert from Altlift.
+
+    Tato campfire bude angličtině (EN).
+  tags:
+    - NFT
+    - gaming
+    - scamy
 
 # Ostatní
 # ==========================
