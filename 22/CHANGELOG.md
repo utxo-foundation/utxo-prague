@@ -1,5 +1,13 @@
 # Changelog
 
+## 18.5.2022
+
+### Události
+
+* přidáno [Adopce kryptoměn [TBD]](https://utxo.cz/udalosti?id=adopce-kryptomen)
+* přidáno [Hopiové deníky + Degenská daň (video)](https://utxo.cz/udalosti?id=hopium-diaries-ape-tax-rekt)
+
+
 ## 17.5.2022
 
 ### Přednášející

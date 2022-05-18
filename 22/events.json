@@ -343,6 +343,20 @@
     "description": "Nedávné události ukázaly, že mezi držiteli krypta je již dostatek lidí s filantropickým cítěním. Tito kryptodárci věří v budoucí výrazný růst hodnoty virtuálních aktiv, naráží však na to, že tradiční neziskové organizace neumí krypto uchovávat a pracovat s ním pro vytváření dodatečných výnosů pro dobročinné účely. Lightning talk představí projekt české KryptoNadace, která má ambici adresovat několik problémů souvisejících ve střetu krypto-světa a tradičního neziskového světa.\n\nProblémy jako: zbytečná byrokracie pro krypto dárce; neschopnost, či obavy neziskových organizací přijímat krypto; zbytečný exit z kryptoměn; neefektivita využívání kryptoměn.\n\nProjekt vzniká v úzké spolupráci s [Nadací VIA](https://www.nadacevia.cz ) a [ČKMA](https://www.ckma.cz).\n"
   },
   {
+    "id": "adopce-kryptomen",
+    "type": "talk",
+    "name": "Adopce kryptoměn [TBD]",
+    "track": "regulace",
+    "speakers": [
+      "marek-kyrsch"
+    ],
+    "duration": 55,
+    "difficulty": "beginner",
+    "tags": [
+      "adopce"
+    ]
+  },
+  {
     "id": "adopce-btc",
     "type": "talk",
     "name": "Bitcoin a české korporace",
@@ -2110,6 +2124,26 @@
       "giveaway"
     ],
     "description": "Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.\n\nCampfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)\n"
+  },
+  {
+    "id": "hopium-diaries-ape-tax-rekt",
+    "type": "campfire",
+    "name": "Hopiové deníky + Degenská daň (video)",
+    "speakers": [
+      "tree"
+    ],
+    "track": "defi",
+    "duration": 30,
+    "fixed": {
+      "stage": "campfire-indoor"
+    },
+    "tags": [
+      "video",
+      "bezpečnost",
+      "budoucnost",
+      "DeFi"
+    ],
+    "description": "Promítání krátkých filmů od [Rekt DAO](https://rekt.news/). \"Hopium Diaries - Dystopian Dreams\" (5 min) a \"Ape Tax\" (15 min) v angličtině s *českými* titulky.\n\nKrátké filmy:\n  * Hopiové deníky - Dystopické sny [[Hopium Diaries - Dystopian Dreams](https://www.youtube.com/watch?v=v1Z5BnBuFyE)] (15 min)\n  * Degenská daň [[Ape Tax](https://www.youtube.com/watch?v=HJzwEi9iJsc)] (5 min)\n"
   },
   {
     "id": "party-electronic-stage",

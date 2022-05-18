@@ -1730,7 +1730,18 @@
   {
     "date": "2022-05-18",
     "speakers": {},
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "adopce-kryptomen",
+          "name": "Adopce kryptoměn [TBD]"
+        },
+        {
+          "id": "hopium-diaries-ape-tax-rekt",
+          "name": "Hopiové deníky + Degenská daň (video)"
+        }
+      ]
+    },
     "partners": {}
   }
 ]
