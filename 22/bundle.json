@@ -362,6 +362,7 @@
         "id": "hana-kocourkova",
         "name": "Hana Kocourková",
         "twitter": "danehned",
+        "bio": "Kryptoúčetní",
         "orgs": "[DaněHned.cz](https://www.danehned.cz/)\n",
         "country": "cz",
         "web": {
@@ -1876,7 +1877,7 @@
       {
         "id": "czk-stablecoin-panel",
         "type": "panel",
-        "name": "Decentralizováná krypto-koruna (CZK stablecoin)",
+        "name": "Koruna česká na blockchainu (dCZK stablecoin) - panelová debata",
         "speakers": [
           "david-antos",
           "lukas-kovanda",
@@ -1952,7 +1953,8 @@
         ],
         "fixed": {
           "date": "2022-06-05"
-        }
+        },
+        "description": "Většina účastníků konference zřejmě bude mít ve svých peněženkách nějaký ten bitcoin, ether nebo jinou kryptoměnu. Co když je chceme prodat? Bude se právní prostředí zlepšovat, a máme tedy počkat, nebo naopak bude pro střadatele hůře? Není lepší odstěhovat se do Německa… nebo do Panamy? Co si na nás chystají zákonodárci a co s tím my ostatní můžeme dělat, na to odpoví náš panel s poslancem za ODS Jiřím Havránkem, senátorkou za Piráty Adélou Šípovou, kryptoúčetní Hanou Kocourkovou a podnikatelem Michalem Hardynem. Moderuje Martin Pánek, ředitel [Liberálního institutu](https://libinst.cz/).\n\nDebatní panel [Liberálního institutu](https://libinst.cz/).\n"
       },
       {
         "id": "eticky-vekslak",
@@ -2018,7 +2020,7 @@
         ],
         "duration": 55,
         "difficulty": "beginner",
-        "description": "\nPřednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/). Pokrok bez povolení je o střetu digitálních technologií 21. století se světem kamenných institucí 20. století. Je to kniha pro lidi, které fascinují technologie a jejich vliv na společnost. Je kompletním průvodcem světem, kde Airbnb oživuje mrtvý kapitál a konkuruje státu ve tvorbě regulací, kde Kickstarter nahrazuje vybírání daní a pomáhá financovat veřejné služby a kde Bitcoin umožňuje budovat paralelní společnost, v níž neexistují žádní šéfové. Pokrok, který přináší internet, nekonkuruje pouze analogovým podnikatelům a kamenným obchodům, ale především světu zákonů, úředníků a politiky.\n",
+        "description": "Pokrok bez povolení je o střetu digitálních technologií 21. století se světem kamenných institucí 20. století. Je to kniha pro lidi, které fascinují technologie a jejich vliv na společnost. Je kompletním průvodcem světem, kde Airbnb oživuje mrtvý kapitál a konkuruje státu ve tvorbě regulací, kde Kickstarter nahrazuje vybírání daní a pomáhá financovat veřejné služby a kde Bitcoin umožňuje budovat paralelní společnost, v níž neexistují žádní šéfové. Pokrok, který přináší internet, nekonkuruje pouze analogovým podnikatelům a kamenným obchodům, ale především světu zákonů, úředníků a politiky.\n\nPřednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/).\n",
         "tags": [
           "sdílená ekonomika",
           "crowdfunding",
@@ -3224,7 +3226,8 @@
         "difficulty": "beginner",
         "tags": [
           "liberalismus"
-        ]
+        ],
+        "description": "Jan Mošovský a Martin Pánek povedou otevřenou debatu o historii liberálního hnutí, jeho filosofických základech, praktických aplikacích v politice a hrdinech boje za svobodu. Víte, že Karel Havlíček Borovský byl velký liberál a psal dobře mj. o daních a státní byrokracii? Kdo byla Harriet Tubmanová? Měl pravdu John Rawls, nebo Robert Nozick? Jak liberalismus inspiroval zájem o kryptoměny i jejich vznik? To všechno probereme na workshopu. Příspěvky z publika vítány.\n\nWorkshop [Liberálního institutu](https://libinst.cz/) a [Studentů za svobodu](https://studentsforlibertycz.cz/)</a>. \n"
       },
       {
         "id": "play-to-earn-sorare",
@@ -20029,5 +20032,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-18T12:30:22.495Z"
+  "time": "2022-05-18T15:01:34.402Z"
 }
