@@ -302,6 +302,21 @@
         ]
       },
       {
+        "id": "edvard-meliksetyan",
+        "name": "Edvard Meliksetyan",
+        "orgs": "NFT gaming specialist @ [Altlift](https://altlift.cz/)\n",
+        "country": "am",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://cz.linkedin.com/in/edvard-meliksetyan-a01658122"
+        },
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "frantisek-fuka",
         "name": "František Fuka",
         "nickname": "fuxoft",
@@ -1767,7 +1782,8 @@
         "difficulty": "beginner",
         "tags": [
           "práce",
-          "finanční nezávislost"
+          "finanční nezávislost",
+          "ženy"
         ]
       },
       {
@@ -1830,7 +1846,7 @@
       {
         "id": "nft-curation-art-heritage",
         "type": "panel",
-        "name": "NFT curation/art/heritage [TBD]",
+        "name": "NFT curation / art / heritage [TBD]",
         "speakers": [],
         "duration": 85,
         "difficulty": "beginner",
@@ -3600,13 +3616,16 @@
         "type": "lightning",
         "name": "Cardanians",
         "track": "alty",
-        "speakers": [],
+        "speakers": [
+          "jaromir-tesar"
+        ],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
         "tags": [
           "komunity",
           "Cardano"
-        ]
+        ],
+        "description": "V roce 2017 měl běžný projekt hezké webové stránky, white paper a v lepším případě 5 vývojářů. Cardano bylo od začátku jiné. Projekt založený na vědeckém výzkumu a budovaný jako software pro letecký průmysl krypto světu chyběl. Bitcoin i Ethereum mají velké komunity. My jsem se rozhodli budovat Cardano komunitu. Provozujeme Cardano pool, budujeme aplikace, udržujeme českou facebookovou skupinu, jsme aktivní na [Twitteru](https://twitter.com/Cardanians_io), píšeme články, které se běžně překládají do několika jazyků. To jsou [Cardanians](https://cardanians.io/en).\n"
       },
       {
         "id": "kryptoherna",
@@ -3897,6 +3916,22 @@
           "DeFi"
         ],
         "description": "Promítání krátkých filmů od [Rekt DAO](https://rekt.news/). \"Hopium Diaries - Dystopian Dreams\" (5 min) a \"Ape Tax\" (15 min) v angličtině s *českými* titulky.\n\nKrátké filmy:\n  * Hopiové deníky - Dystopické sny [[Hopium Diaries - Dystopian Dreams](https://www.youtube.com/watch?v=v1Z5BnBuFyE)] (15 min)\n  * Degenská daň [[Ape Tax](https://www.youtube.com/watch?v=HJzwEi9iJsc)] (5 min)\n"
+      },
+      {
+        "id": "blockchain-gaming-scams",
+        "type": "campfire",
+        "name": "Blockchain and gaming: How to prevent getting scammed [EN]",
+        "speakers": [
+          "edvard-meliksetyan"
+        ],
+        "track": "nft",
+        "duration": 30,
+        "description": "With the rapidly growing interest in the industry of crypto assets, blockchain and NFTs, the amount of scammers in the industry is growing just as fast and their techniques are getting more and more sophisticated. What are the common red flags? Is it possible to tell a cryptoscam? And how? Explained by Edvard Meliksetyan, NFT gaming expert from Altlift.\n\nTato campfire bude angličtině (EN).\n",
+        "tags": [
+          "NFT",
+          "gaming",
+          "scamy"
+        ]
       },
       {
         "id": "party-electronic-stage",
@@ -19705,10 +19740,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 94,
+      "speakers": 95,
       "tracks": 10,
       "event-types": 7,
-      "events": 134,
+      "events": 135,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -19716,5 +19751,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-18T02:24:15.034Z"
+  "time": "2022-05-18T02:56:06.014Z"
 }

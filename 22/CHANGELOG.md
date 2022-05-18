@@ -2,10 +2,15 @@
 
 ## 18.5.2022
 
+### Přednášející
+
+* přidáno [Edvard Meliksetyan](https://utxo.cz/lide?id=edvard-meliksetyan)
+
 ### Události
 
 * přidáno [Adopce kryptoměn [TBD]](https://utxo.cz/udalosti?id=adopce-kryptomen)
 * přidáno [Hopiové deníky + Degenská daň (video)](https://utxo.cz/udalosti?id=hopium-diaries-ape-tax-rekt)
+* přidáno [Blockchain and gaming: How to prevent getting scammed [EN]](https://utxo.cz/udalosti?id=blockchain-gaming-scams)
 
 
 ## 17.5.2022

@@ -1729,7 +1729,14 @@
   },
   {
     "date": "2022-05-18",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "edvard-meliksetyan",
+          "name": "Edvard Meliksetyan"
+        }
+      ]
+    },
     "events": {
       "added": [
         {
@@ -1739,6 +1746,10 @@
         {
           "id": "hopium-diaries-ape-tax-rekt",
           "name": "Hopiové deníky + Degenská daň (video)"
+        },
+        {
+          "id": "blockchain-gaming-scams",
+          "name": "Blockchain and gaming: How to prevent getting scammed [EN]"
         }
       ]
     },
