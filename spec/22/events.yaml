@@ -2045,7 +2045,7 @@
   track: btc
   duration: 30
   description: |
-    Jedni se radují z nizkých transakčních poplatků, druzí se hrozí že jsou přiliš levné. Co se stane, až odměna těžařům za vytěžený blok (block reward) klesne na minimum nebo tisknutí nových BTC přestane úplně? Pokud tyto odměny nezastoupí poplatky, tak se bezpečnost Bitcoinu bude postupně snižovat. Budou lidé ochotni platit za bitcoinovou transakci tisíce dolarů? Je to dnes aktuální? Co s tím má společného Lightning Network? A není to jenom FUD? - pojďme společně a věcně pohovořit o možných scénářích následujícího vývoje.
+    Jedni se radují z nízkých transakčních poplatků v Bitcoin síti, druzí se hrozí že jsou přiliš levné. Co se stane, až odměna těžařům za vytěžený blok (block reward) klesne na minimum nebo až tisknutí nových satů přestane úplně? Pokud tyto odměny nezastoupí poplatky, tak se bezpečnost Bitcoinu bude postupně snižovat. Budou lidé ochotni platit za bitcoinovou transakci tisíce dolarů? Proč se o to zajímat už teď? Co s tím má společného Lightning Network? A není to jenom FUD? - pojďme společně a věcně pohovořit o možných scénářích následujícího vývoje.
   tags:
     - Bitcoin
     - bezpečnost
