@@ -2851,7 +2851,7 @@
         "speakers": [
           "petr-klein"
         ],
-        "duration": 35,
+        "duration": 50,
         "description": "Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.\nVěděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukromí zpět do vlastních rukou? \nJde to i jinak právě díky [Fediverse](https://fediverse.io) ([Mastodon](https://joinmastodon.org/)).\n\nNapadlo vás někdy, že by bylo fajn kdybyste mohli např. odebírat Youtube kanál z vašeho Instagram účtu nebo napsat zprávu někomu na Facebook z vašeho Twitter účtu?\nTo vše je dnes možné a to navíc s ohledem na naše soukromí, tedy bez reklam a bezpečně.\n",
         "tags": [
           "bezpečnost",
@@ -3025,27 +3025,11 @@
         "speakers": [
           "petr-klein"
         ],
-        "duration": 90,
+        "duration": 80,
         "difficulty": "advanced",
         "description": "Na workshopu si řekneme základní principy soukromí včetně toho, jakým nástrojům se vyhnout.\nNainstalujeme si Linux Tails OS na usb a řekneme si jak funguje TOR vs Lokinet vs VPN. \nZároveň se pobavíme o operačních systémech, prohlížečích, případně komunikačních nástrojích jako je Signal, Session nebo Briar.\n\nPokud se budete chtít plně zapojit, připravte si: \n- [ ] USB stick (alespoň 8GB)\n- [ ] Notebook\n- [ ] Stažený [Tails OS](https://tails.boum.org/install/download/index.en.html)\n- [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/)\n",
         "tags": [
           "bezpečnost",
-          "soukromí",
-          "anonymizace"
-        ]
-      },
-      {
-        "id": "tornado-workshop",
-        "type": "workshop",
-        "name": "Základy anonymizace tokenů (Tornado, SCRT, Aztec)",
-        "track": "zaklady",
-        "speakers": [
-          "petr-klein"
-        ],
-        "duration": 50,
-        "difficulty": "advanced",
-        "description": "Na workshopu si řekneme základní principy anonymizace tokenů (primárně ETH), jaké jsou časté chyby typu linkování adres nebo browser fingerprinting. Vyzkoušíme si Tornado.cash v1 + vysvětlíme si jak funguje Tornado Nova.\nDále si řekneme výhody [SCRT.network](https://scrt.network) a ukážeme si jak ji začít jednoduše používat. \nMůžeme se pobavit také o Aztec prokolu.\n",
-        "tags": [
           "soukromí",
           "anonymizace"
         ]
@@ -20975,7 +20959,7 @@
       "speakers": 99,
       "tracks": 10,
       "event-types": 7,
-      "events": 142,
+      "events": 141,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -20983,5 +20967,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-19T19:14:15.692Z"
+  "time": "2022-05-19T20:27:57.783Z"
 }

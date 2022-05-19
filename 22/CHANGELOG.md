@@ -19,6 +19,7 @@
 
 ### Události
 
+* odebráno [Základy anonymizace tokenů (Tornado, SCRT, Aztec)](https://utxo.cz/udalosti?id=tornado-workshop)
 * odebráno [BohemianDAO](https://utxo.cz/udalosti?id=bohemiandao)
 
 

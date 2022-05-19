@@ -1814,6 +1814,10 @@
       ],
       "removed": [
         {
+          "id": "tornado-workshop",
+          "name": "Základy anonymizace tokenů (Tornado, SCRT, Aztec)"
+        },
+        {
           "id": "bohemiandao",
           "name": "BohemianDAO"
         }
