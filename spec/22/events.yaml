@@ -886,7 +886,7 @@
   track: zaklady
   difficulty: beginner
   speakers: [ petr-klein ]
-  duration: 35
+  duration: 50
   description: |
     Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.
     Věděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukromí zpět do vlastních rukou? 
@@ -1045,7 +1045,7 @@
   name: Základy soukromí a anonymizace
   track: zaklady
   speakers: [ petr-klein ]
-  duration: 90
+  duration: 80
   difficulty: advanced
   description: |
     Na workshopu si řekneme základní principy soukromí včetně toho, jakým nástrojům se vyhnout.
@@ -1059,21 +1059,6 @@
     - [ ] Nástroj pro instalaci na USB [balenaEtcher](https://www.balena.io/etcher/)
   tags:
     - bezpečnost
-    - soukromí
-    - anonymizace
-
-- id: tornado-workshop
-  type: workshop
-  name: Základy anonymizace tokenů (Tornado, SCRT, Aztec)
-  track: zaklady
-  speakers: [ petr-klein ]
-  duration: 50
-  difficulty: advanced
-  description: |
-    Na workshopu si řekneme základní principy anonymizace tokenů (primárně ETH), jaké jsou časté chyby typu linkování adres nebo browser fingerprinting. Vyzkoušíme si Tornado.cash v1 + vysvětlíme si jak funguje Tornado Nova.
-    Dále si řekneme výhody [SCRT.network](https://scrt.network) a ukážeme si jak ji začít jednoduše používat. 
-    Můžeme se pobavit také o Aztec prokolu.
-  tags:
     - soukromí
     - anonymizace
 
