@@ -1802,6 +1802,10 @@
         {
           "id": "opcni-protokoly-dnes-a-zitra",
           "name": "Opční protokoly dnes a zítra"
+        },
+        {
+          "id": "prezije-bitcoin-bez-block-rewards",
+          "name": "Přežije Bitcoin, až se nebudou tisknout nové bitcoiny?"
         }
       ],
       "removed": [
