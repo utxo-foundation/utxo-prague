@@ -131,7 +131,11 @@
       "Ethereum",
       "DeFi"
     ],
-    "description": "Jaké jsou dopady zavedení CZK stablecoinu? Má to vůbec smysl, když se ČR zavázala přijmout euro? Je to vůbec možné v kontextu současných i budoucích národních a EU regulací? Jaký je rozdíl vnímání stablecoinů před a po krachu TerraUSD? Mohly by s dCZK počítat firmy do svého účetnictví? Jaké to má daňové souvislosti? Jak by s dCZK pracovaly směnárny a platební brány? Panel navazuje na přednášku dCZK stablecoin.\n"
+    "description": "Jaké jsou dopady zavedení CZK stablecoinu? Má to vůbec smysl, když se ČR zavázala přijmout euro? Je to vůbec možné v kontextu současných i budoucích národních a EU regulací? Jaký je rozdíl vnímání stablecoinů před a po krachu TerraUSD? Mohly by s dCZK počítat firmy do svého účetnictví? Jaké to má daňové souvislosti? Jak by s dCZK pracovaly směnárny a platební brány? Panel navazuje na přednášku dCZK stablecoin.\n",
+    "fixed": {
+      "stage": "lustrovy-sal",
+      "time": "2/14:00-15:30"
+    }
   },
   {
     "id": "cbdc-panel",
@@ -227,14 +231,14 @@
   {
     "id": "historie-cypherpunku",
     "type": "talk",
-    "name": "Cypherpunks a jejich role v dnešním světě",
-    "track": "spolecnost",
+    "name": "Bitcoin a Cypherpunks - Jejich role v dnešním světě",
+    "track": "btc",
     "speakers": [
       "matthew-cook"
     ],
     "duration": 55,
     "difficulty": "beginner",
-    "description": "Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n",
+    "description": "Bitcoin tu s námi je 13 let a rychle si vydobyl místo na výsluní jako alternativa k nynějšímu monetárnímu systému. Bitcoin je svatý grál, sen mnohých Cypherpunků, kteří na myšlence nestátních peněz pracovali již od 80. let. Rychle proletíme historii hnutí Cypherpunks tak, abychom vypíchli jejich hlavní myšlenky, které přetrvávají a jsou platné do dnešní digitální doby a také si představíme nástroje, které nám pomohou v této rychlé době excelovat.\n\nPřednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)\n",
     "tags": [
       "cypherpunk",
       "Bitcoin",
@@ -357,7 +361,9 @@
     "duration": 55,
     "difficulty": "beginner",
     "tags": [
-      "adopce"
+      "adopce",
+      "burzy",
+      "směnárny"
     ]
   },
   {
@@ -391,7 +397,11 @@
       "stablecoin",
       "DeFi"
     ],
-    "description": "Již přes rok v kryptokomunitě probíhají intenzivní diskuze o možnosti zavedení Kč (CZK) stablecoinu. K jakým závěrům komunita dospěla? Měl by být centralizovaný, či decentralizovaný? Na jakém blockchainu by měl běžet? V jaké fázi je projekt? Jak je zorganizován? Lze na něm spolupracovat? Mohl by potkat CZK stablecoin stejný osud jako TerraUSD? Přednáška je úvodem pro následující panelovou diskuzi o dCZK stablecoinu.\n"
+    "description": "Již přes rok v kryptokomunitě probíhají intenzivní diskuze o možnosti zavedení Kč (CZK) stablecoinu. K jakým závěrům komunita dospěla? Měl by být centralizovaný, či decentralizovaný? Na jakém blockchainu by měl běžet? V jaké fázi je projekt? Jak je zorganizován? Lze na něm spolupracovat? Mohl by potkat CZK stablecoin stejný osud jako TerraUSD? Přednáška je úvodem pro následující panelovou diskuzi o dCZK stablecoinu.\n",
+    "fixed": {
+      "stage": "lustrovy-sal",
+      "time": "2/13:30-14:00"
+    }
   },
   {
     "id": "somnium-space-talk",
@@ -746,7 +756,7 @@
   {
     "id": "eth2",
     "type": "talk",
-    "name": "The Merge (Eth2)",
+    "name": "The Merge (Eth2) [TBD]",
     "track": "eth",
     "speakers": [
       "mario-havel"
@@ -1111,7 +1121,7 @@
       "DeFi"
     ],
     "description": "Představení lokálních DeFi projektů.\n",
-    "duration": 55
+    "duration": 85
   },
   {
     "id": "lokalni-nft-intro",
@@ -1123,7 +1133,7 @@
       "NFT"
     ],
     "description": "Představení lokálních NFT/Metaverse projektů.\n",
-    "duration": 55
+    "duration": 85
   },
   {
     "id": "eticky-vekslak-workshop",
@@ -1358,7 +1368,7 @@
   {
     "id": "jak-si-posichrovat-a-rozlozit-portfolio",
     "type": "workshop",
-    "name": "Jak si posichrovat a rozložit svoje portfolio?",
+    "name": "Jak vydělat miliony, i když je nemáš",
     "track": "zaklady",
     "speakers": [
       "tomas-zdrazil"
@@ -1368,7 +1378,8 @@
     "tags": [
       "portfolio",
       "investice"
-    ]
+    ],
+    "description": "Původně jsem přednášku nazval: \"Jak si posichrovat a rozložit svoje portfolio.\" Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuli, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.\n"
   },
   {
     "id": "lightning-ekosystem",
@@ -1913,21 +1924,6 @@
     ]
   },
   {
-    "id": "bohemiandao",
-    "type": "lightning",
-    "name": "BohemianDAO",
-    "track": "eth",
-    "speakers": [],
-    "duration": 10,
-    "parent": "lokalni-dao-intro",
-    "tags": [
-      "Ethereum",
-      "DAO",
-      "filantropie",
-      "Gnosis Chain"
-    ]
-  },
-  {
     "id": "slavicdao",
     "type": "lightning",
     "name": "SlavicDAO",
@@ -2094,7 +2090,7 @@
   {
     "id": "skovo",
     "type": "campfire",
-    "name": "Skovo.cz - ukázka",
+    "name": "Skovo.cz - ukázka [TBD]",
     "track": "zaklady",
     "speakers": [
       "jiri-skrivan"
@@ -2226,7 +2222,7 @@
       "jan-ruzicka"
     ],
     "track": "btc",
-    "duration": 30,
+    "duration": 60,
     "description": "Dva odborníci na Čínu a ekonomové, Dan Vořechovský a Jan Růžička, s vámi chtějí probrat situaci na asijských trzích. Jaké jsou rozdíly v asijském fintechu oproti situaci u nás? V čem jsou v Asii napřed? Jaká je budoucnost, jaká jsou místní specifika? Přijďte podebatovat, čínsky umět nemusíte. :)\n\nDan Vořechovský (https://twitter.com/kweenolog) a Jan Růžička (https://twitter.com/JanRuziJan)\n",
     "tags": [
       "Bitcoin",
