@@ -1063,3 +1063,12 @@
   country: cz
   tracks: [ spolecnost ]
 
+- id: martin-vlach
+  name: Martin Vlach
+  nickname: Huge
+  twitter: UserHuge
+  orgs: |
+    Spoluzakladatel [Camine Options](https://carmine.finance/) a [Chainkeepers](https://www.chainkeepers.io/)
+  country: cz
+  tracks: [ defi ]
+
