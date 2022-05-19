@@ -572,6 +572,7 @@
     Marketingový ředitel @ [Braiins](https://braiins.com/) a [Slush Pool](https://slushpool.com/en/home/)
   country: cz
   tracks: [ btc ]
+  lead: true
 
 - id: kirill-juran
   name: Kirill Juran
@@ -674,6 +675,7 @@
     CEO @ [Anycoin](https://www.anycoin.cz/)
   country: cz
   tracks: [ regulace ]
+  lead: true
   
 - id: jan-struhala
   name: Jan Struhala
@@ -975,6 +977,7 @@
     Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)
   country: sk
   tracks: [ alty, nft ]
+  lead: true
 
 - id: martin-bitcoin-mindset
   name: Martin - Bitcoin Mindset
