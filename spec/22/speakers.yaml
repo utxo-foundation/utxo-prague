@@ -1037,3 +1037,29 @@
   tracks: [ nft ]
   web:
     url: https://cz.linkedin.com/in/edvard-meliksetyan-a01658122 
+
+- id: dan-vorechovsky
+  name: Dan Vořechovský
+  twitter: kweenolog
+  bio: Investor zaměřený na Asii
+  country: cz
+  tracks: [ btc ]
+  web:
+    url: https://www.vorechovsky.cz
+
+- id: jan-ruzicka
+  name: Jan Růžička
+  twitter: JanRuziJan
+  orgs: |
+    Šéf vnějších vztahů [Home Credit](https://www.homecredit.net/) (PPF)
+  country: cz
+  tracks: [ btc ]
+
+- id: jana-galvis
+  name: Jana Galvis
+  twitter: Jana_Pribylova
+  orgs: |
+    Analytička [Liberálního insitutu](https://libinst.cz/)
+  country: cz
+  tracks: [ spolecnost ]
+

@@ -1977,6 +1977,36 @@
     - Bitcoin
     - adopce
 
+- id: fintech-v-asii-campfire
+  type: campfire
+  name: Fintech v Asii
+  speakers: []
+  track: btc
+  duration: 30
+  description: |
+    Dva odborníci na Čínu a ekonomové, Dan Vořechovský a Jan Růžička, s vámi chtějí probrat situaci na asijských trzích. Jaké jsou rozdíly v asijském fintechu oproti situaci u nás? V čem jsou v Asii napřed? Jaká je budoucnost, jaká jsou místní specifika? Přijďte podebatovat, čínsky umět nemusíte. :)
+
+    Dan Vořechovský (https://twitter.com/kweenolog) a Jan Růžička (https://twitter.com/JanRuziJan)
+  tags:
+    - Bitcoin
+    - fintech
+    - asie
+
+- id: zeny-v-it-a-kryptu-campfire
+  type: campfire
+  name: Ženy v IT a kryptu
+  speakers: []
+  track: spolecnost
+  duration: 60
+  description: |
+    Jana Galvis z Liberálního institutu je expertka nejenom na Kolumbii, ale také na lidská práva a zastoupení žen. Co může liberál/ka dělat pro větší zastoupení žen v oborech, kde dominují muži, jako jsou IT a krypto? Aneb jde to i bez kvót. Pojďme o tom podebatovat.
+
+    Jana Galvis (https://twitter.com/Jana_Pribylova)
+  tags:
+    - Bitcoin
+    - IT
+    - ženy
+
 # Ostatní
 # ==========================
 
