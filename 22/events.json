@@ -1379,7 +1379,7 @@
       "portfolio",
       "investice"
     ],
-    "description": "Původně jsem přednášku nazval: \"Jak si posichrovat a rozložit svoje portfolio.\" Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuli, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.\n"
+    "description": "Původně jsem přednášku nazval: \"Jak si posichrovat a rozložit svoje portfolio.\" Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuly, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.\n"
   },
   {
     "id": "lightning-ekosystem",
@@ -1797,7 +1797,6 @@
     "name": "Altaria",
     "track": "nft",
     "speakers": [
-      "fetyas",
       "blazena-kuthanova"
     ],
     "duration": 10,
@@ -2272,7 +2271,7 @@
     ],
     "track": "btc",
     "duration": 30,
-    "description": "Jedni se radují z nízkých transakčních poplatků v Bitcoin síti, druzí se hrozí že jsou přiliš levné. Co se stane, až odměna těžařům za vytěžený blok (block reward) klesne na minimum nebo až tisknutí nových satů přestane úplně? Pokud tyto odměny nezastoupí poplatky, tak se bezpečnost Bitcoinu bude postupně snižovat. Budou lidé ochotni platit za bitcoinovou transakci tisíce dolarů? Proč se o to zajímat už teď? Co s tím má společného Lightning Network? A není to jenom FUD? - pojďme společně a věcně pohovořit o možných scénářích následujícího vývoje.\n",
+    "description": "Jedni se radují z nízkých transakčních poplatků v Bitcoin síti, druzí se hrozí že jsou přiliš levné. Co se stane, až odměna těžařům za vytěžený blok (block reward) klesne na minimum nebo až tisknutí nových satů přestane úplně? Pokud tyto odměny nezastoupí poplatky, tak se bezpečnost Bitcoinu bude postupně snižovat. Budou lidé ochotni platit za bitcoinovou transakci tisíce dolarů? Proč se o to zajímat už teď? Co s tím má společného Lightning Network? A není to jenom FUD? - pojďme společně a věcně pohovořit o možných scénářích následujícího vývoje.\n\nZdroje:\n  * https://bitcoinmagazine.com/markets/so-what-if-bitcoin-fee-revenue-is-low\n",
     "tags": [
       "Bitcoin",
       "bezpečnost"
