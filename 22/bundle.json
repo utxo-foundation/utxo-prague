@@ -2894,6 +2894,22 @@
         ]
       },
       {
+        "id": "budoucnost-kryptomen-je-v-produktech-nikoliv-v-chainech",
+        "type": "talk",
+        "name": "Budoucnost kryptoměn je v produktech, nikoliv v chainech",
+        "track": "defi",
+        "speakers": [
+          "petr-sanetrnik"
+        ],
+        "duration": 25,
+        "difficulty": "beginner",
+        "tags": [
+          "DeFi",
+          "budoucnost"
+        ],
+        "description": "Jak bude vypadat budoucnost trhu kryptoměn a které tituly budou nejvíce hodnotné a sledované? Už delší dobu si kladu tyto otázky a rád bych s Vámi nasdílel pár mých teorií, proč si zrovna myslím, že budoucnost trhu kryptoměn je v produktech (Uniswap, Maker DAO atd…) a nikoliv v chainech (Ethereum, Polkadot atd..).\n"
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "lightning-series",
         "name": "Lokální krypto komunity",
@@ -20959,7 +20975,7 @@
       "speakers": 99,
       "tracks": 10,
       "event-types": 7,
-      "events": 141,
+      "events": 142,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -20967,5 +20983,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-19T16:33:46.526Z"
+  "time": "2022-05-19T19:14:15.692Z"
 }
