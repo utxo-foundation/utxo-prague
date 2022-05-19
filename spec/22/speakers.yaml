@@ -80,8 +80,8 @@
   tracks: [ zaklady, btc, dao, spolecnost ]
   country: sk
   available:
-    - from: '2022-06-04T09:00:00'
-      to: '2022-06-05T12:59:59'
+    - from: '2022-06-04T09:00:00+02:00'
+      to: '2022-06-05T12:59:59+02:00'
 
 - id: vladimir-pinker
   name: Vladimír Pinker
@@ -114,7 +114,7 @@
   twitter: kleinptr
   bio: Libertarián, nadšenec do nových technologií
   orgs: |
-    Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), Zakladatel APUS Finance
+    Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), APUS Finance
   web:
     url: https://mastodon.social/@kleinptr
   tracks: [ zaklady, eth, dao, alty ]
@@ -335,7 +335,7 @@
   orgs: Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/)
   country: cz
   available:
-    - from: '2022-06-04T00:00:00'
+    - from: '2022-06-04T14:00:00'
       to: '2022-06-04T23:59:59'
   desc: |
     Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/), Cypherpunk v učení, knihomol, autor článků o Bitcoinu. Zabývá se Rakouskou školou ekonomie, filozofií, novými technologiemi a nadevše věří v decentralizaci.
@@ -359,12 +359,12 @@
   name: Radek Švarz
   linkedin: radeksvarz
   tracks: [ defi, dao, regulace ]
-  bio: Podnikatel, který si užívá posouvání hranic propojení businessu a IT
+  bio: Vizionář, architekt, propojování businessu a IT
   orgs: |
-    Zakladatel APUS Finance, advisor [Alzheimerchain](https://alzheimerchain.com/)
+    dCZK, APUS.finance, advisor [Alzheimerchain](https://alzheimerchain.com/), [Non Fungible Brain](https://www.nonfungiblebrain.com/), KryptoNadace
   country: cz
   desc: |
-    Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT - aktuálně mimo jiné jako advisor projektu [Alzheimerchain](https://alzheimerchain.com/). Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
+    Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
 
 - id: josefj
   name: JosefJ
@@ -454,18 +454,6 @@
   desc: |
     Lenka vedie projekty a iniciatívy v [Sustainable Ecosystem Scaling Core Unit](https://ses.makerdao.network/), tíme pracujúcom pre [MakerDAO](https://makerdao.com/). Predtím bola súčasťou MarComms teamu v Maker Foundation, kde budovala komunitu a mala na starosti eventy. Pred Makerom bola v crypto trading a platbonej platforme Coinify a mala nastarosti marketing a komunikáciu. Mimo to spolubuduje komunity okolo nezávislej kultúry, startupov, a krypta.
   lead: true
-
-- id: michael-chobanian
-  name: Michael Chobanian
-  nickname: Михайло Чобанян
-  twitter: ChobanianMike
-  orgs: |
-    Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)
-  tracks: [ regulace, spolecnost ]
-  country: ua
-  lead: true
-  desc: |
-    Zakladatel první veřejné krypto burzy ve východní Evropě a [SNS](https://cs.wikipedia.org/wiki/Spole%C4%8Denstv%C3%AD_nez%C3%A1visl%C3%BDch_st%C3%A1t%C5%AF)
 
 - id: stanislav-hruska
   name: Stanislav Hruška
@@ -584,6 +572,7 @@
     Marketingový ředitel @ [Braiins](https://braiins.com/) a [Slush Pool](https://slushpool.com/en/home/)
   country: cz
   tracks: [ btc ]
+  lead: true
 
 - id: kirill-juran
   name: Kirill Juran
@@ -686,6 +675,7 @@
     CEO @ [Anycoin](https://www.anycoin.cz/)
   country: cz
   tracks: [ regulace ]
+  lead: true
   
 - id: jan-struhala
   name: Jan Struhala
@@ -729,8 +719,9 @@
   
 - id: jiri-skrivan
   name: Jiří Skřivan
+  bio: Podnikatel, milovník svobody, nadšenec do krypta
   orgs: |
-    [Skovo.cz](https://www.skovo.cz/)
+    Zakladatel [Skovo.cz](https://www.skovo.cz/)
   country: cz
   tracks: [ zaklady ]
   desc: |
@@ -824,6 +815,11 @@
   tracks: [ spolecnost ]
   desc: Bývalý novinář, (Forbes, HN, Aktuálně.cz)
   country: cz
+  available:
+    - from: '2022-06-04T09:00:00'
+      to: '2022-06-04T17:00:00'
+    - from: '2022-06-05T09:00:00'
+      to: '2022-06-05T20:00:00'
   
 - id: artur-sychov
   name: Artur Sychov
@@ -937,7 +933,7 @@
   orgs: |
     Spoluzakladatel [Indices.fi](https://www.indices.fi/)
   country: cz
-  tracks: [ defi ]
+  tracks: [ defi, eth ]
 
 - id: jan-polak
   name: Jan Polák
@@ -958,9 +954,124 @@
   orgs: |
     Člen teamu [ChainKeepers](https://www.chainkeepers.io/), [Krypto Meetupy Brno](https://www.facebook.com/kryptobrno)
   country: cz
-  tracks: [ alty ]
+  tracks: [ alty, defi ]
   desc: |
     Programátor v současné době pracující ve firmě [ChainKeepers](https://chainkeepers.io). Děláme trading boty v Pythonu, pracujeme se smart contracty na Solaně a Ethereu. Do krypta přišel teprve nedávno (na konci minulého roku) a to díky technologickému zájmu o distribuované systémy. Předtím dlouhou dobu pracoval ve společnosti Red Hat na komponentě transakčního managera v Javě.
 
      Člen týmu firmy ChainKeepers, spolupracuje na tvorbě lineupu technické sekce brněnského blockchain meetupu.
   
+- id: josef-tetek
+  name: Josef Tětek
+  twitter: SatsJoseph
+  bio: Ekonom s dlouhodobým zájmem o podstatu peněz a bitcoin
+  orgs: |
+    Bitcoin ambassador @ [Trezor](https://trezor.io/), přispěvatel do [Bitcoin Magazine](https://bitcoinmagazine.com/)
+  country: cz
+  tracks: [ btc, zaklady ]
+
+- id: matej-yangwao
+  name: Matej Yangwao
+  twitter: yangwao
+  bio: Radikální open-source web3 kouzelník
+  orgs: |
+    Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)
+  country: sk
+  tracks: [ alty, nft ]
+  lead: true
+
+- id: martin-bitcoin-mindset
+  name: Martin - Bitcoin Mindset
+  twitter: btcmnd
+  bio: Programátor
+  orgs: |
+    Tvůrce [Bitcoin Mindset](https://bitcoinmindset.org/)
+  country: cz
+  tracks: [ btc ]
+
+- id: karel-zheng
+  name: Karel Zheng
+  twitter: karelzheng
+  linkedin: karelzheng
+  orgs: |
+    Web3 @ [MitonC](https://mitonc.com/)
+  country: cz
+  tracks: [ defi ]
+
+- id: adela-sipova
+  name: Adéla Šípová
+  twitter: adela_sipova
+  linkedin: adelasipova
+  orgs: |
+    Senátorka za [Pirátskou stranu](https://www.pirati.cz/)
+  country: cz
+  web:
+    url: https://www.adelasipova.cz/
+  tracks: [ regulace ]
+
+- id: hana-kocourkova
+  name: Hana Kocourková
+  twitter: danehned
+  bio: Kryptoúčetní
+  orgs: |
+    [DaněHned.cz](https://www.danehned.cz/)
+  country: cz
+  web:
+    url: https://www.linkedin.com/in/hana-trnkov%C3%A1-kocourkov%C3%A1-88523a1a
+  tracks: [ regulace ]
+  desc: |
+    [O mně @ DaněHned.cz](https://www.danehned.cz/ucetnictvi/o-me-profesni-zivotopis)
+
+- id: martin-bok
+  name: Martin Bok
+  orgs: |
+    Altlift Gaming DAO, analytik pro [Altlift](https://altlift.cz/), student [VŠE](https://www.vse.cz/)
+  country: cz
+  web:
+    url: https://www.facebook.com/martin.bok.96
+  tracks: [ nft, dao ]
+  desc: |
+    Modelování stock flow consistent modelů – navrhování tokenomik. Projekty: Altlift Gaming DAO
+
+- id: edvard-meliksetyan
+  name: Edvard Meliksetyan
+  orgs: |
+    NFT gaming specialist @ [Altlift](https://altlift.cz/)
+  country: am
+  tracks: [ nft ]
+  web:
+    url: https://cz.linkedin.com/in/edvard-meliksetyan-a01658122 
+
+- id: dan-vorechovsky
+  name: Dan Vořechovský
+  twitter: kweenolog
+  bio: Investor zaměřený na Asii
+  country: cz
+  tracks: [ btc ]
+  web:
+    url: https://www.vorechovsky.cz
+
+- id: jan-ruzicka
+  name: Jan Růžička
+  twitter: JanRuziJan
+  orgs: |
+    Šéf vnějších vztahů [Home Credit](https://www.homecredit.net/) (PPF)
+  country: cz
+  tracks: [ btc ]
+
+- id: jana-galvis
+  name: Jana Galvis
+  twitter: Jana_Pribylova
+  orgs: |
+    Analytička [Liberálního insitutu](https://libinst.cz/)
+  country: cz
+  tracks: [ spolecnost ]
+
+- id: martin-vlach
+  name: Martin Vlach
+  nickname: Huge
+  twitter: UserHuge
+  orgs: |
+    Spoluzakladatel [Camine Options](https://carmine.finance/) a [Chainkeepers](https://www.chainkeepers.io/)
+  country: cz
+  tracks: [ defi ]
+

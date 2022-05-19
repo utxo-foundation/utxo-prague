@@ -5,6 +5,7 @@ required:
   - id
   - type
   - name
+  - duration
 properties:
   id:
     type: string
@@ -64,4 +65,14 @@ properties:
       - beginner
       - advanced
       - expert
+  fixed:
+    type: object
+    additionalProperties: false
+    properties:
+      time:
+        type: string
+      stage:
+        type: string
+      date:
+        type: string
 

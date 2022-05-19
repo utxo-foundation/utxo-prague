@@ -3,6 +3,9 @@ name: UTXO.22
 shortname: UTXO
 description: Otevřená komunitní kryptoměnová konference
 dates: [ '2022-06-04', '2022-06-05' ]
+scheduleTimes:
+  - '1/09:00-22:00'
+  - '2/10:00-19:00'
 place: Gabriel Loci, Praha
 country: Czech Republic
 links:
@@ -21,8 +24,11 @@ schemaVersion: 1
 specDef:
   - type: speakers
   - type: tracks
+  - type: event-types
   - type: events
+  - type: stages
   - type: faqs
   - type: partners
   - type: projects
   - type: team
+  - type: schedule-candidates

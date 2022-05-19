@@ -15,3 +15,5 @@ items:
       type: string
     examples:
       type: string
+    hidden:
+      type: boolean

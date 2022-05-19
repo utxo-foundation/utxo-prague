@@ -20,26 +20,33 @@
   tags:
     - práce
     - finanční nezávislost
+    - ženy
 
-- id: regulace-panel
+- id: btc-vs-altcoiny
   type: panel
-  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
+  name: Bitcoin vs. altcoiny [TBD]
   speakers:
-    - kirill-juran
-    - ondrej-kovarik
-  track: regulace
+    - josef-tetek
+    - david-stancel
   duration: 85
   difficulty: beginner
+  track: btc
   tags:
-    - regulace
-    - soukromí
+    - Bitcoin
+    - Ethereum
+    - DeFi
+    - finanční svoboda
 
 - id: nft-metaverse-panel
   type: panel
-  name: NFT a Metaverse
+  name: NFT a Metaverse [TBD]
   speakers:
+    - vojta-zizka
     - petr-mara
+    - resistance
     - david-bankless
+  properties:
+    moderators: [ vojta-zizka ]
   duration: 85
   difficulty: beginner
   track: nft
@@ -47,11 +54,51 @@
     - NFT
     - metaverse
 
+- id: nft-usecases-panel
+  type: panel
+  name: NFT Use Cases [TBD]
+  speakers:
+    - lenka-hudakova
+    - petr-mara
+  duration: 85
+  difficulty: advanced
+  track: nft
+  tags:
+    - NFT
+    - metaverse
+
+- id: nft-curation-art-heritage
+  type: panel
+  name: NFT curation / art / heritage [TBD]
+  speakers: []
+  duration: 85
+  difficulty: beginner
+  track: nft
+  tags:
+    - NFT
+    - umění
+
+- id: token-energie-likvidita-zivot
+  type: panel
+  name: Token = energie, Likvidita = život [TBD]
+  track: defi
+  duration: 85
+  difficulty: advanced
+  speakers:
+    - m0xt
+  description: |
+    Efektivní použití energie vede k dlouhodobému a udržitelnému životu. Většina krypto projektů však do této fáze ještě nedošla. Jaké jsou tedy ty správné cesty a způsoby jak toto dilema řešit?
+  tags:
+    - Ethereum
+    - DeFi
+    - udržitelnost
+
 - id: czk-stablecoin-panel
   type: panel
-  name: Decentralizováná krypto-koruna (CZK stablecoin)
+  name: Koruna česká na blockchainu (dCZK stablecoin) - panelová debata
   speakers:
     - david-antos
+    - lukas-kovanda    
     - radek-svarz
     - frantisek-vinopal
     - marek-kyrsch
@@ -66,6 +113,37 @@
     - stablecoin
     - Ethereum
     - DeFi
+  description: |
+    Jaké jsou dopady zavedení CZK stablecoinu? Má to vůbec smysl, když se ČR zavázala přijmout euro? Je to vůbec možné v kontextu současných i budoucích národních a EU regulací? Jaký je rozdíl vnímání stablecoinů před a po krachu TerraUSD? Mohly by s dCZK počítat firmy do svého účetnictví? Jaké to má daňové souvislosti? Jak by s dCZK pracovaly směnárny a platební brány? Panel navazuje na přednášku dCZK stablecoin.
+  fixed:
+    stage: lustrovy-sal
+    time: '2/14:00-15:30'
+
+- id: cbdc-panel
+  type: panel
+  name: CBDC – cesta do monetárního otroctví
+  track: regulace
+  speakers:
+    - lukas-kovanda
+    - dominik-stroukal
+  duration: 85
+  difficulty: beginner
+  tags:
+    - CBDC
+    - regulace
+
+- id: regulace-panel
+  type: panel
+  name: Kryptoměnové regulace u nás a ve světě (MiCA atp.)
+  speakers:
+    - kirill-juran
+    - ondrej-kovarik
+  track: regulace
+  duration: 85
+  difficulty: beginner
+  tags:
+    - regulace
+    - soukromí
 
 - id: politicka-a-regulatorni-situace-kryptomen-co-nas-ceka
   type: panel
@@ -74,11 +152,19 @@
     - martin-panek
     - michal-hardyn
     - jiri-havranek
+    - adela-sipova
+    - hana-kocourkova
   track: spolecnost
   duration: 110
   tags:
     - politika
     - regulace
+  fixed:
+    date: '2022-06-05'
+  description: |
+    Většina účastníků konference zřejmě bude mít ve svých peněženkách nějaký ten bitcoin, ether nebo jinou kryptoměnu. Co když je chceme prodat? Bude se právní prostředí zlepšovat, a máme tedy počkat, nebo naopak bude pro střadatele hůře? Není lepší odstěhovat se do Německa… nebo do Panamy? Co si na nás chystají zákonodárci a co s tím my ostatní můžeme dělat, na to odpoví náš panel s poslancem za ODS Jiřím Havránkem, senátorkou za Piráty Adélou Šípovou, kryptoúčetní Hanou Kocourkovou a podnikatelem Michalem Hardynem. Moderuje Martin Pánek, ředitel [Liberálního institutu](https://libinst.cz/).
+
+    Debatní panel [Liberálního institutu](https://libinst.cz/).
 
 
 # Talks (přednášky)
@@ -113,15 +199,19 @@
     - volný trh
     - finanční svoboda
     - anarchokapitalismus
+  fixed:
+    stage: rajska-zahrada
 
 - id: historie-cypherpunku
   type: talk
-  name: Cypherpunks a jejich role v dnešním světě
-  track: spolecnost
+  name: Bitcoin a Cypherpunks - Jejich role v dnešním světě
+  track: btc
   speakers: [ matthew-cook ]
   duration: 55
   difficulty: beginner
   description: |
+    Bitcoin tu s námi je 13 let a rychle si vydobyl místo na výsluní jako alternativa k nynějšímu monetárnímu systému. Bitcoin je svatý grál, sen mnohých Cypherpunků, kteří na myšlence nestátních peněz pracovali již od 80. let. Rychle proletíme historii hnutí Cypherpunks tak, abychom vypíchli jejich hlavní myšlenky, které přetrvávají a jsou platné do dnešní digitální doby a také si představíme nástroje, které nám pomohou v této rychlé době excelovat.
+
     Přednáška od autora článku [Historie Cypherpunku](https://www.alza.cz/historie-cypherpunku)
   tags:
     - cypherpunk
@@ -136,12 +226,15 @@
   duration: 55
   difficulty: beginner
   description: |
+    Pokrok bez povolení je o střetu digitálních technologií 21. století se světem kamenných institucí 20. století. Je to kniha pro lidi, které fascinují technologie a jejich vliv na společnost. Je kompletním průvodcem světem, kde Airbnb oživuje mrtvý kapitál a konkuruje státu ve tvorbě regulací, kde Kickstarter nahrazuje vybírání daní a pomáhá financovat veřejné služby a kde Bitcoin umožňuje budovat paralelní společnost, v níž neexistují žádní šéfové. Pokrok, který přináší internet, nekonkuruje pouze analogovým podnikatelům a kamenným obchodům, ale především světu zákonů, úředníků a politiky.
 
-    Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/). Pokrok bez povolení je o střetu digitálních technologií 21. století se světem kamenných institucí 20. století. Je to kniha pro lidi, které fascinují technologie a jejich vliv na společnost. Je kompletním průvodcem světem, kde Airbnb oživuje mrtvý kapitál a konkuruje státu ve tvorbě regulací, kde Kickstarter nahrazuje vybírání daní a pomáhá financovat veřejné služby a kde Bitcoin umožňuje budovat paralelní společnost, v níž neexistují žádní šéfové. Pokrok, který přináší internet, nekonkuruje pouze analogovým podnikatelům a kamenným obchodům, ale především světu zákonů, úředníků a politiky.
+    Přednáška od autora knihy [Pokrok bez povolení](https://www.grada.cz/pokrok-bez-povoleni-9510/).
   tags:
     - sdílená ekonomika
     - crowdfunding
     - společnost
+  fixed:
+    stage: rajska-zahrada
 
 - id: budoucnost-kryptomen
   type: talk
@@ -180,6 +273,8 @@
     Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)
   tags:
     - Bitcoin
+  fixed:
+    stage: rajska-zahrada
 
 - id: kdyz-byl-bitcoin-jeste-divoky-zapad
   type: talk
@@ -216,6 +311,18 @@
 
     Projekt vzniká v úzké spolupráci s [Nadací VIA](https://www.nadacevia.cz ) a [ČKMA](https://www.ckma.cz).
 
+- id: adopce-kryptomen
+  type: talk
+  name: Adopce kryptoměn [TBD]
+  track: regulace
+  speakers: [ marek-kyrsch ]
+  duration: 55
+  difficulty: beginner
+  tags:
+    - adopce
+    - burzy
+    - směnárny
+
 - id: adopce-btc
   type: talk
   name: Bitcoin a české korporace
@@ -224,7 +331,7 @@
   duration: 25
   difficulty: expert
   description: |
-    Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte.
+    Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte. Konkrétně se dozvíte jednotlivé důvody pro adopci Bitcoinu, jak jí správně v rámci korporace provést, jak na to reaguje české daňové právo a účetnictví. Zároveň budou prezentovány příklady z praxe, kde adopce již proběhla.
 
     Přednáška od autora knihy [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/).
   tags:
@@ -234,14 +341,19 @@
 
 - id: czk-stablecoin
   type: talk
-  name: Decentralizováná krypto-koruna (CZK stablecoin)
+  name: Koruna česká na blockchainu (dCZK stablecoin)
   track: defi
   speakers: [ radek-svarz ]
   duration: 25
-  difficulty: advanced
+  difficulty: beginner
   tags:
     - stablecoin
     - DeFi
+  description: |
+    Již přes rok v kryptokomunitě probíhají intenzivní diskuze o možnosti zavedení Kč (CZK) stablecoinu. K jakým závěrům komunita dospěla? Měl by být centralizovaný, či decentralizovaný? Na jakém blockchainu by měl běžet? V jaké fázi je projekt? Jak je zorganizován? Lze na něm spolupracovat? Mohl by potkat CZK stablecoin stejný osud jako TerraUSD? Přednáška je úvodem pro následující panelovou diskuzi o dCZK stablecoinu.
+  fixed:
+    stage: lustrovy-sal
+    time: '2/13:30-14:00'
 
 - id: somnium-space-talk
   type: talk
@@ -250,8 +362,10 @@
   speakers: [ artur-sychov ]
   duration: 25
   difficulty: beginner
+  fixed:
+    stage: rajska-zahrada
   tags:
-    - Metaverse
+    - metaverse
     - NFT
     - VR
 
@@ -284,13 +398,15 @@
 
 - id: social-tokeny
   type: talk
-  name: Sociální tokeny (Social Tokens)
+  name: Social Token Salad
   track: eth
   speakers: [ michaela-malatin ]
   duration: 55
   difficulty: advanced
   tags:
     - sociální tokeny
+  description: |
+    Social Token je kategorie krypto aktiv, která není takřka probádána a přitom má velký potenciál. Někteří zaměňují NFT za Social Token. Nejsou stejné (ERC-721 vs. ERC-20), naopak se doplňují. Je to jako míchat jablka s hruškami. Nejsou stejné, ale je z nich skvělý salát. Pojďme si spolu projít recept na skvělou strategii propagace jednotlivce, projektů nebo si jen osvojit možnost vlastního tokenu.
 
 - id: od-mozku-k-blockchainu-decentralizovana-veda-desci
   type: talk
@@ -342,6 +458,8 @@
   tags:
     - regulace
     - daně
+  fixed:
+    stage: rajska-zahrada
 
 - id: jan-krypto-zmenilo-zabehle-firemni-struktury
   type: talk
@@ -369,15 +487,34 @@
   description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
 
-- id: zijeme-bez-fiatu
+- id: talent-ve-web3-vc-pohled
   type: talk
-  name: Žijeme bez fiatu
-  track: zaklady
-  speakers: [ vladimir-pinker ]
+  name: Talent ve Web3 (z pohledu VC)
+  track: defi
   duration: 55
-  difficulty: beginner
+  speakers: [ karel-zheng ]
+  difficulty: advanced
   tags:
-    - finanční nezávislost
+    - práce
+    - vývoj
+    - DeFi
+    - VC
+  description: |
+    Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?
+
+- id: guildy-odf-dao-organizacni-revoluce
+  type: talk
+  name: Guildy, ODF a DAO jako organizační revoluce
+  track: dao
+  speakers: [ michaela-malatin ]
+  duration: 55
+  difficulty: advanced
+  tags:
+    - DAO
+    - organizace
+    - společnost
+  description: |
+    Existují principy, které vytvořili decentralizaci a opensource, jak jej známe dnes a není to white paper Bitcoinu. Herní guildy, Open Decision Framework a Decentralized Autonomous Organization mají jedno společné. Meritokracie. Kašlete na volební právo v DAO, Discordové skupiny nebo vymazlené white papery. Pokud nemáte systém rovnosti, vášně pro danou věc a misi v každém jednotlivci, nemáte šanci v oceánu novodobých organizačních systémech. Budu s vámi sdílet mé zkušenosti s Development teamy, kde se mísí komunita a strategie.
 
 - id: hypoteky-pro-cryptonatives
   type: talk
@@ -422,6 +559,20 @@
     - public good
     - smart-contract
 
+- id: quadratic-developer-rewards
+  type: talk
+  name: Quadratic Developer Rewards (KodaDot) [TBD]
+  track: alty
+  difficulty: advanced
+  speakers: [ matej-yangwao ]
+  duration: 55
+  description: |
+    How we've utilised web3 in KodaDot development and why we are making this as public good?
+  tags:
+    - Polkadot
+    - public good
+    - vývoj
+
 - id: zakladni-filozofie-tvorby-tokenu
   type: talk
   name: Základní filozofie tvorby tokenu (tokenomiky)
@@ -455,13 +606,17 @@
 
 - id: dao-101
   type: talk
-  name: DAO 101
+  name: DAOs 101 - Úvod do Decentralizovaných Autonómnych Organizácií
   track: dao
   speakers: [ lenka-hudakova ]
   difficulty: beginner
   duration: 55
   tags:
     - DAO
+    - Ethereum
+  description: |
+    Predstavím vám magický svet DAOs: preberieme čo DAOs sú, čím sú užitocné, ako sa podobajú líšia od bežných foriem organizacií. Prejdeme si viacerími oblasťami, cez ktoré sa v DAOs realizujú (technická, spoločenská, ekonomická, politická, právna). Popri ukážke niekoľkých príkladov DAOs budeme mať aj čas na diskusiu a otázky z publika. 
+
 
 - id: future-of-defi
   type: talk
@@ -499,6 +654,8 @@
   tags:
     - Bitcoin
     - Lightning Network
+  description: |
+    Bitcoin jsou peníze. Od peněz potřebujeme hlavně, aby neztráceli hodnotu. Jistě, ale tuto hodnotu jednou budeme potřebovat použít - jinak to hodnota moc není. Pokusím se vám ukázat proč nemusíte čekat na nějaký bájný moment v budoucnosti a jak můžete používat Bitcoin už dnes.
 
 - id: l2-zaklady
   type: talk
@@ -513,21 +670,9 @@
   description: |
     Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.
 
-- id: oracles-obecne
-  type: talk
-  name: Co jsou to oracles + CZK kurz na blockchainu
-  track: defi
-  speakers: [ radek-svarz ]
-  duration: 25
-  difficulty: advanced
-  tags:
-    - oracles
-    - stablecoin
-    - DeFi
-
 - id: eth2
   type: talk
-  name: The Merge (Eth2)
+  name: The Merge (Eth2) [TBD]
   track: eth
   speakers: [ mario-havel ]
   duration: 55
@@ -583,19 +728,6 @@
   description: |
     Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.
 
-- id: digitalni-identita-v-metaverse
-  type: talk
-  name: Digitální identita v metaverse
-  track: nft
-  speakers: [ pavel-riha ]
-  duration: 25
-  difficulty: advanced
-  tags:
-    - digitální identita
-    - metaverse
-  description: |
-    Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.
-
 - id: uvod-do-polkadot-a-ekosystemu
   type: talk
   name: Úvod do Polkadotu a jeho ekosystému
@@ -615,6 +747,8 @@
   duration: 55
   tags:
     - Cardano
+  description: |
+    Tržní kapitalizace není jediným měřítkem úspěchu blockchain projektů. Mnohem důležitější je mise projektu a silný tým, který je spolu s komunitou odhodlaný dosáhnout cíle. Cardano poskytuje finanční identitu lidem, kteří ji nemají. Chudí lidé nepotřebují spekulovat na růst ceny. Potřebují identitu, možnost zaplatit digitálně poplatky za energie a propojení s okolním světem. To vše bez neefektivních a drahých prostředníků. Vládám v rozvojových zemích se díky korupčnímu prostředí nedaří budovat finanční služby. Banky jsou orientované na profit, takže je chudé země nelákají. Cardano je všude tam, kde je internet. To otevírá dveře adopci v řádech desítek milionů lidí.
 
 - id: uvod-cosmos-ekosystem
   type: talk
@@ -652,19 +786,9 @@
     - finanční nezávislost
 
 
-- id: je-krypto-letadlo
-  type: talk
-  name: Je krypto letadlo?
-  track: zaklady
-  speakers: [ vladimir-pinker ]
-  duration: 25
-  difficulty: beginner
-  tags:
-    - letectví
-
 - id: investovani-20
   type: talk
-  name: Investování 2.0
+  name: Změna paradigmatu (Investování 2.0) [TBD]
   difficulty: beginner
   track: zaklady
   speakers: [ m0xt ]
@@ -673,6 +797,8 @@
     - investice
     - portfolio
     - DeFi
+  description: |
+    Modely chování, které máme naučené a přebrané z historie, nemusí fungovat/nefungují v dnešním světě. Krypto je dobrým příkladem, ale pouze jedním z mnoha. Na spoustu problémů už dnes existují alternativní řešení, nicméně se o těchto věcech a inovativních přístupech příliš nemluví. Blokchainové technologie nabízejí zajímavé paralely a představují hodnoty, na kterých by nové vzorce chování mohly fungovat lépe.
 
 - id: chyby-pri-skladani-portfolia
   type: talk
@@ -685,6 +811,9 @@
     - portfolio
     - investice
     - trading
+  description: |
+    Kryptoměny jsou pro mě jako nový svět a nová ekonomika, vznikající kompletně online. Všichni to vidíme a chceme být součástí tohoto paralelního světa. Některé fascinuje technologie, jiné investiční příležitosti, které díky růstu celého trhu přichází. A těch, které fascinuje růst ceny, je o poznání víc. Krypto investory nyní potkáváme všude, ale stále málokdo dokáže dlouhodobě vydělávat kvůli jednoduchým chybám, které děláme. Za svých 5 let v kryptu jsem to mohl pozorovat na sobě, ale zároveň díky Blockspace jsem to stejné viděl u stovek dalších lidí. Na této přednášce si tedy ukážeme, co jsou nejtypičtější chyby, které dělá v portfoliu téměř každý - a jak je velmi jednoduše odbourat.
+
 
 - id: fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv
   type: talk
@@ -728,15 +857,17 @@
 
 - id: ztratou-recovery-seedu-neztratite-jenom-finance
   type: talk
-  name: Ztrátou Recovery Seedu neztratíte pouze finance
+  name: Ztrátou Recovery Seed neztratíte pouze finance…
   track: zaklady
   difficulty: beginner
   speakers: [ jiri-skrivan ]
-  duration: 55
+  duration: 25
   tags:
     - bezpečnost
     - seed
     - hardware
+  description: |
+    Blockchain, peer to peer, proof of work….. několik slov a mají jeden velký význam a tím je poctivost. Jako výrobci produktů, které mohou ovlivnit život držitele, máme mnoho možností jak zákazníka ovlivnit. Je rok 2022,  je to téměř 14 let co vznikla technologie jménem BITCOIN. Tato revoluční metoda ve světě finančnictví způsobila vznik nového odvětví a tím jsou produkty pro uložení Recovery Seed. Recovery Seed, slova, která Vám změní svět a způsob života. Pár slov, kterým nedáváte význam,  avšak když se něco stane, jsou Vaší spásou. Přijďte se podívat na přednášku Jiřího Skřivana ze [Skovo.CZ](https://www.skovo.cz/), jenž je prvním výrobcem produktů pro uložení Recovery Seed a zjistíte, že i tento svět je proof of work.
 
 - id: opravdu-vlastnite-cryptopunka
   type: talk
@@ -758,8 +889,8 @@
   duration: 50
   description: |
     Všichni dnes známe sociální sítě jako je Twitter nebo Instagram, ale je třeba si uvědomit, že jejich používání nás přijde velmi draho, z pohledu našeho soukormí a dat.
-    Věděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukormí zpět do vlastních rukou? 
-    Jde to i jinak právě díky [Fediverse](https://fediverse.io).
+    Věděli jste např. že Twitter a Facebook čte vaše DMs a vyhodnocuje z nich relevantní reklamy? Pokud ano, tak není čas na to vzít si své soukromí zpět do vlastních rukou? 
+    Jde to i jinak právě díky [Fediverse](https://fediverse.io) ([Mastodon](https://joinmastodon.org/)).
 
     Napadlo vás někdy, že by bylo fajn kdybyste mohli např. odebírat Youtube kanál z vašeho Instagram účtu nebo napsat zprávu někomu na Facebook z vašeho Twitter účtu?
     To vše je dnes možné a to navíc s ohledem na naše soukromí, tedy bez reklam a bezpečně.
@@ -768,6 +899,31 @@
     - soukromí
     - identita
     - sociální sítě
+
+- id: oracles-obecne
+  type: talk
+  name: Co jsou to oracles + CZK kurz na blockchainu
+  track: defi
+  speakers: [ radek-svarz ]
+  duration: 25
+  difficulty: advanced
+  tags:
+    - oracles
+    - stablecoin
+    - DeFi
+  fixed:
+    stage: exit-room
+
+- id: jak-vyuzit-potencial-defi-na-maximum
+  type: talk
+  name: Jak využít potenciál DeFi na maximum [TBD]
+  track: defi
+  speakers: [ stepan-fau ]
+  duration: 25
+  difficulty: advanced
+  tags:
+    - DeFi
+
 
  # Lightning talks (series)
  # =========================
@@ -781,6 +937,7 @@
     Představení lokálních česko-slovenských kryptoměnových komunit.
   tags:
     - společnost
+  duration: 85
 
 - id: lokalni-projekty-intro
   type: lightning-series
@@ -789,6 +946,31 @@
   speakers: []
   description: |
     Představení lokálních kryptoměnových projektů.
+  tags:
+    - Bitcoin
+  duration: 55
+
+- id: lokalni-btc-intro
+  type: lightning-series
+  name: Lokální Bitcoin projekty
+  track: btc
+  speakers: []
+  description: |
+    Představení lokálních bitcoinově zaměřených projektů.
+  duration: 55
+  tags:
+    - Bitcoin
+
+- id: lokalni-dao-intro
+  type: lightning-series
+  name: Lokální DAO projekty
+  track: dao
+  speakers: []
+  description: |
+    Představení lokálních DAO projektů.
+  duration: 25
+  tags:
+    - DAO
 
 - id: lokalni-defi-intro
   type: lightning-series
@@ -799,6 +981,7 @@
     - DeFi
   description: |
     Představení lokálních DeFi projektů.
+  duration: 85
 
 
 - id: lokalni-nft-intro
@@ -810,6 +993,7 @@
     - NFT
   description: |
     Představení lokálních NFT/Metaverse projektů.
+  duration: 85
 
 
 # Workshops (workshopy)
@@ -828,6 +1012,8 @@
     - finanční svoboda
     - volný trh
     - soukromí
+  after:
+    - eticky-vekslak
 
 - id: bezpecnost-workshop
   type: workshop
@@ -937,14 +1123,16 @@
 
 - id: pujcka-na-blockchainu-jednoduse-rychle
   type: workshop
-  name: Pujčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)
+  name: Půjčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)
   track: defi
-  speakers: [ radek-svarz ]
+  speakers: [ m0xt, petr-klein, radek-svarz ]
   duration: 50
   difficulty: beginner
   tags:
-    - pujčky
+    - půjčky
     - DeFi
+  description: |
+    Vyzkoušejte si práci s rozhraním APUS.finance v testovacím prostředí. Naučíme vás, jak si v DeFi zřídit půjčku s 0% úrokem, jak správně nastavit výši zástavy, abyste o své krypto nepřišli a jak vypůjčené prostředky převést na vlastní účet. Workshop navazuje na bleskovou přednášku Apus.finance.
 
 - id: near-v-praxi
   type: workshop
@@ -954,7 +1142,7 @@
   duration: 50
   difficulty: beginner
   after:
-    - uvod-do-near
+    - uvod-near
   tags:
     - NEAR
 
@@ -998,7 +1186,7 @@
 
 - id: jak-si-posichrovat-a-rozlozit-portfolio
   type: workshop
-  name: Jak si posichrovat a rozložit svoje portfolio?
+  name: Jak vydělat miliony, i když je nemáš
   track: zaklady
   speakers: [ tomas-zdrazil ]
   duration: 50
@@ -1006,6 +1194,8 @@
   tags:
     - portfolio
     - investice
+  description: |
+    Původně jsem přednášku nazval: "Jak si posichrovat a rozložit svoje portfolio." Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuly, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.
 
 - id: lightning-ekosystem
   type: workshop
@@ -1017,6 +1207,10 @@
   tags:
     - Bitcoin
     - Lightning Network
+  description: |
+    Jaké jsou nejlepší peněženky, jak se dá smysluplně vydělávat drobné a jaké nástroje máme již připravené ke stavění nových služeb a aplikací. Vše můžeme prakticky vyzkoušet a těším se také na Vaše zkušenosti s Lightning Network.
+  after:
+    - proc-a-jak-pouzivat-bitcoin
 
 - id: hackujeme-defi-arbitraze
   type: workshop
@@ -1058,9 +1252,11 @@
   duration: 50
   difficulty: beginner
   tags:
-    - Metaverse
+    - metaverse
     - NFT
     - VR
+  after:
+    - somnium-space-talk
 
 - id: btc-full-node-workshop
   type: workshop
@@ -1087,6 +1283,10 @@
   difficulty: beginner
   tags:
     - liberalismus
+  description: |
+    Jan Mošovský a Martin Pánek povedou otevřenou debatu o historii liberálního hnutí, jeho filosofických základech, praktických aplikacích v politice a hrdinech boje za svobodu. Víte, že Karel Havlíček Borovský byl velký liberál a psal dobře mj. o daních a státní byrokracii? Kdo byla Harriet Tubmanová? Měl pravdu John Rawls, nebo Robert Nozick? Jak liberalismus inspiroval zájem o kryptoměny i jejich vznik? To všechno probereme na workshopu. Příspěvky z publika vítány.
+
+    Workshop [Liberálního institutu](https://libinst.cz/) a [Studentů za svobodu](https://studentsforlibertycz.cz/)</a>. 
 
 - id: play-to-earn-sorare
   type: workshop
@@ -1124,6 +1324,19 @@
   description: |
     Úvod do tvorby smart contractů na Solana blockchainu. Představíme si jak funguje Solana blockchain, jaké jsou jeho rozdíly ve srovnání s Ethereem. Probereme account model Solany, který je třeba pochopit před samotnou prací se smart contracty na této síti, a hned si jeden smart contract vytvoříme a deployujeme na lokální instanci. Pro účast je výhodná alespoň základní znalost programování. Je možné přijít s notebookem a tvorbu kontraktu si vyzkoušet, nebo si jen poslechnout teorii a sledovat postup.
 
+- id: maximalni-yield-bez-ohledu-na-chain
+  type: workshop
+  name: Maximální yield bez ohledu na chain [TBD]
+  track: defi
+  speakers: [ stepan-fau ]
+  duration: 50
+  difficulty: expert
+  after:
+    - jak-vyuzit-potencial-defi-na-maximum
+  tags:
+    - DeFi
+    - yield farming
+
 
 # Lightning talks
 # ==========================
@@ -1144,7 +1357,7 @@
   track: btc
   speakers: [ honza-dvorak ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - platby
@@ -1155,7 +1368,7 @@
   track: btc
   speakers: [ mario-havel ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - Lightning Network
@@ -1168,7 +1381,7 @@
   track: btc
   speakers: [ kristian-csepcsar ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - mining
@@ -1180,6 +1393,7 @@
   track: btc
   speakers: [ kryptomates ]
   duration: 10
+  parent: lokalni-btc-intro
   tags:
     - Bitcoin
     - Lightning Network
@@ -1237,6 +1451,20 @@
     - investice
     - deriváty
 
+- id: 1ab
+  type: lightning
+  name: 1ab
+  track: eth
+  speakers: [ m0xt ]
+  duration: 10
+  parent: lokalni-defi-intro
+  description: |
+    Efektivní řízení se neobejde bez datové analýzy. Spousta projektů bohužel tyto velmi cenné informace neřeší. Na vině je i komunita, která by měla vyvíjet tlak na vytvoření alespoň základního dashboardu na Dune a mít tak jasný přehled o aktuálním dění okolo daného projektu. To je další známka toho, že jsme stále ve velmi ranné fázi a podobné věci a služby se teprve tvoří. 1ab poskytuje tato data a následně reportuje získané informace týmu/komunitě.
+  tags:
+    - Ethereum
+    - datová analýza
+    - vývoj
+
 - id: flipper-zone
   type: lightning
   name: Flipper.Zone
@@ -1289,15 +1517,15 @@
   description: |
     Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.
 
-- id: liqwid
-  type: lightning
-  name: Liqwid Finance
-  track: alty
-  speakers: [ mark-stopka ]
-  duration: 10
-  parent: lokalni-defi-intro
-  tags:
-    - DeFi
+# - id: liqwid
+#  type: lightning
+#  name: Liqwid Finance
+#  track: alty
+#  speakers: [ mark-stopka ]
+#  duration: 10
+#  parent: lokalni-defi-intro
+#  tags:
+#    - DeFi
 
 - id: stosujcz
   type: lightning
@@ -1311,6 +1539,20 @@
   tags:
     - spoření
     - Bitcoin
+
+- id: bitcoin-mindset
+  type: lightning
+  name: Bitcoin Mindset
+  track: zaklady
+  speakers: [ martin-bitcoin-mindset ]
+  duration: 10
+  parent: lokalni-projekty-intro
+  description: |
+    Užitečný pomocník pro kryptonadšence, který je k dispozici zcela zdarma jako aplikace pro Android, iOS nebo jako rozšíření do webového prohlížeče. Jedná se o šikovnou kalkulačku, která umí bleskově přepočítat hodnotu jednotlivých měn/kryptoměn mezi sebou. Zadaná hodnota v kterékoliv měně/kryptoměně se ihned přepočte do všech ostatních zvolených měn. Další užitečnou vlastností je například správa vlastního portfolia a možnost jednoduše přepnout všechny statistiky do jakékoliv zvolené měny.
+    Jednoduché nastavení, důraz na použitelnost a bez otravných reklam. Více info na: [bitcoinmindset.org](https://bitcoinmindset.org/)
+  tags:
+    - aplikace
+    - kurzy
 
 - id: futureland
   type: lightning
@@ -1329,7 +1571,7 @@
   type: lightning
   name: Altaria
   track: nft
-  speakers: [ fetyas, blazena-kuthanova ]
+  speakers: [ blazena-kuthanova ]
   duration: 10
   parent: lokalni-nft-intro
   tags:
@@ -1337,6 +1579,22 @@
     - gaming
   description: |
     Představení první Thrive-and-Earn aplikace, která gamifikuje celkový životní styl uživatelů prostřednictvím odměn a významných sociálních a herních prvků.
+
+- id: sollarion
+  type: lightning
+  name: Sollarion [TBD]
+  track: nft
+  speakers: []
+  duration: 10
+  parent: lokalni-nft-intro
+  tags:
+    - NFT
+    - gaming
+    - Solana
+    - metaverse
+    - play-to-earn
+  description: |
+    Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.
 
 - id: holky-v-kryptu
   type: lightning
@@ -1380,24 +1638,27 @@
   speakers: [ resistance ]
   duration: 10
   parent: lokalni-komunity-intro
-  description: |
-    [Pozvánka na Discord](https://discord.gg/X4MV9Pn5P8)
   tags:
     - komunity
     - NFT
     - metaverse
+  description: |
+    Představení historicky první československé NFT komunity. Ke komunikaci používáme aplikaci [Discord](https://discord.gg/X4MV9Pn5P8), kde je již přes 700 členů. Naše komunita je přístupná každému zdarma.  Dostanete zde odpovědí na své otázky, přístup k edukačním materiálům, alpha leaky a tipy na zajímavé NFT projekty. Primárně se snažíme zaměřovat na long term kvalitní projekty, kde se vyplatí NFTs dlouhodobě držet, než prodávat, ale i NFT projekty s možností rychlého výnosu, tedy takzvaného „flipu“, kdy NFT vymintujete a následně jej prodáte na sekundárním trhu za účelem rychlého zisku.  Ne vždy to však vyjde, je třeba si dávat pozor. Možnost konzultovat případné investice s větší skupinou NFT nadšenců a expertů, kteří již mají nějaké zkušenosti však rizika ztrát značně snižuje. Přístup do komunity je sice zdarma, ale pro držitelé Resistance Club NFTs se otevírají další možnosti, jako přístupy do tajných kanálů, neveřejně zmiňované alpha leaky a další výhody, o kterých se můžete dozvědět více, pokud se připojíte na discord, nebo navštívíte tuto bleskovou přednášku.
 
-- id: bankless-cz
-  type: lightning
-  name: Bankless.cz
-  track: zaklady
-  speakers: []
-  duration: 10
-  parent: lokalni-komunity-intro
-  tags:
-    - komunity
-    - Bitcoin
-    - Ethereum
+    V naší komunitě panuje stále přátelská nálada a uvítáme nové aktivní členy. Pokud se k nám tedy chcete přidat a začít objevovat tento nový trend, připojte se na discord: https://discord.gg/X4MV9Pn5P8
+    - Resistance
+
+# - id: bankless-cz
+#  type: lightning
+#  name: Bankless.cz
+#  track: zaklady
+#  speakers: []
+#  duration: 10
+#  parent: lokalni-komunity-intro
+#  tags:
+#    - komunity
+#    - Bitcoin
+#    - Ethereum
 
 - id: polkadotters
   type: lightning
@@ -1414,12 +1675,14 @@
   type: lightning
   name: Cardanians
   track: alty
-  speakers: []
+  speakers: [ jaromir-tesar ]
   duration: 10
   parent: lokalni-komunity-intro
   tags:
     - komunity
     - Cardano
+  description: |
+    V roce 2017 měl běžný projekt hezké webové stránky, white paper a v lepším případě 5 vývojářů. Cardano bylo od začátku jiné. Projekt založený na vědeckém výzkumu a budovaný jako software pro letecký průmysl krypto světu chyběl. Bitcoin i Ethereum mají velké komunity. My jsem se rozhodli budovat Cardano komunitu. Provozujeme Cardano pool, budujeme aplikace, udržujeme českou facebookovou skupinu, jsme aktivní na [Twitteru](https://twitter.com/Cardanians_io), píšeme články, které se běžně překládají do několika jazyků. To jsou [Cardanians](https://cardanians.io/en).
 
 - id: kryptoherna
   type: lightning
@@ -1435,18 +1698,18 @@
     - gaming
     - NFT
 
-- id: bohemiandao
-  type: lightning
-  name: BohemianDAO
-  track: eth
-  speakers: []
-  duration: 10
-  parent: lokalni-projekty-intro
-  tags:
-    - Ethereum
-    - DAO
-    - filantropie
-    - Gnosis Chain
+# - id: bohemiandao
+#  type: lightning
+#  name: BohemianDAO
+#  track: eth
+#  speakers: []
+#  duration: 10
+#  parent: lokalni-dao-intro
+#  tags:
+#    - Ethereum
+#    - DAO
+#    - filantropie
+#    - Gnosis Chain
 
 - id: slavicdao
   type: lightning
@@ -1454,20 +1717,28 @@
   track: eth
   speakers: [ rene-darmos ]
   duration: 10
-  parent: lokalni-projekty-intro
+  parent: lokalni-dao-intro
   tags:
     - DAO
 
-- id: skovo
+- id: altlift-gaming-dao
   type: lightning
-  name: Skovo.cz
-  track: zaklady
-  speakers: [ jiri-skrivan ]
+  name: Altlift Gaming DAO
+  parent: lokalni-dao-intro
+  track: dao
+  speakers: [ martin-bok ]
+  description: |
+    Jak Altlift vstoupil do perspektivního ale extrémně volatilního NFT gaming trhu.
+
+    Dozvíte se:
+      * Proč DAO na NFT gaming? 
+      * Výhody pro investory a pro hráče 
+      * Technické provedení
   duration: 10
-  parent: lokalni-projekty-intro
   tags:
-    - seed
-    - bezpečnost
+    - DAO
+    - gaming
+    - DeFi
 
 # Campfire
 # ==========================
@@ -1484,7 +1755,7 @@
     - vojtch
     - m0xt
     - jiri-cepelka
-  duration: 30
+  duration: 60
   tags:
     - Ethereum
     - komunity
@@ -1492,6 +1763,8 @@
     - DAO
   description: |
     Jsme česko-slovenská Ethereum a DeFi komunita [Gwei.cz](https://gwei.cz/). Pojďte se seznámit a popovídat si s členy našeho [Councilu](https://komunita.gwei.cz/council) a dalšími členy komunity. Zajímá vás na jakých projektech, nebo akcích právě pracujeme? Nevíte kde hledat informace o DeFi nebo Ethereu? Rádi byste pronikli do tajů smart-kontraktů, stakingu, predikčních marketů nebo třeba algoritmických stablecoinů a nevíte kde začít? Možná máte nějaký zajímavý nápad, kterému můžeme pomoci? Přijďte a my se vám pokusíme dát odpověď na všechny vaše otázky :)
+  fixed:
+    stage: campfire-outdoor
 
 - id: bohemiandao-campfire
   type: campfire
@@ -1517,28 +1790,298 @@
   speakers:
     - tereza-starostova
     - sona-parke
-  duration: 30
+  duration: 60
   tags:
     - komunity
     - ženy
+  fixed:
+    stage: campfire-outdoor
 
 - id: dydx-intro
   type: campfire
   name: dYdX - Perpetual Futures platforma, úvod a demo
   track: defi
-  speakers: []
+  speakers:
+    - tree
   duration: 30
   tags:
     - trading
     - Ethereum
     - StarkWare
+  fixed:
+    stage: campfire-indoor
 
+- id: je-krypto-letadlo
+  type: campfire
+  name: Je krypto letadlo?
+  track: zaklady
+  speakers: [ vladimir-pinker ]
+  duration: 30
+  tags:
+    - letectví
+
+- id: zijeme-bez-fiatu
+  type: campfire
+  name: Žijeme bez fiatu
+  track: zaklady
+  speakers: [ vladimir-pinker ]
+  duration: 60
+  tags:
+    - finanční nezávislost
+
+- id: students-for-liberty-campfire
+  type: campfire
+  name: Students for liberty CZ campfire [TBD]
+  track: spolecnost
+  speakers: []
+  duration: 60
+  tags: []
+
+- id: digitalni-identita-v-metaverse
+  type: campfire
+  name: Digitální identita v metaverse
+  track: nft
+  speakers: [ pavel-riha ]
+  duration: 30
+  difficulty: advanced
+  tags:
+    - digitální identita
+    - metaverse
+  description: |
+    Aneb 5 důvodů, proč v roce 2030 bude běžné utratit 1.000.000 Kč za váš digitální avatar.
+
+- id: skovo
+  type: campfire
+  name: Skovo.cz - ukázka [TBD]
+  track: zaklady
+  speakers: [ jiri-skrivan ]
+  duration: 30
+  tags:
+    - seed
+    - bezpečnost
+  fixed:
+    stage: campfire-outdoor
+
+- id: kodadot-campfire
+  type: campfire
+  name: KodaDot nfts and chill
+  track: nft
+  duration: 60
+  speakers:
+    - damsky
+    - matej-yangwao
+  tags:
+    - komunity
+    - vývoj
+    - pracovní příležitosti
+  description: |
+    Podíváme se společně do útrob Kusama blockchainu, kde narazíme na NFTs z pradávných dob které dříve dělaly 100 milionové obraty. Jak je tomu teď a co se děje s NFTs které dříve stály mnoho peněz a nyní stojí 10x méně protože cena měny v které byly zalistované rapidně klesla? Jak můžeme pomocí dat a prohlížeče KodaDotu snipovat Kusama NFTs které mají trakci a v příštím bullrunu prodávat mnohonásobně dráž?
+
+    Mimo jiné si povíme i o tom, jaké je to začínat jako Web3 startup, na jaké strasti může člověk narazit a také si povíme o tom, v jakém stavu je KodaDot teď a proč by to pro vás mohla být ideální pracovní příležitost.
+
+    Potkáte se s manažery projektu, zakladateli a vývojáři celé KodaDot struktury.
+
+    Při návštěvě této campfire session si také ukážeme, jak airdropnout NFTs na libovolné množství adres na Kusama blockchainu a odnesete si merch a poap NFT!
+
+    Wagmi.
+
+    Campfire se účastní:
+      - https://twitter.com/damsky001
+      - https://twitter.com/yangWao
+      - https://twitter.com/vikiival
+      - https://twitter.com/petersopko
+      - https://twitter.com/De_luneClaire
+  fixed:
+    date: '2022-06-05'
+
+- id: kryptovlada-qa
+  type: campfire
+  name: KryptoVláďa Q&A
+  speakers: [ vladimir-pinker ]
+  track: defi
+  duration: 60
+  fixed:
+    time: '1/19:00-20:00'
+    stage: campfire-outdoor
+  tags:
+    - komunity
+
+- id: sollarion-campfire
+  type: campfire
+  name: Sollarion introduction and giveaway
+  speakers: []
+  track: nft
+  duration: 30
+  fixed:
+    date: '2022-06-04'
+  tags:
+    - NFT
+    - gaming
+    - P2E
+    - metaverse
+    - Solana
+    - giveaway
+  description: |
+    Představení jedné z prvních Českých P2E (play-to-earn) her [Sollarion](https://sollarion.com/), která přináší hráčům nejen odměny za výhry, ale i možnost pasivního příjmu z držení NFT pozemků. Jedná se o strategickou karetní hru, která se odehrává na hexa mapě s plánovanou implementací prvků VR a metaverse.
+
+    Campfire povede [Ladislav Prekop](https://www.linkedin.com/in/ladislav-prekop-3b303b151)
+
+- id: hopium-diaries-ape-tax-rekt
+  type: campfire
+  name: Hopiové deníky + Degenská daň (video)
+  speakers: [ tree ]
+  track: defi
+  duration: 30
+  fixed:
+    stage: campfire-indoor
+  tags:
+    - video
+    - bezpečnost
+    - budoucnost
+    - DeFi
+  description: |
+    Promítání krátkých filmů od [Rekt DAO](https://rekt.news/). "Hopium Diaries - Dystopian Dreams" (5 min) a "Ape Tax" (15 min) v angličtině s *českými* titulky.
+
+    Krátké filmy:
+      * Hopiové deníky - Dystopické sny [[Hopium Diaries - Dystopian Dreams](https://www.youtube.com/watch?v=v1Z5BnBuFyE)] (15 min)
+      * Degenská daň [[Ape Tax](https://www.youtube.com/watch?v=HJzwEi9iJsc)] (5 min)
+
+- id: blockchain-gaming-scams
+  type: campfire
+  name: 'Blockchain and gaming: How to prevent getting scammed [EN]'
+  speakers: [ edvard-meliksetyan ]
+  track: nft
+  duration: 15
+  description: |
+    With the rapidly growing interest in the industry of crypto assets, blockchain and NFTs, the amount of scammers in the industry is growing just as fast and their techniques are getting more and more sophisticated. What are the common red flags? Is it possible to tell a cryptoscam? And how? Explained by Edvard Meliksetyan, NFT gaming expert from Altlift.
+
+    Tato campfire bude angličtině (EN).
+  tags:
+    - NFT
+    - gaming
+    - scamy
+
+- id: krypto-v-podnikani-campfire
+  type: campfire
+  name: Krypto v podnikaní
+  speakers: [ juraj-bednar ]
+  track: spolecnost
+  duration: 45
+  description: |
+    Ak podnikáte (v inej oblasti ako priamo v kryptomenách) a používate alebo by ste chceli používať kryptomeny vo svojom podnikaní, poďte sa porozprávať o tom ako využívate Bitcoin. Akceptovanie, mzdy v krypte, Bitcoin na súvahe, firemné krypto fondy, čo robiť v bear markete, príbehy o tom ako vám Bitcoin zachránil prdel alebo zlomil krk.
+  tags:
+    - podnikání
+    - Bitcoin
+    - adopce
+
+- id: fintech-v-asii-campfire
+  type: campfire
+  name: Fintech v Asii
+  speakers:
+    - dan-vorechovsky
+    - jan-ruzicka
+  track: btc
+  duration: 60
+  description: |
+    Dva odborníci na Čínu a ekonomové, Dan Vořechovský a Jan Růžička, s vámi chtějí probrat situaci na asijských trzích. Jaké jsou rozdíly v asijském fintechu oproti situaci u nás? V čem jsou v Asii napřed? Jaká je budoucnost, jaká jsou místní specifika? Přijďte podebatovat, čínsky umět nemusíte. :)
+
+    Dan Vořechovský (https://twitter.com/kweenolog) a Jan Růžička (https://twitter.com/JanRuziJan)
+  tags:
+    - Bitcoin
+    - fintech
+    - asie
+
+- id: zeny-v-it-a-kryptu-campfire
+  type: campfire
+  name: Ženy v IT a kryptu
+  speakers:
+    - jana-galvis
+  track: spolecnost
+  duration: 60
+  description: |
+    Jana Galvis z Liberálního institutu je expertka nejenom na Kolumbii, ale také na lidská práva a zastoupení žen. Co může liberál/ka dělat pro větší zastoupení žen v oborech, kde dominují muži, jako jsou IT a krypto? Aneb jde to i bez kvót. Pojďme o tom podebatovat.
+
+    Jana Galvis (https://twitter.com/Jana_Pribylova)
+  tags:
+    - Bitcoin
+    - IT
+    - ženy
+
+- id: opcni-protokoly-dnes-a-zitra
+  type: campfire
+  name: Opční protokoly dnes a zítra
+  speakers:
+    - martin-vlach
+  track: defi
+  duration: 30
+  description: |
+    Zmapování protokolů umožňujících nákup a prodej opcí (options) na EVM blockchainech a Solaně, zhodnocení jejich použitelnosti, trendy a prostor k vývoji. Kdy přeroste objem opčních obchodů spotové tak jako v TradFi, oblíbenost a perspektivy opčních vaultů, order-book vs. AMM design opčních DExů, ...
+  tags:
+    - risk management
+    - trading
+    - spekulace
+    - hedging
+
+- id: prezije-bitcoin-bez-block-rewards
+  name: Přežije Bitcoin, až se nebudou tisknout nové bitcoiny?
+  type: campfire
+  speakers:
+    - tree
+  track: btc
+  duration: 30
+  description: |
+    Jedni se radují z nízkých transakčních poplatků v Bitcoin síti, druzí se hrozí že jsou přiliš levné. Co se stane, až odměna těžařům za vytěžený blok (block reward) klesne na minimum nebo až tisknutí nových satů přestane úplně? Pokud tyto odměny nezastoupí poplatky, tak se bezpečnost Bitcoinu bude postupně snižovat. Budou lidé ochotni platit za bitcoinovou transakci tisíce dolarů? Proč se o to zajímat už teď? Co s tím má společného Lightning Network? A není to jenom FUD? - pojďme společně a věcně pohovořit o možných scénářích následujícího vývoje.
+
+    Zdroje:
+      * https://bitcoinmagazine.com/markets/so-what-if-bitcoin-fee-revenue-is-low
+  
+  tags:
+    - Bitcoin
+    - bezpečnost
 
 # Ostatní
 # ==========================
 
 - id: party-electronic-stage
   type: other
+  track: other
   name: UTXO.Party - Elektronická stage
   speakers: [ dmitry ]
+  duration: 360
+  fixed:
+    time: '1/20:00-23:59'
+    stage: pitevna
+  tags: []
 
+- id: party-rajska-zahrada
+  type: other
+  track: other
+  name: UTXO.Party - Hlavní stage [TBD]
+  speakers: []
+  duration: 120
+  fixed:
+    time: '1/20:00-22:00'
+    stage: rajska-zahrada
+  tags: []
+
+- id: closing-ceremony
+  type: other
+  track: other
+  name: Ukončení konference 🎉
+  speakers: [ tereza-starostova, tree ]
+  duration: 30
+  fixed:
+    time: '2/18:30-19:00'
+    stage: rajska-zahrada
+  tags: []
+
+- id: opening-ceremony
+  type: other
+  track: other
+  name: Slavnostní zahájení konference 🎉
+  speakers: [ tereza-starostova ]
+  duration: 30
+  fixed:
+    time: '1/09:00-09:30'
+    stage: rajska-zahrada
+  tags: []
