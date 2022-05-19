@@ -1980,7 +1980,9 @@
 - id: fintech-v-asii-campfire
   type: campfire
   name: Fintech v Asii
-  speakers: []
+  speakers:
+    - dan-vorechovsky
+    - jan-ruzicka
   track: btc
   duration: 30
   description: |
@@ -1995,7 +1997,8 @@
 - id: zeny-v-it-a-kryptu-campfire
   type: campfire
   name: Ženy v IT a kryptu
-  speakers: []
+  speakers:
+    - jana-galvis
   track: spolecnost
   duration: 60
   description: |
