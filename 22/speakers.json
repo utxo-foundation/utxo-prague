@@ -798,6 +798,7 @@
     "tracks": [
       "btc"
     ],
+    "lead": true,
     "photos": [
       "web:jpg",
       "twitter:jpg"
@@ -893,6 +894,7 @@
     "tracks": [
       "regulace"
     ],
+    "lead": true,
     "photos": [
       "web:jpg",
       "twitter:jpg"
@@ -1038,6 +1040,7 @@
       "alty",
       "nft"
     ],
+    "lead": true,
     "photos": [
       "twitter:jpg"
     ]
