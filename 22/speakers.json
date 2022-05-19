@@ -134,6 +134,23 @@
     ]
   },
   {
+    "id": "dan-vorechovsky",
+    "name": "Dan Vořechovský",
+    "twitter": "kweenolog",
+    "bio": "Investor zaměřený na Asii",
+    "country": "cz",
+    "tracks": [
+      "btc"
+    ],
+    "web": {
+      "url": "https://www.vorechovsky.cz"
+    },
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "david-antos",
     "name": "David Antoš",
     "nickname": "jilm",
@@ -536,6 +553,19 @@
     ]
   },
   {
+    "id": "jan-ruzicka",
+    "name": "Jan Růžička",
+    "twitter": "JanRuziJan",
+    "orgs": "Šéf vnějších vztahů [Home Credit](https://www.homecredit.net/) (PPF)\n",
+    "country": "cz",
+    "tracks": [
+      "btc"
+    ],
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "jan-struhala",
     "name": "Jan Struhala",
     "twitter": "jan_struhala",
@@ -550,6 +580,19 @@
     ],
     "photos": [
       "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "jana-galvis",
+    "name": "Jana Galvis",
+    "twitter": "Jana_Pribylova",
+    "orgs": "Analytička [Liberálního insitutu](https://libinst.cz/)\n",
+    "country": "cz",
+    "tracks": [
+      "spolecnost"
+    ],
+    "photos": [
       "twitter:jpg"
     ]
   },

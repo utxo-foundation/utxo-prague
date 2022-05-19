@@ -1766,5 +1766,37 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-19",
+    "speakers": {
+      "added": [
+        {
+          "id": "dan-vorechovsky",
+          "name": "Dan Vořechovský"
+        },
+        {
+          "id": "jan-ruzicka",
+          "name": "Jan Růžička"
+        },
+        {
+          "id": "jana-galvis",
+          "name": "Jana Galvis"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "fintech-v-asii-campfire",
+          "name": "Fintech v Asii"
+        },
+        {
+          "id": "zeny-v-it-a-kryptu-campfire",
+          "name": "Ženy v IT a kryptu"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
