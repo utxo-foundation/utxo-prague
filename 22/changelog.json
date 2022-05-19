@@ -1782,6 +1782,10 @@
         {
           "id": "jana-galvis",
           "name": "Jana Galvis"
+        },
+        {
+          "id": "martin-vlach",
+          "name": "Martin Vlach"
         }
       ]
     },
@@ -1794,6 +1798,10 @@
         {
           "id": "zeny-v-it-a-kryptu-campfire",
           "name": "Ženy v IT a kryptu"
+        },
+        {
+          "id": "opcni-protokoly-dnes-a-zitra",
+          "name": "Opční protokoly dnes a zítra"
         }
       ],
       "removed": [

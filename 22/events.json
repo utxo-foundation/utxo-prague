@@ -2247,6 +2247,23 @@
     ]
   },
   {
+    "id": "opcni-protokoly-dnes-a-zitra",
+    "type": "campfire",
+    "name": "Opční protokoly dnes a zítra",
+    "speakers": [
+      "martin-vlach"
+    ],
+    "track": "defi",
+    "duration": 30,
+    "description": "Zmapování protokolů umožňujících nákup a prodej opcí (options) na EVM blockchainech a Solaně, zhodnocení jejich použitelnosti, trendy a prostor k vývoji. Kdy přeroste objem opčních obchodů spotové tak jako v TradFi, oblíbenost a perspektivy opčních vaultů, order-book vs. AMM design opčních DExů, ...\n",
+    "tags": [
+      "risk management",
+      "trading",
+      "spekulace",
+      "hedging"
+    ]
+  },
+  {
     "id": "party-electronic-stage",
     "type": "other",
     "track": "other",

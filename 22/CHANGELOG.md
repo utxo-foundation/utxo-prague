@@ -7,11 +7,13 @@
 * přidáno [Dan Vořechovský](https://utxo.cz/lide?id=dan-vorechovsky)
 * přidáno [Jan Růžička](https://utxo.cz/lide?id=jan-ruzicka)
 * přidáno [Jana Galvis](https://utxo.cz/lide?id=jana-galvis)
+* přidáno [Martin Vlach](https://utxo.cz/lide?id=martin-vlach)
 
 ### Události
 
 * přidáno [Fintech v Asii](https://utxo.cz/udalosti?id=fintech-v-asii-campfire)
 * přidáno [Ženy v IT a kryptu](https://utxo.cz/udalosti?id=zeny-v-it-a-kryptu-campfire)
+* přidáno [Opční protokoly dnes a zítra](https://utxo.cz/udalosti?id=opcni-protokoly-dnes-a-zitra)
 
 ### Události
 

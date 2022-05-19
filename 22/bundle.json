@@ -1026,6 +1026,21 @@
         ]
       },
       {
+        "id": "martin-vlach",
+        "name": "Martin Vlach",
+        "nickname": "Huge",
+        "twitter": "UserHuge",
+        "orgs": "Spoluzakladatel [Camine Options](https://carmine.finance/) a [Chainkeepers](https://www.chainkeepers.io/)\n",
+        "country": "cz",
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "kryptomates",
         "name": "Matěj Švancer",
         "nickname": "KRYPTO Mates",
@@ -4056,6 +4071,23 @@
           "Bitcoin",
           "IT",
           "ženy"
+        ]
+      },
+      {
+        "id": "opcni-protokoly-dnes-a-zitra",
+        "type": "campfire",
+        "name": "Opční protokoly dnes a zítra",
+        "speakers": [
+          "martin-vlach"
+        ],
+        "track": "defi",
+        "duration": 30,
+        "description": "Zmapování protokolů umožňujících nákup a prodej opcí (options) na EVM blockchainech a Solaně, zhodnocení jejich použitelnosti, trendy a prostor k vývoji. Kdy přeroste objem opčních obchodů spotové tak jako v TradFi, oblíbenost a perspektivy opčních vaultů, order-book vs. AMM design opčních DExů, ...\n",
+        "tags": [
+          "risk management",
+          "trading",
+          "spekulace",
+          "hedging"
         ]
       },
       {
@@ -20127,10 +20159,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 98,
+      "speakers": 99,
       "tracks": 10,
       "event-types": 7,
-      "events": 139,
+      "events": 140,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -20138,5 +20170,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-19T06:47:20.981Z"
+  "time": "2022-05-19T07:33:26.491Z"
 }
