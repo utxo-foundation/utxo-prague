@@ -830,7 +830,7 @@
 
 - id: smart-contracts-audits
   type: talk
-  name: Smart contract audits - scam or legit?
+  name: Audity smart kontraktů - co to je a k čemu je to vůbec dobré?
   track: eth
   speakers: [ josef-gattermayer ]
   duration: 55
@@ -839,6 +839,8 @@
     - smart-contract
     - bezpečnost
     - Ethereum
+  description: |
+    Bezpečnostní audity smart kontraktů nenabízí binární odpověď, jestli je daný kód bezpečný, nebo není. Proč jsou přesto audity pro projekty a jejich uživatele důležité? Jak takový audit probíhá? A jak se může běžný HODLer v auditu zorientovat, aby mu pomohl v binárním rozhodnutí, jestli do projektu investovat, nebo se mu vyhnout?
 
 - id: polkadot-governance
   type: talk
