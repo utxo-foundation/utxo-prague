@@ -940,7 +940,7 @@
       period:
         start: '2022-06-04T13:00:00.000Z'
         end: '2022-06-04T14:00:00.000Z'
-      event: uvod-do-polkadot-a-ekosystemu
+      event: uvod-do-polkadot
       metrics:
         themeCrossing: 0.8
         tagsCrossing: 1
@@ -1143,7 +1143,7 @@
       period:
         start: '2022-06-04T11:30:00.000Z'
         end: '2022-06-04T12:30:00.000Z'
-      event: uvod-do-polkadot-a-ekosystemu
+      event: polkadot-a-parachainy
       metrics:
         themeCrossing: 1
         tagsCrossing: 1

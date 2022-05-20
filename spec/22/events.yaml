@@ -710,15 +710,31 @@
   description: |
     Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.
 
-- id: uvod-do-polkadot-a-ekosystemu
+- id: uvod-do-polkadot
   type: talk
-  name: Úvod do Polkadotu a jeho ekosystému
+  name: Úvod do Polkadotu
   track: alty
   speakers: [ petr-mensik ]
   duration: 55
-  difficulty: advanced
+      difficulty: advanced
   tags:
     - Polkadot
+  description: |
+    Polkadot je platforma od jednoho ze zakladatelů Ethereum sítě a původního autora EVM, Gavina Wooda. Tento protokol je unikátní svým designem, protože už od svého vzniku počítá s tím, že budoucnust kryptoměn je takzvaně multi-chain - to znamená, že zde nebude jeden vítězný projekt, který ovládne celý krypto prostor, ale budeme mít vedle sebe mnoho blockchainů, které spolu budou muset bezpečně a decentralizovaně komunikovat. Dozvíte se tedy jakým způsobem je Polkadot pro tuto budoucnost navržen, co jsou to parachainy a proč by to mohl být jeden z nejzajímavějších projektů roku 2022. 
+
+- id: polkadot-a-parachainy
+  type: talk
+  name: Úvod do Polkadotu
+  track: alty
+  speakers: [ petr-mensik ]
+  duration: 55
+      difficulty: advanced
+  tags:
+    - Polkadot
+    - smart-contract
+  description: |
+    V této přednášce se zaměříme na základní stavební kámen Polkadotu a tím jsou specializované blockchainy - parachainy. Vysvětlíme si, co parachainy přináší navíc oproti klasickým smart kontraktům a proč vůbec něco takového potřebujeme, když už tady máme Ethereum. Dále si také ukážeme jak probíhají aukce parachainů, jak (a proč) do nich investovat a na závěr předvedu několik příkladů, na kterých lze vidět jak velkou inovaci tento design do kryptoměnového prostoru přináší.
+
 
 - id: mise-projektu-cardano
   type: talk
@@ -1228,6 +1244,8 @@
   tags:
     - Polkadot
     - staking
+  description: |
+    Tento workshop bude zaměřený na dva aspekty platformy Polkadot - na staking a účast v Polkadot aukcích, respektive crowdloanech. V první polovíně si tedy vysvětlíme principy stakingu, ekonomiku kolem něj a ukážeme si jak prakticky vybrat správné validátory či kterou peněženku ke stakingu použít. V druhé částí si v krátkosti vysvětlíme mechaniku aukcí parachainů a podíváme se na důvody proč do takové aukce vlastně přispět a jak si správně vybrat projekt ke své investici. 
 
 - id: somnium-space-workshop
   type: workshop
@@ -1635,6 +1653,8 @@
   tags:
     - komunity
     - Polkadot
+  description: |
+          Rádi bychom Vám představili Polkadotters, přední českou a zároveň jednu z největších mezinárodních komunit, která vznikla okolo kryptoměny Polkadot. Najdete nás na [Facebooku](https://www.facebook.com/groups/232197797602358), [Twitteru](https://twitter.com/Polkadotters1) a hlavně na našem [Medium](https://polkadotters.medium.com/), kde se soustředíme na technologii Polkadot a analýzy projektů na něm vznikajících. Zároveň s tím jsme jedni z největších validátorů v celém ekosystému, což nám umožňuje dělat naši komunitní práci tak, abychom nebyli závislí na platbách za marketing či "shillování" tokenů. Tato přednáška se tedy bude snažit ukázat, jak se dá vytvořit skvělá synergie mezi vedením komunity a snahou o decentralizaci kryptoměnového ekosystému. 
 
 - id: cardanians
   type: lightning
