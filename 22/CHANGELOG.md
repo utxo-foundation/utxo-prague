@@ -5,6 +5,7 @@
 ### Události
 
 * přidáno [Úvod do Polkadotu](https://utxo.cz/udalosti?id=uvod-do-polkadot)
+* přidáno [Způsoby anonymizace tokenů (Tornado, SCRT, Aztec)](https://utxo.cz/udalosti?id=anonymizace-campfire)
 
 ### Události
 

@@ -1833,6 +1833,10 @@
         {
           "id": "uvod-do-polkadot",
           "name": "Úvod do Polkadotu"
+        },
+        {
+          "id": "anonymizace-campfire",
+          "name": "Způsoby anonymizace tokenů (Tornado, SCRT, Aztec)"
         }
       ],
       "removed": [

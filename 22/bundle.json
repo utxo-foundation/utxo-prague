@@ -4114,6 +4114,24 @@
         ]
       },
       {
+        "id": "anonymizace-campfire",
+        "type": "campfire",
+        "name": "Způsoby anonymizace tokenů (Tornado, SCRT, Aztec)",
+        "track": "eth",
+        "speakers": [
+          "petr-klein",
+          "tree"
+        ],
+        "duration": 30,
+        "difficulty": "advanced",
+        "description": "Pojďme se pobavit o způsobech anonymizace tokenů (primárně ETH). Řekneme si jak funguje Tornado.cash (včetně verze Nova). Dále můžeme rozebrat principy [SCRT.network](https://scrt.network) a ukázat si jak ji začít jednoduše používat. Můžeme projít také Aztec prokol a další.\n",
+        "tags": [
+          "soukromí",
+          "anonymizace",
+          "finanční svoboda"
+        ]
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
@@ -20965,7 +20983,7 @@
       "speakers": 99,
       "tracks": 10,
       "event-types": 7,
-      "events": 141,
+      "events": 142,
       "stages": 9,
       "faqs": 5,
       "partners": 29,
@@ -20973,5 +20991,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-20T15:59:12.584Z"
+  "time": "2022-05-20T17:07:18.568Z"
 }
