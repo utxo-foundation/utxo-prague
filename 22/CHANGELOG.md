@@ -1,5 +1,16 @@
 # Changelog
 
+## 20.5.2022
+
+### Události
+
+* přidáno [Úvod do Polkadotu](https://utxo.cz/udalosti?id=uvod-do-polkadot)
+
+### Události
+
+* odebráno [Úvod do Polkadotu a jeho ekosystému](https://utxo.cz/udalosti?id=uvod-do-polkadot-a-ekosystemu)
+
+
 ## 19.5.2022
 
 ### Přednášející

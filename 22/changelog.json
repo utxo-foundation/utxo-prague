@@ -1828,7 +1828,20 @@
   {
     "date": "2022-05-20",
     "speakers": {},
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "uvod-do-polkadot",
+          "name": "Úvod do Polkadotu"
+        }
+      ],
+      "removed": [
+        {
+          "id": "uvod-do-polkadot-a-ekosystemu",
+          "name": "Úvod do Polkadotu a jeho ekosystému"
+        }
+      ]
+    },
     "partners": {}
   }
 ]

@@ -21,7 +21,7 @@
   {
     "id": "btc-vs-altcoiny",
     "type": "panel",
-    "name": "Bitcoin vs. altcoiny [TBD]",
+    "name": "Bitcoin vs smart-contract platformy [TBD]",
     "speakers": [
       "josef-tetek",
       "david-stancel"
@@ -532,6 +532,7 @@
     ],
     "duration": 25,
     "difficulty": "beginner",
+    "description": "Přijít do práce o čtvrt hoďky dýl, pak si dát v klidu latté s kolegy a teprve potom usednout ke svému pracovnímu stolu. Cestou potkat šéfa, který přijel v novém Mercedesu, zatímco vám 5 let nepřidal a do práce jezdíte sockou. Dřív než vyřídíte první pracovní email, projedete svoje sociální sítě  - nechtějí přidat, tak se přece nepředřete! Pět minut před čtvrtou už jdete domů, ztímco váš šéf si už dvě hodiny užívá golf .... tyhle zaběhlé firemní struktury může změnit jediná věc - decentralizované autonomní organizace (DAO).\n",
     "tags": [
       "DAO",
       "organizace",
@@ -824,9 +825,9 @@
     "description": "Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.\n"
   },
   {
-    "id": "uvod-do-polkadot-a-ekosystemu",
+    "id": "uvod-do-polkadot",
     "type": "talk",
-    "name": "Úvod do Polkadotu a jeho ekosystému",
+    "name": "Úvod do Polkadotu",
     "track": "alty",
     "speakers": [
       "petr-mensik"
@@ -834,8 +835,10 @@
     "duration": 55,
     "difficulty": "advanced",
     "tags": [
-      "Polkadot"
-    ]
+      "Polkadot",
+      "smart-contract"
+    ],
+    "description": "Polkadot je platforma od jednoho ze zakladatelů Ethereum sítě a původního autora EVM, Gavina Wooda. Tento protokol je unikátní svým designem, protože už od svého vzniku počítá s tím, že budoucnust kryptoměn je takzvaně multi-chain - to znamená, že zde nebude jeden vítězný projekt, který ovládne celý krypto prostor, ale budeme mít vedle sebe mnoho blockchainů, které spolu budou muset bezpečně a decentralizovaně komunikovat. Dozvíte se tedy jakým způsobem je Polkadot pro tuto budoucnost navržen, co jsou to parachainy a proč by to mohl být jeden z nejzajímavějších projektů roku 2022.\n"
   },
   {
     "id": "mise-projektu-cardano",
@@ -1432,7 +1435,8 @@
     "tags": [
       "Polkadot",
       "staking"
-    ]
+    ],
+    "description": "Tento workshop bude zaměřený na dva aspekty platformy Polkadot - na staking a účast v Polkadot aukcích, respektive crowdloanech. V první polovíně si tedy vysvětlíme principy stakingu, ekonomiku kolem něj a ukážeme si jak prakticky vybrat správné validátory či kterou peněženku ke stakingu použít. V druhé částí si v krátkosti vysvětlíme mechaniku aukcí parachainů a podíváme se na důvody proč do takové aukce vlastně přispět a jak si správně vybrat projekt ke své investici.\n"
   },
   {
     "id": "somnium-space-workshop",
@@ -1888,7 +1892,8 @@
     "tags": [
       "komunity",
       "Polkadot"
-    ]
+    ],
+    "description": "Rádi bychom Vám představili Polkadotters, přední českou a zároveň jednu z největších mezinárodních komunit, která vznikla okolo kryptoměny Polkadot. Najdete nás na [Facebooku](https://www.facebook.com/groups/232197797602358), [Twitteru](https://twitter.com/Polkadotters1) a hlavně na našem [Medium](https://polkadotters.medium.com/), kde se soustředíme na technologii Polkadot a analýzy projektů na něm vznikajících. Zároveň s tím jsme jedni z největších validátorů v celém ekosystému, což nám umožňuje dělat naši komunitní práci tak, abychom nebyli závislí na platbách za marketing či \"shillování\" tokenů. Tato přednáška se tedy bude snažit ukázat, jak se dá vytvořit skvělá synergie mezi vedením komunity a snahou o decentralizaci kryptoměnového ekosystému.\n"
   },
   {
     "id": "cardanians",
