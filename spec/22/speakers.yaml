@@ -328,14 +328,14 @@
     Členka [Holek v kryptu](https://holkyvkryptu.cz) se zaměřením na NFT. Jako technický projekťák v Red Hatu se přirozeně zaměřuje na fundamentální analýzy krypto projektů a Use cases NFT nejen jako prezentace obrázku. Své NFT znalosti sdílí na workshopech nebo konferencích v Evropě.
 
 - id: matthew-cook
-  name: Matthew Cook
+  name: Matyáš Kuchař
   twitter: Matyas44Cook
   tracks: [ btc, spolecnost ]
   bio: Cypherpunk v učení, knihomol, autor článků o Bitcoinu
   orgs: Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/)
   country: cz
   available:
-    - from: '2022-06-04T14:00:00'
+    - from: '2022-06-04T12:00:00'
       to: '2022-06-04T23:59:59'
   desc: |
     Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/), Cypherpunk v učení, knihomol, autor článků o Bitcoinu. Zabývá se Rakouskou školou ekonomie, filozofií, novými technologiemi a nadevše věří v decentralizaci.
@@ -493,7 +493,7 @@
   name: Petr Sanetrník
   twitter: PetrSanetrnik
   orgs: |
-    [CryptViz](https://crypviz.io/)
+    Zakladatel [Webfusion](https://webfusion.cz/), spoluzakladatel [VR Education](https://vreducation.cz/), spoluzakladatel a portfolio manager v [Crypviz Asset Management](https://crypviz.io/)
   tracks: [ eth, defi, nft ]
   country: cz
 
