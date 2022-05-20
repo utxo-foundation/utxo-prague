@@ -2047,9 +2047,7 @@
   duration: 30
   difficulty: advanced
   description: |
-    Pojďme se pobavit o způsobech anonymizace tokenů (primárně ETH). Řekneme si jak funguje Tornado.cash (včetně verze Nova).
-    Dále můžeme rozebrat principy [SCRT.network](https://scrt.network) a ukázat si jak ji začít jednoduše používat. 
-    Můžeme projít také Aztec prokol a další.
+    Pojďme se pobavit o způsobech anonymizace tokenů (primárně ETH). Řekneme si jak funguje Tornado.cash (včetně verze Nova). Dále můžeme rozebrat principy [SCRT.network](https://scrt.network) a ukázat si jak ji začít jednoduše používat. Můžeme projít také Aztec prokol a další.
   tags:
     - soukromí
     - anonymizace
