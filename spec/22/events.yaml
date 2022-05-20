@@ -2063,6 +2063,20 @@
     - Bitcoin
     - bezpečnost
 
+- id: anonymizace-campfire
+  type: campfire
+  name: Způsoby anonymizace tokenů (Tornado, SCRT, Aztec)
+  track: eth
+  speakers: [ petr-klein, tree ]
+  duration: 30
+  difficulty: advanced
+  description: |
+    Pojďme se pobavit o způsobech anonymizace tokenů (primárně ETH). Řekneme si jak funguje Tornado.cash (včetně verze Nova). Dále můžeme rozebrat principy [SCRT.network](https://scrt.network) a ukázat si jak ji začít jednoduše používat. Můžeme projít také Aztec prokol a další.
+  tags:
+    - soukromí
+    - anonymizace
+    - finanční svoboda
+
 # Ostatní
 # ==========================
 
