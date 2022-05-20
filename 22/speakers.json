@@ -1064,7 +1064,7 @@
   },
   {
     "id": "matthew-cook",
-    "name": "Matthew Cook",
+    "name": "Matyáš Kuchař",
     "twitter": "Matyas44Cook",
     "tracks": [
       "btc",
@@ -1075,7 +1075,7 @@
     "country": "cz",
     "available": [
       {
-        "from": "2022-06-04T14:00:00",
+        "from": "2022-06-04T12:00:00",
         "to": "2022-06-04T23:59:59"
       }
     ],
@@ -1335,7 +1335,7 @@
     "id": "petr-sanetrnik",
     "name": "Petr Sanetrník",
     "twitter": "PetrSanetrnik",
-    "orgs": "[CryptViz](https://crypviz.io/)\n",
+    "orgs": "Zakladatel [Webfusion](https://webfusion.cz/), spoluzakladatel [VR Education](https://vreducation.cz/), spoluzakladatel a portfolio manager v [Crypviz Asset Management](https://crypviz.io/)\n",
     "tracks": [
       "eth",
       "defi",
