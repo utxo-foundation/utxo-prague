@@ -335,7 +335,7 @@
   orgs: Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/)
   country: cz
   available:
-    - from: '2022-06-04T00:00:00'
+    - from: '2022-06-04T14:00:00'
       to: '2022-06-04T23:59:59'
   desc: |
     Spoluzakladatel konference [ChainCamp](https://chaincamp.cz/), Cypherpunk v učení, knihomol, autor článků o Bitcoinu. Zabývá se Rakouskou školou ekonomie, filozofií, novými technologiemi a nadevše věří v decentralizaci.
@@ -572,6 +572,7 @@
     Marketingový ředitel @ [Braiins](https://braiins.com/) a [Slush Pool](https://slushpool.com/en/home/)
   country: cz
   tracks: [ btc ]
+  lead: true
 
 - id: kirill-juran
   name: Kirill Juran
@@ -674,6 +675,7 @@
     CEO @ [Anycoin](https://www.anycoin.cz/)
   country: cz
   tracks: [ regulace ]
+  lead: true
   
 - id: jan-struhala
   name: Jan Struhala
@@ -975,6 +977,7 @@
     Zakladatel [KodaDot](https://kodadot.xyz/) a [MetaPrime Network](https://metaprime.network/)
   country: sk
   tracks: [ alty, nft ]
+  lead: true
 
 - id: martin-bitcoin-mindset
   name: Martin - Bitcoin Mindset
@@ -1008,6 +1011,7 @@
 - id: hana-kocourkova
   name: Hana Kocourková
   twitter: danehned
+  bio: Kryptoúčetní
   orgs: |
     [DaněHned.cz](https://www.danehned.cz/)
   country: cz
@@ -1036,3 +1040,38 @@
   tracks: [ nft ]
   web:
     url: https://cz.linkedin.com/in/edvard-meliksetyan-a01658122 
+
+- id: dan-vorechovsky
+  name: Dan Vořechovský
+  twitter: kweenolog
+  bio: Investor zaměřený na Asii
+  country: cz
+  tracks: [ btc ]
+  web:
+    url: https://www.vorechovsky.cz
+
+- id: jan-ruzicka
+  name: Jan Růžička
+  twitter: JanRuziJan
+  orgs: |
+    Šéf vnějších vztahů [Home Credit](https://www.homecredit.net/) (PPF)
+  country: cz
+  tracks: [ btc ]
+
+- id: jana-galvis
+  name: Jana Galvis
+  twitter: Jana_Pribylova
+  orgs: |
+    Analytička [Liberálního insitutu](https://libinst.cz/)
+  country: cz
+  tracks: [ spolecnost ]
+
+- id: martin-vlach
+  name: Martin Vlach
+  nickname: Huge
+  twitter: UserHuge
+  orgs: |
+    Spoluzakladatel [Camine Options](https://carmine.finance/) a [Chainkeepers](https://www.chainkeepers.io/)
+  country: cz
+  tracks: [ defi ]
+

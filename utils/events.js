@@ -35,7 +35,9 @@ for (const item of entry.specs.events) {
   }
   arr.push(out);
   totals.items++;
-  totals.duration += item.duration || 0;
+  if (item.type !== "lightning-series") {
+    totals.duration += item.duration || 0;
+  }
   //console.log(JSON.stringify(item.speakers))
   for (const sid of item.speakers) {
     if (!totals.speakers[sid]) {
