@@ -1,6 +1,7 @@
 import { format, parse } from "https://deno.land/std@0.139.0/datetime/mod.ts";
 import { UTXOEngine } from "./engine.js";
 import { MultiProgressBar } from "https://deno.land/x/progress@v1.2.4/mod.ts";
+import { createHash } from "https://deno.land/std/hash/mod.ts";
 
 const utxo = new UTXOEngine({ silent: true });
 await utxo.init();
@@ -66,17 +67,15 @@ class UTXOPlanner {
       const rev = this.events.find((e) => e.rightAfter === ev.id);
       ev.rightAfterEvent = rev ? rev.id : null;
 
-      let haveAvailability = null
+      let haveAvailability = null;
       for (const spId of ev.speakers) {
         const sp = specs.speakers.find((s) => s.id === spId);
         if (sp.available) {
-          haveAvailability = true
+          haveAvailability = true;
         }
       }
 
-      ev.priority = haveAfter.length > 0
-        ? 10
-        : (haveAvailability ? 5 : 0);
+      ev.priority = haveAfter.length > 0 ? 10 : (haveAvailability ? 5 : 0);
     }
   }
 
@@ -113,7 +112,7 @@ class UTXOPlanner {
   findConflicts(stage, period) {
     for (const si of this.schedule) {
       if (si.stage !== stage.id) {
-        continue
+        continue;
       }
       if (
         si.period.start.getTime() < period.end.getTime() &&
@@ -135,7 +134,6 @@ class UTXOPlanner {
   }
 
   findSlotInStages(ev, stages, fixedDate = null, randomize = true) {
-
     for (const stage of shuffle(stages)) {
       const segments = stage.timesFull.filter((s) => {
         return !fixedDate ||
@@ -143,14 +141,17 @@ class UTXOPlanner {
       });
 
       for (const segment of (randomize ? shuffle(segments) : segments)) {
-        let slotInSegment = (segment.end.getTime() - segment.start.getTime())/this.slotDuration
-        let slots = []
+        let slotInSegment = (segment.end.getTime() - segment.start.getTime()) /
+          this.slotDuration;
+        let slots = [];
         for (let i = 0; i < slotInSegment; i++) {
-          slots.push(new Date(segment.start.getTime() + (this.slotDuration * i)));
+          slots.push(
+            new Date(segment.start.getTime() + (this.slotDuration * i)),
+          );
         }
 
-        const slotDir = Math.floor(Math.random() * 2)
-        slots = slotDir === 1 ? slots.reverse() : slots
+        const slotDir = Math.floor(Math.random() * 2);
+        slots = slotDir === 1 ? slots.reverse() : slots;
 
         for (const slot of slots) {
           //console.log(slot, ctime)
@@ -160,14 +161,14 @@ class UTXOPlanner {
             //console.log(evPeriod, conflicts)
             if (conflicts === 0) {
               if (this.eventSlotValidator(ev, evPeriod, stage)) {
-                return [ stage, evPeriod ];
+                return [stage, evPeriod];
               }
             }
           }
         }
       }
     }
-    return [ null, null ]
+    return [null, null];
   }
 
   isPeriodOverlap(x, y) {
@@ -251,7 +252,7 @@ class UTXOPlanner {
 
     //const rand = Math.floor(Math.random() * events.length);
     //const ev = events[rand];
-    
+
     const ev = events[0];
 
     if (!this.tries[ev.id]) {
@@ -265,7 +266,7 @@ class UTXOPlanner {
       return null;
     }
 
-    const availStages = this.stages.filter((st) => st.types.includes(ev.type))
+    const availStages = this.stages.filter((st) => st.types.includes(ev.type));
     if (availStages.length === 0) {
       this.events.splice(this.events.indexOf(ev), 1);
       this.unscheduled.push(ev.id);
@@ -275,10 +276,10 @@ class UTXOPlanner {
     let stages = availStages;
 
     if (ev.fixed && ev.fixed.stage) {
-      if (!availStages.find(s => s.id === ev.fixed.stage)) {
+      if (!availStages.find((s) => s.id === ev.fixed.stage)) {
         return null;
       }
-      stages = availStages.filter((s) => s.id === ev.fixed.stage)
+      stages = availStages.filter((s) => s.id === ev.fixed.stage);
     }
 
     const [stage, slot] = this.findSlotInStages(
@@ -287,7 +288,7 @@ class UTXOPlanner {
       ev.fixed && ev.fixed.date ? ev.fixed.date : null,
     );
     //console.log(stage,slot)
-    
+
     if (slot) {
       //console.log(format(slot.start, 'dd HH:mm'), stage.id, ev.id, ev.priority)
       this.addEvent(ev, { stage: stage.id, period: slot });
@@ -310,8 +311,8 @@ class UTXOPlanner {
       }
     } else {
       ///console.log('unscheduled', ev.id)
-      this.unscheduled.push(ev)
-      return
+      this.unscheduled.push(ev);
+      return;
     }
 
     const diff = (new Date()).getTime() - this.startTime.getTime();
@@ -424,21 +425,34 @@ class UTXOPlanner {
       `Events: ${this.eventsOriginal.length}, assigned: ${this.schedule.length}, unscheduled: ${this.unscheduled}`,
     );
   }
+
+  hash() {
+    const sorted = this.schedule
+      .sort((x, y) => x.event > y.event ? 1 : -1)
+      .sort((x, y) => x.stage > y.stage ? 1 : -1)
+      .sort((x, y) => x.period.start > y.period.start ? 1 : -1);
+
+    const hashFn = createHash("sha256");
+    hashFn.update(JSON.stringify(sorted));
+
+    return hashFn.toString();
+  }
 }
 
-function infoStats (startTime, numResults) {
-    const duration = ((new Date()).getTime() - startTime.getTime())
-    const perSecond = Math.round((numResults/(duration/1000)) * 100)/100
-    const timePerItem = Math.round((duration/numResults) * 100)/100
-    return `Duration: ${duration/1000}s, ${perSecond} solutions/s, ${timePerItem/1000}s per item`
+function infoStats(startTime, numResults) {
+  const duration = ((new Date()).getTime() - startTime.getTime());
+  const perSecond = Math.round((numResults / (duration / 1000)) * 100) / 100;
+  const timePerItem = Math.round((duration / numResults) * 100) / 100;
+  return `Duration: ${duration / 1000}s, ${perSecond} solutions/s, ${
+    timePerItem / 1000
+  }s per item`;
 }
-
 
 async function main() {
   const limit = null;
   let i = 0;
   const numResults = Deno.args[0] || 10;
-  const startTime = new Date()
+  const startTime = new Date();
 
   console.log("Planning started ..");
   console.log(`Looking for ${numResults} results`);
@@ -452,20 +466,32 @@ async function main() {
 
     if (planner.unscheduled.length === 0) {
       //planner.renderResults()
+      const hash = planner.hash();
       const metrics = planner.metrics();
+
       console.log(
-        `solution #${
-          plans.length + 1
-        } : score ${metrics.score} {themeCrossing: ${metrics.themeCrossing}, tagsCrossing: ${metrics.tagsCrossing}}`,
+        `solution #${plans.length + 1} : [${
+          hash.substring(0, 8)
+        }] score ${metrics.score} {themeCrossing: ${metrics.themeCrossing}, tagsCrossing: ${metrics.tagsCrossing}}`,
       );
       //console.log(`----\nPlan found after ${i} tries`)
       //break
-      plans.push({ schedule: planner.schedule, metrics });
+      if (plans.find((p) => p.hash === hash)) {
+        console.log(`Duplicated plan! ${hash}`);
+      } else {
+        plans.push({
+          schedule: planner.schedule,
+          metrics,
+          hash,
+          time: new Date(),
+        });
+      }
     }
 
     if (plans.length >= numResults) {
-
-      console.log("---------------------\n" + infoStats(startTime, plans.length))
+      console.log(
+        "---------------------\n" + infoStats(startTime, plans.length),
+      );
       const outputFn = "./dist/22/schedule-candidates.json";
       console.log(`Writing result: ${outputFn}`);
       const filtered = plans.sort((x, y) =>
@@ -476,7 +502,11 @@ async function main() {
     }
 
     if (i % 1000 === 0) {
-      console.log(`${i}/${limit} - solutions: ${plans.length}, ${infoStats(startTime, plans.length)}`);
+      console.log(
+        `${i}/${limit} - solutions: ${plans.length}, ${
+          infoStats(startTime, plans.length)
+        }`,
+      );
     }
     i++;
   }
