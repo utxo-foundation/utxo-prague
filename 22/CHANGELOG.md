@@ -1,5 +1,16 @@
 # Changelog
 
+## 21.5.2022
+
+### Události
+
+* přidáno [Ideální kryptoportfolio](https://utxo.cz/udalosti?id=idealni-kryptoportfolio)
+
+### Události
+
+* odebráno [Students for liberty CZ campfire [TBD]](https://utxo.cz/udalosti?id=students-for-liberty-campfire)
+
+
 ## 20.5.2022
 
 ### Události

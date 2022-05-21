@@ -1847,5 +1847,24 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-21",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "idealni-kryptoportfolio",
+          "name": "Ideální kryptoportfolio"
+        }
+      ],
+      "removed": [
+        {
+          "id": "students-for-liberty-campfire",
+          "name": "Students for liberty CZ campfire [TBD]"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
