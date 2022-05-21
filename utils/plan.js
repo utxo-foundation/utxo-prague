@@ -53,6 +53,7 @@ class UTXOPlanner {
     this.unscheduled = [];
     this.priorityLevel = 10;
     this.tries = {};
+    this.slotDuration = 30 * 60 * 1000;
 
     // normalize stages
     for (const stage of this.stages) {
@@ -65,9 +66,17 @@ class UTXOPlanner {
       const rev = this.events.find((e) => e.rightAfter === ev.id);
       ev.rightAfterEvent = rev ? rev.id : null;
 
+      let haveAvailability = null
+      for (const spId of ev.speakers) {
+        const sp = specs.speakers.find((s) => s.id === spId);
+        if (sp.available) {
+          haveAvailability = true
+        }
+      }
+
       ev.priority = haveAfter.length > 0
         ? 10
-        : (ev.after || ev.rightAfter ? 5 : 0);
+        : (haveAvailability ? 5 : 0);
     }
   }
 
@@ -102,8 +111,10 @@ class UTXOPlanner {
   }
 
   findConflicts(stage, period) {
-    const evs = this.schedule.filter((s) => s.stage === stage.id);
-    for (const si of evs) {
+    for (const si of this.schedule) {
+      if (si.stage !== stage.id) {
+        continue
+      }
       if (
         si.period.start.getTime() < period.end.getTime() &&
         si.period.end.getTime() > period.start.getTime()
@@ -123,35 +134,40 @@ class UTXOPlanner {
     };
   }
 
-  findSlotInStage(ev, stage, fixedDate = null, randomize = true) {
-    const slotDuration = 30 * 60 * 1000;
-    const stageEvents = this.schedule.filter((s) => s.stage === stage.id);
-    const skipSegments = Math.floor(Math.random() * stage.timesFull.length) - 1;
-    let segmentCount = 0;
+  findSlotInStages(ev, stages, fixedDate = null, randomize = true) {
 
-    const segments = stage.timesFull.filter((s) => {
-      return !fixedDate ||
-        (fixedDate && format(s.start, "yyyy-MM-dd") === fixedDate);
-    });
+    for (const stage of shuffle(stages)) {
+      const segments = stage.timesFull.filter((s) => {
+        return !fixedDate ||
+          (fixedDate && format(s.start, "yyyy-MM-dd") === fixedDate);
+      });
 
-    for (const segment of (randomize ? shuffle(segments) : segments)) {
-      segmentCount++;
-      if (segmentCount >= skipSegments) {
-        let ctime = segment.start;
-        while (ctime.getTime() < segment.end.getTime()) {
-          const evPeriod = this.eventPeriod(ev, ctime);
+      for (const segment of (randomize ? shuffle(segments) : segments)) {
+        let slotInSegment = (segment.end.getTime() - segment.start.getTime())/this.slotDuration
+        let slots = []
+        for (let i = 0; i < slotInSegment; i++) {
+          slots.push(new Date(segment.start.getTime() + (this.slotDuration * i)));
+        }
+
+        const slotDir = Math.floor(Math.random() * 2)
+        slots = slotDir === 1 ? slots.reverse() : slots
+
+        for (const slot of slots) {
+          //console.log(slot, ctime)
+          const evPeriod = this.eventPeriod(ev, slot);
           if (evPeriod.end.getTime() <= segment.end.getTime()) {
             const conflicts = this.findConflicts(stage, evPeriod);
+            //console.log(evPeriod, conflicts)
             if (conflicts === 0) {
               if (this.eventSlotValidator(ev, evPeriod, stage)) {
-                return evPeriod;
+                return [ stage, evPeriod ];
               }
             }
           }
-          ctime = new Date(ctime.getTime() + slotDuration);
         }
       }
     }
+    return [ null, null ]
   }
 
   isPeriodOverlap(x, y) {
@@ -233,8 +249,10 @@ class UTXOPlanner {
     const events = priorityEvents.length > 0 ? priorityEvents : this.events;
     //const events = this.events
 
-    const rand = Math.floor(Math.random() * events.length);
-    const ev = events[rand];
+    //const rand = Math.floor(Math.random() * events.length);
+    //const ev = events[rand];
+    
+    const ev = events[0];
 
     if (!this.tries[ev.id]) {
       this.tries[ev.id] = 0;
@@ -243,43 +261,43 @@ class UTXOPlanner {
     if (this.tries[ev.id] > 30) {
       this.events.splice(this.events.indexOf(ev), 1);
       this.unscheduled.push(ev.id);
-      //console.log(ev.id)
+      //console.log('Max tries reached', ev.id)
       return null;
     }
 
     const availStages = this.stages.filter((st) => st.types.includes(ev.type))
-      .map((s) => s.id);
     if (availStages.length === 0) {
       this.events.splice(this.events.indexOf(ev), 1);
       this.unscheduled.push(ev.id);
       return null;
     }
 
-    let stage = null;
+    let stages = availStages;
+
     if (ev.fixed && ev.fixed.stage) {
-      if (!availStages.includes(ev.fixed.stage)) {
+      if (!availStages.find(s => s.id === ev.fixed.stage)) {
         return null;
       }
-      stage = this.stages.find((s) => s.id === ev.fixed.stage);
-    } else {
-      const randStage = Math.floor(Math.random() * availStages.length);
-      stage = this.stages.find((s) => s.id === availStages[randStage]);
+      stages = availStages.filter((s) => s.id === ev.fixed.stage)
     }
 
-    const slot = this.findSlotInStage(
+    const [stage, slot] = this.findSlotInStages(
       ev,
-      stage,
+      stages,
       ev.fixed && ev.fixed.date ? ev.fixed.date : null,
     );
+    //console.log(stage,slot)
+    
     if (slot) {
+      //console.log(format(slot.start, 'dd HH:mm'), stage.id, ev.id, ev.priority)
       this.addEvent(ev, { stage: stage.id, period: slot });
 
       if (ev.rightAfterEvent) {
         const rev = this.events.find((e) => e.id === ev.rightAfterEvent);
         //console.log(ev.rightAfterEvent)
-        const rslot = this.findSlotInStage(
+        const [_, rslot] = this.findSlotInStages(
           rev,
-          stage,
+          [stage],
           ev.fixed && ev.fixed.date ? ev.fixed.date : null,
           false,
         );
@@ -290,6 +308,10 @@ class UTXOPlanner {
           return null;
         }
       }
+    } else {
+      ///console.log('unscheduled', ev.id)
+      this.unscheduled.push(ev)
+      return
     }
 
     const diff = (new Date()).getTime() - this.startTime.getTime();
@@ -404,10 +426,19 @@ class UTXOPlanner {
   }
 }
 
+function infoStats (startTime, numResults) {
+    const duration = ((new Date()).getTime() - startTime.getTime())
+    const perSecond = Math.round((numResults/(duration/1000)) * 100)/100
+    const timePerItem = Math.round((duration/numResults) * 100)/100
+    return `Duration: ${duration/1000}s, ${perSecond} solutions/s, ${timePerItem/1000}s per item`
+}
+
+
 async function main() {
   const limit = null;
   let i = 0;
   const numResults = Deno.args[0] || 10;
+  const startTime = new Date()
 
   console.log("Planning started ..");
   console.log(`Looking for ${numResults} results`);
@@ -433,6 +464,8 @@ async function main() {
     }
 
     if (plans.length >= numResults) {
+
+      console.log("---------------------\n" + infoStats(startTime, plans.length))
       const outputFn = "./dist/22/schedule-candidates.json";
       console.log(`Writing result: ${outputFn}`);
       const filtered = plans.sort((x, y) =>
@@ -443,7 +476,7 @@ async function main() {
     }
 
     if (i % 1000 === 0) {
-      console.log(`${i}/${limit} - solutions: ${plans.length}`);
+      console.log(`${i}/${limit} - solutions: ${plans.length}, ${infoStats(startTime, plans.length)}`);
     }
     i++;
   }

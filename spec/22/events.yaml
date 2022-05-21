@@ -698,6 +698,8 @@
     - pujčky
     - liquidity mining
     - historie
+  description: |
+    Na prednáške budem hovoriť hlavne o projektoch ktoré bežia na Ethereu poprípade EVM forkoch ako je napríklad Polygon, Binance Smart Chain, Fantom atď. Prednášku som rozdelil na 4 hlavné časti: 1. Stablekoiny 2. Decentralizované burzy 3. Lending protokoli 4. Bridge / Mosty. Po alebo pred prednáškou budem tatkiež robiť workshop kde Vám ukážem ako to v skutočnosti funguju a ako sa s DeFi pracuje. Vy sami si teda budete môcť vyskúšať čo znamená byť DeFi liquidity providerom, investorom, farmárom, poprípade ako sa pripraviť na airdropy budúcich zaujímavých projektov.
 
 - id: defi-pro-zacatecniky
   type: talk
@@ -1839,6 +1841,7 @@
   type: campfire
   name: Je krypto letadlo?
   track: zaklady
+  difficulty: beginner
   speakers: [ vladimir-pinker ]
   duration: 30
   tags:
@@ -1848,18 +1851,11 @@
   type: campfire
   name: Žijeme bez fiatu
   track: zaklady
+  difficulty: advanced
   speakers: [ vladimir-pinker ]
   duration: 60
   tags:
     - finanční nezávislost
-
-- id: students-for-liberty-campfire
-  type: campfire
-  name: Students for liberty CZ campfire [TBD]
-  track: spolecnost
-  speakers: []
-  duration: 60
-  tags: []
 
 - id: digitalni-identita-v-metaverse
   type: campfire
@@ -1879,6 +1875,7 @@
   name: Skovo.cz - ukázka [TBD]
   track: zaklady
   speakers: [ jiri-skrivan ]
+  difficulty: beginner
   duration: 30
   tags:
     - seed
@@ -1891,6 +1888,7 @@
   name: KodaDot nfts and chill
   track: nft
   duration: 60
+  difficulty: advanced
   speakers:
     - damsky
     - matej-yangwao
@@ -1923,6 +1921,7 @@
   name: KryptoVláďa Q&A
   speakers: [ vladimir-pinker ]
   track: defi
+  difficulty: beginner
   duration: 60
   fixed:
     time: '1/19:00-20:00'
@@ -1936,6 +1935,7 @@
   speakers: []
   track: nft
   duration: 30
+  difficulty: beginner
   fixed:
     date: '2022-06-04'
   tags:
@@ -1958,6 +1958,7 @@
   duration: 30
   fixed:
     stage: campfire-indoor
+  difficulty: beginner
   tags:
     - video
     - bezpečnost
@@ -1976,6 +1977,7 @@
   speakers: [ edvard-meliksetyan ]
   track: nft
   duration: 15
+  difficulty: advanced
   description: |
     With the rapidly growing interest in the industry of crypto assets, blockchain and NFTs, the amount of scammers in the industry is growing just as fast and their techniques are getting more and more sophisticated. What are the common red flags? Is it possible to tell a cryptoscam? And how? Explained by Edvard Meliksetyan, NFT gaming expert from Altlift.
 
@@ -1991,6 +1993,7 @@
   speakers: [ juraj-bednar ]
   track: spolecnost
   duration: 45
+  difficulty: advanced
   description: |
     Ak podnikáte (v inej oblasti ako priamo v kryptomenách) a používate alebo by ste chceli používať kryptomeny vo svojom podnikaní, poďte sa porozprávať o tom ako využívate Bitcoin. Akceptovanie, mzdy v krypte, Bitcoin na súvahe, firemné krypto fondy, čo robiť v bear markete, príbehy o tom ako vám Bitcoin zachránil prdel alebo zlomil krk.
   tags:
@@ -2005,6 +2008,7 @@
     - dan-vorechovsky
     - jan-ruzicka
   track: btc
+  difficulty: beginner
   duration: 60
   description: |
     Dva odborníci na Čínu a ekonomové, Dan Vořechovský a Jan Růžička, s vámi chtějí probrat situaci na asijských trzích. Jaké jsou rozdíly v asijském fintechu oproti situaci u nás? V čem jsou v Asii napřed? Jaká je budoucnost, jaká jsou místní specifika? Přijďte podebatovat, čínsky umět nemusíte. :)
@@ -2022,6 +2026,7 @@
     - jana-galvis
   track: spolecnost
   duration: 60
+  difficulty: beginner
   description: |
     Jana Galvis z Liberálního institutu je expertka nejenom na Kolumbii, ale také na lidská práva a zastoupení žen. Co může liberál/ka dělat pro větší zastoupení žen v oborech, kde dominují muži, jako jsou IT a krypto? Aneb jde to i bez kvót. Pojďme o tom podebatovat.
 
@@ -2038,6 +2043,7 @@
     - martin-vlach
   track: defi
   duration: 30
+  difficulty: expert
   description: |
     Zmapování protokolů umožňujících nákup a prodej opcí (options) na EVM blockchainech a Solaně, zhodnocení jejich použitelnosti, trendy a prostor k vývoji. Kdy přeroste objem opčních obchodů spotové tak jako v TradFi, oblíbenost a perspektivy opčních vaultů, order-book vs. AMM design opčních DExů, ...
   tags:
@@ -2053,6 +2059,7 @@
     - tree
   track: btc
   duration: 30
+  difficulty: expert
   description: |
     Jedni se radují z nízkých transakčních poplatků v Bitcoin síti, druzí se hrozí že jsou přiliš levné. Co se stane, až odměna těžařům za vytěžený blok (block reward) klesne na minimum nebo až tisknutí nových satů přestane úplně? Pokud tyto odměny nezastoupí poplatky, tak se bezpečnost Bitcoinu bude postupně snižovat. Budou lidé ochotni platit za bitcoinovou transakci tisíce dolarů? Proč se o to zajímat už teď? Co s tím má společného Lightning Network? A není to jenom FUD? - pojďme společně a věcně pohovořit o možných scénářích následujícího vývoje.
 
@@ -2076,6 +2083,25 @@
     - soukromí
     - anonymizace
     - finanční svoboda
+
+- id: idealni-kryptoportfolio
+  type: campfire
+  name: Ideální kryptoportfolio
+  track: defi
+  speakers:
+    - ondrej-bajer
+    - m0xt
+  duration: 30
+  difficulty: advanced
+  description: |
+    Každý rozumný investor by měl zvážit investování do indexů nebo-li ETF, a ne se snažit stát se  investorem přes noc a porazit trhy. Existuje několik obecných doporučení, jejichž aplikace by přinesla kýžené výsledky. Ne každý však tuto skutečnost akceptuje a spousta lidí stejně investuje peníze bez patřičných investičních dovedností. První rada, na kterou byste měli myslet, je vytvořit si portfolio.
+  tags:
+    - portfolio
+    - investice
+    - indexy
+  fixed:
+    date: '2022-06-04'
+
 
 # Ostatní
 # ==========================
