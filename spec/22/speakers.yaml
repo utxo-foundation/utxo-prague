@@ -34,6 +34,9 @@
     Zakladatel [Flipper.Zone](https://twitter.com/flipperzonenft) a [Bankless.cz](http://bankless.cz/), člen [BanklessDAO](https://www.bankless.community)
   tracks: [ zaklady, dao, nft ]
   country: cz
+  available:
+    - from: '2022-06-04T13:00:00'
+      to: '2022-06-05T23:59:59'
 
 - id: dominik-stroukal
   name: Dominik Stroukal
@@ -1086,3 +1089,10 @@
   desc: |
     Luštíme za klienty [Pilot](https://www.europarl.europa.eu/RegData/seance_pleniere/textes_adoptes/definitif/2022/03-24/0088/P9_TA(2022)0088_EN.pdf), [MiCA](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_7694_2022_INIT&qid=1653065316772&from=EN), [DORA](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_5297_2022_INIT&from=EN) a [TFR](https://data.consilium.europa.eu/doc/document/ST-8293-2022-INIT/EN/pdf).
 
+- id: viki-val
+  name: Viki Val
+  twitter: vikiival
+  orgs: |
+    Spoluzakladatel [KodaDot](https://kodadot.xyz/)
+  tracks: [ nft ]
+  country: sk
