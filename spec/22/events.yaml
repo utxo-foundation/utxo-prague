@@ -138,12 +138,14 @@
   speakers:
     - kirill-juran
     - ondrej-kovarik
+    - tomas-elbert
   track: regulace
   duration: 85
   difficulty: beginner
   tags:
     - regulace
     - soukromí
+
 
 - id: politicka-a-regulatorni-situace-kryptomen-co-nas-ceka
   type: panel
