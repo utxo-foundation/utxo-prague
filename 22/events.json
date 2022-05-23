@@ -760,7 +760,9 @@
     "difficulty": "advanced",
     "tags": [
       "Ethereum",
-      "The Merge"
+      "The Merge",
+      "Proof-of-Stake",
+      "staking"
     ]
   },
   {
@@ -1090,7 +1092,26 @@
       "institucionální investoři",
       "hedge funds"
     ],
-    "description": "Ohledně institucionálních investorů ve světě kryptoměn panuje mnoho polopravd a mýtů. Cílem přednášky je přiblížit, kdo to ti institucionální investoři jsou, jakým způsobem fungují a jak do krypta investují. Probereme, co to znamená buzzword \"hedge fund“, a podělíme se s Vámi o naši zkušenost se zakládáním a fungováním hedge fondu. V rámci přednášky rozebereme, jak se kteří institucionální investoři pohybují v kryptoměnovém prostoru, co si myslíme o vstupu tradičních financí do krypta a zamyslíme se nad tím, jestli jsou institucionální investoři pro kryptoměnový prostor přínosní nebo mu naopak škodí.\n"
+    "description": "Ohledně institucionálních investorů ve světě kryptoměn panuje mnoho polopravd a mýtů. Cílem přednášky je přiblížit, kdo to ti institucionální investoři jsou, jakým způsobem fungují a jak do krypta investují. Probereme, co to znamená buzzword \"hedge fund\", a podělíme se s Vámi o naši zkušenost se zakládáním a fungováním hedge fondu. V rámci přednášky rozebereme, jak se kteří institucionální investoři pohybují v kryptoměnovém prostoru, co si myslíme o vstupu tradičních financí do krypta a zamyslíme se nad tím, jestli jsou institucionální investoři pro kryptoměnový prostor přínosní nebo mu naopak škodí.\n"
+  },
+  {
+    "id": "zkusenosti-z-provozem-pos-blockchainu",
+    "type": "talk",
+    "name": "Zkušenosti s provozem PoS blockchainů (RBF Staking)",
+    "track": "alty",
+    "speakers": [
+      "tomas-eminger"
+    ],
+    "duration": 25,
+    "difficulty": "advanced",
+    "tags": [
+      "staking",
+      "Proof-of-Stake",
+      "Solana",
+      "Terra",
+      "Cosmos"
+    ],
+    "description": "RBF Staking je součást Rockaway Blockchain Fondu, která provozuje uzly pro L1 blockchainy v ekosystémech Solana, Cosmos, EVM based a dalších. Na přednášce si porovnáme tyto blockchainy z pohledu architektury a poté z pohledu provozu (bezpečnost, HW/network nároky).\n\nhttps://rbf.capital/staking/\n"
   },
   {
     "id": "lokalni-komunity-intro",

@@ -1888,6 +1888,10 @@
           "name": "Tomáš Elbert"
         },
         {
+          "id": "tomas-eminger",
+          "name": "Tomáš Eminger"
+        },
+        {
           "id": "viki-val",
           "name": "Viki Val"
         }
@@ -1908,6 +1912,10 @@
         {
           "id": "institucionalni-investori-v-kryptu",
           "name": "Institucionální investoři v kryptu – kdo jsou a máme se jich bát?"
+        },
+        {
+          "id": "zkusenosti-z-provozem-pos-blockchainu",
+          "name": "Zkušenosti s provozem PoS blockchainů (RBF Staking)"
         },
         {
           "id": "czk-kurz-na-blockchainu-oracles",

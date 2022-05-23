@@ -1599,6 +1599,20 @@
     ]
   },
   {
+    "id": "tomas-eminger",
+    "name": "Tomáš Eminger",
+    "twitter": "emit87",
+    "orgs": "Chief Validator Officer @ [RBF Staking](https://rbf.capital/staking/)\n",
+    "tracks": [
+      "alty"
+    ],
+    "country": "cz",
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "fetyas",
     "name": "Tomáš Kalabis",
     "nickname": "Fetyas",
