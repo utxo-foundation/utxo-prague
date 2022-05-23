@@ -211,4 +211,11 @@
   web:
     url: https://www.vojtazizka.cz/
 
+- id: cryptoportal
+  name: Crypto portal
+  type: medium
+  twitter: CryptoPortalArt
+  desc: Prague's NFT Gallery
+  web:
+    url: https://cryptoportal.art/
 
