@@ -313,7 +313,7 @@
 
 - id: adopce-kryptomen
   type: talk
-  name: Adopce kryptoměn [TBD]
+  name: Adopce kryptoměn
   track: regulace
   speakers: [ marek-kyrsch ]
   duration: 55
@@ -322,6 +322,8 @@
     - adopce
     - burzy
     - směnárny
+  description: |
+    Budou jednou kryptoměny běžnou součástí života většiny populace? Přednáška se bude zabývat tématy zda je to možné? Kdy se stane, že kryptoměnou zaplatíte kdekoliv? Jaké jsou legislativní překážky adopce kryptoměn? Co dalšího brání rychlejšímu používání kryptoměn mainstreamem? Jaký to bude mít dopad na cenu? Které kryptoměny budou masově využívány? Čím může každý z nás přispět k adopci kryptoměn?
 
 - id: adopce-btc
   type: talk
