@@ -1998,7 +1998,9 @@
 - id: krypto-v-podnikani-campfire
   type: campfire
   name: Krypto v podnikaní
-  speakers: [ juraj-bednar ]
+  speakers: 
+    - juraj-bednar
+    - jakub-olsina
   track: spolecnost
   duration: 45
   difficulty: advanced

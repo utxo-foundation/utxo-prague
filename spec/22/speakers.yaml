@@ -1107,3 +1107,12 @@
   tracks: [ zaklady ]
   country: cz
 
+- id: jakub-olsina
+  name: Jakub Olšina
+  linkedin: olsinajakub
+  bio: Právník se zaměřením na realizaci krypto-projektů
+  orgs: |
+    Advokát [Blockchain Legal](https://www.blockchainlegal.cz/)
+  tracks: [ regulace ]
+  country: cz
+
