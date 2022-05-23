@@ -996,22 +996,6 @@
         ]
       },
       {
-        "id": "martin-gregor",
-        "name": "Martin Gregor",
-        "nickname": "ZaujaloMa",
-        "twitter": "ZaujaloMa",
-        "orgs": "YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)\n",
-        "tracks": [
-          "btc",
-          "spolecnost",
-          "alty"
-        ],
-        "country": "sk",
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "martin-panek",
         "name": "Martin Pánek",
         "twitter": "mmister",
@@ -7512,7 +7496,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 100,
+      "speakers": 99,
       "tracks": 10,
       "event-types": 7,
       "events": 142,
@@ -7523,5 +7507,5 @@
       "schedule-candidates": 1
     }
   },
-  "time": "2022-05-23T07:06:42.844Z"
+  "time": "2022-05-23T07:17:18.557Z"
 }

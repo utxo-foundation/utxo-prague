@@ -1875,6 +1875,12 @@
           "id": "tomas-elbert",
           "name": "Tomáš Elbert"
         }
+      ],
+      "removed": [
+        {
+          "id": "martin-gregor",
+          "name": "Martin Gregor"
+        }
       ]
     },
     "events": {},

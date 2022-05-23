@@ -6,6 +6,10 @@
 
 * přidáno [Tomáš Elbert](https://utxo.cz/lide?id=tomas-elbert)
 
+### Přednášející
+
+* odebráno [Martin Gregor](https://utxo.cz/lide?id=martin-gregor)
+
 ### Partneři
 
 * přidáno [Students For Liberty CZ](https://utxo.cz/#partneri?id=students-for-liberty-cz)
