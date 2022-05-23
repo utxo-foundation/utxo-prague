@@ -1547,6 +1547,21 @@
     ]
   },
   {
+    "id": "tomas-elbert",
+    "name": "Tomáš Elbert",
+    "linkedin": "telbert",
+    "bio": "Právník se zaměřením na kryptoregulaci",
+    "orgs": "Advokát [Blockchain Legal](https://www.blockchainlegal.cz/)\n",
+    "tracks": [
+      "regulace"
+    ],
+    "country": "cz",
+    "desc": "Luštíme za klienty [Pilot](https://www.europarl.europa.eu/RegData/seance_pleniere/textes_adoptes/definitif/2022/03-24/0088/P9_TA(2022)0088_EN.pdf), [MiCA](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_7694_2022_INIT&qid=1653065316772&from=EN), [DORA](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_5297_2022_INIT&from=EN) a [TFR](https://data.consilium.europa.eu/doc/document/ST-8293-2022-INIT/EN/pdf).\n",
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "fetyas",
     "name": "Tomáš Kalabis",
     "nickname": "Fetyas",

@@ -1869,7 +1869,14 @@
   },
   {
     "date": "2022-05-23",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "tomas-elbert",
+          "name": "Tomáš Elbert"
+        }
+      ]
+    },
     "events": {},
     "partners": {
       "added": [

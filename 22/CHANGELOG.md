@@ -2,6 +2,10 @@
 
 ## 23.5.2022
 
+### Přednášející
+
+* přidáno [Tomáš Elbert](https://utxo.cz/lide?id=tomas-elbert)
+
 ### Partneři
 
 * přidáno [Students For Liberty CZ](https://utxo.cz/#partneri?id=students-for-liberty-cz)
