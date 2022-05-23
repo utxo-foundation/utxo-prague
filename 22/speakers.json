@@ -1040,13 +1040,15 @@
     "name": "Matěj Zimák",
     "twitter": "mattbullish",
     "linkedin": "matejzimak",
+    "web": {
+      "url": "https://youmatt.me"
+    },
     "bio": "Podnikatel zajímající se o web3, NFTs a blockchain gaming",
-    "orgs": "Autor [The Divergents](https://thedivergents.io/)\n",
+    "orgs": "Spoluzakladatel [NFTense](https://nftense.com/) a [The Divergents](https://thedivergents.io/), advisor [Playgrid](https://playgrid.io/)\n",
     "country": "cz",
     "tracks": [
       "nft"
     ],
-    "desc": "Podnikatel zajímající se o web3, NFTs a blockchain gaming.\n",
     "photos": [
       "web:jpg",
       "twitter:jpg"
