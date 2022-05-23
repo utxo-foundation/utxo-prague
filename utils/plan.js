@@ -488,9 +488,21 @@ async function main() {
       }
     }
 
+    function bestScore() {
+      return Math.round(
+        plans.reduce((prev, cur) => {
+          if (cur.metrics.score > prev) {
+            return cur.metrics.score;
+          }
+          return prev;
+        }, 0) * 10000,
+      ) / 10000;
+    }
+
     if (plans.length >= numResults) {
       console.log(
-        "---------------------\n" + infoStats(startTime, plans.length),
+        "---------------------\n" + infoStats(startTime, plans.length) +
+          `, best score: ${bestScore()}`,
       );
       const outputFn = "./dist/22/schedule-candidates.json";
       console.log(`Writing result: ${outputFn}`);
@@ -503,9 +515,9 @@ async function main() {
 
     if (i % 1000 === 0) {
       console.log(
-        `${i}/${limit} - solutions: ${plans.length}, ${
+        `${i}/${limit || "∞"} - solutions: ${plans.length}, ${
           infoStats(startTime, plans.length)
-        }`,
+        }, best score: ${bestScore()}`,
       );
     }
     i++;
