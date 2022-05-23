@@ -1125,3 +1125,10 @@
   tracks: [ regulace ]
   country: cz
 
+- id: tomas-eminger
+  name: Tomáš Eminger
+  twitter: emit87
+  orgs: |
+    Chief Validator Officer @ [RBF Staking](https://rbf.capital/staking/)
+  tracks: [ alty ]
+  country: cz
