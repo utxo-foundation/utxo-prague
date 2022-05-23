@@ -527,6 +527,20 @@
         ]
       },
       {
+        "id": "jakub-olsina",
+        "name": "Jakub Olšina",
+        "linkedin": "olsinajakub",
+        "bio": "Právník se zaměřením na realizaci krypto-projektů",
+        "orgs": "Advokát [Blockchain Legal](https://www.blockchainlegal.cz/)\n",
+        "tracks": [
+          "regulace"
+        ],
+        "country": "cz",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "jan-cerny",
         "name": "Jan Černý",
         "nickname": "-HoNY-",
@@ -4064,7 +4078,8 @@
         "type": "campfire",
         "name": "Krypto v podnikaní",
         "speakers": [
-          "juraj-bednar"
+          "juraj-bednar",
+          "jakub-olsina"
         ],
         "track": "spolecnost",
         "duration": 45,
@@ -7573,7 +7588,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 101,
+      "speakers": 102,
       "tracks": 10,
       "event-types": 7,
       "events": 143,
@@ -7584,5 +7599,5 @@
       "schedule-candidates": 1
     }
   },
-  "time": "2022-05-23T17:12:38.489Z"
+  "time": "2022-05-23T17:23:35.373Z"
 }

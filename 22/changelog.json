@@ -1872,6 +1872,10 @@
     "speakers": {
       "added": [
         {
+          "id": "jakub-olsina",
+          "name": "Jakub Olšina"
+        },
+        {
           "id": "libor-flossler",
           "name": "Libor Flössler"
         },
