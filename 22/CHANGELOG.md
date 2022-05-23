@@ -16,6 +16,7 @@
 
 * přidáno [Reaktívne NFTs](https://utxo.cz/udalosti?id=reaktivni-nft)
 * přidáno [CZK kurz na blockchainu (oracle)](https://utxo.cz/udalosti?id=czk-kurz-na-blockchainu-oracles)
+* přidáno [Otevřená diskuze s Liborem z Investocky [TBD]](https://utxo.cz/udalosti?id=setkani-s-liborem-z-investocky)
 
 ### Události
 

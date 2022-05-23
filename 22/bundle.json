@@ -219,7 +219,6 @@
       {
         "id": "david-stancel",
         "name": "David Stancel",
-        "nickname": "Ape Dogen",
         "twitter": "dave_stancel",
         "orgs": "Autor [Coin Story](https://coinstory.tech/), CIO @ [Fumbi](https://fumbi.network/)\n",
         "tracks": [
@@ -876,7 +875,7 @@
         "id": "libor-flossler",
         "nickname": "investocka",
         "name": "Libor Flössler",
-        "twitter": "investocka",
+        "twitter": "Investocka",
         "orgs": "YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)\n",
         "web": {
           "url": "https://www.investocka.cz"
@@ -1902,7 +1901,10 @@
           "Ethereum",
           "DeFi",
           "finanční svoboda"
-        ]
+        ],
+        "fixed": {
+          "date": "2022-06-05"
+        }
       },
       {
         "id": "nft-metaverse-panel",
@@ -4196,6 +4198,21 @@
           "oracles",
           "stablecoin",
           "DeFi"
+        ]
+      },
+      {
+        "id": "setkani-s-liborem-z-investocky",
+        "type": "campfire",
+        "name": "Otevřená diskuze s Liborem z Investocky [TBD]",
+        "track": "zaklady",
+        "speakers": [
+          "libor-flossler"
+        ],
+        "duration": 90,
+        "difficulty": "beginner",
+        "tags": [
+          "komunity",
+          "investice"
         ]
       },
       {
@@ -7556,7 +7573,7 @@
       "speakers": 101,
       "tracks": 10,
       "event-types": 7,
-      "events": 142,
+      "events": 143,
       "stages": 9,
       "faqs": 6,
       "partners": 31,
@@ -7564,5 +7581,5 @@
       "schedule-candidates": 1
     }
   },
-  "time": "2022-05-23T16:56:11.283Z"
+  "time": "2022-05-23T17:02:29.640Z"
 }

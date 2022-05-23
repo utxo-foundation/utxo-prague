@@ -1900,6 +1900,10 @@
         {
           "id": "czk-kurz-na-blockchainu-oracles",
           "name": "CZK kurz na blockchainu (oracle)"
+        },
+        {
+          "id": "setkani-s-liborem-z-investocky",
+          "name": "Otevřená diskuze s Liborem z Investocky [TBD]"
         }
       ],
       "removed": [
