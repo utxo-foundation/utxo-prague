@@ -1074,6 +1074,23 @@
     "description": "Tým, že sa z non-fungible tokenu stane entita, ktorá môže interagovať v rámci ekosystému, vzniká nová dynamika vo fungovaní vzťahov bez dôvery medzi účastníkmi siete. Cieľom tejto prednášky je predstaviť nové prístupy k tomu, aby boli tokeny autonómnejšie a personalizovanejšie.  Môžu teda NFT niečo robiť? Poďme to zistiť!\n"
   },
   {
+    "id": "institucionalni-investori-v-kryptu",
+    "type": "talk",
+    "name": "Institucionální investoři v kryptu – kdo jsou a máme se jich bát?",
+    "track": "regulace",
+    "speakers": [
+      "petr-hotovec"
+    ],
+    "duration": 25,
+    "difficulty": "advanced",
+    "tags": [
+      "regulace",
+      "institucionální investoři",
+      "hedge funds"
+    ],
+    "description": "Ohledně institucionálních investorů ve světě kryptoměn panuje mnoho polopravd a mýtů. Cílem přednášky je přiblížit, kdo to ti institucionální investoři jsou, jakým způsobem fungují a jak do krypta investují. Probereme, co to znamená buzzword \"hedge fund“, a podělíme se s Vámi o naši zkušenost se zakládáním a fungováním hedge fondu. V rámci přednášky rozebereme, jak se kteří institucionální investoři pohybují v kryptoměnovém prostoru, co si myslíme o vstupu tradičních financí do krypta a zamyslíme se nad tím, jestli jsou institucionální investoři pro kryptoměnový prostor přínosní nebo mu naopak škodí.\n"
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "lightning-series",
     "name": "Lokální krypto komunity",

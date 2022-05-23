@@ -6,6 +6,7 @@
 
 * přidáno [Jakub Olšina](https://utxo.cz/lide?id=jakub-olsina)
 * přidáno [Libor Flössler](https://utxo.cz/lide?id=libor-flossler)
+* přidáno [Petr Hotovec](https://utxo.cz/lide?id=petr-hotovec)
 * přidáno [Tomáš Elbert](https://utxo.cz/lide?id=tomas-elbert)
 * přidáno [Viki Val](https://utxo.cz/lide?id=viki-val)
 
@@ -16,6 +17,7 @@
 ### Události
 
 * přidáno [Reaktívne NFTs](https://utxo.cz/udalosti?id=reaktivni-nft)
+* přidáno [Institucionální investoři v kryptu – kdo jsou a máme se jich bát?](https://utxo.cz/udalosti?id=institucionalni-investori-v-kryptu)
 * přidáno [CZK kurz na blockchainu (oracle)](https://utxo.cz/udalosti?id=czk-kurz-na-blockchainu-oracles)
 * přidáno [Otevřená diskuze s Liborem z Investocky [TBD]](https://utxo.cz/udalosti?id=setkani-s-liborem-z-investocky)
 
