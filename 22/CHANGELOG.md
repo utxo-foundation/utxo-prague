@@ -4,6 +4,7 @@
 
 ### Přednášející
 
+* přidáno [Libor Flössler](https://utxo.cz/lide?id=libor-flossler)
 * přidáno [Tomáš Elbert](https://utxo.cz/lide?id=tomas-elbert)
 * přidáno [Viki Val](https://utxo.cz/lide?id=viki-val)
 

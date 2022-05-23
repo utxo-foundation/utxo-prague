@@ -1872,6 +1872,10 @@
     "speakers": {
       "added": [
         {
+          "id": "libor-flossler",
+          "name": "Libor Flössler"
+        },
+        {
           "id": "tomas-elbert",
           "name": "Tomáš Elbert"
         },

@@ -873,6 +873,24 @@
         ]
       },
       {
+        "id": "libor-flossler",
+        "nickname": "investocka",
+        "name": "Libor Flössler",
+        "twitter": "investocka",
+        "orgs": "YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)\n",
+        "web": {
+          "url": "https://www.investocka.cz"
+        },
+        "tracks": [
+          "zaklady"
+        ],
+        "country": "cz",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "lubos-kovarik",
         "name": "Luboš Kovařík",
         "twitter": "stosujcz",
@@ -1872,6 +1890,7 @@
         "type": "panel",
         "name": "Bitcoin vs smart-contract platformy [TBD]",
         "speakers": [
+          "libor-flossler",
           "josef-tetek",
           "david-stancel"
         ],
@@ -7534,7 +7553,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 100,
+      "speakers": 101,
       "tracks": 10,
       "event-types": 7,
       "events": 142,
@@ -7545,5 +7564,5 @@
       "schedule-candidates": 1
     }
   },
-  "time": "2022-05-23T16:48:31.306Z"
+  "time": "2022-05-23T16:56:11.283Z"
 }

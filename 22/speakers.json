@@ -843,6 +843,24 @@
     ]
   },
   {
+    "id": "libor-flossler",
+    "nickname": "investocka",
+    "name": "Libor Flössler",
+    "twitter": "investocka",
+    "orgs": "YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)\n",
+    "web": {
+      "url": "https://www.investocka.cz"
+    },
+    "tracks": [
+      "zaklady"
+    ],
+    "country": "cz",
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "lubos-kovarik",
     "name": "Luboš Kovařík",
     "twitter": "stosujcz",
