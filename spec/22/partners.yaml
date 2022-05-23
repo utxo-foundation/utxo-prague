@@ -71,6 +71,12 @@
   type: community
   twitter: libinstcz
   desc: Think-tank, jehož cílem je rozvíjet a aplikovat ideje a programy založené na principech klasického liberalismu
+
+- id: students-for-liberty-cz
+  name: Students For Liberty CZ
+  type: community
+  twitter: sflcz
+  desc: Nezisková, apolitická studentská organizace, jejímž hlavním posláním je podpora a sjednocování studentů hlásících se k myšlenkám svobody.
   
 # Sponsors
 # ======================
