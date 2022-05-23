@@ -2132,6 +2132,8 @@
   tags:
     - komunity
     - investice
+  after:
+    - btc-vs-altcoiny
 
 
 # Ostatní
