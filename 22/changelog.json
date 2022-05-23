@@ -1866,5 +1866,18 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-23",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "students-for-liberty-cz",
+          "name": "Students For Liberty CZ"
+        }
+      ]
+    }
   }
 ]

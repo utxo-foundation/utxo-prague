@@ -119,6 +119,16 @@
     ]
   },
   {
+    "id": "students-for-liberty-cz",
+    "name": "Students For Liberty CZ",
+    "type": "community",
+    "twitter": "sflcz",
+    "desc": "Nezisková, apolitická studentská organizace, jejímž hlavním posláním je podpora a sjednocování studentů hlásících se k myšlenkám svobody.",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "dydx-grants",
     "name": "dYdX Grants Program",
     "type": "sponsor",

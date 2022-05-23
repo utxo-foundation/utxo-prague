@@ -1,5 +1,12 @@
 # Changelog
 
+## 23.5.2022
+
+### Partneři
+
+* přidáno [Students For Liberty CZ](https://utxo.cz/#partneri?id=students-for-liberty-cz)
+
+
 ## 21.5.2022
 
 ### Události
