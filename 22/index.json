@@ -41,10 +41,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 104,
+      "speakers": 107,
       "tracks": 10,
       "event-types": 7,
-      "events": 145,
+      "events": 148,
       "stages": 9,
       "faqs": 6,
       "partners": 31,
@@ -52,5 +52,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-23T20:59:35.642Z"
+  "time": "2022-05-23T23:11:17.715Z"
 }

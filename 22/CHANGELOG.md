@@ -4,12 +4,15 @@
 
 ### Přednášející
 
+* přidáno [Derek Alois Halsey](https://utxo.cz/lide?id=derek-alois-halsey)
+* přidáno [Giovanna Graziosi Casimiro](https://utxo.cz/lide?id=giovanna-graziosi-casimiro)
 * přidáno [Jakub Olšina](https://utxo.cz/lide?id=jakub-olsina)
 * přidáno [Libor Flössler](https://utxo.cz/lide?id=libor-flossler)
 * přidáno [Petr Hotovec](https://utxo.cz/lide?id=petr-hotovec)
 * přidáno [Tomáš Elbert](https://utxo.cz/lide?id=tomas-elbert)
 * přidáno [Tomáš Eminger](https://utxo.cz/lide?id=tomas-eminger)
 * přidáno [Viki Val](https://utxo.cz/lide?id=viki-val)
+* přidáno [William Lobkowicz](https://utxo.cz/lide?id=william-lobkowicz)
 
 ### Přednášející
 
@@ -20,8 +23,11 @@
 * přidáno [Reaktívne NFTs](https://utxo.cz/udalosti?id=reaktivni-nft)
 * přidáno [Institucionální investoři v kryptu – kdo jsou a máme se jich bát?](https://utxo.cz/udalosti?id=institucionalni-investori-v-kryptu)
 * přidáno [Zkušenosti s provozem PoS blockchainů (RBF Staking)](https://utxo.cz/udalosti?id=zkusenosti-z-provozem-pos-blockchainu)
-* přidáno [CZK kurz na blockchainu (oracle)](https://utxo.cz/udalosti?id=czk-kurz-na-blockchainu-oracles)
+* přidáno [CZK kurz na blockchainu (používání Oracle)](https://utxo.cz/udalosti?id=czk-kurz-na-blockchainu-oracles)
 * přidáno [Otevřená diskuze s Liborem z Investocky [TBD]](https://utxo.cz/udalosti?id=setkani-s-liborem-z-investocky)
+* přidáno [DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-jedlinsky)
+* přidáno [DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-stroukal)
+* přidáno [APUS.finance AMA a jak na rizika DeFi půjček](https://utxo.cz/udalosti?id=apus-finance-ama)
 
 ### Události
 

@@ -272,6 +272,21 @@
         ]
       },
       {
+        "id": "derek-alois-halsey",
+        "name": "Derek Alois Halsey",
+        "twitter": "AloisPerspektiv",
+        "linkedin": "derekhalsey17",
+        "bio": "Photographer",
+        "orgs": "[CryptoPortal](http://cryptoportal.art/)\n",
+        "web": {
+          "url": "https://www.aloisperspektiv.com"
+        },
+        "country": "us",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "dmitry",
         "name": "Dmitrij Malyšev",
         "nickname": "dMIT.RY",
@@ -378,6 +393,22 @@
         ],
         "photos": [
           "web:jpg"
+        ]
+      },
+      {
+        "id": "giovanna-graziosi-casimiro",
+        "name": "Giovanna Graziosi Casimiro",
+        "nickname": "ggcasimiro",
+        "twitter": "ggcasimiro_",
+        "bio": "Producent a multimédiální tvůrce",
+        "orgs": "Vedoucí producentka @ [Decentraland Foundation](https://decentraland.org/)\n",
+        "web": {
+          "url": "https://www.ggcasimiro.com/"
+        },
+        "country": "br",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -1790,6 +1821,22 @@
         ]
       },
       {
+        "id": "william-lobkowicz",
+        "name": "William Lobkowicz",
+        "twitter": "wrlobkowicz",
+        "orgs": "Česko-americký podnikatel z českého šlechtického rodu Lobkowiczů\n",
+        "web": {
+          "url": "https://www.lobkowicz.cz/en"
+        },
+        "tracks": [
+          "nft"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "zdenek-mihalco",
         "name": "Zdeněk Mihalco",
         "twitter": "ZdenekMihalco",
@@ -1974,31 +2021,37 @@
       {
         "id": "nft-usecases-panel",
         "type": "panel",
-        "name": "NFT Use Cases [TBD]",
+        "name": "Potenciál tokenizace aktiv je nad rámec umění a sběratelství v blízké budoucnosti [TBD]",
         "speakers": [
           "lenka-hudakova",
-          "petr-mara"
+          "matej-zimak"
         ],
         "duration": 85,
         "difficulty": "advanced",
         "track": "nft",
         "tags": [
-          "NFT",
-          "metaverse"
+          "NFT"
         ]
       },
       {
         "id": "nft-curation-art-heritage",
         "type": "panel",
-        "name": "NFT curation / art / heritage [TBD]",
-        "speakers": [],
-        "duration": 85,
-        "difficulty": "beginner",
+        "name": "Heritage layers scented with open source goes beyond CryptoArt [EN]",
+        "speakers": [
+          "michaela-malatin",
+          "william-lobkowicz",
+          "derek-alois-halsey",
+          "giovanna-graziosi-casimiro"
+        ],
+        "duration": 55,
+        "difficulty": "expert",
         "track": "nft",
         "tags": [
           "NFT",
-          "umění"
-        ]
+          "umění",
+          "english content"
+        ],
+        "description": "Welcome to a talk by a professional passionate about Heritage, Curation, and Open Source Art. We are building the roadblocks of preserved cultural wisdom to unknown future chaos. Great times are about to come. Yes, it will be a journey for artists, countries, or world citizens. The panel talk promises insights into perspectives of the new.\n\nTato panelová diskuze bude v angličtině. 🇬🇧\n"
       },
       {
         "id": "token-energie-likvidita-zivot",
@@ -4113,7 +4166,8 @@
         "track": "defi",
         "duration": 30,
         "fixed": {
-          "stage": "campfire-indoor"
+          "stage": "campfire-indoor",
+          "time": "1/21:30-22:00"
         },
         "difficulty": "beginner",
         "tags": [
@@ -4138,7 +4192,8 @@
         "tags": [
           "NFT",
           "gaming",
-          "scamy"
+          "scamy",
+          "english content"
         ]
       },
       {
@@ -4270,7 +4325,7 @@
       {
         "id": "czk-kurz-na-blockchainu-oracles",
         "type": "campfire",
-        "name": "CZK kurz na blockchainu (oracle)",
+        "name": "CZK kurz na blockchainu (používání Oracle)",
         "track": "defi",
         "speakers": [
           "radek-svarz"
@@ -4281,7 +4336,8 @@
           "oracles",
           "stablecoin",
           "DeFi"
-        ]
+        ],
+        "description": "Na blockchainu je již přítomno několik národních měn. Alespoň kurzem vůči USD. Díky tomu mohou web3 projekty s nima počítat do svého rozhraní a funkcionality. Pojďme společně probrat situaci Oracles, které umožňují, aby se kurzy vůbec dostaly na blockchain. Lze těmto orákulům důvěřovat? Jaká jsou související rizika? Útoky? Stačí jeden Oralce protokol, či je užitečné počítat s více? A jak je to s kurzem CZK? #chainlink #tellor #czk\n"
       },
       {
         "id": "setkani-s-liborem-z-investocky",
@@ -4299,6 +4355,67 @@
         ],
         "after": [
           "btc-vs-altcoiny"
+        ]
+      },
+      {
+        "id": "kryptoinsider-jedlinsky",
+        "type": "campfire",
+        "name": "DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]",
+        "track": "zaklady",
+        "speakers": [
+          "petr-lukac",
+          "jakub-jedlinsky"
+        ],
+        "duration": 30,
+        "difficulty": "beginner",
+        "tags": [
+          "rozhovor",
+          "trading",
+          "tokenomika"
+        ],
+        "fixed": {
+          "stage": "campfire-outdoor"
+        }
+      },
+      {
+        "id": "kryptoinsider-stroukal",
+        "type": "campfire",
+        "name": "DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]",
+        "track": "btc",
+        "speakers": [
+          "petr-lukac",
+          "dominik-stroukal"
+        ],
+        "duration": 30,
+        "difficulty": "beginner",
+        "tags": [
+          "rozhovor",
+          "maximalismus"
+        ],
+        "fixed": {
+          "stage": "campfire-outdoor"
+        }
+      },
+      {
+        "id": "apus-finance-ama",
+        "type": "campfire",
+        "name": "APUS.finance AMA a jak na rizika DeFi půjček",
+        "track": "defi",
+        "speakers": [
+          "radek-svarz",
+          "petr-klein",
+          "m0xt"
+        ],
+        "duration": 30,
+        "difficulty": "advanced",
+        "tags": [
+          "DeFi",
+          "pujčky",
+          "risk management"
+        ],
+        "description": "Probereme, jak kalkulovat s riziky při zakládání půjčky, udržování i při změně půjčky. Jak se vyhnout likvidacím? Témata - LTV, CR, Debt in front, klouzavé průměry, hedging, opce apod. A také \"zeptej se APUS.finance na cokoli\".\n",
+        "after": [
+          "pujcka-na-blockchainu-jednoduse-rychle"
         ]
       },
       {
@@ -4466,9 +4583,9 @@
         ],
         "times": [
           "1/09:30-12:00",
-          "1/12:30-20:00",
+          "1/12:30-19:00",
           "2/10:00-12:00",
-          "2/12:30-18:30"
+          "2/12:30-18:00"
         ]
       },
       {
@@ -21717,10 +21834,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 104,
+      "speakers": 107,
       "tracks": 10,
       "event-types": 7,
-      "events": 145,
+      "events": 148,
       "stages": 9,
       "faqs": 6,
       "partners": 31,
@@ -21728,5 +21845,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-23T20:59:35.642Z"
+  "time": "2022-05-23T23:11:17.715Z"
 }

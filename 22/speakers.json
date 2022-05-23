@@ -242,6 +242,21 @@
     ]
   },
   {
+    "id": "derek-alois-halsey",
+    "name": "Derek Alois Halsey",
+    "twitter": "AloisPerspektiv",
+    "linkedin": "derekhalsey17",
+    "bio": "Photographer",
+    "orgs": "[CryptoPortal](http://cryptoportal.art/)\n",
+    "web": {
+      "url": "https://www.aloisperspektiv.com"
+    },
+    "country": "us",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "dmitry",
     "name": "Dmitrij Malyšev",
     "nickname": "dMIT.RY",
@@ -348,6 +363,22 @@
     ],
     "photos": [
       "web:jpg"
+    ]
+  },
+  {
+    "id": "giovanna-graziosi-casimiro",
+    "name": "Giovanna Graziosi Casimiro",
+    "nickname": "ggcasimiro",
+    "twitter": "ggcasimiro_",
+    "bio": "Producent a multimédiální tvůrce",
+    "orgs": "Vedoucí producentka @ [Decentraland Foundation](https://decentraland.org/)\n",
+    "web": {
+      "url": "https://www.ggcasimiro.com/"
+    },
+    "country": "br",
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
@@ -1753,6 +1784,22 @@
       "eth",
       "dao",
       "defi"
+    ],
+    "country": "cz",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "william-lobkowicz",
+    "name": "William Lobkowicz",
+    "twitter": "wrlobkowicz",
+    "orgs": "Česko-americký podnikatel z českého šlechtického rodu Lobkowiczů\n",
+    "web": {
+      "url": "https://www.lobkowicz.cz/en"
+    },
+    "tracks": [
+      "nft"
     ],
     "country": "cz",
     "photos": [

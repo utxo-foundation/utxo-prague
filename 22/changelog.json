@@ -1872,6 +1872,14 @@
     "speakers": {
       "added": [
         {
+          "id": "derek-alois-halsey",
+          "name": "Derek Alois Halsey"
+        },
+        {
+          "id": "giovanna-graziosi-casimiro",
+          "name": "Giovanna Graziosi Casimiro"
+        },
+        {
           "id": "jakub-olsina",
           "name": "Jakub Olšina"
         },
@@ -1894,6 +1902,10 @@
         {
           "id": "viki-val",
           "name": "Viki Val"
+        },
+        {
+          "id": "william-lobkowicz",
+          "name": "William Lobkowicz"
         }
       ],
       "removed": [
@@ -1919,11 +1931,23 @@
         },
         {
           "id": "czk-kurz-na-blockchainu-oracles",
-          "name": "CZK kurz na blockchainu (oracle)"
+          "name": "CZK kurz na blockchainu (používání Oracle)"
         },
         {
           "id": "setkani-s-liborem-z-investocky",
           "name": "Otevřená diskuze s Liborem z Investocky [TBD]"
+        },
+        {
+          "id": "kryptoinsider-jedlinsky",
+          "name": "DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]"
+        },
+        {
+          "id": "kryptoinsider-stroukal",
+          "name": "DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]"
+        },
+        {
+          "id": "apus-finance-ama",
+          "name": "APUS.finance AMA a jak na rizika DeFi půjček"
         }
       ],
       "removed": [
