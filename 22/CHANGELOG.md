@@ -24,6 +24,7 @@
 ### Partneři
 
 * přidáno [Students For Liberty CZ](https://utxo.cz/#partneri?id=students-for-liberty-cz)
+* přidáno [Crypto portal](https://utxo.cz/#partneri?id=cryptoportal)
 
 
 ## 21.5.2022

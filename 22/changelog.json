@@ -1914,6 +1914,10 @@
         {
           "id": "students-for-liberty-cz",
           "name": "Students For Liberty CZ"
+        },
+        {
+          "id": "cryptoportal",
+          "name": "Crypto portal"
         }
       ]
     }

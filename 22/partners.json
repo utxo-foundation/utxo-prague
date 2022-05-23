@@ -347,5 +347,18 @@
       "web:webp",
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "cryptoportal",
+    "name": "Crypto portal",
+    "type": "medium",
+    "twitter": "CryptoPortalArt",
+    "desc": "Prague's NFT Gallery",
+    "web": {
+      "url": "https://cryptoportal.art/"
+    },
+    "photos": [
+      "twitter:jpg"
+    ]
   }
 ]
