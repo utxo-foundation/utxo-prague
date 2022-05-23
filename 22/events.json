@@ -267,20 +267,6 @@
     }
   },
   {
-    "id": "budoucnost-kryptomen",
-    "type": "talk",
-    "name": "Budoucnost kryptoměn",
-    "track": "spolecnost",
-    "speakers": [
-      "sona-parke"
-    ],
-    "duration": 55,
-    "difficulty": "beginner",
-    "tags": [
-      "budoucnost"
-    ]
-  },
-  {
     "id": "jak-jsem-prodaval-bitcoiny-pred-deseti-lety",
     "name": "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety",
     "type": "talk",

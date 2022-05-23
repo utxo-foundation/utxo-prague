@@ -15,6 +15,10 @@
 
 * přidáno [Reaktívne NFTs](https://utxo.cz/udalosti?id=reaktivni-nft)
 
+### Události
+
+* odebráno [Budoucnost kryptoměn](https://utxo.cz/udalosti?id=budoucnost-kryptomen)
+
 ### Partneři
 
 * přidáno [Students For Liberty CZ](https://utxo.cz/#partneri?id=students-for-liberty-cz)
