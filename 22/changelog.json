@@ -1948,6 +1948,10 @@
         {
           "id": "apus-finance-ama",
           "name": "APUS.finance AMA a jak na rizika DeFi půjček"
+        },
+        {
+          "id": "utxo23",
+          "name": "UTXO.22 → .23?!"
         }
       ],
       "removed": [

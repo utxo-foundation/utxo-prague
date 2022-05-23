@@ -28,6 +28,7 @@
 * přidáno [DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-jedlinsky)
 * přidáno [DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-stroukal)
 * přidáno [APUS.finance AMA a jak na rizika DeFi půjček](https://utxo.cz/udalosti?id=apus-finance-ama)
+* přidáno [UTXO.22 → .23?!](https://utxo.cz/udalosti?id=utxo23)
 
 ### Události
 

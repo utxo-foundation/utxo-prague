@@ -2464,6 +2464,26 @@
     ]
   },
   {
+    "id": "utxo23",
+    "name": "UTXO.22 → .23?!",
+    "type": "campfire",
+    "speakers": [
+      "tree",
+      "tereza-starostova",
+      "vojtch"
+    ],
+    "duration": 30,
+    "difficulty": "beginner",
+    "tags": [
+      "komunity"
+    ],
+    "description": "Zhodnocení konference, ještě před tím než skončí. Co se vám na naší konferenci líbilo a co naopak do příště musíme vylepšit? Bubude vůbec nějaké příště? Zkrátka - jaký by měl být další ročník podle vás? Pojďte si popovídat s organizátory konference. Během tohoto campfire bude (možná) šance zakoupit si limitovanou edici vstupenky na UTXO.23 s ultra slevou (ale psst!).\n",
+    "fixed": {
+      "stage": "campfire-outdoor",
+      "time": "2/18:00-18:30"
+    }
+  },
+  {
     "id": "party-electronic-stage",
     "type": "other",
     "track": "other",
@@ -2498,7 +2518,8 @@
     "name": "Ukončení konference 🎉",
     "speakers": [
       "tereza-starostova",
-      "tree"
+      "tree",
+      "vojtch"
     ],
     "duration": 30,
     "fixed": {
