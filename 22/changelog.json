@@ -1892,12 +1892,20 @@
         {
           "id": "reaktivni-nft",
           "name": "Reaktívne NFTs"
+        },
+        {
+          "id": "czk-kurz-na-blockchainu-oracles",
+          "name": "CZK kurz na blockchainu (oracle)"
         }
       ],
       "removed": [
         {
           "id": "budoucnost-kryptomen",
           "name": "Budoucnost kryptoměn"
+        },
+        {
+          "id": "oracles-obecne",
+          "name": "Co jsou to oracles + CZK kurz na blockchainu"
         }
       ]
     },

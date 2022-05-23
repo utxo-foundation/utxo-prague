@@ -1024,25 +1024,6 @@
     ]
   },
   {
-    "id": "oracles-obecne",
-    "type": "talk",
-    "name": "Co jsou to oracles + CZK kurz na blockchainu",
-    "track": "defi",
-    "speakers": [
-      "radek-svarz"
-    ],
-    "duration": 25,
-    "difficulty": "advanced",
-    "tags": [
-      "oracles",
-      "stablecoin",
-      "DeFi"
-    ],
-    "fixed": {
-      "stage": "exit-room"
-    }
-  },
-  {
     "id": "jak-vyuzit-potencial-defi-na-maximum",
     "type": "talk",
     "name": "Jak využít potenciál DeFi na maximum [TBD]",
@@ -2332,6 +2313,22 @@
     "fixed": {
       "date": "2022-06-04"
     }
+  },
+  {
+    "id": "czk-kurz-na-blockchainu-oracles",
+    "type": "campfire",
+    "name": "CZK kurz na blockchainu (oracle)",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 25,
+    "difficulty": "advanced",
+    "tags": [
+      "oracles",
+      "stablecoin",
+      "DeFi"
+    ]
   },
   {
     "id": "party-electronic-stage",

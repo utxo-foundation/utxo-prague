@@ -14,10 +14,12 @@
 ### Události
 
 * přidáno [Reaktívne NFTs](https://utxo.cz/udalosti?id=reaktivni-nft)
+* přidáno [CZK kurz na blockchainu (oracle)](https://utxo.cz/udalosti?id=czk-kurz-na-blockchainu-oracles)
 
 ### Události
 
 * odebráno [Budoucnost kryptoměn](https://utxo.cz/udalosti?id=budoucnost-kryptomen)
+* odebráno [Co jsou to oracles + CZK kurz na blockchainu](https://utxo.cz/udalosti?id=oracles-obecne)
 
 ### Partneři
 
