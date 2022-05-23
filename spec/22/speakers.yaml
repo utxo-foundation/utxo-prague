@@ -633,13 +633,13 @@
   name: Matěj Zimák
   twitter: mattbullish
   linkedin: matejzimak
+  web:
+    url: https://youmatt.me
   bio: Podnikatel zajímající se o web3, NFTs a blockchain gaming
   orgs: |
-    Autor [The Divergents](https://thedivergents.io/)
+    Spoluzakladatel [NFTense](https://nftense.com/) a [The Divergents](https://thedivergents.io/), advisor [Playgrid](https://playgrid.io/)
   country: cz
   tracks: [ nft ]
-  desc: |
-    Podnikatel zajímající se o web3, NFTs a blockchain gaming.
 
 - id: jacob-jelen
   name: Jacob Jelen
