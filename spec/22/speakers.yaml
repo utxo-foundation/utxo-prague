@@ -204,14 +204,14 @@
   desc: |
     člen projektu [Svoboda učení](https://www.svobodauceni.cz/)
 
-- id: martin-gregor
-  name: Martin Gregor
-  nickname: ZaujaloMa
-  twitter: ZaujaloMa
-  orgs: |
-    YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)
-  tracks: [ btc, spolecnost, alty ]
-  country: sk
+# - id: martin-gregor
+#  name: Martin Gregor
+#  nickname: ZaujaloMa
+#  twitter: ZaujaloMa
+#  orgs: |
+#    YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)
+#  tracks: [ btc, spolecnost, alty ]
+#  country: sk
 
 - id: david-antos
   name: David Antoš
