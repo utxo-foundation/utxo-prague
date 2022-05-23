@@ -37,6 +37,8 @@
     - Ethereum
     - DeFi
     - finanční svoboda
+  fixed:
+    date: '2022-06-05'
 
 - id: nft-metaverse-panel
   type: panel
@@ -2119,6 +2121,17 @@
     - oracles
     - stablecoin
     - DeFi
+
+- id: setkani-s-liborem-z-investocky
+  type: campfire
+  name:  Otevřená diskuze s Liborem z Investocky [TBD]
+  track: zaklady
+  speakers: [ libor-flossler ]
+  duration: 90
+  difficulty: beginner
+  tags:
+    - komunity
+    - investice
 
 
 # Ostatní
