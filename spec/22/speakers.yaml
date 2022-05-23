@@ -1096,3 +1096,15 @@
     Spoluzakladatel [KodaDot](https://kodadot.xyz/)
   tracks: [ nft ]
   country: sk
+
+- id: libor-flossler
+  nickname: investocka
+  name: Libor Flössler
+  twitter: investocka
+  orgs: |
+    YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)
+  web:
+    url: https://www.investocka.cz
+  tracks: [ zaklady ]
+  country: cz
+
