@@ -873,9 +873,9 @@
       },
       {
         "id": "libor-flossler",
-        "nickname": "investocka",
+        "nickname": "Investocka",
         "name": "Libor Flössler",
-        "twitter": "Investocka",
+        "twitter": "investocka",
         "orgs": "YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)\n",
         "web": {
           "url": "https://www.investocka.cz"
@@ -4213,6 +4213,9 @@
         "tags": [
           "komunity",
           "investice"
+        ],
+        "after": [
+          "btc-vs-altcoiny"
         ]
       },
       {
@@ -7581,5 +7584,5 @@
       "schedule-candidates": 1
     }
   },
-  "time": "2022-05-23T17:02:29.640Z"
+  "time": "2022-05-23T17:12:38.489Z"
 }
