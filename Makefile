@@ -67,6 +67,9 @@ media-kit:
 changelog:
 	deno run --unstable --allow-read --allow-write --allow-run utils/changelog.js
 
+tags:
+	deno run --unstable --allow-read utils/tags.js
+
 schedule: plan
 
 plan:
