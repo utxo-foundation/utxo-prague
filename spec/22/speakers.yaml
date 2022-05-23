@@ -1132,3 +1132,35 @@
     Chief Validator Officer @ [RBF Staking](https://rbf.capital/staking/)
   tracks: [ alty ]
   country: cz
+
+- id: william-lobkowicz
+  name: William Lobkowicz
+  twitter: wrlobkowicz
+  orgs: |
+    Česko-americký podnikatel z českého šlechtického rodu Lobkowiczů
+  web:
+    url: https://www.lobkowicz.cz/en
+  tracks: [ nft ]
+  country: cz
+
+- id: derek-alois-halsey
+  name: Derek Alois Halsey
+  twitter: AloisPerspektiv
+  linkedin: derekhalsey17
+  bio: Photographer
+  orgs: |
+    [CryptoPortal](http://cryptoportal.art/)
+  web:
+    url: https://www.aloisperspektiv.com
+  country: us
+
+- id: giovanna-graziosi-casimiro
+  name: Giovanna Graziosi Casimiro
+  nickname: ggcasimiro
+  twitter: ggcasimiro_
+  bio: Producent a multimédiální tvůrce
+  orgs: |
+    Vedoucí producentka @ [Decentraland Foundation](https://decentraland.org/)
+  web:
+    url: https://www.ggcasimiro.com/
+  country: br

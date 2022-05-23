@@ -59,27 +59,36 @@
 
 - id: nft-usecases-panel
   type: panel
-  name: NFT Use Cases [TBD]
+  name: Potenciál tokenizace aktiv je nad rámec umění a sběratelství v blízké budoucnosti [TBD]
   speakers:
     - lenka-hudakova
-    - petr-mara
+#    - petr-mara
+    - matej-zimak
   duration: 85
   difficulty: advanced
   track: nft
   tags:
     - NFT
-    - metaverse
 
 - id: nft-curation-art-heritage
   type: panel
-  name: NFT curation / art / heritage [TBD]
-  speakers: []
-  duration: 85
-  difficulty: beginner
+  name: Heritage layers scented with open source goes beyond CryptoArt [EN]
+  speakers:
+    - michaela-malatin
+    - william-lobkowicz
+    - derek-alois-halsey
+    - giovanna-graziosi-casimiro
+  duration: 55
+  difficulty: expert
   track: nft
   tags:
     - NFT
     - umění
+    - english content
+  description: |
+    Welcome to a talk by a professional passionate about Heritage, Curation, and Open Source Art. We are building the roadblocks of preserved cultural wisdom to unknown future chaos. Great times are about to come. Yes, it will be a journey for artists, countries, or world citizens. The panel talk promises insights into perspectives of the new.
+
+    Tato panelová diskuze bude v angličtině. 🇬🇧
 
 - id: token-energie-likvidita-zivot
   type: panel
@@ -2002,6 +2011,7 @@
   duration: 30
   fixed:
     stage: campfire-indoor
+    time: '1/21:30-22:00'
   difficulty: beginner
   tags:
     - video
@@ -2030,6 +2040,7 @@
     - NFT
     - gaming
     - scamy
+    - english content
 
 - id: krypto-v-podnikani-campfire
   type: campfire
@@ -2150,7 +2161,7 @@
 
 - id: czk-kurz-na-blockchainu-oracles
   type: campfire
-  name: CZK kurz na blockchainu (oracle)
+  name: CZK kurz na blockchainu (používání Oracle)
   track: defi
   speakers: [ radek-svarz ]
   duration: 25
@@ -2159,6 +2170,8 @@
     - oracles
     - stablecoin
     - DeFi
+  description: |
+    Na blockchainu je již přítomno několik národních měn. Alespoň kurzem vůči USD. Díky tomu mohou web3 projekty s nima počítat do svého rozhraní a funkcionality. Pojďme společně probrat situaci Oracles, které umožňují, aby se kurzy vůbec dostaly na blockchain. Lze těmto orákulům důvěřovat? Jaká jsou související rizika? Útoky? Stačí jeden Oralce protokol, či je užitečné počítat s více? A jak je to s kurzem CZK? #chainlink #tellor #czk
 
 - id: setkani-s-liborem-z-investocky
   type: campfire
@@ -2172,6 +2185,52 @@
     - investice
   after:
     - btc-vs-altcoiny
+
+- id: kryptoinsider-jedlinsky
+  type: campfire
+  name: 'DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]'
+  track: zaklady
+  speakers: [ petr-lukac, jakub-jedlinsky ]
+  duration: 30
+  difficulty: beginner
+  tags:
+    - rozhovor
+    - trading
+    - tokenomika
+  fixed:
+    stage: campfire-outdoor
+
+- id: kryptoinsider-stroukal
+  type: campfire
+  name: 'DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]'
+  track: btc
+  speakers: [ petr-lukac, dominik-stroukal ]
+  duration: 30
+  difficulty: beginner
+  tags:
+    - rozhovor
+    - maximalismus
+  fixed:
+    stage: campfire-outdoor
+
+- id: apus-finance-ama
+  type: campfire
+  name: APUS.finance AMA a jak na rizika DeFi půjček
+  track: defi
+  speakers: 
+    - radek-svarz
+    - petr-klein
+    - m0xt
+  duration: 30
+  difficulty: advanced
+  tags:
+    - DeFi
+    - pujčky
+    - risk management
+  description: |
+    Probereme, jak kalkulovat s riziky při zakládání půjčky, udržování i při změně půjčky. Jak se vyhnout likvidacím? Témata - LTV, CR, Debt in front, klouzavé průměry, hedging, opce apod. A také "zeptej se APUS.finance na cokoli".
+  after:
+    - pujcka-na-blockchainu-jednoduse-rychle
 
 
 # Ostatní
@@ -2220,4 +2279,3 @@
     time: '1/09:00-09:30'
     stage: rajska-zahrada
   tags: []
-
