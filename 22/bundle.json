@@ -2058,6 +2058,7 @@
         "speakers": [
           "kirill-juran",
           "ondrej-kovarik",
+          "frantisek-vinopal",
           "tomas-elbert"
         ],
         "track": "regulace",
@@ -2066,7 +2067,8 @@
         "tags": [
           "regulace",
           "soukromí"
-        ]
+        ],
+        "description": "Panel zaměřený na aktuální otázky týkající se regulace kryptoměn zejména na obšírně probíranou regulaci MiCa. Co můžeme očekávat od EU? Jak regulátor přemýšlí? Jak probíhá proces přijetí zákonů na evropské úrovni? Co na regulaci trápí krypto byznysy? A jaké problémy krypto projekty běžně řeší? Na to vše se budou hovořit Kirill Juran - CEO SimpleTax&Law, Ondřej Kovařík - poslanec Evropského parlamentu, František Vinopal - předseda České kryptoměnové asociace a Tomáš Elbert - advokát Blockchain Legal.\n"
       },
       {
         "id": "politicka-a-regulatorni-situace-kryptomen-co-nas-ceka",
@@ -2383,7 +2385,7 @@
         ],
         "duration": 55,
         "difficulty": "advanced",
-        "description": "Tvorba krypto projektů od vydávání tokenů, DAOs, budování směnárny, vydávání NFTs je provázena množstvím regulací a omezení. Na přednášce se dozvíte jak se aktuálně krypto projekty staví a na co všechno je třeba si dát pozor.\n",
+        "description": "Spuštění krypto projektu není jen technickou a byznysovou otázkou. Téměř vždy se budete potýkat s regulatorními problémy a daňovými otázkami. Právní a daňové nastavení má obrovský vliv na samotný byznys a rozhodně se jedná o problém, který je třeba řešit. V přednášce si položíme otázky, nad kterými by měl přemýšlet každý krypto byznysmen. Zaměříme se na strategické rozhodování a popíšeme si specifika jednotlivých krypto byznysů ať už se jedná o DAOs, směnárny a burzy, vydavatele tokenů a pod. Na přednášce se dozvíte jaká je aktuální praxe a jak se právní a daňové problémy dnes řeší.\n",
         "tags": [
           "regulace",
           "daně"
@@ -2399,14 +2401,14 @@
         ],
         "duration": 55,
         "difficulty": "beginner",
-        "description": "Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější.\n",
         "tags": [
           "regulace",
           "daně"
         ],
         "fixed": {
           "stage": "rajska-zahrada"
-        }
+        },
+        "description": "Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější. Daňové tipy, triky a rady jsou seřazeny od těch nejjednodušších až po ty nejkomplexnější, nejdražší a nejsložitější postupy pro \"velké kluky\" z krypta.\n"
       },
       {
         "id": "jan-krypto-zmenilo-zabehle-firemni-struktury",
@@ -21431,5 +21433,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-23T19:37:14.106Z"
+  "time": "2022-05-23T20:41:48.208Z"
 }
