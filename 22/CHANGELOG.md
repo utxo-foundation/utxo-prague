@@ -5,10 +5,15 @@
 ### Přednášející
 
 * přidáno [Tomáš Elbert](https://utxo.cz/lide?id=tomas-elbert)
+* přidáno [Viki Val](https://utxo.cz/lide?id=viki-val)
 
 ### Přednášející
 
 * odebráno [Martin Gregor](https://utxo.cz/lide?id=martin-gregor)
+
+### Události
+
+* přidáno [Reaktívne NFTs](https://utxo.cz/udalosti?id=reaktivni-nft)
 
 ### Partneři
 

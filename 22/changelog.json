@@ -1874,6 +1874,10 @@
         {
           "id": "tomas-elbert",
           "name": "Tomáš Elbert"
+        },
+        {
+          "id": "viki-val",
+          "name": "Viki Val"
         }
       ],
       "removed": [
@@ -1883,7 +1887,14 @@
         }
       ]
     },
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "reaktivni-nft",
+          "name": "Reaktívne NFTs"
+        }
+      ]
+    },
     "partners": {
       "added": [
         {

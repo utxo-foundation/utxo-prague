@@ -1087,6 +1087,22 @@
     "description": "Jak bude vypadat budoucnost trhu kryptoměn a které tituly budou nejvíce hodnotné a sledované? Už delší dobu si kladu tyto otázky a rád bych s Vámi nasdílel pár mých teorií, proč si zrovna myslím, že budoucnost trhu kryptoměn je v produktech (Uniswap, Maker DAO atd…) a nikoliv v chainech (Ethereum, Polkadot atd..).\n"
   },
   {
+    "id": "reaktivni-nft",
+    "type": "talk",
+    "name": "Reaktívne NFTs",
+    "track": "nft",
+    "speakers": [
+      "viki-val"
+    ],
+    "duration": 25,
+    "difficulty": "beginner",
+    "tags": [
+      "NFT",
+      "Polkadot"
+    ],
+    "description": "Tým, že sa z non-fungible tokenu stane entita, ktorá môže interagovať v rámci ekosystému, vzniká nová dynamika vo fungovaní vzťahov bez dôvery medzi účastníkmi siete. Cieľom tejto prednášky je predstaviť nové prístupy k tomu, aby boli tokeny autonómnejšie a personalizovanejšie.  Môžu teda NFT niečo robiť? Poďme to zistiť!\n"
+  },
+  {
     "id": "lokalni-komunity-intro",
     "type": "lightning-series",
     "name": "Lokální krypto komunity",

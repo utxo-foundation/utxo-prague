@@ -176,6 +176,12 @@
       "nft"
     ],
     "country": "cz",
+    "available": [
+      {
+        "from": "2022-06-04T13:00:00",
+        "to": "2022-06-05T23:59:59"
+      }
+    ],
     "photos": [
       "twitter:jpg"
     ]
@@ -1621,6 +1627,19 @@
     "photos": [
       "web:jpg",
       "sm:png",
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "viki-val",
+    "name": "Viki Val",
+    "twitter": "vikiival",
+    "orgs": "Spoluzakladatel [KodaDot](https://kodadot.xyz/)\n",
+    "tracks": [
+      "nft"
+    ],
+    "country": "sk",
+    "photos": [
       "twitter:jpg"
     ]
   },
