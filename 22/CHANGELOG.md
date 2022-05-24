@@ -5,12 +5,14 @@
 ### Přednášející
 
 * přidáno [David Rakušan](https://utxo.cz/lide?id=david-rakusan)
+* přidáno [Eddie Mur](https://utxo.cz/lide?id=eddie-mur)
 * přidáno [GiSo](https://utxo.cz/lide?id=giso)
 * přidáno [Jakub Duhonský](https://utxo.cz/lide?id=jakub-duhonsky)
 * přidáno [Jan Roško](https://utxo.cz/lide?id=jan-rosko)
 * přidáno [Jaromír Sladkovský](https://utxo.cz/lide?id=jaromir-sladkovsky)
 * přidáno [Lenka Stawarczyk](https://utxo.cz/lide?id=lenka-stawarczyk)
 * přidáno [Martin Vejmelka](https://utxo.cz/lide?id=martin-vejmelka)
+* přidáno [Sam Gittis](https://utxo.cz/lide?id=sam-gittis)
 
 ### Události
 

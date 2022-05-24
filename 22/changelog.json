@@ -1987,6 +1987,10 @@
           "name": "David Rakušan"
         },
         {
+          "id": "eddie-mur",
+          "name": "Eddie Mur"
+        },
+        {
           "id": "giso",
           "name": "GiSo"
         },
@@ -2009,6 +2013,10 @@
         {
           "id": "martin-vejmelka",
           "name": "Martin Vejmelka"
+        },
+        {
+          "id": "sam-gittis",
+          "name": "Sam Gittis"
         }
       ]
     },
