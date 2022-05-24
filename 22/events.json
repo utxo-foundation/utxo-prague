@@ -1603,6 +1603,23 @@
     "description": "Základní Yield Farming už jste si osahali, ale nedávají vám spát zprávy o 10.000% výnosech, které zdánlivě bez rizika generují kdejací DeFi nadšenci. Podíváme se na mechanismy, které mohou takový výnos přinést a na rizika s nimi spojená. Farmit budeme bez ohledu na chain.\n"
   },
   {
+    "id": "jan-se-pojistit-proti-propadu-bitcoinu",
+    "type": "workshop",
+    "name": "Jak se pojistit proti propadu Bitcoinu [TBD]",
+    "track": "zaklady",
+    "speakers": [
+      "jan-rosko"
+    ],
+    "duration": 50,
+    "difficulty": "advanced",
+    "tags": [
+      "Bitcoin",
+      "investice",
+      "trading",
+      "hedging"
+    ]
+  },
+  {
     "id": "cryptobyte-recap",
     "type": "lightning",
     "name": "CryptoByte",
