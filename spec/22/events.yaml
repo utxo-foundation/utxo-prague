@@ -22,6 +22,7 @@
     - práce
     - finanční nezávislost
     - ženy
+  popularity: 0.9
 
 - id: btc-vs-altcoiny
   type: panel
@@ -73,6 +74,7 @@
   track: nft
   tags:
     - NFT
+  popularity: 0.7
 
 - id: nft-curation-art-heritage
   type: panel
@@ -93,6 +95,7 @@
     Welcome to a talk by a professional passionate about Heritage, Curation, and Open Source Art. We are building the roadblocks of preserved cultural wisdom to unknown future chaos. Great times are about to come. Yes, it will be a journey for artists, countries, or world citizens. The panel talk promises insights into perspectives of the new.
 
     Tato panelová diskuze bude v angličtině. 🇬🇧
+  popularity: 0.7
 
 - id: token-energie-likvidita-zivot
   type: panel
@@ -108,6 +111,7 @@
     - Ethereum
     - DeFi
     - udržitelnost
+  popularity: 0.7
 
 - id: czk-stablecoin-panel
   type: panel
@@ -134,6 +138,7 @@
   fixed:
     stage: lustrovy-sal
     time: '2/14:00-15:30'
+  popularity: 0.6
 
 - id: cbdc-panel
   type: panel
@@ -227,6 +232,7 @@
     - anarchokapitalismus
   fixed:
     stage: rajska-zahrada
+  popularity: 1
 
 - id: historie-cypherpunku
   type: talk
@@ -243,6 +249,7 @@
     - cypherpunk
     - Bitcoin
     - historie
+  popularity: 0.7
 
 - id: pokrok-bez-povoleni
   type: talk
@@ -261,6 +268,7 @@
     - společnost
   fixed:
     stage: rajska-zahrada
+  popularity: 1
 
 # - id: budoucnost-kryptomen
 #  type: talk
@@ -287,6 +295,7 @@
     - Bitcoin
     - historie
     - adopce
+  popularity: 0.8
 
 - id: pribeh-nejvetsiho-btc-donejtu
   type: talk
@@ -301,6 +310,7 @@
     - Bitcoin
   fixed:
     stage: rajska-zahrada
+  popularity: 1
 
 - id: kdyz-byl-bitcoin-jeste-divoky-zapad
   type: talk
@@ -315,6 +325,7 @@
     - Bitcoin
     - historie
     - adopce
+  popularity: 0.8
 
 - id: ceska-kryptonadace
   type: talk
@@ -336,6 +347,7 @@
     Problémy jako: zbytečná byrokracie pro krypto dárce; neschopnost, či obavy neziskových organizací přijímat krypto; zbytečný exit z kryptoměn; neefektivita využívání kryptoměn.
 
     Projekt vzniká v úzké spolupráci s [Nadací VIA](https://www.nadacevia.cz ) a [ČKMA](https://www.ckma.cz).
+  popularity: 0.5
 
 - id: adopce-kryptomen
   type: talk
@@ -350,6 +362,7 @@
     - směnárny
   description: |
     Budou jednou kryptoměny běžnou součástí života většiny populace? Přednáška se bude zabývat tématy zda je to možné? Kdy se stane, že kryptoměnou zaplatíte kdekoliv? Jaké jsou legislativní překážky adopce kryptoměn? Co dalšího brání rychlejšímu používání kryptoměn mainstreamem? Jaký to bude mít dopad na cenu? Které kryptoměny budou masově využívány? Čím může každý z nás přispět k adopci kryptoměn?
+  popularity: 0.8
 
 - id: adopce-btc
   type: talk
@@ -366,6 +379,7 @@
     - Bitcoin
     - regulace
     - adopce
+  popularity: 0.5
 
 - id: czk-stablecoin
   type: talk
@@ -382,6 +396,7 @@
   fixed:
     stage: lustrovy-sal
     time: '2/13:30-14:00'
+  popularity: 0.5
 
 - id: somnium-space-talk
   type: talk
@@ -396,6 +411,7 @@
     - metaverse
     - NFT
     - VR
+  popularity: 1
 
 - id: gaming-v-rozvojovych-zemich
   type: talk
@@ -410,6 +426,7 @@
     - gaming
     - rozvojové země
     - NFT
+  popularity: 0.7
 
 - id: blockchain-hry-a-deti
   type: talk
@@ -417,13 +434,13 @@
   track: nft
   speakers: [ jan-malina ]
   duration: 55
-  popularity: 0.4
   difficulty: beginner
   description: |
     Pokud vám dává smysl aby i ve školách byl přístup k základním informacím o blockchainu a NFTs, přijďtě si poslechnout jak to dělám já a společně rozvedeme diskuzi na toto téma.
   tags:
     - gaming
     - děti
+  popularity: 0.4
 
 - id: social-tokeny
   type: talk
@@ -436,6 +453,7 @@
     - sociální tokeny
   description: |
     Social Token je kategorie krypto aktiv, která není takřka probádána a přitom má velký potenciál. Někteří zaměňují NFT za Social Token. Nejsou stejné (ERC-721 vs. ERC-20), naopak se doplňují. Je to jako míchat jablka s hruškami. Nejsou stejné, ale je z nich skvělý salát. Pojďme si spolu projít recept na skvělou strategii propagace jednotlivce, projektů nebo si jen osvojit možnost vlastního tokenu.
+  popularity: 0.6
 
 - id: od-mozku-k-blockchainu-decentralizovana-veda-desci
   type: talk
@@ -475,6 +493,7 @@
   tags:
     - regulace
     - daně
+  popularity: 0.5
 
 - id: danove-triky-a-kouzla
   type: talk
@@ -490,6 +509,7 @@
     stage: rajska-zahrada
   description: |
     Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější. Daňové tipy, triky a rady jsou seřazeny od těch nejjednodušších až po ty nejkomplexnější, nejdražší a nejsložitější postupy pro "velké kluky" z krypta.
+  popularity: 1
 
 - id: jan-krypto-zmenilo-zabehle-firemni-struktury
   type: talk
@@ -504,6 +524,7 @@
     - DAO
     - organizace
     - společnost
+  popularity: 0.6
 
 - id: prace-zivobyti-v-kryptomenach
   type: talk
@@ -518,6 +539,7 @@
     - DAO
   description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
+  popularity: 0.6
 
 - id: talent-ve-web3-vc-pohled
   type: talk
@@ -533,6 +555,7 @@
     - VC
   description: |
     Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?
+  popularity: 0.5
 
 - id: guildy-odf-dao-organizacni-revoluce
   type: talk
@@ -540,7 +563,7 @@
   track: dao
   speakers: [ michaela-malatin ]
   duration: 55
-  popularity: 0.5
+  popularity: 0.4
   difficulty: advanced
   tags:
     - DAO
@@ -561,6 +584,7 @@
     - DeFi
     - hypotéka
     - pujčky
+  popularity: 0.6
 
 - id: devpill-me-public-goods
   type: talk
@@ -569,6 +593,7 @@
   track: eth
   speakers: [ dcbuilder ]
   duration: 55
+  popularity: 0.5
   description: |
     [Devpill.me](https://www.devpill.me/) je veřejně přístupný návod ke vývoji na blockchainu, který slouží jako agregátor vzdělávacích zdrojů pro vše, co může vývojář na blockchainu potřebovat. Existují specializace zaměřené na širokou škálu různých dovedností (tj. chytré kontrakty, front-end, kryptografie) a různá témata, jako je DeFi, MEV, NFT a další. Na co se soustředit? Jak získat zaměstnání v oboru? Jakou specializaci si vybrat a jak se v ní zdokonalovat?
 
@@ -605,6 +630,7 @@
     - Polkadot
     - public good
     - vývoj
+  popularity: 0.5
 
 - id: zakladni-filozofie-tvorby-tokenu
   type: talk
@@ -619,6 +645,7 @@
     Na přednášce Vám představíme základní filozofii tvorby tokenu, definování utility/funkcionalit, výběr vhodného technického řešení, definování stake holderů a typů cílových uživatelů, stock-flow konsistentní modelování, distribuci a výběr správných incentiv. Naučíte se taky pár tipů, jak rozpoznat projekt, kde tokenomika slouží jeho rozšíření a zpříjemnění uživatelského zážitku, a kde naopak slouží jenom k tomu, aby vývojáři vyraisovali peníze. Z pohledu investora se pak budete chtít druhému jmenovanému případu vyhnout obloukem.
   tags:
     - tokenomika
+  popularity: 0.6
 
 - id: nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu
   type: talk
@@ -636,6 +663,7 @@
   tags:
     - seed investice
     - startupy
+  popularity: 0.6
 
 - id: dao-101
   type: talk
@@ -649,6 +677,7 @@
     - Ethereum
   description: |
     Predstavím vám magický svet DAOs: preberieme čo DAOs sú, čím sú užitocné, ako sa podobajú líšia od bežných foriem organizacií. Prejdeme si viacerími oblasťami, cez ktoré sa v DAOs realizujú (technická, spoločenská, ekonomická, politická, právna). Popri ukážke niekoľkých príkladov DAOs budeme mať aj čas na diskusiu a otázky z publika. 
+  popularity: 0.6
 
 
 - id: future-of-defi
@@ -661,6 +690,7 @@
   tags:
     - DeFi
     - budoucnost
+  popularity: 0.9
 
 - id: zaklady-zabezpeceni
   type: talk
@@ -676,6 +706,7 @@
     - Bitcoin
     - seed
     - internet
+  popularity: 0.4
 
 - id: proc-a-jak-pouzivat-bitcoin
   type: talk
@@ -703,6 +734,7 @@
     - Zero-knowledge proof
   description: |
     Úvod do problematiky škálování Ethereum blockchainu. Povíme si, jak fungují rollupy, jak se vyznat ve vrstvách blockchainů a proč potřebujeme druhé vrstvy na Ethereu.
+  popularity: 0.6
 
 - id: eth2
   type: talk
@@ -718,6 +750,7 @@
     - staking
   description: |
     The Merge sa blíži a dni Proof of Work sú spočítané. Zanechanie PoW a prechod najväčšej decentralizovanej platformy na Proof of Stake už mnohé roky v komunite vyvoláva nadšenie, no aj obavy a neistotu. Táto výzva však prináša unikátny experiment pre vytvorenie najrobustnejšieho a najviac decentralizovaného riešenia pre zabezpečenie siete. Merge odomkne nekompromisnú efektivitú, nové možnosti škálovania a vyššie úrovne bezpečnosti. Príďte si vypočuť o aktuálnom stave, problémoch aj roadmape Etherea od výskumníka, ktorý sa na Merge priamo podieľa.
+  popularity: 0.8
 
 - id: zaklady-a-historie-defi-protokolu
   type: talk
@@ -736,13 +769,14 @@
     - historie
   description: |
     Na prednáške budem hovoriť hlavne o projektoch ktoré bežia na Ethereu poprípade EVM forkoch ako je napríklad Polygon, Binance Smart Chain, Fantom atď. Prednášku som rozdelil na 4 hlavné časti: 1. Stablekoiny 2. Decentralizované burzy 3. Lending protokoli 4. Bridge / Mosty. Po alebo pred prednáškou budem tatkiež robiť workshop kde Vám ukážem ako to v skutočnosti funguju a ako sa s DeFi pracuje. Vy sami si teda budete môcť vyskúšať čo znamená byť DeFi liquidity providerom, investorom, farmárom, poprípade ako sa pripraviť na airdropy budúcich zaujímavých projektov.
+  popularity: 0.5
 
 - id: defi-pro-zacatecniky
   type: talk
   name: DeFi pro začátečníky
   track: defi
   speakers: [ jiri-cepelka ]
-  duration: 55
+  duration: 25
   difficulty: beginner
   tags:
     - DeFi
@@ -754,6 +788,10 @@
     Všechno ze světa DeFi, probereme si to celé od začátku, od toho jak fungují klasické centralizované finance přes decentralizované směnárny až po využití DeFi pro dobročinné účely. Dojde i na půjčky, pojištění nebo třeba decentralizované deriváty akcií. Přednáška bude spíše filozofická a bude k ní potřeba jenom minimální znalost blockchainu.
 
     Poté navážeme workshopem [Defi pro začátečníky (workshop)](/udalosti?id=defi-pro-zacatecniky-workshop) na stejné téma
+  popularity: 0.4
+  fixed:
+    stage: exit-room
+    time: '1/09:30-10:30'
 
 - id: high-freq-algo-trading-solana
   type: talk
@@ -767,6 +805,7 @@
     - trading
   description: |
     Dovíte se, jak funguje high frequency algotrading na Solaně, na kterých trzích na Solaně se dají vylepšovat ceny a jak se o to pokusit pomocí hotových nástrojů.
+  popularity: 0.4
 
 - id: uvod-do-polkadot
   type: talk
@@ -780,6 +819,7 @@
     - smart-contract
   description: |
     Polkadot je platforma od jednoho ze zakladatelů Ethereum sítě a původního autora EVM, Gavina Wooda. Tento protokol je unikátní svým designem, protože už od svého vzniku počítá s tím, že budoucnust kryptoměn je takzvaně multi-chain - to znamená, že zde nebude jeden vítězný projekt, který ovládne celý krypto prostor, ale budeme mít vedle sebe mnoho blockchainů, které spolu budou muset bezpečně a decentralizovaně komunikovat. Dozvíte se tedy jakým způsobem je Polkadot pro tuto budoucnost navržen, co jsou to parachainy a proč by to mohl být jeden z nejzajímavějších projektů roku 2022.
+  popularity: 0.5
 
 - id: mise-projektu-cardano
   type: talk
@@ -792,6 +832,7 @@
     - Cardano
   description: |
     Tržní kapitalizace není jediným měřítkem úspěchu blockchain projektů. Mnohem důležitější je mise projektu a silný tým, který je spolu s komunitou odhodlaný dosáhnout cíle. Cardano poskytuje finanční identitu lidem, kteří ji nemají. Chudí lidé nepotřebují spekulovat na růst ceny. Potřebují identitu, možnost zaplatit digitálně poplatky za energie a propojení s okolním světem. To vše bez neefektivních a drahých prostředníků. Vládám v rozvojových zemích se díky korupčnímu prostředí nedaří budovat finanční služby. Banky jsou orientované na profit, takže je chudé země nelákají. Cardano je všude tam, kde je internet. To otevírá dveře adopci v řádech desítek milionů lidí.
+  popularity: 0.5
 
 - id: uvod-cosmos-ekosystem
   type: talk
@@ -807,6 +848,7 @@
     - Osmosis
   description: |
     Vyrazíme do vesmíru. Sraz je na planetě Atom, ze které proletíme celou IBC galaxii. Zastavíme se například na oběžné dráze Juna nebo Osmosisu, podržíme minutu ticha za Terru a přibrzdíme i u planety Secret. Podíváme se na první doopravdy interoperabilní blockchain. Jak funguje cosmos of blockchains? Co se na něm dá dělat a jaké planety v tomhle vesmíru stojí za zastávku?
+  popularity: 0.5
 
 - id: uvod-near
   type: talk
@@ -819,6 +861,7 @@
     - NEAR
   description: |
     Někdo ho považuje za druhou vrstvu etherea, někdo za blockchain, který přišel s naprosto unikátním způsobem shardingu, revoluční peněženkou a sexy uživatelským rozhraním. Dokonce i jeho části umí být EVM kompatibilní. Co vlastně Near je?
+  popularity: 0.5
 
 - id: fire-movement
   type: talk
@@ -831,6 +874,7 @@
     Hnutí [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) (*Financial Independence, Retire Early*) usiluje o finanční nezávislost a možnost odejít do důchodu i o desítky let dříve. Běžně se využívají akcie a Pravidlo 4 %. Hlavní kouzlo potom udělá efekt složeného úročení. Nicméně jak by tyto myšlenky vypadaly v krypto světě? Kryptoměny a DeFi přináší další nové možnosti, o kterých se akciovým investorům ani nezdá. Pojďme si tedy představit aktuální možnosti a zamyslet se nad kryptem z trochu jiného než technologického pohledu.
   tags:
     - finanční nezávislost
+  popularity: 0.5
 
 
 - id: investovani-20
@@ -846,6 +890,7 @@
     - DeFi
   description: |
     Modely chování, které máme naučené a přebrané z historie, nemusí fungovat/nefungují v dnešním světě. Krypto je dobrým příkladem, ale pouze jedním z mnoha. Na spoustu problémů už dnes existují alternativní řešení, nicméně se o těchto věcech a inovativních přístupech příliš nemluví. Blokchainové technologie nabízejí zajímavé paralely a představují hodnoty, na kterých by nové vzorce chování mohly fungovat lépe.
+  popularity: 0.7
 
 - id: chyby-pri-skladani-portfolia
   type: talk
@@ -860,7 +905,7 @@
     - trading
   description: |
     Kryptoměny jsou pro mě jako nový svět a nová ekonomika, vznikající kompletně online. Všichni to vidíme a chceme být součástí tohoto paralelního světa. Některé fascinuje technologie, jiné investiční příležitosti, které díky růstu celého trhu přichází. A těch, které fascinuje růst ceny, je o poznání víc. Krypto investory nyní potkáváme všude, ale stále málokdo dokáže dlouhodobě vydělávat kvůli jednoduchým chybám, které děláme. Za svých 5 let v kryptu jsem to mohl pozorovat na sobě, ale zároveň díky Blockspace jsem to stejné viděl u stovek dalších lidí. Na této přednášce si tedy ukážeme, co jsou nejtypičtější chyby, které dělá v portfoliu téměř každý - a jak je velmi jednoduše odbourat.
-
+  popularity: 0.6
 
 - id: fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv
   type: talk
@@ -873,6 +918,7 @@
     - investice
   description: |
     Více než 95% krypto aktiv nemá žádnou hodnotu. Jak najít a poznat těch zbylých 5%?
+  popularity: 0.6
 
 
 - id: smart-contracts-audits
@@ -888,6 +934,7 @@
     - Ethereum
   description: |
     Bezpečnostní audity smart kontraktů nenabízí binární odpověď, jestli je daný kód bezpečný, nebo není. Proč jsou přesto audity pro projekty a jejich uživatele důležité? Jak takový audit probíhá? A jak se může běžný HODLer v auditu zorientovat, aby mu pomohl v binárním rozhodnutí, jestli do projektu investovat, nebo se mu vyhnout?
+  popularity: 0.5
 
 - id: polkadot-governance
   type: talk
@@ -903,6 +950,7 @@
     - Polkadot
     - governance
     - DAO
+  popularity: 0.4
 
 - id: ztratou-recovery-seedu-neztratite-jenom-finance
   type: talk
@@ -917,6 +965,7 @@
     - hardware
   description: |
     Blockchain, peer to peer, proof of work….. několik slov a mají jeden velký význam a tím je poctivost. Jako výrobci produktů, které mohou ovlivnit život držitele, máme mnoho možností jak zákazníka ovlivnit. Je rok 2022,  je to téměř 14 let co vznikla technologie jménem BITCOIN. Tato revoluční metoda ve světě finančnictví způsobila vznik nového odvětví a tím jsou produkty pro uložení Recovery Seed. Recovery Seed, slova, která Vám změní svět a způsob života. Pár slov, kterým nedáváte význam,  avšak když se něco stane, jsou Vaší spásou. Přijďte se podívat na přednášku Jiřího Skřivana ze [Skovo.CZ](https://www.skovo.cz/), jenž je prvním výrobcem produktů pro uložení Recovery Seed a zjistíte, že i tento svět je proof of work.
+  popularity: 0.5
 
 - id: opravdu-vlastnite-cryptopunka
   type: talk
@@ -928,6 +977,7 @@
   tags:
     - NFT
     - autorské právo
+  popularity: 0.5
 
 - id: fediverse
   type: talk
@@ -948,6 +998,7 @@
     - soukromí
     - identita
     - sociální sítě
+  popularity: 0.4
 
 - id: jak-vyuzit-potencial-defi-na-maximum
   type: talk
@@ -956,12 +1007,12 @@
   speakers: [ stepan-fau ]
   duration: 25
   difficulty: advanced
-  popularity: 0.6
   tags:
     - DeFi
     - yield farming
   description: |
     Peněženku založenou už máte, hodlíte pár coinů a přemýšlíte, co dál. Je na čase podívat se na základní techniky tzv. Yield Farmingu, neboli generování výnosů na vašem kapitálu. Budeme se soustředit na Ethereum Mainnet a Polygon.
+  popularity: 0.6
 
 - id: budoucnost-kryptomen-je-v-produktech-nikoliv-v-chainech
   type: talk
@@ -975,6 +1026,7 @@
     - budoucnost
   description: |
     Jak bude vypadat budoucnost trhu kryptoměn a které tituly budou nejvíce hodnotné a sledované? Už delší dobu si kladu tyto otázky a rád bych s Vámi nasdílel pár mých teorií, proč si zrovna myslím, že budoucnost trhu kryptoměn je v produktech (Uniswap, Maker DAO atd…) a nikoliv v chainech (Ethereum, Polkadot atd..).
+  popularity: 0.7
 
 - id: reaktivni-nft
   type: talk
@@ -988,6 +1040,7 @@
     - Polkadot
   description: |
     Tým, že sa z non-fungible tokenu stane entita, ktorá môže interagovať v rámci ekosystému, vzniká nová dynamika vo fungovaní vzťahov bez dôvery medzi účastníkmi siete. Cieľom tejto prednášky je predstaviť nové prístupy k tomu, aby boli tokeny autonómnejšie a personalizovanejšie.  Môžu teda NFT niečo robiť? Poďme to zistiť!
+  popularity: 0.5
 
 - id: institucionalni-investori-v-kryptu
   type: talk
@@ -1002,6 +1055,7 @@
     - hedge funds
   description: |
     Ohledně institucionálních investorů ve světě kryptoměn panuje mnoho polopravd a mýtů. Cílem přednášky je přiblížit, kdo to ti institucionální investoři jsou, jakým způsobem fungují a jak do krypta investují. Probereme, co to znamená buzzword "hedge fund", a podělíme se s Vámi o naši zkušenost se zakládáním a fungováním hedge fondu. V rámci přednášky rozebereme, jak se kteří institucionální investoři pohybují v kryptoměnovém prostoru, co si myslíme o vstupu tradičních financí do krypta a zamyslíme se nad tím, jestli jsou institucionální investoři pro kryptoměnový prostor přínosní nebo mu naopak škodí.
+  popularity: 0.6
 
 - id: zkusenosti-z-provozem-pos-blockchainu
   type: talk
@@ -1020,6 +1074,7 @@
     RBF Staking je součást Rockaway Blockchain Fondu, která provozuje uzly pro L1 blockchainy v ekosystémech Solana, Cosmos, EVM based a dalších. Na přednášce si porovnáme tyto blockchainy z pohledu architektury a poté z pohledu provozu (bezpečnost, HW/network nároky).
 
     https://rbf.capital/staking/
+  popularity: 0.6
 
 - id: jak-ziskat-financovani-pro-vas-web3-projekt
   type: talk
@@ -1034,7 +1089,34 @@
     - VC
   description: |
     Pro každý projekt je velmi důležité jeho financování. Během přednášky se dozvíte, co je nutné pro získání financování od nejlepších VC fondů zaměřených na Web 3. David Rakušan, který je investičním manažerem jednoho z největších fondů zaměřených na blockchain a Web 3 v Evropě odkryje mýty a poukáže na ty nejpodstatnější věci při získávání financování.
+  popularity: 0.5
 
+- id: jak-si-posichrovat-a-rozlozit-portfolio
+  type: talk
+  name: Jak vydělat miliony, i když je nemáš
+  track: zaklady
+  speakers: [ tomas-zdrazil ]
+  duration: 50
+  difficulty: beginner
+  tags:
+    - portfolio
+    - investice
+  description: |
+    Původně jsem přednášku nazval: "Jak si posichrovat a rozložit svoje portfolio." Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuly, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.
+  popularity: 0.7
+
+- id: dabluv-advokat-kryptopodvody-a-jine-problemy
+  type: talk
+  name: Ďáblův advokát - kryptopodvody a jiné problémy [TBD]
+  track: zaklady
+  speakers: [ giso ]
+  duration: 25
+  difficulty: beginner
+  tags:
+    - podvody
+    - scamy
+    - bezpečnost
+  popularity: 0.6
 
  # Lightning talks (series)
  # =========================
@@ -1049,6 +1131,7 @@
   tags:
     - společnost
   duration: 85
+  popularity: 1
 
 - id: lokalni-projekty-intro
   type: lightning-series
@@ -1060,6 +1143,7 @@
   tags:
     - Bitcoin
   duration: 55
+  popularity: 0.8
 
 - id: lokalni-btc-intro
   type: lightning-series
@@ -1071,6 +1155,7 @@
   duration: 55
   tags:
     - Bitcoin
+  popularity: 0.7
 
 - id: lokalni-dao-intro
   type: lightning-series
@@ -1082,6 +1167,7 @@
   duration: 25
   tags:
     - DAO
+  popularity: 0.5
 
 - id: lokalni-defi-intro
   type: lightning-series
@@ -1093,6 +1179,7 @@
   description: |
     Představení lokálních DeFi projektů.
   duration: 85
+  popularity: 0.7
 
 
 - id: lokalni-nft-intro
@@ -1105,6 +1192,7 @@
   description: |
     Představení lokálních NFT/Metaverse projektů.
   duration: 85
+  popularity: 0.7
 
 
 # Workshops (workshopy)
@@ -1296,19 +1384,6 @@
   difficulty: advanced
   tags:
     - networking
-
-- id: jak-si-posichrovat-a-rozlozit-portfolio
-  type: workshop
-  name: Jak vydělat miliony, i když je nemáš
-  track: zaklady
-  speakers: [ tomas-zdrazil ]
-  duration: 50
-  difficulty: beginner
-  tags:
-    - portfolio
-    - investice
-  description: |
-    Původně jsem přednášku nazval: "Jak si posichrovat a rozložit svoje portfolio." Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuly, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.
 
 - id: lightning-ekosystem
   type: workshop
@@ -2103,6 +2178,7 @@
     - NFT
     - gaming
     - scamy
+    - podvody
     - english
 
 - id: krypto-v-podnikani-campfire
@@ -2264,7 +2340,7 @@
   fixed:
     stage: campfire-outdoor
   description: |
-    Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakup Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby "medvěda" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?
+    Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakub Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby "medvěda" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?
 
 - id: kryptoinsider-stroukal
   type: campfire

@@ -1231,3 +1231,9 @@
   country: cz
   tracks: [ zaklady ]
 
+- id: giso
+  name: GiSo
+  bio: Člen KryptoVláďa komunity
+  country: cz
+  tracks: [ zaklady ]
+

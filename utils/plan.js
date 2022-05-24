@@ -363,12 +363,23 @@ class UTXOPlanner {
           ]);
         }
       }
+      // calculate exlusivity deviation
+      let exclusivityDev = 1
+      if (ev.popularity) {
+        const stage = this.stages.find(s => s.id === si.stage)
+        if (stage.exclusivity) {
+          exclusivityDev = 1 - (ev.popularity > stage.exclusivity
+            ? (ev.popularity - stage.exclusivity)
+            : (stage.exclusivity - ev.popularity))
+        }
+      }
 
       si.metrics = {
         themeCrossing: (crossings.reduce((prev, cur) =>
           prev + cur[0], 0) / crossings.length),
         tagsCrossing: (crossings.reduce((prev, cur) =>
           prev + cur[1], 0) / crossings.length),
+        exclusivityDev
       };
     }
   }
@@ -382,7 +393,7 @@ class UTXOPlanner {
   }
 
   metrics() {
-    const cols = ["themeCrossing", "tagsCrossing"];
+    const cols = ["themeCrossing", "tagsCrossing", "exclusivityDev"];
     const obj = {};
     let total = 0;
     for (const col of cols) {
@@ -472,7 +483,7 @@ async function main() {
       console.log(
         `solution #${plans.length + 1} : [${
           hash.substring(0, 8)
-        }] score ${metrics.score} {themeCrossing: ${metrics.themeCrossing}, tagsCrossing: ${metrics.tagsCrossing}}`,
+        }] score ${metrics.score} {thc: ${metrics.themeCrossing}, tgs: ${metrics.tagsCrossing}, exd: ${metrics.exclusivityDev}}`,
       );
       //console.log(`----\nPlan found after ${i} tries`)
       //break
