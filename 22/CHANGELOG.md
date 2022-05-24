@@ -7,11 +7,13 @@
 * přidáno [David Rakušan](https://utxo.cz/lide?id=david-rakusan)
 * přidáno [Jaromír Sladkovský](https://utxo.cz/lide?id=jaromir-sladkovsky)
 * přidáno [Lenka Stawarczyk](https://utxo.cz/lide?id=lenka-stawarczyk)
+* přidáno [Martin Vejmelka](https://utxo.cz/lide?id=martin-vejmelka)
 
 ### Události
 
 * přidáno [Jak získat financování pro váš Web 3.0 projekt](https://utxo.cz/udalosti?id=jak-ziskat-financovani-pro-vas-web3-projekt)
 * přidáno [KryptoInsider - 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-sladkovsky)
+* přidáno [RBF Labs - Venture studio](https://utxo.cz/udalosti?id=rbf-labs-venture-studio)
 
 
 ## 23.5.2022
