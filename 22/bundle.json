@@ -1690,7 +1690,8 @@
         "country": "us",
         "desc": "Sam Gittis, který mísí deep house s digitálním uměním, vytváří taneční hudbu, hraje v nočních klubech a zároveň je kurátorem první pražské galerie NFT Crypto Portal, zapustil kořeny v undergroundové umělecké kultuře. Míchání spojení mezi lidmi, uměním a zvukem je jeho silnou stránkou a chce, aby se stalo základem jeho cesty do web3.\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -25054,5 +25055,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T23:25:51.829Z"
+  "time": "2022-05-24T23:26:20.466Z"
 }
