@@ -433,6 +433,9 @@
   desc: |
     Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.
   lead: true
+  available:
+    - from: '2022-06-05T08:00:00'
+      to: '2022-06-05T23:59:59'
 
 - id: lubos-kovarik
   name: Luboš Kovařík
@@ -1152,6 +1155,7 @@
     [CryptoPortal](http://cryptoportal.art/)
   web:
     url: https://www.aloisperspektiv.com
+  tracks: [ nft ]
   country: us
 
 - id: giovanna-graziosi-casimiro
@@ -1163,4 +1167,23 @@
     Vedoucí producentka @ [Decentraland Foundation](https://decentraland.org/)
   web:
     url: https://www.ggcasimiro.com/
+  tracks: [ nft ]
   country: br
+
+- id: jaromir-sladkovsky
+  name: Jaromír Sladkovský
+  linkedin: jaromir-sladkovsky-721b902
+  twitter: JSladkovsky
+  orgs: |
+    CEO @ [Raiffeisen Investiční společnost](https://rfis.cz)
+  tracks: [ regulace ]
+  country: cz
+
+- id: lenka-stawarczyk
+  name: Lenka Stawarczyk
+  twitter: Holubina
+  bio: Holka z marketingu
+  country: cz
+  tracks: [ spolecnost ]
+  desc: |
+    Jsem holka z marketingu, s desetiletou praxi v SaaS a B2B. Prolítla jsem startupy i korporacemi a aktuálně jsem hlavně freelance konzultantka marketingu a UX writingu. Řídila jsem tým produktových marketérů v LMC, pomohla dostat do světa whitleblowingovou platformu Nenech to být a spolupracovala s firmami jako Kentico, Vodafone, Storyous nebo Marks&Spencer. V kryptu pracuju od roku 2021, studuju SheFi (DeFi akademii pro ženy) a pořád se mám co učit. 💪 #wagmi

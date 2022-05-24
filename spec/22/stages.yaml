@@ -1,6 +1,9 @@
 - id: rajska-zahrada
   name: Rajská zahrada
   types: [ talk, panel, lightning-series ]
+  capacity:
+    seat: 325
+    stand: 200
   times:
     - '1/09:00-14:00'
     - '1/14:30-19:00'
@@ -10,6 +13,9 @@
 - id: lustrovy-sal
   name: Lustrový sál
   types: [ talk, panel, lightning-series ]
+  capacity:
+    seat: 130
+    stand: 75
   times:
     - '1/09:30-13:00'
     - '1/13:30-19:30'
@@ -19,6 +25,9 @@
 - id: klenbovy-sal
   name: Klenbový sál
   types: [ talk, lightning-series ]
+  capacity:
+    seat: 130
+    stand: 75
   times:
     - '1/09:30-13:00'
     - '1/13:30-19:30'
@@ -26,8 +35,11 @@
     - '2/13:30-18:30'
 
 - id: exit-room
-  name: Východová místnost
+  name: Exit room
   types: [ talk ]
+  capacity:
+    seat: 80
+    stand: 30
   times:
     - '1/09:30-13:30'
     - '1/14:00-19:30'
@@ -37,6 +49,9 @@
 - id: knihovna
   name: Knihovna
   types: [ workshop ]
+  capacity:
+    seat: 40
+    stand: 20
   times:
     - '1/09:30-13:30'
     - '1/14:00-19:30'
@@ -44,8 +59,11 @@
     - '2/14:00-18:30'
 
 - id: white-workshop-room
-  name: Bílá workshop místnost
+  name: Table room
   types: [ workshop ]
+  capacity:
+    seat: 30
+    stand: 15
   times:
     - '1/09:30-13:30'
     - '1/14:00-19:30'
@@ -53,8 +71,11 @@
     - '2/14:00-18:30'
 
 - id: campfire-outdoor
-  name: Campfire (venku)
+  name: 🔥 Campfire (venku)
   types: [ campfire ]
+  capacity:
+    seat: 40
+    stand: 200
   times:
     - '1/09:30-12:00'
     - '1/12:30-20:00'
@@ -62,16 +83,33 @@
     - '2/12:30-18:30'
 
 - id: campfire-indoor
-  name: Campfire (uvnitř)
+  name: 🔥 Campfire (uvnitř)
   types: [ campfire ]
+  capacity:
+    seat: 20
+    stand: 100
   times:
     - '1/09:30-12:00'
     - '1/12:30-19:00'
     - '2/10:00-12:00'
     - '2/12:30-18:00'
 
+- id: nft-chillout
+  name: NFT chillout
+  types: [ nft-event ]
+  capacity:
+    seat: 30
+    stand: 75
+  times:
+    - '1/09:30-20:00'
+    - '2/10:00-18:00'
+
 - id: pitevna
   name: Pitevna
   types: [ other ]
+  capacity:
+    seat: 0
+    stand: 150
   times:
     - '1/16:00-23:59'
+
