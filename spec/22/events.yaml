@@ -2300,6 +2300,23 @@
     stage: campfire-outdoor
     time: '2/18:00-18:30'
 
+- id: rbf-labs-venture-studio
+  name: RBF Labs - Venture studio
+  type: campfire
+  track: defi
+  speakers:
+    - martin-vejmelka
+  duration: 30
+  difficulty: expert
+  tags:
+    - vývoj
+    - financování
+    - VC
+  description: |
+    RBF Labs je nový subjekt zaměřený na vývoj softwarových produktů ve web3 prostoru. Rockaway Blockchain Fund byl v době založení Labs již diversifikovaný: kromě VC aktivit zaroven provozuje Yield fund investující do DeFi a validatory vybranych blockchainových projektů ([RBF Staking](https://rbf.capital/staking/)). Ukáži dva produkty, které jsme v Labs vytvořili pro Yield fund a vysvětlím, jak hledáme a vyhodnocujeme nové příležitosti.
+  fixed:
+    date: '2022-06-04'
+
 # Ostatní
 # ==========================
 

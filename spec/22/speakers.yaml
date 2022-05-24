@@ -1200,3 +1200,10 @@
   country: cz
   tracks: [ defi ]
 
+- id: martin-vejmelka
+  name: Martin Vejmelka
+  twitter: shipthecode
+  orgs: |
+    CTO @ [Rockaway Blockchain Labs](https://rbf.capital/)
+  country: cz
+  tracks: [ defi ]
