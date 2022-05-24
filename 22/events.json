@@ -1042,7 +1042,7 @@
   {
     "id": "jak-vyuzit-potencial-defi-na-maximum",
     "type": "talk",
-    "name": "Jak využít potenciál DeFi na maximum [TBD]",
+    "name": "Úvod do yield farmingu",
     "track": "defi",
     "speakers": [
       "stepan-fau"
@@ -1050,8 +1050,10 @@
     "duration": 25,
     "difficulty": "advanced",
     "tags": [
-      "DeFi"
-    ]
+      "DeFi",
+      "yield farming"
+    ],
+    "description": "Peněženku založenou už máte, hodlíte pár coinů a přemýšlíte, co dál. Je na čase podívat se na základní techniky tzv. Yield Farmingu, neboli generování výnosů na vašem kapitálu. Budeme se soustředit na Ethereum Mainnet a Polygon.\n"
   },
   {
     "id": "budoucnost-kryptomen-je-v-produktech-nikoliv-v-chainech",
@@ -1566,7 +1568,7 @@
   {
     "id": "maximalni-yield-bez-ohledu-na-chain",
     "type": "workshop",
-    "name": "Maximální yield bez ohledu na chain [TBD]",
+    "name": "Max degen mode yield farming",
     "track": "defi",
     "speakers": [
       "stepan-fau"
@@ -1579,7 +1581,8 @@
     "tags": [
       "DeFi",
       "yield farming"
-    ]
+    ],
+    "description": "Základní Yield Farming už jste si osahali, ale nedávají vám spát zprávy o 10.000% výnosech, které zdánlivě bez rizika generují kdejací DeFi nadšenci. Podíváme se na mechanismy, které mohou takový výnos přinést a na rizika s nimi spojená. Farmit budeme bez ohledu na chain.\n"
   },
   {
     "id": "cryptobyte-recap",
