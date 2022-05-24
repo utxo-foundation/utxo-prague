@@ -219,15 +219,16 @@
       {
         "id": "david-rakusan",
         "name": "David Rakušan",
-        "twitter": "DavidRakusan",
+        "web": {
+          "url": "https://twitter.com/DavidRakusan"
+        },
         "orgs": "CFA, Investment Manager @ [Rockaway Blockchain Fund](https://rbf.capital/)\n",
         "country": "cz",
         "tracks": [
           "defi"
         ],
         "photos": [
-          "web:jpg",
-          "twitter:jpg"
+          "web:jpg"
         ]
       },
       {
@@ -22808,5 +22809,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T17:35:53.680Z"
+  "time": "2022-05-24T18:09:14.890Z"
 }
