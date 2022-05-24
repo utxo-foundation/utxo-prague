@@ -1217,4 +1217,9 @@
   country: cz
   tracks: [ defi ]
 
+- id: jan-rosko
+  name: Jan Roško
+  bio: Soukromý investor/trader
+  country: cz
+  tracks: [ zaklady ]
 
