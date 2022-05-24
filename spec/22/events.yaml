@@ -1657,6 +1657,7 @@
   tags:
     - aplikace
     - kurzy
+    - portfolio
 
 - id: futureland
   type: lightning
@@ -2200,6 +2201,7 @@
     - oracles
     - stablecoin
     - DeFi
+    - kurzy
   description: |
     Na blockchainu je již přítomno několik národních měn. Alespoň kurzem vůči USD. Díky tomu mohou web3 projekty s nima počítat do svého rozhraní a funkcionality. Pojďme společně probrat situaci Oracles, které umožňují, aby se kurzy vůbec dostaly na blockchain. Lze těmto orákulům důvěřovat? Jaká jsou související rizika? Útoky? Stačí jeden Oralce protokol, či je užitečné počítat s více? A jak je to s kurzem CZK? #chainlink #tellor #czk
 
@@ -2316,6 +2318,37 @@
     RBF Labs je nový subjekt zaměřený na vývoj softwarových produktů ve web3 prostoru. Rockaway Blockchain Fund byl v době založení Labs již diversifikovaný: kromě VC aktivit zaroven provozuje Yield fund investující do DeFi a validatory vybranych blockchainových projektů ([RBF Staking](https://rbf.capital/staking/)). Ukáži dva produkty, které jsme v Labs vytvořili pro Yield fund a vysvětlím, jak hledáme a vyhodnocujeme nové příležitosti.
   fixed:
     date: '2022-06-04'
+
+- id: algoritmicke-stablecoiny-budoucnost-nebo-riziko
+  name: 'Algoritmické stablecoiny: budoucnost nebo riziko?'
+  type: campfire
+  track: defi
+  speakers:
+    - jakub-duhonsky
+  duration: 30
+  difficulty: expert
+  tags:
+    - DeFi
+    - stablecoiny
+    - algostablecoiny
+    - riziko
+    - budoucnost
+  description: |
+    Algoritmické stablecoiny - téma, které je po pádu UST aktuálnější než kdy dřív. Těšit se můžete na krátkou přednášku, na kterou naváže diskuze. 1. Shrnutí základních konceptů stablecoinů a jejich fungování - plně kryté fiatem, overcollateralized (DAI, MIM) a algoritmické - výhody, nevýhody a potenciální rizika jednotlivých modelů. 2. Podrobnější představení stávajících algoritmických stablecoinů - FRAX, USN, USDD, FEI + srovnání s UST. Jejich koncept, rozdíly, výhody a rizika. 3. Diskuze k tématu.
+
+- id: bitcoin-mindset-session
+  name: Bitcoin Mindset [TBD]
+  type: campfire
+  track: zaklady
+  speakers: [ martin-bitcoin-mindset ]
+  duration: 30
+  tags:
+    - aplikace
+    - kurzy
+    - portfolio
+  fixed:
+    date: '2022-06-04'
+
 
 # Ostatní
 # ==========================
