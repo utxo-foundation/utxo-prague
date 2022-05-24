@@ -1256,6 +1256,8 @@
     - uvod-near
   tags:
     - NEAR
+  description: |
+    Navážeme na přednášku o úvodu do Near ekosystému, založíme si vlastní peněženku a podíváme se na ty z nejzajímavějších projektů, které na tomto ekosystému běží
 
 - id: bitcoin-tezba
   type: workshop
