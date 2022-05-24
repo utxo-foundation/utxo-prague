@@ -1173,6 +1173,11 @@
     url: https://www.ggcasimiro.com/
   tracks: [ nft ]
   country: br
+  available:
+    - from: '2022-06-04T14:00:00'
+      to: '2022-06-04T23:00:00'
+    - from: '2022-06-05T14:00:00'
+      to: '2022-06-05T23:00:00'
 
 - id: jaromir-sladkovsky
   name: Jaromír Sladkovský
@@ -1191,6 +1196,9 @@
   tracks: [ spolecnost ]
   desc: |
     Jsem holka z marketingu, s desetiletou praxi v SaaS a B2B. Prolítla jsem startupy i korporacemi a aktuálně jsem hlavně freelance konzultantka marketingu a UX writingu. Řídila jsem tým produktových marketérů v LMC, pomohla dostat do světa whitleblowingovou platformu Nenech to být a spolupracovala s firmami jako Kentico, Vodafone, Storyous nebo Marks&Spencer. V kryptu pracuju od roku 2021, studuju SheFi (DeFi akademii pro ženy) a pořád se mám co učit. 💪 #wagmi
+  available:
+    - from: '2022-06-04T08:00:00'
+      to: '2022-06-05T15:00:00'
 
 - id: david-rakusan
   name: David Rakušan

@@ -39,6 +39,7 @@
     - altcoiny
     - DeFi
     - finanční svoboda
+  popularity: 1
   fixed:
     date: '2022-06-05'
 
@@ -55,6 +56,7 @@
   duration: 85
   difficulty: beginner
   track: nft
+  popularity: 1
   tags:
     - NFT
     - metaverse
@@ -66,7 +68,7 @@
     - lenka-hudakova
 #    - petr-mara
     - matej-zimak
-  duration: 85
+  duration: 55
   difficulty: advanced
   track: nft
   tags:
@@ -142,6 +144,7 @@
     - dominik-stroukal
   duration: 85
   difficulty: beginner
+  popularity: 0.8
   tags:
     - CBDC
     - regulace
@@ -156,12 +159,15 @@
     - tomas-elbert
   track: regulace
   duration: 85
+  popularity: 0.8
   difficulty: beginner
   tags:
     - regulace
     - soukromí
   description: |
     Panel zaměřený na aktuální otázky týkající se regulace kryptoměn zejména na obšírně probíranou regulaci MiCa. Co můžeme očekávat od EU? Jak regulátor přemýšlí? Jak probíhá proces přijetí zákonů na evropské úrovni? Co na regulaci trápí krypto byznysy? A jaké problémy krypto projekty běžně řeší? Na to vše se budou hovořit Kirill Juran - CEO SimpleTax&Law, Ondřej Kovařík - poslanec Evropského parlamentu, František Vinopal - předseda České kryptoměnové asociace a Tomáš Elbert - advokát Blockchain Legal.
+  fixed:
+    stage: rajska-zahrada
 
 - id: politicka-a-regulatorni-situace-kryptomen-co-nas-ceka
   type: panel
@@ -177,6 +183,7 @@
   tags:
     - politika
     - regulace
+  popularity: 0.6
   fixed:
     date: '2022-06-05'
   description: |
@@ -202,6 +209,7 @@
     - finanční svoboda
     - volný trh
     - soukromí
+  popularity: 0.8
 
 - id: volny-trh-penez
   type: talk
@@ -409,6 +417,7 @@
   track: nft
   speakers: [ jan-malina ]
   duration: 55
+  popularity: 0.4
   difficulty: beginner
   description: |
     Pokud vám dává smysl aby i ve školách byl přístup k základním informacím o blockchainu a NFTs, přijďtě si poslechnout jak to dělám já a společně rozvedeme diskuzi na toto téma.
@@ -436,6 +445,7 @@
     - jakub-hort
     - radek-svarz
   duration: 55
+  popularity: 0.4
   difficulty: beginner
   description: |
     Lidský mozek tu byl dřív než blockchain a je také decentralizovaný. Medicína, neurologie a výzkum Alzheimerovy nemoci jsou novým technologiím otevřené, ať již se jedná o virtuální realitu, AI, či propojení s blockchainem, které je na samém počátku. A my máme možnost nejen být u toho, ale dokonce našimi projekty toto propojení posouvat za hranice dosud v lékařské vědě a výzkumu nemyslitelné.
@@ -530,6 +540,7 @@
   track: dao
   speakers: [ michaela-malatin ]
   duration: 55
+  popularity: 0.5
   difficulty: advanced
   tags:
     - DAO
@@ -673,6 +684,7 @@
   speakers: [ hynek-jina ]
   duration: 55
   difficulty: beginner
+  popularity: 0.6
   tags:
     - Bitcoin
     - Lightning Network
@@ -793,6 +805,8 @@
     - Secret Network
     - Juno Network
     - Osmosis
+  description: |
+    Podíváme se na první doopravdy interoperabilní blockchain. Jak funguje cosmos of blockchains? Co se na něm dá dělat a jaké planety v tomhle vesmíru stojí za zastávku?
 
 - id: uvod-near
   type: talk
@@ -803,6 +817,8 @@
   difficulty: beginner
   tags:
     - NEAR
+  description: |
+    Někdo ho považuje za druhou vrstvu etherea, někdo za blockchain, který přišel s naprosto unikátním způsobem shardingu, revoluční peněženkou a sexy uživatelským rozhraním. Dokonce i jeho části umí být EVM kompatibilní. Co vlastně Near je?
 
 - id: fire-movement
   type: talk
@@ -940,6 +956,7 @@
   speakers: [ stepan-fau ]
   duration: 25
   difficulty: advanced
+  popularity: 0.6
   tags:
     - DeFi
     - yield farming

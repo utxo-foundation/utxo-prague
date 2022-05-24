@@ -76,3 +76,7 @@ properties:
       date:
         type: string
 
+  popularity:
+    type: number
+    minimum: 0
+    maximum: 1
