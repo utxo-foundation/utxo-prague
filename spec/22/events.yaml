@@ -693,7 +693,7 @@
 
 - id: eth2
   type: talk
-  name: The Merge (Eth2) [TBD]
+  name: The Merge (Eth2)
   track: eth
   speakers: [ mario-havel ]
   duration: 55
@@ -2197,7 +2197,7 @@
   type: campfire
   name: 'DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]'
   track: zaklady
-  speakers: [ petr-lukac, jakub-jedlinsky ]
+  speakers: [ jakub-jedlinsky, petr-lukac ]
   duration: 30
   difficulty: beginner
   tags:
@@ -2211,12 +2211,26 @@
   type: campfire
   name: 'DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]'
   track: btc
-  speakers: [ petr-lukac, dominik-stroukal ]
+  speakers: [ dominik-stroukal, petr-lukac ]
   duration: 30
   difficulty: beginner
   tags:
     - rozhovor
     - maximalismus
+  fixed:
+    stage: campfire-outdoor
+
+- id: kryptoinsider-sladkovsky
+  type: campfire
+  name: 'DegenTalk 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]'
+  track: regulace
+  speakers: [ jaromir-sladkovsky, petr-lukac ]
+  duration: 30
+  difficulty: beginner
+  tags:
+    - rozhovor
+    - institucionální investoři
+    - regulace
   fixed:
     stage: campfire-outdoor
 
