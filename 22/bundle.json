@@ -225,6 +225,7 @@
         "tracks": [
           "defi"
         ],
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -1920,6 +1921,7 @@
           "nft"
         ],
         "country": "cz",
+        "lead": true,
         "photos": [
           "twitter:jpg"
         ]
@@ -23024,5 +23026,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T19:52:14.116Z"
+  "time": "2022-05-24T19:56:35.371Z"
 }

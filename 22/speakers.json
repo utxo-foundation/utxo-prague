@@ -195,6 +195,7 @@
     "tracks": [
       "defi"
     ],
+    "lead": true,
     "photos": [
       "web:jpg",
       "twitter:jpg"
@@ -1890,6 +1891,7 @@
       "nft"
     ],
     "country": "cz",
+    "lead": true,
     "photos": [
       "twitter:jpg"
     ]
