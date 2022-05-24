@@ -5,6 +5,7 @@
 ### Přednášející
 
 * přidáno [David Rakušan](https://utxo.cz/lide?id=david-rakusan)
+* přidáno [GiSo](https://utxo.cz/lide?id=giso)
 * přidáno [Jakub Duhonský](https://utxo.cz/lide?id=jakub-duhonsky)
 * přidáno [Jan Roško](https://utxo.cz/lide?id=jan-rosko)
 * přidáno [Jaromír Sladkovský](https://utxo.cz/lide?id=jaromir-sladkovsky)
@@ -14,6 +15,7 @@
 ### Události
 
 * přidáno [Jak získat financování pro váš Web 3.0 projekt](https://utxo.cz/udalosti?id=jak-ziskat-financovani-pro-vas-web3-projekt)
+* přidáno [Ďáblův advokát - kryptopodvody a jiné problémy [TBD]](https://utxo.cz/udalosti?id=dabluv-advokat-kryptopodvody-a-jine-problemy)
 * přidáno [Jak se pojistit proti propadu Bitcoinu [TBD]](https://utxo.cz/udalosti?id=jan-se-pojistit-proti-propadu-bitcoinu)
 * přidáno [KryptoInsider - 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-sladkovsky)
 * přidáno [RBF Labs - Venture studio](https://utxo.cz/udalosti?id=rbf-labs-venture-studio)

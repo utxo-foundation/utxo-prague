@@ -413,6 +413,18 @@
     ]
   },
   {
+    "id": "giso",
+    "name": "GiSo",
+    "bio": "Člen KryptoVláďa komunity",
+    "country": "cz",
+    "tracks": [
+      "zaklady"
+    ],
+    "photos": [
+      "web:webp"
+    ]
+  },
+  {
     "id": "hana-kocourkova",
     "name": "Hana Kocourková",
     "twitter": "danehned",

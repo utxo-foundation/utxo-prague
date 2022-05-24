@@ -1987,6 +1987,10 @@
           "name": "David Rakušan"
         },
         {
+          "id": "giso",
+          "name": "GiSo"
+        },
+        {
           "id": "jakub-duhonsky",
           "name": "Jakub Duhonský"
         },
@@ -2013,6 +2017,10 @@
         {
           "id": "jak-ziskat-financovani-pro-vas-web3-projekt",
           "name": "Jak získat financování pro váš Web 3.0 projekt"
+        },
+        {
+          "id": "dabluv-advokat-kryptopodvody-a-jine-problemy",
+          "name": "Ďáblův advokát - kryptopodvody a jiné problémy [TBD]"
         },
         {
           "id": "jan-se-pojistit-proti-propadu-bitcoinu",
