@@ -9,7 +9,7 @@
 
 ### Události
 
-* přidáno [DegenTalk 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-sladkovsky)
+* přidáno [KryptoInsider - 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-sladkovsky)
 
 
 ## 23.5.2022

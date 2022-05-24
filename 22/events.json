@@ -2412,7 +2412,7 @@
   {
     "id": "kryptoinsider-jedlinsky",
     "type": "campfire",
-    "name": "DegenTalk 1. Jakub Jedlinský - ja přežít v bear marketu [TBD]",
+    "name": "KryptoInsider 1. - Jakub Jedlinský - ja přežít v bear marketu [TBD]",
     "track": "zaklady",
     "speakers": [
       "jakub-jedlinsky",
@@ -2427,12 +2427,13 @@
     ],
     "fixed": {
       "stage": "campfire-outdoor"
-    }
+    },
+    "description": "Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakup Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby \"medvěda\" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?\n"
   },
   {
     "id": "kryptoinsider-stroukal",
     "type": "campfire",
-    "name": "DegenTalk 2. Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]",
+    "name": "KryptoInsider 2. - Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]",
     "track": "btc",
     "speakers": [
       "dominik-stroukal",
@@ -2446,12 +2447,13 @@
     ],
     "fixed": {
       "stage": "campfire-outdoor"
-    }
+    },
+    "description": "Ekonom, anarchista, libertarián, člen NERV a .... bitcoinový maximalista. Dominik Stroukal o jeho cestě světem krypta i proč nakonec věří jen v jednoho krále.\n"
   },
   {
     "id": "kryptoinsider-sladkovsky",
     "type": "campfire",
-    "name": "DegenTalk 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]",
+    "name": "KryptoInsider - 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]",
     "track": "regulace",
     "speakers": [
       "jaromir-sladkovsky",
@@ -2466,7 +2468,8 @@
     ],
     "fixed": {
       "stage": "campfire-outdoor"
-    }
+    },
+    "description": "V bankovnictví pracuje přes dvacet let. A stejně si nakonec oblíbil kryptoměny. O tom, proč bankám nebo \"oldschool\" investorům jako Warren Buffet, Jamie Dimon či Carl Icahn bitcoin a další nevoní s Jaroslavem Sladkovským, šéfem Raiffeisen investiční společnosti\n"
   },
   {
     "id": "apus-finance-ama",
