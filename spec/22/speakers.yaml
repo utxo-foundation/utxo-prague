@@ -1148,6 +1148,7 @@
     url: https://www.lobkowicz.cz/en
   tracks: [ nft ]
   country: cz
+  lead: true
 
 - id: derek-alois-halsey
   name: Derek Alois Halsey
@@ -1198,6 +1199,7 @@
     CFA, Investment Manager @ [Rockaway Blockchain Fund](https://rbf.capital/)
   country: cz
   tracks: [ defi ]
+  lead: true
 
 - id: martin-vejmelka
   name: Martin Vejmelka
