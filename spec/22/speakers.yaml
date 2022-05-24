@@ -1193,7 +1193,8 @@
 
 - id: david-rakusan
   name: David Rakušan
-  twitter: DavidRakusan
+  web:
+    url: https://twitter.com/DavidRakusan
   orgs: |
     CFA, Investment Manager @ [Rockaway Blockchain Fund](https://rbf.capital/)
   country: cz
