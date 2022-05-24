@@ -1977,5 +1977,22 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-05-24",
+    "speakers": {
+      "added": [
+        {
+          "id": "jaromir-sladkovsky",
+          "name": "Jaromír Sladkovský"
+        },
+        {
+          "id": "lenka-stawarczyk",
+          "name": "Lenka Stawarczyk"
+        }
+      ]
+    },
+    "events": {},
+    "partners": {}
   }
 ]

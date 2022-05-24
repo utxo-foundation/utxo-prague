@@ -1,5 +1,13 @@
 # Changelog
 
+## 24.5.2022
+
+### Přednášející
+
+* přidáno [Jaromír Sladkovský](https://utxo.cz/lide?id=jaromir-sladkovsky)
+* přidáno [Lenka Stawarczyk](https://utxo.cz/lide?id=lenka-stawarczyk)
+
+
 ## 23.5.2022
 
 ### Přednášející

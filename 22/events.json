@@ -7,7 +7,8 @@
       "sona-parke",
       "stana-mutlova",
       "denisa-brichtova",
-      "jana-kubatova"
+      "jana-kubatova",
+      "lenka-stawarczyk"
     ],
     "track": "zaklady",
     "duration": 85,
@@ -769,7 +770,8 @@
       "The Merge",
       "Proof-of-Stake",
       "staking"
-    ]
+    ],
+    "description": "The Merge sa blíži a dni Proof of Work sú spočítané. Zanechanie PoW a prechod najväčšej decentralizovanej platformy na Proof of Stake už mnohé roky v komunite vyvoláva nadšenie, no aj obavy a neistotu. Táto výzva však prináša unikátny experiment pre vytvorenie najrobustnejšieho a najviac decentralizovaného riešenia pre zabezpečenie siete. Merge odomkne nekompromisnú efektivitú, nové možnosti škálovania a vyššie úrovne bezpečnosti. Príďte si vypočuť o aktuálnom stave, problémoch aj roadmape Etherea od výskumníka, ktorý sa na Merge priamo podieľa.\n"
   },
   {
     "id": "zaklady-a-historie-defi-protokolu",
@@ -1623,7 +1625,8 @@
       "Lightning Network",
       "platby",
       "hardware"
-    ]
+    ],
+    "description": "Bleskomat vznikol ako komunitný projekt v suteréne Paralelní Polis, no vyrástol na úspešný startup dodávajúci produkty po celom svete. Priekopnícky v svojom prístupe k Lightning Network, jednoduchému UX, offline móde a p2p modelu, Bleskomat je ideálna krabička pre onboardovanie do paralelnej ekonomiky. Príďte si vypočuť o tom ako funguje a priamo si ho skúsiť!\n"
   },
   {
     "id": "braiins",
@@ -1655,7 +1658,8 @@
       "Bitcoin",
       "Lightning Network",
       "sociální síťe"
-    ]
+    ],
+    "description": "Představa, že si čtete zprávy na Twitteru a bez námahy tím vyděláváte, zní možná až příliš snově. Česká mobilní aplikace [Tweetoshi](https://tweetoshi.com/) nicméně tuto myšlenku přetváří v realitu – a rovnou vás za aktivitu na jedné z nejoblíbenějších sociálních sítí platí v bitcoinech, které si můžete nechat, nebo je dále darovat vašim oblíbeným tvůrcům. Tým okolo Tweetoshi se skládá ze známých jmen jako je Matěj Švancer (aka KRYPTO Mates), Marek Palatinus (aka Slush) a nebo Alex Pilař.\n"
   },
   {
     "id": "baserank",
@@ -2467,6 +2471,7 @@
     "id": "utxo23",
     "name": "UTXO.22 → .23?!",
     "type": "campfire",
+    "track": "spolecnost",
     "speakers": [
       "tree",
       "tereza-starostova",
@@ -2477,7 +2482,7 @@
     "tags": [
       "komunity"
     ],
-    "description": "Zhodnocení konference, ještě před tím než skončí. Co se vám na naší konferenci líbilo a co naopak do příště musíme vylepšit? Bubude vůbec nějaké příště? Zkrátka - jaký by měl být další ročník podle vás? Pojďte si popovídat s organizátory konference. Během tohoto campfire bude (možná) šance zakoupit si limitovanou edici vstupenky na UTXO.23 s ultra slevou (ale psst!).\n",
+    "description": "Zhodnocení konference, ještě před tím než skončí. Co se vám na naší konferenci líbilo a co naopak do příště musíme vylepšit? Bude vůbec nějaké příště? Pojďte si popovídat s organizátory konference. Během tohoto campfire bude (možná) šance zakoupit si limitovanou edici vstupenky na UTXO.23 s ultra slevou (ale psst!).\n",
     "fixed": {
       "stage": "campfire-outdoor",
       "time": "2/18:00-18:30"
@@ -2517,9 +2522,7 @@
     "track": "other",
     "name": "Ukončení konference 🎉",
     "speakers": [
-      "tereza-starostova",
-      "tree",
-      "vojtch"
+      "tereza-starostova"
     ],
     "duration": 30,
     "fixed": {

@@ -281,6 +281,9 @@
         "web": {
           "url": "https://www.aloisperspektiv.com"
         },
+        "tracks": [
+          "nft"
+        ],
         "country": "us",
         "photos": [
           "twitter:jpg"
@@ -405,6 +408,9 @@
         "web": {
           "url": "https://www.ggcasimiro.com/"
         },
+        "tracks": [
+          "nft"
+        ],
         "country": "br",
         "photos": [
           "web:jpg",
@@ -693,6 +699,20 @@
         ]
       },
       {
+        "id": "jaromir-sladkovsky",
+        "name": "Jaromír Sladkovský",
+        "linkedin": "jaromir-sladkovsky-721b902",
+        "twitter": "JSladkovsky",
+        "orgs": "CEO @ [Raiffeisen Investiční společnost](https://rfis.cz)\n",
+        "tracks": [
+          "regulace"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "jaromir-tesar",
         "name": "Jaromír Tesař",
         "twitter": "JaromirTesar",
@@ -764,6 +784,12 @@
         "country": "cz",
         "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
         "lead": true,
+        "available": [
+          {
+            "from": "2022-06-05T08:00:00",
+            "to": "2022-06-05T23:59:59"
+          }
+        ],
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -911,6 +937,21 @@
         "country": "sk",
         "desc": "Lenka vedie projekty a iniciatívy v [Sustainable Ecosystem Scaling Core Unit](https://ses.makerdao.network/), tíme pracujúcom pre [MakerDAO](https://makerdao.com/). Predtím bola súčasťou MarComms teamu v Maker Foundation, kde budovala komunitu a mala na starosti eventy. Pred Makerom bola v crypto trading a platbonej platforme Coinify a mala nastarosti marketing a komunikáciu. Mimo to spolubuduje komunity okolo nezávislej kultúry, startupov, a krypta.\n",
         "lead": true,
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "lenka-stawarczyk",
+        "name": "Lenka Stawarczyk",
+        "twitter": "Holubina",
+        "bio": "Holka z marketingu",
+        "country": "cz",
+        "tracks": [
+          "spolecnost"
+        ],
+        "desc": "Jsem holka z marketingu, s desetiletou praxi v SaaS a B2B. Prolítla jsem startupy i korporacemi a aktuálně jsem hlavně freelance konzultantka marketingu a UX writingu. Řídila jsem tým produktových marketérů v LMC, pomohla dostat do světa whitleblowingovou platformu Nenech to být a spolupracovala s firmami jako Kentico, Vodafone, Storyous nebo Marks&Spencer. V kryptu pracuju od roku 2021, studuju SheFi (DeFi akademii pro ženy) a pořád se mám co učit. 💪 #wagmi\n",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -1962,7 +2003,8 @@
           "sona-parke",
           "stana-mutlova",
           "denisa-brichtova",
-          "jana-kubatova"
+          "jana-kubatova",
+          "lenka-stawarczyk"
         ],
         "track": "zaklady",
         "duration": 85,
@@ -2724,7 +2766,8 @@
           "The Merge",
           "Proof-of-Stake",
           "staking"
-        ]
+        ],
+        "description": "The Merge sa blíži a dni Proof of Work sú spočítané. Zanechanie PoW a prechod najväčšej decentralizovanej platformy na Proof of Stake už mnohé roky v komunite vyvoláva nadšenie, no aj obavy a neistotu. Táto výzva však prináša unikátny experiment pre vytvorenie najrobustnejšieho a najviac decentralizovaného riešenia pre zabezpečenie siete. Merge odomkne nekompromisnú efektivitú, nové možnosti škálovania a vyššie úrovne bezpečnosti. Príďte si vypočuť o aktuálnom stave, problémoch aj roadmape Etherea od výskumníka, ktorý sa na Merge priamo podieľa.\n"
       },
       {
         "id": "zaklady-a-historie-defi-protokolu",
@@ -3578,7 +3621,8 @@
           "Lightning Network",
           "platby",
           "hardware"
-        ]
+        ],
+        "description": "Bleskomat vznikol ako komunitný projekt v suteréne Paralelní Polis, no vyrástol na úspešný startup dodávajúci produkty po celom svete. Priekopnícky v svojom prístupe k Lightning Network, jednoduchému UX, offline móde a p2p modelu, Bleskomat je ideálna krabička pre onboardovanie do paralelnej ekonomiky. Príďte si vypočuť o tom ako funguje a priamo si ho skúsiť!\n"
       },
       {
         "id": "braiins",
@@ -3610,7 +3654,8 @@
           "Bitcoin",
           "Lightning Network",
           "sociální síťe"
-        ]
+        ],
+        "description": "Představa, že si čtete zprávy na Twitteru a bez námahy tím vyděláváte, zní možná až příliš snově. Česká mobilní aplikace [Tweetoshi](https://tweetoshi.com/) nicméně tuto myšlenku přetváří v realitu – a rovnou vás za aktivitu na jedné z nejoblíbenějších sociálních sítí platí v bitcoinech, které si můžete nechat, nebo je dále darovat vašim oblíbeným tvůrcům. Tým okolo Tweetoshi se skládá ze známých jmen jako je Matěj Švancer (aka KRYPTO Mates), Marek Palatinus (aka Slush) a nebo Alex Pilař.\n"
       },
       {
         "id": "baserank",
@@ -4422,6 +4467,7 @@
         "id": "utxo23",
         "name": "UTXO.22 → .23?!",
         "type": "campfire",
+        "track": "spolecnost",
         "speakers": [
           "tree",
           "tereza-starostova",
@@ -4432,7 +4478,7 @@
         "tags": [
           "komunity"
         ],
-        "description": "Zhodnocení konference, ještě před tím než skončí. Co se vám na naší konferenci líbilo a co naopak do příště musíme vylepšit? Bubude vůbec nějaké příště? Zkrátka - jaký by měl být další ročník podle vás? Pojďte si popovídat s organizátory konference. Během tohoto campfire bude (možná) šance zakoupit si limitovanou edici vstupenky na UTXO.23 s ultra slevou (ale psst!).\n",
+        "description": "Zhodnocení konference, ještě před tím než skončí. Co se vám na naší konferenci líbilo a co naopak do příště musíme vylepšit? Bude vůbec nějaké příště? Pojďte si popovídat s organizátory konference. Během tohoto campfire bude (možná) šance zakoupit si limitovanou edici vstupenky na UTXO.23 s ultra slevou (ale psst!).\n",
         "fixed": {
           "stage": "campfire-outdoor",
           "time": "2/18:00-18:30"
@@ -4472,9 +4518,7 @@
         "track": "other",
         "name": "Ukončení konference 🎉",
         "speakers": [
-          "tereza-starostova",
-          "tree",
-          "vojtch"
+          "tereza-starostova"
         ],
         "duration": 30,
         "fixed": {
@@ -4508,6 +4552,10 @@
           "panel",
           "lightning-series"
         ],
+        "capacity": {
+          "seat": 325,
+          "stand": 200
+        },
         "times": [
           "1/09:00-14:00",
           "1/14:30-19:00",
@@ -4523,6 +4571,10 @@
           "panel",
           "lightning-series"
         ],
+        "capacity": {
+          "seat": 130,
+          "stand": 75
+        },
         "times": [
           "1/09:30-13:00",
           "1/13:30-19:30",
@@ -4537,6 +4589,10 @@
           "talk",
           "lightning-series"
         ],
+        "capacity": {
+          "seat": 130,
+          "stand": 75
+        },
         "times": [
           "1/09:30-13:00",
           "1/13:30-19:30",
@@ -4546,10 +4602,14 @@
       },
       {
         "id": "exit-room",
-        "name": "Východová místnost",
+        "name": "Exit room",
         "types": [
           "talk"
         ],
+        "capacity": {
+          "seat": 80,
+          "stand": 30
+        },
         "times": [
           "1/09:30-13:30",
           "1/14:00-19:30",
@@ -4563,6 +4623,10 @@
         "types": [
           "workshop"
         ],
+        "capacity": {
+          "seat": 40,
+          "stand": 20
+        },
         "times": [
           "1/09:30-13:30",
           "1/14:00-19:30",
@@ -4572,10 +4636,14 @@
       },
       {
         "id": "white-workshop-room",
-        "name": "Bílá workshop místnost",
+        "name": "Table room",
         "types": [
           "workshop"
         ],
+        "capacity": {
+          "seat": 30,
+          "stand": 15
+        },
         "times": [
           "1/09:30-13:30",
           "1/14:00-19:30",
@@ -4585,10 +4653,14 @@
       },
       {
         "id": "campfire-outdoor",
-        "name": "Campfire (venku)",
+        "name": "🔥 Campfire (venku)",
         "types": [
           "campfire"
         ],
+        "capacity": {
+          "seat": 40,
+          "stand": 200
+        },
         "times": [
           "1/09:30-12:00",
           "1/12:30-20:00",
@@ -4598,10 +4670,14 @@
       },
       {
         "id": "campfire-indoor",
-        "name": "Campfire (uvnitř)",
+        "name": "🔥 Campfire (uvnitř)",
         "types": [
           "campfire"
         ],
+        "capacity": {
+          "seat": 20,
+          "stand": 100
+        },
         "times": [
           "1/09:30-12:00",
           "1/12:30-19:00",
@@ -4610,11 +4686,30 @@
         ]
       },
       {
+        "id": "nft-chillout",
+        "name": "NFT chillout",
+        "types": [
+          "nft-event"
+        ],
+        "capacity": {
+          "seat": 30,
+          "stand": 75
+        },
+        "times": [
+          "1/09:30-20:00",
+          "2/10:00-18:00"
+        ]
+      },
+      {
         "id": "pitevna",
         "name": "Pitevna",
         "types": [
           "other"
         ],
+        "capacity": {
+          "seat": 0,
+          "stand": 150
+        },
         "times": [
           "1/16:00-23:59"
         ]
@@ -22375,16 +22470,16 @@
   },
   "stats": {
     "counts": {
-      "speakers": 107,
+      "speakers": 109,
       "tracks": 10,
       "event-types": 7,
       "events": 149,
-      "stages": 9,
+      "stages": 10,
       "faqs": 6,
       "partners": 31,
       "projects": 72,
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-23T23:46:48.583Z"
+  "time": "2022-05-24T14:47:23.829Z"
 }
