@@ -5457,6 +5457,19 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "zaujalo-ma",
+        "name": "Zaujalo ma",
+        "type": "medium",
+        "twitter": "ZaujaloMa",
+        "desc": "Youtube kanál",
+        "web": {
+          "url": "https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg"
+        },
+        "photos": [
+          "twitter:jpg"
+        ]
       }
     ],
     "projects": [
@@ -25050,10 +25063,10 @@
       "events": 156,
       "stages": 10,
       "faqs": 6,
-      "partners": 31,
+      "partners": 32,
       "projects": 72,
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T23:26:20.466Z"
+  "time": "2022-05-24T23:44:45.085Z"
 }

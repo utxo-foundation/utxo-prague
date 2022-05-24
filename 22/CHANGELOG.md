@@ -24,6 +24,10 @@
 * přidáno [Algoritmické stablecoiny: budoucnost nebo riziko?](https://utxo.cz/udalosti?id=algoritmicke-stablecoiny-budoucnost-nebo-riziko)
 * přidáno [Bitcoin Mindset [TBD]](https://utxo.cz/udalosti?id=bitcoin-mindset-session)
 
+### Partneři
+
+* přidáno [Zaujalo ma](https://utxo.cz/#partneri?id=zaujalo-ma)
+
 
 ## 23.5.2022
 

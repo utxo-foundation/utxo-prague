@@ -360,5 +360,18 @@
     "photos": [
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "zaujalo-ma",
+    "name": "Zaujalo ma",
+    "type": "medium",
+    "twitter": "ZaujaloMa",
+    "desc": "Youtube kanál",
+    "web": {
+      "url": "https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg"
+    },
+    "photos": [
+      "twitter:jpg"
+    ]
   }
 ]

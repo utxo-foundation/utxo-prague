@@ -2052,6 +2052,13 @@
         }
       ]
     },
-    "partners": {}
+    "partners": {
+      "added": [
+        {
+          "id": "zaujalo-ma",
+          "name": "Zaujalo ma"
+        }
+      ]
+    }
   }
 ]
