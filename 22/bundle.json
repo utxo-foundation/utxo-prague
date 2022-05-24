@@ -4834,6 +4834,8 @@
         "track": "other",
         "name": "UTXO.Party - Elektronická stage",
         "speakers": [
+          "eddie-mur",
+          "sam-gittis",
           "dmitry"
         ],
         "duration": 360,
@@ -25052,5 +25054,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T23:25:06.430Z"
+  "time": "2022-05-24T23:25:51.829Z"
 }
