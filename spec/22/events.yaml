@@ -1509,6 +1509,8 @@
     - Ethereum
     - DeFi
     - NFT
+  description: |
+    Degens lending to degens. PWN je DeFi lending marketplace kde muzete ziskavat uvery & generovat yield za pouziti jakehokoliv DeFi tokenu, vcetne NFTs.
 
 - id: chainkeepers
   type: lightning
