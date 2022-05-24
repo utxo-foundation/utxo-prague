@@ -3467,7 +3467,8 @@
         ],
         "tags": [
           "NEAR"
-        ]
+        ],
+        "description": "Navážeme na přednášku o úvodu do Near ekosystému, založíme si vlastní peněženku a podíváme se na ty z nejzajímavějších projektů, které na tomto ekosystému běží\n"
       },
       {
         "id": "bitcoin-tezba",
@@ -23477,5 +23478,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T21:30:18.631Z"
+  "time": "2022-05-24T21:34:58.199Z"
 }
