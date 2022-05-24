@@ -415,13 +415,16 @@
   {
     "id": "giso",
     "name": "GiSo",
-    "bio": "Člen KryptoVláďa komunity",
+    "twitter": "GisoCZ",
+    "bio": "Státní správa",
+    "orgs": "Člen [KryptoVláďa komunity](https://www.kryptovlada.win/)",
     "country": "cz",
     "tracks": [
       "zaklady"
     ],
     "photos": [
-      "web:webp"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {

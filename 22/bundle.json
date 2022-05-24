@@ -445,13 +445,16 @@
       {
         "id": "giso",
         "name": "GiSo",
-        "bio": "Člen KryptoVláďa komunity",
+        "twitter": "GisoCZ",
+        "bio": "Státní správa",
+        "orgs": "Člen [KryptoVláďa komunity](https://www.kryptovlada.win/)",
         "country": "cz",
         "tracks": [
           "zaklady"
         ],
         "photos": [
-          "web:webp"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -8531,5 +8534,5 @@
       "schedule-candidates": 1
     }
   },
-  "time": "2022-05-24T22:49:10.065Z"
+  "time": "2022-05-24T22:59:06.362Z"
 }
