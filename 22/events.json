@@ -22,7 +22,7 @@
   {
     "id": "btc-vs-altcoiny",
     "type": "panel",
-    "name": "Bitcoin vs smart-contract platformy [TBD]",
+    "name": "Bitcoin vs. altcoiny [TBD]",
     "speakers": [
       "libor-flossler",
       "josef-tetek",
@@ -33,7 +33,8 @@
     "track": "btc",
     "tags": [
       "Bitcoin",
-      "Ethereum",
+      "Lightning Network",
+      "altcoiny",
       "DeFi",
       "finanční svoboda"
     ],
