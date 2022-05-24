@@ -381,6 +381,9 @@
       
     V sočasnosti organizuje [ETHPrague](https://ethprague.com/), které se uskuteční 10.-12. června 2022.
   lead: true
+  available:
+    - from: '2022-06-04T08:00:00'
+      to: '2022-06-04T14:00:00'
 
 - id: jakub-kralovansky
   name: Jakub Kraľovanský
@@ -1187,3 +1190,12 @@
   tracks: [ spolecnost ]
   desc: |
     Jsem holka z marketingu, s desetiletou praxi v SaaS a B2B. Prolítla jsem startupy i korporacemi a aktuálně jsem hlavně freelance konzultantka marketingu a UX writingu. Řídila jsem tým produktových marketérů v LMC, pomohla dostat do světa whitleblowingovou platformu Nenech to být a spolupracovala s firmami jako Kentico, Vodafone, Storyous nebo Marks&Spencer. V kryptu pracuju od roku 2021, studuju SheFi (DeFi akademii pro ženy) a pořád se mám co učit. 💪 #wagmi
+
+- id: david-rakusan
+  name: David Rakušan
+  twitter: DavidRakusan
+  orgs: |
+    CFA, Investment Manager @ [Rockaway Blockchain Fund](https://rbf.capital/)
+  country: cz
+  tracks: [ defi ]
+
