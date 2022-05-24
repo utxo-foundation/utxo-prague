@@ -85,7 +85,7 @@
   tags:
     - NFT
     - umění
-    - english content
+    - english
   description: |
     Welcome to a talk by a professional passionate about Heritage, Curation, and Open Source Art. We are building the roadblocks of preserved cultural wisdom to unknown future chaos. Great times are about to come. Yes, it will be a journey for artists, countries, or world citizens. The panel talk promises insights into perspectives of the new.
 
@@ -2052,7 +2052,7 @@
     - NFT
     - gaming
     - scamy
-    - english content
+    - english
 
 - id: krypto-v-podnikani-campfire
   type: campfire
@@ -2247,7 +2247,7 @@
     - radek-svarz
     - petr-klein
     - m0xt
-  duration: 30
+  duration: 60
   difficulty: advanced
   tags:
     - DeFi
