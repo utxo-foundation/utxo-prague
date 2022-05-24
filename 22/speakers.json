@@ -187,6 +187,20 @@
     ]
   },
   {
+    "id": "david-rakusan",
+    "name": "David Rakušan",
+    "twitter": "DavidRakusan",
+    "orgs": "CFA, Investment Manager @ [Rockaway Blockchain Fund](https://rbf.capital/)\n",
+    "country": "cz",
+    "tracks": [
+      "defi"
+    ],
+    "photos": [
+      "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "david-stancel",
     "name": "David Stancel",
     "twitter": "dave_stancel",
@@ -796,6 +810,12 @@
     "country": "cz",
     "desc": "V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky. \n  \nV sočasnosti organizuje [ETHPrague](https://ethprague.com/), které se uskuteční 10.-12. června 2022.\n",
     "lead": true,
+    "available": [
+      {
+        "from": "2022-06-04T08:00:00",
+        "to": "2022-06-04T14:00:00"
+      }
+    ],
     "photos": [
       "twitter:jpg"
     ]

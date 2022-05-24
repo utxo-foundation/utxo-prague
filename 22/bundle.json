@@ -217,6 +217,20 @@
         ]
       },
       {
+        "id": "david-rakusan",
+        "name": "David Rakušan",
+        "twitter": "DavidRakusan",
+        "orgs": "CFA, Investment Manager @ [Rockaway Blockchain Fund](https://rbf.capital/)\n",
+        "country": "cz",
+        "tracks": [
+          "defi"
+        ],
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "david-stancel",
         "name": "David Stancel",
         "twitter": "dave_stancel",
@@ -826,6 +840,12 @@
         "country": "cz",
         "desc": "V krypto letech je Josef starý a moudrý jako Metuzalém. Začínal jako dobrovolník a komunitní organizátor. Přes DeFi projekty a hackathony se propracoval až k založení [PWN.finance](https://pwn.finance/): DeFi platformy na peer-to-peer půjčky. \n  \nV sočasnosti organizuje [ETHPrague](https://ethprague.com/), které se uskuteční 10.-12. června 2022.\n",
         "lead": true,
+        "available": [
+          {
+            "from": "2022-06-04T08:00:00",
+            "to": "2022-06-04T14:00:00"
+          }
+        ],
         "photos": [
           "twitter:jpg"
         ]
@@ -3120,6 +3140,23 @@
         "description": "RBF Staking je součást Rockaway Blockchain Fondu, která provozuje uzly pro L1 blockchainy v ekosystémech Solana, Cosmos, EVM based a dalších. Na přednášce si porovnáme tyto blockchainy z pohledu architektury a poté z pohledu provozu (bezpečnost, HW/network nároky).\n\nhttps://rbf.capital/staking/\n"
       },
       {
+        "id": "jak-ziskat-financovani-pro-vas-web3-projekt",
+        "type": "talk",
+        "name": "Jak získat financování pro váš Web 3.0 projekt",
+        "track": "defi",
+        "speakers": [
+          "david-rakusan"
+        ],
+        "duration": 25,
+        "difficulty": "expert",
+        "tags": [
+          "DeFi",
+          "financování",
+          "VC"
+        ],
+        "description": "Pro každý projekt je velmi důležité jeho financování. Během přednášky se dozvíte, co je nutné pro získání financování od nejlepších VC fondů zaměřených na Web 3. David Rakušan, který je investičním manažerem jednoho z největších fondů zaměřených na blockchain a Web 3 v Evropě odkryje mýty a poukáže na ty nejpodstatnější věci při získávání financování.\n"
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "lightning-series",
         "name": "Lokální krypto komunity",
@@ -3681,14 +3718,17 @@
         "type": "lightning",
         "name": "PWN Finance",
         "track": "defi",
-        "speakers": [],
+        "speakers": [
+          "stepan-fau"
+        ],
         "duration": 10,
         "parent": "lokalni-defi-intro",
         "tags": [
           "Ethereum",
           "DeFi",
           "NFT"
-        ]
+        ],
+        "description": "Degens lending to degens. PWN je DeFi lending marketplace kde muzete ziskavat uvery & generovat yield za pouziti jakehokoliv DeFi tokenu, vcetne NFTs.\n"
       },
       {
         "id": "chainkeepers",
@@ -22626,10 +22666,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 109,
+      "speakers": 110,
       "tracks": 10,
       "event-types": 7,
-      "events": 150,
+      "events": 151,
       "stages": 10,
       "faqs": 6,
       "partners": 31,
@@ -22637,5 +22677,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-24T16:38:26.486Z"
+  "time": "2022-05-24T17:02:59.336Z"
 }
