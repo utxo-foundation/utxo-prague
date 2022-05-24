@@ -1987,6 +1987,10 @@
           "name": "David Rakušan"
         },
         {
+          "id": "jakub-duhonsky",
+          "name": "Jakub Duhonský"
+        },
+        {
           "id": "jaromir-sladkovsky",
           "name": "Jaromír Sladkovský"
         },
@@ -2013,6 +2017,14 @@
         {
           "id": "rbf-labs-venture-studio",
           "name": "RBF Labs - Venture studio"
+        },
+        {
+          "id": "algoritmicke-stablecoiny-budoucnost-nebo-riziko",
+          "name": "Algoritmické stablecoiny: budoucnost nebo riziko?"
+        },
+        {
+          "id": "bitcoin-mindset-session",
+          "name": "Bitcoin Mindset [TBD]"
         }
       ]
     },
