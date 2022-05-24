@@ -2465,7 +2465,11 @@
   type: other
   track: other
   name: UTXO.Party - Elektronická stage
-  speakers: [ dmitry ]
+  speakers:
+    - eddie-mur
+    - sam-gittis
+    - dmitry
+
   duration: 360
   fixed:
     time: '1/20:00-23:59'
