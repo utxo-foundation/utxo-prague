@@ -1910,9 +1910,9 @@
 
 - id: sollarion
   type: lightning
-  name: Sollarion [TBD]
+  name: Sollarion
   track: nft
-  speakers: []
+  speakers: [ ladislav-prekop ]
   duration: 10
   parent: lokalni-nft-intro
   tags:
