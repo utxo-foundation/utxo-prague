@@ -404,7 +404,7 @@
 
 - id: somnium-space-talk
   type: talk
-  name: Somnium Space - představení a demo [TBD]
+  name: Somnium Space - představení a demo
   track: nft
   speakers: [ artur-sychov ]
   duration: 25
@@ -416,6 +416,8 @@
     - NFT
     - VR
   popularity: 1
+  description: |
+    Jaká bude budoucnost immersive Metaverzu? Proč je to víc než jen hype? Jaký má vliz blockchain na budoucnost Metaverzu a proč NFTs v něm hrají velkou roli? Pojďme nahlédnout do Somnium Space Metaversu a prozkoumáme živé ty nejnovější trendy a technologické možnosti.
 
 - id: gaming-v-rozvojovych-zemich
   type: talk
@@ -2128,7 +2130,7 @@
 
 - id: holky-v-kryptu-campfire
   type: campfire
-  name: Opékání marshmallow s Holky v Kryptu (HvK) 
+  name: Potkej Holkyvkryptu
   track: zaklady
   speakers:
     - tereza-starostova
@@ -2278,7 +2280,7 @@
   duration: 30
   fixed:
     stage: campfire-indoor
-    time: '1/21:30-22:00'
+    time: '1/22:00-22:30'
   difficulty: beginner
   tags:
     - video
@@ -2753,7 +2755,7 @@
 - id: party-electronic-stage
   type: other
   track: other
-  name: UTXO.Party - Elektronická stage
+  name: Electronic stage - Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)
   speakers:
     - eddie-mur
     - sam-gittis
@@ -2763,7 +2765,8 @@
   fixed:
     time: '1/20:00-23:59'
     stage: pitevna
-  tags: []
+  tags:
+    - music
   description: |
     Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)
 
@@ -2789,16 +2792,54 @@
 
     [dmit-ry @ SoundCloud](https://soundcloud.com/dmit-ry)
 
-- id: party-rajska-zahrada
+- id: zahajeni-party
   type: other
   track: other
-  name: UTXO.Party - Hlavní stage [TBD]
-  speakers: []
-  duration: 120
+  name: Uvedení večera, ohlášení začátku tomboly [TBD]
+  speakers: [ tereza-starostova ]
+  duration: 20
   fixed:
-    time: '1/20:00-22:00'
+    time: '1/20:00-20:30'
     stage: rajska-zahrada
   tags: []
+
+- id: coinstory-krest
+  type: other
+  track: other
+  name: Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]
+  speakers: [ david-stancel ]
+  duration: 50
+  fixed:
+    time: '1/20:30-21:30'
+    stage: rajska-zahrada
+  tags:
+    - křest
+    - budoucnost
+    - diskuze
+
+- id: tombola-losovani
+  type: other
+  track: other
+  name: Losování hlavních cen tomboly
+  speakers: [ tereza-starostova ]
+  duration: 20
+  fixed:
+    time: '1/21:30-22:00'
+    stage: rajska-zahrada
+  tags:
+    - tombola
+
+- id: rajska-zahrada-djs
+  type: other
+  track: other
+  name: DJ Pat Heart (TBD)
+  speakers: []
+  duration: 110
+  fixed:
+    time: '1/22:00-23:59'
+    stage: rajska-zahrada
+  tags:
+    - music
 
 - id: closing-ceremony
   type: other
@@ -2821,3 +2862,43 @@
     time: '1/09:00-09:30'
     stage: rajska-zahrada
   tags: []
+
+- id: violoncello-duo-concert
+  type: other
+  track: other
+  name: Keishiro Mikawa + TBD - Violoncello duo concert
+  speakers: []
+  duration: 80
+  fixed:
+    time: '1/20:30-22:00'
+    stage: lustrovy-sal
+  tags:
+    - music
+  description: |
+     Violoncello duo concert (mix vážné a pop music)
+
+- id: party-lustrovy-sal
+  type: other
+  track: other
+  name: Reprodukovaná hudba
+  speakers: []
+  duration: 110
+  fixed:
+    time: '1/22:00-23:59'
+    stage: lustrovy-sal
+  tags:
+    - music
+
+- id: party-campfire-indoor-chiptune
+  type: other
+  track: other
+  name: Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]
+  speakers: []
+  duration: 140
+  fixed:
+    time: '1/19:30-22:00'
+    stage: campfire-indoor
+  tags:
+    - music
+
+
