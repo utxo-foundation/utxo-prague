@@ -4,6 +4,7 @@
 
 ### Přednášející
 
+* přidáno [Jan Zibner](https://utxo.cz/lide?id=jan-zibner)
 * přidáno [Marianna Sádecká](https://utxo.cz/lide?id=marianna-sadecka)
 
 ### Události
@@ -15,6 +16,7 @@
 * přidáno [Setkání The Divergents NFT komunity](https://utxo.cz/udalosti?id=setkani-divergents-komunity)
 * přidáno [Crypto-weddings-rituals](https://utxo.cz/udalosti?id=crypto-weddings-rituals)
 * přidáno [CryptoByte 2022 - konference DIY](https://utxo.cz/udalosti?id=cryptobyte-konference-diy)
+* přidáno [NFTs jako (ne)dostupná příležitost? (Artiffine)](https://utxo.cz/udalosti?id=nfts-jako-ne-dostupna-prilezitost)
 
 ### Události
 

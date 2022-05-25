@@ -2066,6 +2066,10 @@
     "speakers": {
       "added": [
         {
+          "id": "jan-zibner",
+          "name": "Jan Zibner"
+        },
+        {
           "id": "marianna-sadecka",
           "name": "Marianna Sádecká"
         }
@@ -2100,6 +2104,10 @@
         {
           "id": "cryptobyte-konference-diy",
           "name": "CryptoByte 2022 - konference DIY"
+        },
+        {
+          "id": "nfts-jako-ne-dostupna-prilezitost",
+          "name": "NFTs jako (ne)dostupná příležitost? (Artiffine)"
         }
       ],
       "removed": [

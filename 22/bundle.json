@@ -756,6 +756,13 @@
         ]
       },
       {
+        "id": "jan-zibner",
+        "name": "Jan Zibner",
+        "orgs": "[Artiffine](https://www.artiffine.com/)\n",
+        "country": "cz",
+        "photos": []
+      },
+      {
         "id": "jana-galvis",
         "name": "Jana Galvis",
         "twitter": "Jana_Pribylova",
@@ -5037,6 +5044,25 @@
         }
       },
       {
+        "id": "nfts-jako-ne-dostupna-prilezitost",
+        "name": "NFTs jako (ne)dostupná příležitost? (Artiffine)",
+        "type": "campfire",
+        "track": "nft",
+        "speakers": [
+          "jan-zibner"
+        ],
+        "duration": 30,
+        "tags": [
+          "NFT",
+          "UX",
+          "minting"
+        ],
+        "description": "NFTs navzdory obecnému přesvědčení nejsou jen obrázky a nejsou jen pro kryptonadšence. NFTs jsou fenoménem dnešní doby nabízející široké možnosti. Bohužel složitostí spojených s jejich tvorbou či pořízením je stále dost. V [Artiffine](https://www.artiffine.com/) proto budujeme nástroje jak pro běžné uživatele, tak pro velké projekty, které tvorbu a pořízení NFTs zjednoduší a zpřístupní tento svět široké veřejnosti. Spolu s tím dáváme NFT projektům smysl a přidanou hodnotu, stejně jako řešíme všechny s tím související otázky, od projektové fáze až po právní souvislosti.\n\n[English] NFTs as an (un)available opportunity? - NFTs are not just pictures and they are not just for kryptogeeks. NFTs are a phenomenon of these days offering a wide range of possibilities. Unfortunately, there is still too much complexity associated with their creation or acquisition. At Artiffine, we build tools for both regular users and enterprises that will simplify the creation and acquisition of NFTs and make this whole world accessible to the public. At the same time, we give NFT projects meaning and added value, as well as we are addressing all the related issues, from the project phase to the legal aspects.\n",
+        "fixed": {
+          "date": "2022-06-04"
+        }
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
@@ -5224,7 +5250,7 @@
         },
         "times": [
           "1/09:30-12:00",
-          "1/12:30-20:00",
+          "1/12:30-17:00",
           "2/10:00-12:00",
           "2/12:30-18:30"
         ]
@@ -25277,10 +25303,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 117,
+      "speakers": 118,
       "tracks": 10,
       "event-types": 7,
-      "events": 161,
+      "events": 162,
       "stages": 10,
       "faqs": 6,
       "partners": 33,
@@ -25288,5 +25314,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T15:10:35.392Z"
+  "time": "2022-05-25T16:13:19.273Z"
 }
