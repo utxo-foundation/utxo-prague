@@ -2894,13 +2894,16 @@
 - id: party-campfire-indoor-chiptune
   type: other
   track: other
-  name: Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]
-  speakers: []
+  name: Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]
+  speakers:
+    - tree
   duration: 140
   fixed:
     time: '1/19:30-22:00'
     stage: campfire-indoor
   tags:
     - music
+  description: |
+    Pojďte popít a potancovat na prapodivnou diskotéku v rytmu osmibitů s Gwei.cz komunitou. 👾🎵🤘
 
 
