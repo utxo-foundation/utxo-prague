@@ -245,8 +245,13 @@ class UTXOPlanner {
   iterate() {
     let priorityEvents = this.events.filter((e) => e.priority > 0);
     if (priorityEvents.length === 0) {
-      priorityEvents = this.events.filter((e) => e.type !== "campfire");
+      priorityEvents = this.events.filter((e) =>
+        !["workshop", "campfire"].includes(e.type)
+      );
     }
+    /*if (priorityEvents.length === 0) {
+      priorityEvents = this.events.filter((e) => e.type !== "campfire");
+    }*/
     const events = priorityEvents.length > 0 ? priorityEvents : this.events;
     //const events = this.events
 
@@ -280,6 +285,14 @@ class UTXOPlanner {
         return null;
       }
       stages = availStages.filter((s) => s.id === ev.fixed.stage);
+    }
+
+    if (ev.fixed && ev.fixed.stages) {
+      stages = availStages.filter((s) => ev.fixed.stages.includes(s.id));
+    }
+
+    if (stages.length === 0) {
+      return null;
     }
 
     const [stage, slot] = this.findSlotInStages(

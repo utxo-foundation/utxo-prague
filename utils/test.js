@@ -122,5 +122,24 @@ for (const entryId of utxo.entriesList()) {
         }
       });
     }
+    if (["events"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[fixed-stages]`, () => {
+        const stages = entry.specs.stages.map((s) => s.id);
+        for (const item of entry.specs[specId]) {
+          if (item.fixed && item.fixed.stage) {
+            if (!stages.includes(item.fixed.stage)) {
+              throw new Error(`Stage not exists: ${item.fixed.stage}`);
+            }
+          }
+          if (item.fixed && item.fixed.stages) {
+            for (const st of item.fixed.stages) {
+              if (!stages.includes(st)) {
+                throw new Error(`Stage not exists: ${st}`);
+              }
+            }
+          }
+        }
+      });
+    }
   }
 }

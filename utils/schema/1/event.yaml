@@ -73,6 +73,10 @@ properties:
         type: string
       stage:
         type: string
+      stages:
+        type: array
+        items:
+          type: string
       date:
         type: string
 
