@@ -1545,6 +1545,8 @@
   description: |
     Chcete mít jistotu, že vám v bitcoinové síti nikdo nelže? Jedině vlastním ověřením celého blockchainu dosáhnete stoprocentní jistoty. Don’t trust, verify. Malé zařízení rozměrů smartphonu nebo starý notebook Vám tuto službu zajistí. Od jednoduchých řešení až po ty složitější.
 
+    Výhodou bude, pokud znáte Linux a základní příkazy.
+
 - id: liberalismus-a-svoboda
   type: workshop
   name: Liberalismus a svoboda
