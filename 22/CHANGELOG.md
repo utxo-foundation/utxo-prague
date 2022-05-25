@@ -27,12 +27,20 @@
 * přidáno [Daně a krypto - Q&A](https://utxo.cz/udalosti?id=dane-a-krypto-qa)
 * přidáno [Pokec o Blockchain gamingu, NFTs a Metaversu (KryptoHerna)](https://utxo.cz/udalosti?id=pokec-o-blockchain-gamingu)
 * přidáno [DCA automaticky na Štosuj.cz](https://utxo.cz/udalosti?id=stosuj-campfire)
+* přidáno [Uvedení večera, ohlášení začátku tomboly [TBD]](https://utxo.cz/udalosti?id=zahajeni-party)
+* přidáno [Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]](https://utxo.cz/udalosti?id=coinstory-krest)
+* přidáno [Losování hlavních cen tomboly](https://utxo.cz/udalosti?id=tombola-losovani)
+* přidáno [DJ Pat Heart (TBD)](https://utxo.cz/udalosti?id=rajska-zahrada-djs)
+* přidáno [Keishiro Mikawa + TBD - Violoncello duo concert](https://utxo.cz/udalosti?id=violoncello-duo-concert)
+* přidáno [Reprodukovaná hudba](https://utxo.cz/udalosti?id=party-lustrovy-sal)
+* přidáno [Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]](https://utxo.cz/udalosti?id=party-campfire-indoor-chiptune)
 
 ### Události
 
 * odebráno [Token = energie, Likvidita = život [TBD]](https://utxo.cz/udalosti?id=token-energie-likvidita-zivot)
 * odebráno [Future of DeFi](https://utxo.cz/udalosti?id=future-of-defi)
 * odebráno [Gwei.cz](https://utxo.cz/udalosti?id=gwei-cz)
+* odebráno [UTXO.Party - Hlavní stage [TBD]](https://utxo.cz/udalosti?id=party-rajska-zahrada)
 
 ### Partneři
 

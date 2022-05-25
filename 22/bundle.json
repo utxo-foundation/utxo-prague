@@ -8,7 +8,7 @@
     "2022-06-05"
   ],
   "scheduleTimes": [
-    "1/09:00-22:00",
+    "1/09:00-23:30",
     "2/10:00-19:00"
   ],
   "place": "Gabriel Loci, Praha",
@@ -2598,7 +2598,7 @@
       {
         "id": "somnium-space-talk",
         "type": "talk",
-        "name": "Somnium Space - představení a demo [TBD]",
+        "name": "Somnium Space - představení a demo",
         "track": "nft",
         "speakers": [
           "artur-sychov"
@@ -2613,7 +2613,8 @@
           "NFT",
           "VR"
         ],
-        "popularity": 1
+        "popularity": 1,
+        "description": "Jaká bude budoucnost immersive Metaverzu? Proč je to víc než jen hype? Jaký má vliz blockchain na budoucnost Metaverzu a proč NFTs v něm hrají velkou roli? Pojďme nahlédnout do Somnium Space Metaversu a prozkoumáme živé ty nejnovější trendy a technologické možnosti.\n"
       },
       {
         "id": "gaming-v-rozvojovych-zemich",
@@ -4471,7 +4472,7 @@
       {
         "id": "holky-v-kryptu-campfire",
         "type": "campfire",
-        "name": "Opékání marshmallow s Holky v Kryptu (HvK)",
+        "name": "Potkej Holkyvkryptu",
         "track": "zaklady",
         "speakers": [
           "tereza-starostova",
@@ -4641,7 +4642,7 @@
         "duration": 30,
         "fixed": {
           "stage": "campfire-indoor",
-          "time": "1/21:30-22:00"
+          "time": "1/22:00-22:30"
         },
         "difficulty": "beginner",
         "tags": [
@@ -5178,7 +5179,7 @@
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
-        "name": "UTXO.Party - Elektronická stage",
+        "name": "Electronic stage - Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)",
         "speakers": [
           "eddie-mur",
           "sam-gittis",
@@ -5189,21 +5190,76 @@
           "time": "1/20:00-23:59",
           "stage": "pitevna"
         },
-        "tags": [],
+        "tags": [
+          "music"
+        ],
         "description": "Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)\n\n## Eddie Mur (KZ)\nNarodil se v Kazachstánu, ale domovem je pro něj Praha. Jeho otec ho seznámil s dýdžejskou technikou a vzbudil v něm lásku k hudbě obecně. Eddie se 20 let přibližoval a zkoumal různé druhy hudebních žánrů z celé škály až do nedávné doby, kdy se neodvratně zamiloval do housu a minimalu. Jeho atmosférické sety nyní pomáhají budovat pražskou undergroundovou scénu.\n\n[eddrum @ SoundCloud](https://soundcloud.com/eddrum)\n\n## Sam Gittis (US)\nSam Gittis, který mísí deep house s digitálním uměním, vytváří taneční hudbu, hraje v nočních klubech a zároveň je kurátorem první pražské galerie NFT Crypto Portal, zapustil kořeny v undergroundové umělecké kultuře. Míchání spojení mezi lidmi, uměním a zvukem je jeho silnou stránkou a chce, aby se stalo základem jeho cesty do web3. \n\n[samgittis @ SoundCloud](https://soundcloud.com/samgittis)\n\n## dMIT.RY (CZ)\ndMIT.RY okupuje místní a mezinárodní djské stánky již více než 14 let. Za tu dobu prošel různými fázemi klubové hudby, nasál mnoho vlivů, nedržel se jednoho stylu a vždy hledal další svěží věc, přičemž respektoval kořeny.\n\nAčkoli je v současné době v režimu spánku, jeho label Neo Violence si získal slušnou celosvětovou pozornost během tzv. lo-fi house éry, kdy vydal 4 vinyly & 23 digitálních releasů, na kterých se podílela jména z celého světa, jako například J.Albert, Low Tape nebo Rudolf C a další.\n\nKromě toho, že má za sebou řadu rezidencí po pražských klubech a na jejich parketech představil řadu zahraničních hostů, se dMIT.RY již 8 let stará o booking v oblíbeném Groove Baru, kde dává příležitost začínajícím i zavedeným místním DJs.\nRádio je další dlouhodobou aktivitou na jeho seznamu. Kromě toho, že je rezidentním moderátorem žižkovského Radia Punctum od jeho počátků, pořádal také 3 roky dvouměsíční show na Rinse France, kde světu představoval nejnovější & nadcházející klubové releasy.\n\nA aby toho nebylo málo, za zmínku stojí i jeho vystoupení na berlínském HÖRu v rámci showcase Neo Violence nebo jeho mix pro Crack Magazine, který je zaměřen na CZ/SK producenty.\n\n[dmit-ry @ SoundCloud](https://soundcloud.com/dmit-ry)\n"
       },
       {
-        "id": "party-rajska-zahrada",
+        "id": "zahajeni-party",
         "type": "other",
         "track": "other",
-        "name": "UTXO.Party - Hlavní stage [TBD]",
-        "speakers": [],
-        "duration": 120,
+        "name": "Uvedení večera, ohlášení začátku tomboly [TBD]",
+        "speakers": [
+          "tereza-starostova"
+        ],
+        "duration": 20,
         "fixed": {
-          "time": "1/20:00-22:00",
+          "time": "1/20:00-20:30",
           "stage": "rajska-zahrada"
         },
         "tags": []
+      },
+      {
+        "id": "coinstory-krest",
+        "type": "other",
+        "track": "other",
+        "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]",
+        "speakers": [
+          "david-stancel"
+        ],
+        "duration": 50,
+        "fixed": {
+          "time": "1/20:30-21:30",
+          "stage": "rajska-zahrada"
+        },
+        "tags": [
+          "křest",
+          "budoucnost",
+          "diskuze"
+        ]
+      },
+      {
+        "id": "tombola-losovani",
+        "type": "other",
+        "track": "other",
+        "name": "Losování hlavních cen tomboly",
+        "speakers": [
+          "tereza-starostova"
+        ],
+        "duration": 20,
+        "fixed": {
+          "time": "1/21:30-22:00",
+          "stage": "rajska-zahrada"
+        },
+        "tags": [
+          "tombola"
+        ]
+      },
+      {
+        "id": "rajska-zahrada-djs",
+        "type": "other",
+        "track": "other",
+        "name": "DJ Pat Heart (TBD)",
+        "speakers": [],
+        "duration": 110,
+        "fixed": {
+          "time": "1/22:00-23:59",
+          "stage": "rajska-zahrada"
+        },
+        "tags": [
+          "music"
+        ]
       },
       {
         "id": "closing-ceremony",
@@ -5234,6 +5290,52 @@
           "stage": "rajska-zahrada"
         },
         "tags": []
+      },
+      {
+        "id": "violoncello-duo-concert",
+        "type": "other",
+        "track": "other",
+        "name": "Keishiro Mikawa + TBD - Violoncello duo concert",
+        "speakers": [],
+        "duration": 80,
+        "fixed": {
+          "time": "1/20:30-22:00",
+          "stage": "lustrovy-sal"
+        },
+        "tags": [
+          "music"
+        ],
+        "description": "Violoncello duo concert (mix vážné a pop music)\n"
+      },
+      {
+        "id": "party-lustrovy-sal",
+        "type": "other",
+        "track": "other",
+        "name": "Reprodukovaná hudba",
+        "speakers": [],
+        "duration": 110,
+        "fixed": {
+          "time": "1/22:00-23:59",
+          "stage": "lustrovy-sal"
+        },
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "id": "party-campfire-indoor-chiptune",
+        "type": "other",
+        "track": "other",
+        "name": "Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]",
+        "speakers": [],
+        "duration": 140,
+        "fixed": {
+          "time": "1/19:30-22:00",
+          "stage": "campfire-indoor"
+        },
+        "tags": [
+          "music"
+        ]
       }
     ],
     "stages": [
@@ -28068,7 +28170,7 @@
       "speakers": 118,
       "tracks": 10,
       "event-types": 7,
-      "events": 166,
+      "events": 172,
       "stages": 10,
       "faqs": 6,
       "partners": 33,
@@ -28076,5 +28178,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T21:27:58.363Z"
+  "time": "2022-05-25T22:53:29.078Z"
 }

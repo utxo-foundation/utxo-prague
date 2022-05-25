@@ -2138,6 +2138,34 @@
         {
           "id": "stosuj-campfire",
           "name": "DCA automaticky na Štosuj.cz"
+        },
+        {
+          "id": "zahajeni-party",
+          "name": "Uvedení večera, ohlášení začátku tomboly [TBD]"
+        },
+        {
+          "id": "coinstory-krest",
+          "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]"
+        },
+        {
+          "id": "tombola-losovani",
+          "name": "Losování hlavních cen tomboly"
+        },
+        {
+          "id": "rajska-zahrada-djs",
+          "name": "DJ Pat Heart (TBD)"
+        },
+        {
+          "id": "violoncello-duo-concert",
+          "name": "Keishiro Mikawa + TBD - Violoncello duo concert"
+        },
+        {
+          "id": "party-lustrovy-sal",
+          "name": "Reprodukovaná hudba"
+        },
+        {
+          "id": "party-campfire-indoor-chiptune",
+          "name": "Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]"
         }
       ],
       "removed": [
@@ -2152,6 +2180,10 @@
         {
           "id": "gwei-cz",
           "name": "Gwei.cz"
+        },
+        {
+          "id": "party-rajska-zahrada",
+          "name": "UTXO.Party - Hlavní stage [TBD]"
         }
       ]
     },
