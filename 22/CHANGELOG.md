@@ -6,6 +6,7 @@
 
 * přidáno [TERRAGEDON: Kolaps UST a LUNA](https://utxo.cz/udalosti?id=terragedon-kolaps-ust-luna)
 * přidáno [Discord Bitcoinového kanálu](https://utxo.cz/udalosti?id=bitcoinovej-kanal-komunita)
+* přidáno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-next)
 
 ### Události
 

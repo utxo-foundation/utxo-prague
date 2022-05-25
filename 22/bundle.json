@@ -2501,7 +2501,14 @@
           "filantropie"
         ],
         "description": "Nedávné události ukázaly, že mezi držiteli krypta je již dostatek lidí s filantropickým cítěním. Tito kryptodárci věří v budoucí výrazný růst hodnoty virtuálních aktiv, naráží však na to, že tradiční neziskové organizace neumí krypto uchovávat a pracovat s ním pro vytváření dodatečných výnosů pro dobročinné účely. Lightning talk představí projekt české KryptoNadace, která má ambici adresovat několik problémů souvisejících ve střetu krypto-světa a tradičního neziskového světa.\n\nProblémy jako: zbytečná byrokracie pro krypto dárce; neschopnost, či obavy neziskových organizací přijímat krypto; zbytečný exit z kryptoměn; neefektivita využívání kryptoměn.\n\nProjekt vzniká v úzké spolupráci s [Nadací VIA](https://www.nadacevia.cz ) a [ČKMA](https://www.ckma.cz).\n",
-        "popularity": 0.5
+        "popularity": 0.5,
+        "fixed": {
+          "stages": [
+            "lustrovy-sal",
+            "klenbovy-sal",
+            "exit-room"
+          ]
+        }
       },
       {
         "id": "adopce-kryptomen",
@@ -2808,7 +2815,14 @@
           "Ethereum",
           "public good",
           "smart-contract"
-        ]
+        ],
+        "fixed": {
+          "stages": [
+            "lustrovy-sal",
+            "klenbovy-sal",
+            "exit-room"
+          ]
+        }
       },
       {
         "id": "quadratic-developer-rewards",
@@ -3228,7 +3242,10 @@
           "governance",
           "DAO"
         ],
-        "popularity": 0.4
+        "popularity": 0.4,
+        "after": [
+          "uvod-do-polkadot"
+        ]
       },
       {
         "id": "ztratou-recovery-seedu-neztratite-jenom-finance",
@@ -4740,7 +4757,7 @@
       {
         "id": "kryptoinsider-jedlinsky",
         "type": "campfire",
-        "name": "KryptoInsider 1. - Jakub Jedlinský - ja přežít v bear marketu [TBD]",
+        "name": "KryptoInsider: Jakub Jedlinský - ja přežít v bear marketu",
         "track": "zaklady",
         "speakers": [
           "jakub-jedlinsky",
@@ -4754,6 +4771,7 @@
           "tokenomika"
         ],
         "fixed": {
+          "time": "1/11:00-11:30",
           "stage": "campfire-outdoor"
         },
         "description": "Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakub Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby \"medvěda\" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?\n"
@@ -4761,7 +4779,7 @@
       {
         "id": "kryptoinsider-stroukal",
         "type": "campfire",
-        "name": "KryptoInsider 2. - Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou [TBD]",
+        "name": "KryptoInsider: Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou",
         "track": "btc",
         "speakers": [
           "dominik-stroukal",
@@ -4774,14 +4792,15 @@
           "maximalismus"
         ],
         "fixed": {
-          "stage": "campfire-outdoor"
+          "stage": "campfire-outdoor",
+          "time": "1/15:00-15:30"
         },
         "description": "Ekonom, anarchista, libertarián, člen NERV a .... bitcoinový maximalista. Dominik Stroukal o jeho cestě světem krypta i proč nakonec věří jen v jednoho krále.\n"
       },
       {
         "id": "kryptoinsider-sladkovsky",
         "type": "campfire",
-        "name": "KryptoInsider - 3. Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]",
+        "name": "KryptoInsider: Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]",
         "track": "regulace",
         "speakers": [
           "jaromir-sladkovsky",
@@ -4795,9 +4814,26 @@
           "regulace"
         ],
         "fixed": {
-          "stage": "campfire-outdoor"
+          "stage": "campfire-outdoor",
+          "time": "2/11:00-11:30"
         },
         "description": "V bankovnictví pracuje přes dvacet let. A stejně si nakonec oblíbil kryptoměny. O tom, proč bankám nebo \"oldschool\" investorům jako Warren Buffet, Jamie Dimon či Carl Icahn bitcoin a další nevoní s Jaroslavem Sladkovským, šéfem Raiffeisen investiční společnosti\n"
+      },
+      {
+        "id": "kryptoinsider-next",
+        "type": "campfire",
+        "name": "KryptoInsider: ? [TBD]",
+        "track": "zaklady",
+        "speakers": [
+          "petr-lukac"
+        ],
+        "duration": 30,
+        "difficulty": "beginner",
+        "tags": [],
+        "fixed": {
+          "stage": "campfire-outdoor",
+          "time": "2/15:00-15:30"
+        }
       },
       {
         "id": "apus-finance-ama",
@@ -25143,7 +25179,7 @@
       "speakers": 116,
       "tracks": 10,
       "event-types": 7,
-      "events": 156,
+      "events": 157,
       "stages": 10,
       "faqs": 6,
       "partners": 33,
@@ -25151,5 +25187,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T04:21:11.498Z"
+  "time": "2022-05-25T04:51:31.523Z"
 }
