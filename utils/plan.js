@@ -273,6 +273,11 @@ class UTXOPlanner {
       );
     }
     /*if (priorityEvents.length === 0) {
+      priorityEvents = this.events.filter((e) =>
+        !["campfire"].includes(e.type)
+      );
+    }*/
+    /*if (priorityEvents.length === 0) {
       priorityEvents = this.events.filter((e) => e.type !== "campfire");
     }*/
     const events = priorityEvents.length > 0 ? priorityEvents : this.events;

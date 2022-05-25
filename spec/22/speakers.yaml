@@ -576,13 +576,13 @@
   desc: |
     Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!
 
-- id: helena-horska
-  name: Helena Horská
-  twitter: helenahorska
-  orgs: |
-    Hlavní ekonomka [Raiffeisenbank](https://www.rb.cz/)
-  country: cz
-  tracks: [ regulace ]
+# - id: helena-horska
+#  name: Helena Horská
+#  twitter: helenahorska
+#  orgs: |
+#    Hlavní ekonomka [Raiffeisenbank](https://www.rb.cz/)
+#  country: cz
+#  tracks: [ regulace ]
 
 - id: kristian-csepcsar
   name: Kristian Csepcsar
