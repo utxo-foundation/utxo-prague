@@ -2,11 +2,19 @@
 
 ## 25.5.2022
 
+### Přednášející
+
+* přidáno [Marianna Sádecká](https://utxo.cz/lide?id=marianna-sadecka)
+
 ### Události
 
 * přidáno [TERRAGEDON: Kolaps UST a LUNA](https://utxo.cz/udalosti?id=terragedon-kolaps-ust-luna)
 * přidáno [Discord Bitcoinového kanálu](https://utxo.cz/udalosti?id=bitcoinovej-kanal-komunita)
 * přidáno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-next)
+* přidáno [Polkadot parachainy vs smart contracts](https://utxo.cz/udalosti?id=polkadot-parachainy-vs-smart-contracts)
+* přidáno [Setkání The Divergents NFT komunity](https://utxo.cz/udalosti?id=setkani-divergents-komunity)
+* přidáno [Crypto-weddings-rituals](https://utxo.cz/udalosti?id=crypto-weddings-rituals)
+* přidáno [CryptoByte 2022 - konference DIY](https://utxo.cz/udalosti?id=cryptobyte-konference-diy)
 
 ### Události
 

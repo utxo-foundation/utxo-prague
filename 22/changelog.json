@@ -2063,7 +2063,14 @@
   },
   {
     "date": "2022-05-25",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "marianna-sadecka",
+          "name": "Marianna Sádecká"
+        }
+      ]
+    },
     "events": {
       "added": [
         {
@@ -2077,6 +2084,22 @@
         {
           "id": "kryptoinsider-next",
           "name": "KryptoInsider: ? [TBD]"
+        },
+        {
+          "id": "polkadot-parachainy-vs-smart-contracts",
+          "name": "Polkadot parachainy vs smart contracts"
+        },
+        {
+          "id": "setkani-divergents-komunity",
+          "name": "Setkání The Divergents NFT komunity"
+        },
+        {
+          "id": "crypto-weddings-rituals",
+          "name": "Crypto-weddings-rituals"
+        },
+        {
+          "id": "cryptobyte-konference-diy",
+          "name": "CryptoByte 2022 - konference DIY"
         }
       ],
       "removed": [

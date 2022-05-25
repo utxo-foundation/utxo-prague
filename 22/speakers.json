@@ -322,6 +322,12 @@
       "spolecnost"
     ],
     "country": "cz",
+    "available": [
+      {
+        "from": "2022-06-04T08:00:00",
+        "to": "2022-06-04T23:59:59"
+      }
+    ],
     "photos": [
       "web:jpg",
       "twitter:jpg"
@@ -1102,6 +1108,21 @@
     ]
   },
   {
+    "id": "marianna-sadecka",
+    "name": "Marianna Sádecká",
+    "bio": "art&theatre, travel&economy, IT&crypto",
+    "twitter": "sadeckamarianna",
+    "linkedin": "mariannasadecka",
+    "web": {
+      "url": "https://www.instagram.com/marianna_sadecka"
+    },
+    "orgs": "Spoluzakladatelka [Slovak Students For Liberty](https://www.facebook.com/slovaksfl/)\n",
+    "country": "sk",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "mario-havel",
     "name": "Mario Havel",
     "twitter": "TMIYChao",
@@ -1246,6 +1267,7 @@
   },
   {
     "id": "matej-zimak",
+    "nickname": "Mattbullish",
     "name": "Matěj Zimák",
     "twitter": "mattbullish",
     "linkedin": "matejzimak",

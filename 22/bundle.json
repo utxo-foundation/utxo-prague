@@ -352,6 +352,12 @@
           "spolecnost"
         ],
         "country": "cz",
+        "available": [
+          {
+            "from": "2022-06-04T08:00:00",
+            "to": "2022-06-04T23:59:59"
+          }
+        ],
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -1132,6 +1138,21 @@
         ]
       },
       {
+        "id": "marianna-sadecka",
+        "name": "Marianna Sádecká",
+        "bio": "art&theatre, travel&economy, IT&crypto",
+        "twitter": "sadeckamarianna",
+        "linkedin": "mariannasadecka",
+        "web": {
+          "url": "https://www.instagram.com/marianna_sadecka"
+        },
+        "orgs": "Spoluzakladatelka [Slovak Students For Liberty](https://www.facebook.com/slovaksfl/)\n",
+        "country": "sk",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "mario-havel",
         "name": "Mario Havel",
         "twitter": "TMIYChao",
@@ -1276,6 +1297,7 @@
       },
       {
         "id": "matej-zimak",
+        "nickname": "Mattbullish",
         "name": "Matěj Zimák",
         "twitter": "mattbullish",
         "linkedin": "matejzimak",
@@ -2161,7 +2183,8 @@
         "popularity": 1,
         "fixed": {
           "date": "2022-06-05"
-        }
+        },
+        "description": "Diskuze bude probíhat mezi Bitcoin maximalistou Pepou Tětkem a Krypto realistou Davidem Stancelem. Cílem prezentace bude otevřená diskuze o parametrech, smysluplnosti, ryzicích a potenciálním využití alterntivních kryptoměn v porovnání s Bitcoinem. Diskuzi bude moderovat Libor z Investocky.\n"
       },
       {
         "id": "nft-metaverse-panel",
@@ -2615,7 +2638,7 @@
         ],
         "duration": 55,
         "difficulty": "beginner",
-        "description": "Pokud vám dává smysl aby i ve školách byl přístup k základním informacím o blockchainu a NFTs, přijďtě si poslechnout jak to dělám já a společně rozvedeme diskuzi na toto téma.\n",
+        "description": "Budoucnost každodenního pohybu ve světě blockchainu je téměř nevyhnutelná. V této budoucnosti se také brzy ocitnou naše děti, které k informacím o blockchainu mají jen velmi omezený přístup. Proč se ve školách stále učí jak ovládát „word a excel“, když pro většinu mladých je obsluha těchto programů již velmi intuitivní? Pokud i vám dává smysl, aby byl ve školách přístup k základním informacím o bezpečnosti a možnostech spojených s blockchainem a NFTs, přijďte si poslechnout, mou snahu a společně můžeme rozvést diskuzi, jak přinést dětem nová poznání.\n",
         "tags": [
           "gaming",
           "děti"
@@ -4739,7 +4762,7 @@
       {
         "id": "setkani-s-liborem-z-investocky",
         "type": "campfire",
-        "name": "Otevřená diskuze s Liborem z Investocky [TBD]",
+        "name": "Otevřená diskuze s Liborem z Investocky",
         "track": "zaklady",
         "speakers": [
           "libor-flossler"
@@ -4752,7 +4775,8 @@
         ],
         "after": [
           "btc-vs-altcoiny"
-        ]
+        ],
+        "description": "Přijďte na pokec s Liborem z YT kanálu Investocka. Můžete se pobavit o jeho YT tvorbě, Bitcoinu, investičních strategiích, deskové hře Vyhrej Život, či navázat na proběhlou panelovou diskuzi - Bitcoin vs. altcoiny. Nebo prostě jen tak se seznámit a pokecat o životě brouka.\n"
       },
       {
         "id": "kryptoinsider-jedlinsky",
@@ -4931,6 +4955,83 @@
           "kurzy",
           "portfolio"
         ],
+        "fixed": {
+          "date": "2022-06-04"
+        }
+      },
+      {
+        "id": "polkadot-parachainy-vs-smart-contracts",
+        "name": "Polkadot parachainy vs smart contracts",
+        "type": "campfire",
+        "track": "alty",
+        "speakers": [
+          "petr-mensik"
+        ],
+        "duration": 30,
+        "tags": [
+          "Polkadot",
+          "parachainy",
+          "smart-kontrakty"
+        ],
+        "description": "Na Polkadotu už se rozbíhají první parachainy a tak je pravý čas se podívat pod pokličku této technologie a ukázat si jaké výhody má specialiazovaný blockchain oproti klasickým smart contract platformám jako je Ethereum či Solana. Součastí přednášky bude i diskuse, kde můžeme parachainy více rozebrat a třeba je i srovnat s podobným řešením, které přináší Cosmos.\n"
+      },
+      {
+        "id": "setkani-divergents-komunity",
+        "name": "Setkání The Divergents NFT komunity",
+        "type": "campfire",
+        "track": "nft",
+        "speakers": [
+          "matej-zimak",
+          "jana-kubatova",
+          "resistance"
+        ],
+        "duration": 30,
+        "tags": [
+          "NFT",
+          "komunity",
+          "cryptoart",
+          "filantropie"
+        ],
+        "description": "NFT kolekce [The Divergents](https://thedivergents.io/) a web3 filantropie. Rádi bychom vám představili koncept nového kmene lidí, kteří nejsou lhostejní k tomu, jakým směrem se náš společný svět ubírá. Řekneme vám o tom, jak se stát součástí, jaké benefity můžete mít z toho, že budete Divergenty, a nebude to “jen” o budování platformy, která mění svět k lepšímu, ale také o našem umění, o současném vizuálním stylu Divergentů, o hodnotě našich NFTs a dlouhodobých plánech.\n\nÚčastníci:\n* Qubi (https://twitter.com/QDivergents)\n* Lukáš (https://twitter.com/BartonLukas)\n* Kristýna (https://twitter.com/TynaWolo)\n* Mattbullish (https://twitter.com/mattbullish)\n* NoQik (https://twitter.com/NoQik)\n* Resistance (https://twitter.com/reesistancee)\n* Marek Ehrenberger (https://twitter.com/ehren_marek)\n",
+        "fixed": {
+          "date": "2022-06-04"
+        }
+      },
+      {
+        "id": "crypto-weddings-rituals",
+        "name": "Crypto-weddings-rituals",
+        "type": "campfire",
+        "track": "spolecnost",
+        "speakers": [
+          "marianna-sadecka"
+        ],
+        "duration": 15,
+        "tags": [
+          "svatby",
+          "rituály",
+          "smart-kontrakty",
+          "NFT"
+        ],
+        "description": "Predstavíme vám koncept novej svadobnej agentúry budúcnosti Crypto-weddings-rituals v troch častiach: a) právna: decentralizácia manželských zmlúv, možnosť uzavrieť medzi rovnakými pohlaviami či na dobu určitú,... b) technológia zápisu svadby na blockchain, svadobné dary a ďalšie technologické možnosti svadby c) osobný rituál nadizajnovaných podľa seba.\n",
+        "fixed": {
+          "date": "2022-06-05"
+        }
+      },
+      {
+        "id": "cryptobyte-konference-diy",
+        "name": "CryptoByte 2022 - konference DIY",
+        "type": "campfire",
+        "track": "spolecnost",
+        "speakers": [
+          "dusan-kmetyo"
+        ],
+        "duration": 30,
+        "tags": [
+          "komunity",
+          "konference",
+          "adopce"
+        ],
+        "description": "Geneze jak vznikala myšlenka uspořádat v Liberci kryptoměnovou konferenci. O tom, že platí známé pořekadlo \"Jak se línej přetrch\". Co vše s uspořádáním takové akce souvisí a s čím je potředa se poprat. Jeden krátký příběh kde se během 2,5 roku z nocoiner-boomera stal pořadatel konference pro 600 návštěvníků. Máte taky svůj projekt, nad kterým uvažujete? Přijďte se inspirovat, a pak se do toho pusťte!\n",
         "fixed": {
           "date": "2022-06-04"
         }
@@ -25176,10 +25277,10 @@
   },
   "stats": {
     "counts": {
-      "speakers": 116,
+      "speakers": 117,
       "tracks": 10,
       "event-types": 7,
-      "events": 157,
+      "events": 161,
       "stages": 10,
       "faqs": 6,
       "partners": 33,
@@ -25187,5 +25288,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T04:51:31.523Z"
+  "time": "2022-05-25T15:10:35.392Z"
 }
