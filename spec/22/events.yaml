@@ -137,7 +137,7 @@
   speakers:
     - lukas-kovanda
     - dominik-stroukal
-  duration: 85
+  duration: 55
   difficulty: beginner
   popularity: 0.8
   tags:
@@ -2496,7 +2496,7 @@
 
 - id: kryptoinsider-sladkovsky
   type: campfire
-  name: 'KryptoInsider: Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]'
+  name: 'KryptoInsider: Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní'
   track: regulace
   speakers: [ jaromir-sladkovsky, petr-lukac ]
   duration: 30
@@ -2768,7 +2768,8 @@
     time: '1/20:00-23:59'
     stage: pitevna
   tags:
-    - music
+    - hudba
+    - DJs
   description: |
     Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)
 
@@ -2806,8 +2807,8 @@
   tags: []
 
 - id: coinstory-krest
-  type: other
-  track: other
+  type: talk
+  track: defi
   name: Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]
   speakers: [ david-stancel ]
   duration: 50
@@ -2818,6 +2819,7 @@
     - křest
     - budoucnost
     - diskuze
+    - DeFi
 
 - id: tombola-losovani
   type: other
@@ -2841,7 +2843,8 @@
     time: '1/22:00-23:59'
     stage: rajska-zahrada
   tags:
-    - music
+    - hudba
+    - DJs
 
 - id: closing-ceremony
   type: other
@@ -2875,23 +2878,24 @@
     time: '1/20:30-22:00'
     stage: lustrovy-sal
   tags:
-    - music
+    - živá hudba
   description: |
      Violoncello duo concert (mix vážné a pop music)
 
 - id: party-lustrovy-sal
   type: other
   track: other
-  name: Reprodukovaná hudba
+  name: DJs [TBD]
   speakers: []
   duration: 110
   fixed:
     time: '1/22:00-23:59'
     stage: lustrovy-sal
   tags:
-    - music
+    - hudba
+    - DJs
 
-- id: party-campfire-indoor-chiptune
+- id: gweicz-music-stage
   type: other
   track: other
   name: Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]
@@ -2902,7 +2906,7 @@
     time: '1/19:30-22:00'
     stage: campfire-indoor
   tags:
-    - music
+    - hudba
   description: |
     Pojďte popít a potancovat na prapodivnou diskotéku v rytmu osmibitů s Gwei.cz komunitou. 👾🎵🤘
 
