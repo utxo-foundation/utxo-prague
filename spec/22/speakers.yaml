@@ -415,6 +415,9 @@
   bio: Organizátor konference [CryptoByte](https://cryptobyte.cz/), Youtuber
   tracks: [ zaklady, btc, spolecnost ]
   country: cz
+  available:
+    - from: '2022-06-04T08:00:00'
+      to: '2022-06-04T23:59:59'
 
 - id: jakub-jedlinsky
   name: Jakub Jedlinský
@@ -640,6 +643,7 @@
   tracks: [ nft ]
 
 - id: matej-zimak
+  nickname: Mattbullish
   name: Matěj Zimák
   twitter: mattbullish
   linkedin: matejzimak
@@ -1265,4 +1269,14 @@
   desc: |
     Sam Gittis, který mísí deep house s digitálním uměním, vytváří taneční hudbu, hraje v nočních klubech a zároveň je kurátorem první pražské galerie NFT Crypto Portal, zapustil kořeny v undergroundové umělecké kultuře. Míchání spojení mezi lidmi, uměním a zvukem je jeho silnou stránkou a chce, aby se stalo základem jeho cesty do web3.
 
+- id: marianna-sadecka
+  name: Marianna Sádecká
+  bio: art&theatre, travel&economy, IT&crypto
+  twitter: sadeckamarianna
+  linkedin: mariannasadecka
+  web:
+    url: https://www.instagram.com/marianna_sadecka
+  orgs: |
+    Spoluzakladatelka [Slovak Students For Liberty](https://www.facebook.com/slovaksfl/)
+  country: sk
 

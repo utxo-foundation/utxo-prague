@@ -28,6 +28,27 @@ function shuffle(array) {
   return array;
 }
 
+function rand(max) {
+  return Math.floor(Math.random() * max);
+}
+
+function genId(used) {
+  const chars = "abcdefghijklmnopqrstuvwxyz";
+  const numbers = "0123456789";
+
+  let output = null;
+  for (const n of chars) {
+    for (const ch of chars) {
+      output = `${n}${ch}`;
+      if (used.includes(output)) {
+        continue;
+      }
+      return output;
+    }
+  }
+  return false;
+}
+
 class UTXOPlanner {
   constructor() {
     this.eventsAll = specs.events;
@@ -75,7 +96,8 @@ class UTXOPlanner {
         }
       }
 
-      ev.priority = haveAfter.length > 0 ? 10 : (haveAvailability ? 5 : 0);
+      //ev.priority = haveAfter.length > 0 ? 10 : (haveAvailability ? 5 : (ev.fixed ? 2 : 0));
+      ev.priority = 0;
     }
   }
 
@@ -91,6 +113,7 @@ class UTXOPlanner {
 
   addEvent(ev, data) {
     this.schedule.push({
+      id: genId(this.schedule.map((s) => s.id)),
       date: format(data.period.start, "yyyy-MM-dd"),
       stage: data.stage,
       period: data.period,
@@ -151,7 +174,7 @@ class UTXOPlanner {
         }
 
         const slotDir = Math.floor(Math.random() * 2);
-        slots = slotDir === 1 ? slots.reverse() : slots;
+        slots = randomize && slotDir === 1 ? slots.reverse() : slots;
 
         for (const slot of slots) {
           //console.log(slot, ctime)
@@ -282,6 +305,8 @@ class UTXOPlanner {
 
     if (ev.fixed && ev.fixed.stage) {
       if (!availStages.find((s) => s.id === ev.fixed.stage)) {
+        this.events.splice(this.events.indexOf(ev), 1);
+        this.unscheduled.push(ev.id);
         return null;
       }
       stages = availStages.filter((s) => s.id === ev.fixed.stage);
@@ -368,7 +393,8 @@ class UTXOPlanner {
               ? 0
               : 1), 0) / ev.tags.length;
           crossings.push([
-            ev.track === eev.track
+            ev.track === eev.track &&
+              !["zaklady", "spolecnost"].includes(ev.track)
               ? 0
               : 1,
             tagsCrossing,
