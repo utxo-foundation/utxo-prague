@@ -118,6 +118,14 @@
   web:
     url: https://pwn.finance/
   desc: PWN je protokol ve kterém si můžete půjčit proti jakýmkoli digitálním aktivům. To znamená i NFT! Díky principu Peer-to-Peer půjček můžete nabídnout opravdu jakékoli aktivum jako zástavu a to bez možnosti likvidace.
+
+- id: bohemiandao
+  name: BohemianDAO
+  type: sponsor
+  twitter: bohemiandao
+  web:
+    url: https://bohemiandao.cz
+  desc: Nezisková decentralizovaná autonomní organizace (DAO), vytvořená za účelem financování lokálních projektů podporující vzdělání a adopci platformy Ethereum a decentralizovaných financí (DeFi).
     
 - id: bitcoach
   name: Bitcoach.org
