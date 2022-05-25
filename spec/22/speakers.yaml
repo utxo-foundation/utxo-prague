@@ -170,6 +170,9 @@
   lead: true
   tracks: [ spolecnost ]
   country: sk
+  available:
+    - from: '2022-06-04T15:00:00'
+      to: '2022-06-04T23:59:59'
 
 - id: tomas-zdrazil
   name: Tomáš Zdražil
@@ -1236,8 +1239,9 @@
   tracks: [ defi ]
 
 - id: jan-rosko
-  name: Jan Roško
-  bio: Soukromý investor/trader
+  name: Honza Roško
+  bio: Soukromý investor / trader
+  linkedin: janrosko
   country: cz
   tracks: [ zaklady ]
 
