@@ -5326,8 +5326,10 @@
         "id": "party-campfire-indoor-chiptune",
         "type": "other",
         "track": "other",
-        "name": "Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]",
-        "speakers": [],
+        "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]",
+        "speakers": [
+          "tree"
+        ],
         "duration": 140,
         "fixed": {
           "time": "1/19:30-22:00",
@@ -5335,7 +5337,8 @@
         },
         "tags": [
           "music"
-        ]
+        ],
+        "description": "Pojďte popít a potancovat na prapodivnou diskotéku v rytmu osmibitů s Gwei.cz komunitou. 👾🎵🤘\n"
       }
     ],
     "stages": [
@@ -28178,5 +28181,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T22:53:58.726Z"
+  "time": "2022-05-25T23:02:45.562Z"
 }

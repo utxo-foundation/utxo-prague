@@ -33,7 +33,7 @@
 * přidáno [DJ Pat Heart (TBD)](https://utxo.cz/udalosti?id=rajska-zahrada-djs)
 * přidáno [Keishiro Mikawa + TBD - Violoncello duo concert](https://utxo.cz/udalosti?id=violoncello-duo-concert)
 * přidáno [Reprodukovaná hudba](https://utxo.cz/udalosti?id=party-lustrovy-sal)
-* přidáno [Reprodukovaná hudba - chiptune (8-bit), electroclash, disco, .. [TBD]](https://utxo.cz/udalosti?id=party-campfire-indoor-chiptune)
+* přidáno [Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]](https://utxo.cz/udalosti?id=party-campfire-indoor-chiptune)
 
 ### Události
 
