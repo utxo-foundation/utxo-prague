@@ -4641,7 +4641,9 @@
         "id": "sollarion-campfire",
         "type": "campfire",
         "name": "Sollarion introduction and giveaway",
-        "speakers": [],
+        "speakers": [
+          "ladislav-prekop"
+        ],
         "track": "nft",
         "duration": 30,
         "difficulty": "beginner",
@@ -28063,5 +28065,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T18:28:34.691Z"
+  "time": "2022-05-25T18:32:29.688Z"
 }
