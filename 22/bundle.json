@@ -2312,7 +2312,10 @@
         ],
         "description": "Panel zaměřený na aktuální otázky týkající se regulace kryptoměn zejména na obšírně probíranou regulaci MiCa. Co můžeme očekávat od EU? Jak regulátor přemýšlí? Jak probíhá proces přijetí zákonů na evropské úrovni? Co na regulaci trápí krypto byznysy? A jaké problémy krypto projekty běžně řeší? Na to vše se budou hovořit Kirill Juran - CEO SimpleTax&Law, Ondřej Kovařík - poslanec Evropského parlamentu, František Vinopal - předseda České kryptoměnové asociace a Tomáš Elbert - advokát Blockchain Legal.\n",
         "fixed": {
-          "stage": "rajska-zahrada"
+          "stages": [
+            "rajska-zahrada",
+            "lustrovy-sal"
+          ]
         }
       },
       {
@@ -2354,6 +2357,12 @@
           "volný trh",
           "soukromí"
         ],
+        "fixed": {
+          "stages": [
+            "rajska-zahrada",
+            "lustrovy-sal"
+          ]
+        },
         "popularity": 0.8
       },
       {
@@ -2412,7 +2421,10 @@
           "společnost"
         ],
         "fixed": {
-          "stage": "rajska-zahrada"
+          "stages": [
+            "rajska-zahrada",
+            "lustrovy-sal"
+          ]
         },
         "popularity": 1
       },
@@ -2601,7 +2613,10 @@
           "gaming",
           "děti"
         ],
-        "popularity": 0.4
+        "popularity": 0.4,
+        "fixed": {
+          "stage": "exit-room"
+        }
       },
       {
         "id": "social-tokeny",
@@ -2635,7 +2650,13 @@
         "tags": [
           "DeSci",
           "věda"
-        ]
+        ],
+        "fixed": {
+          "stages": [
+            "klenbovy-sal",
+            "exit-room"
+          ]
+        }
       },
       {
         "id": "jak-spustit-krypto-projekt-regulace-omezeni",
@@ -2745,7 +2766,13 @@
           "organizace",
           "společnost"
         ],
-        "description": "Existují principy, které vytvořili decentralizaci a opensource, jak jej známe dnes a není to white paper Bitcoinu. Herní guildy, Open Decision Framework a Decentralized Autonomous Organization mají jedno společné. Meritokracie. Kašlete na volební právo v DAO, Discordové skupiny nebo vymazlené white papery. Pokud nemáte systém rovnosti, vášně pro danou věc a misi v každém jednotlivci, nemáte šanci v oceánu novodobých organizačních systémech. Budu s vámi sdílet mé zkušenosti s Development teamy, kde se mísí komunita a strategie.\n"
+        "description": "Existují principy, které vytvořili decentralizaci a opensource, jak jej známe dnes a není to white paper Bitcoinu. Herní guildy, Open Decision Framework a Decentralized Autonomous Organization mají jedno společné. Meritokracie. Kašlete na volební právo v DAO, Discordové skupiny nebo vymazlené white papery. Pokud nemáte systém rovnosti, vášně pro danou věc a misi v každém jednotlivci, nemáte šanci v oceánu novodobých organizačních systémech. Budu s vámi sdílet mé zkušenosti s Development teamy, kde se mísí komunita a strategie.\n",
+        "fixed": {
+          "stages": [
+            "exit-room",
+            "klenbovy-sal"
+          ]
+        }
       },
       {
         "id": "hypoteky-pro-cryptonatives",
@@ -2852,32 +2879,42 @@
         "popularity": 0.6
       },
       {
-        "id": "future-of-defi",
+        "id": "terragedon-kolaps-ust-luna",
         "type": "talk",
-        "name": "Future of DeFi",
+        "name": "TERRAGEDON: Kolaps UST a LUNA",
         "track": "defi",
         "speakers": [
           "david-stancel"
         ],
-        "difficulty": "beginner",
+        "difficulty": "advanced",
         "duration": 25,
         "tags": [
-          "DeFi",
-          "budoucnost"
+          "kolaps",
+          "Luna",
+          "UST",
+          "stablecoiny",
+          "DeFi"
         ],
-        "popularity": 0.9
+        "popularity": 0.9,
+        "description": "Rekonštrukcia udalostí z kolapsu Terra ekosystému. Čo to znamená pre algoritmické stablecoiny, či DeFi  ekosystém ako taký? Existuje ešte šanca na vzkriesenie Terra ekosystému?\n",
+        "fixed": {
+          "stages": [
+            "rajska-zahrada",
+            "lustrovy-sal"
+          ]
+        }
       },
       {
         "id": "zaklady-zabezpeceni",
         "type": "talk",
-        "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
+        "name": "Základy zabezpečení nejen ve světě kryptoměn",
         "track": "zaklady",
         "speakers": [
           "jan-cerny"
         ],
         "duration": 55,
         "difficulty": "beginner",
-        "description": "Hygiena na internetu - jak se chovat bezpećně, nenechat si ukrást identitu a vykrást burzy.\n",
+        "description": "Na přednášce si povíme nejčastější bezpečnostní chyby a jak jim předcházet. Seznámíme se s jednoduchými, ale současně účinnými triky proti sledování v internetovém prohlížeči, se správci hesel, generátory náhodných e-mailů, dvoufázovým přihlašováním včetně speciálních hardwarových klíčů, bezpečné systémy pro mobily CalyxOS a GrapheneOS. Pak byste měli být připraveni bezpečně pracovat s kryptoměnami a seedem.\n\n---\n\nDnešní uspěchaná doba vyžaduje být neustála on-line. Používat počítač, tablet a mobil se zdá být hračka. K tomu si naložíte internetové bankovnictví a sociální sítě pro kontakt s rodinou a přáteli. Do toho všeho vám dává smysl i bitcoin a ostatní kryptopeníze. Musíte všechno zkusit a na každé platformě se bezmyšlenkovitě registrujete. Jeden altruista vám dokonce pomohl přes vzdálenou plochu a všechno nastavil.\n\nChyba! Najednou se nemůžete přihlásit na Facebook, pětkrát denně vám volá prodejce hrnců, nigerijský princ nabízí milionové dědictví, soused na vás vrhá vražedné pohledy, protože mu posíláte perverzní e-maily. Noční můra pokračuje! Z kryptoburzy vám zmizely celoživotní úspory a fotky příbuzných se objevily na erotické seznamce. Proč? Zanedbali jste digitální hygienu.\n\nNa přednášce si povíme nejčastější chyby a jak jim předcházet. Seznámíme se s jednoduchými, ale současně účinnými triky proti sledování v internetovém prohlížeči, se správci hesel, generátory náhodných e-mailů, dvoufázovým přihlašováním včetně speciálních hardwarových klíčů, bezpečné systémy pro mobily CalyxOS a GrapheneOS. Pak byste měli být připraveni bezpečně pracovat s kryptoměnami a seedem.\n\n## S tématem souvisí\n* Etický vekslák - kryptomeny bez povolenia (Juraj Bednár)\n* Bitcoin a Cypherpunks - Jejich role v dnešním světě (Matyáš Kuchař)\n* Ztrátou Recovery Seed neztratíte pouze finance… (Jiří Skřivan)\n* Základy soukromí a anonymizace (Petr Klein)\n",
         "tags": [
           "bezpečnost",
           "Bitcoin",
@@ -2937,7 +2974,13 @@
           "staking"
         ],
         "description": "The Merge sa blíži a dni Proof of Work sú spočítané. Zanechanie PoW a prechod najväčšej decentralizovanej platformy na Proof of Stake už mnohé roky v komunite vyvoláva nadšenie, no aj obavy a neistotu. Táto výzva však prináša unikátny experiment pre vytvorenie najrobustnejšieho a najviac decentralizovaného riešenia pre zabezpečenie siete. Merge odomkne nekompromisnú efektivitú, nové možnosti škálovania a vyššie úrovne bezpečnosti. Príďte si vypočuť o aktuálnom stave, problémoch aj roadmape Etherea od výskumníka, ktorý sa na Merge priamo podieľa.\n",
-        "popularity": 0.8
+        "popularity": 0.8,
+        "fixed": {
+          "stages": [
+            "rajska-zahrada",
+            "lustrovy-sal"
+          ]
+        }
       },
       {
         "id": "zaklady-a-historie-defi-protokolu",
@@ -3084,7 +3127,13 @@
         "tags": [
           "finanční nezávislost"
         ],
-        "popularity": 0.5
+        "popularity": 0.5,
+        "fixed": {
+          "stages": [
+            "klenbovy-sal",
+            "exit-room"
+          ]
+        }
       },
       {
         "id": "investovani-20",
@@ -3154,7 +3203,14 @@
           "Ethereum"
         ],
         "description": "Bezpečnostní audity smart kontraktů nenabízí binární odpověď, jestli je daný kód bezpečný, nebo není. Proč jsou přesto audity pro projekty a jejich uživatele důležité? Jak takový audit probíhá? A jak se může běžný HODLer v auditu zorientovat, aby mu pomohl v binárním rozhodnutí, jestli do projektu investovat, nebo se mu vyhnout?\n",
-        "popularity": 0.5
+        "popularity": 0.5,
+        "fixed": {
+          "stages": [
+            "lustrovy-sal",
+            "klenbovy-sal",
+            "exit-room"
+          ]
+        }
       },
       {
         "id": "polkadot-governance",
@@ -3190,7 +3246,10 @@
           "hardware"
         ],
         "description": "Blockchain, peer to peer, proof of work….. několik slov a mají jeden velký význam a tím je poctivost. Jako výrobci produktů, které mohou ovlivnit život držitele, máme mnoho možností jak zákazníka ovlivnit. Je rok 2022,  je to téměř 14 let co vznikla technologie jménem BITCOIN. Tato revoluční metoda ve světě finančnictví způsobila vznik nového odvětví a tím jsou produkty pro uložení Recovery Seed. Recovery Seed, slova, která Vám změní svět a způsob života. Pár slov, kterým nedáváte význam,  avšak když se něco stane, jsou Vaší spásou. Přijďte se podívat na přednášku Jiřího Skřivana ze [Skovo.CZ](https://www.skovo.cz/), jenž je prvním výrobcem produktů pro uložení Recovery Seed a zjistíte, že i tento svět je proof of work.\n",
-        "popularity": 0.5
+        "popularity": 0.5,
+        "fixed": {
+          "stage": "exit-room"
+        }
       },
       {
         "id": "opravdu-vlastnite-cryptopunka",
@@ -3242,7 +3301,13 @@
           "yield farming"
         ],
         "description": "Peněženku založenou už máte, hodlíte pár coinů a přemýšlíte, co dál. Je na čase podívat se na základní techniky tzv. Yield Farmingu, neboli generování výnosů na vašem kapitálu. Budeme se soustředit na Ethereum Mainnet a Polygon.\n",
-        "popularity": 0.6
+        "popularity": 0.6,
+        "fixed": {
+          "stages": [
+            "klenbovy-sal",
+            "exit-room"
+          ]
+        }
       },
       {
         "id": "budoucnost-kryptomen-je-v-produktech-nikoliv-v-chainech",
@@ -3276,7 +3341,10 @@
           "Polkadot"
         ],
         "description": "Tým, že sa z non-fungible tokenu stane entita, ktorá môže interagovať v rámci ekosystému, vzniká nová dynamika vo fungovaní vzťahov bez dôvery medzi účastníkmi siete. Cieľom tejto prednášky je predstaviť nové prístupy k tomu, aby boli tokeny autonómnejšie a personalizovanejšie.  Môžu teda NFT niečo robiť? Poďme to zistiť!\n",
-        "popularity": 0.5
+        "popularity": 0.5,
+        "fixed": {
+          "stage": "exit-room"
+        }
       },
       {
         "id": "institucionalni-investori-v-kryptu",
@@ -3480,7 +3548,8 @@
           "bezpečnost",
           "internet",
           "seed"
-        ]
+        ],
+        "description": "Workshop navazuje na stejnojmennou přednášku. Doporučujeme si přinést vlastní notebook. Pro zkoušku šifrované komunikace mít nainstalovaný na mobilu Telegram a Signal – ideálně přijďte s někým, koho znáte, ať můžete vzájemně psát. Ne vše bude dokonalé. Kryptoanarchistům budou vstávat vlasy hrůzou. Ale to je v pořádku. Zákládní ochrana je lepší než žádná ochrana a ne každý musí chodit s alobalovou čepicí.\n\nVe Windows 10/11 si ukážeme, jak omezit šmírování, nastavíme automatické odhlašování při nečinnosti, podíváme se, kde nastavit šifrování disku, zapneme náhodnou MAC asresu sítě. Vysvětlíme jak ověřit hash a certifikáty souborů stažených z internetu. Pro bezpečnější prohlížení internetu nainstalujeme do Firefoxu doplněk pro blokaci reklam uBlock Origin a správce hesel Bitwarden. Důležité stránky si dáme do záložek. Nakonec vyladíme Firefox blokací telemetrie (šmírování), vynutíme HTTPS, omezíme načítání sledovacích skriptů a přistupování k mikrofonu a kameře.\n\nTeoreticky si něco povíme o virtualizaci a linuxové distribuci Tails – doporučuji zajít na workshop Petra Kleina, který se tématu věnuje do hloubky. Velmi vhodné, pokud nechcete na hlavním počítači vstupovat na burzy nebo provádět transakce.\n\nV tuto chvíli jste připraveni začít pracovat s kryptoměnami. Přihlásíme se k burze a nastavíme dvoufázové přihlašování. Připojíme Trezor, ukážeme peněženku v peněžence (passphrase) a řekneme něco o balíčku poslední záchany: co přpravit pro případ vážné nehody nebo úmrtí. Na workshop navazuje prezentace Jirky Skřivana (Skovo.cz), který bude simulovat požár domu.\n"
       },
       {
         "id": "privacy-workshop",
@@ -4147,19 +4216,19 @@
         ]
       },
       {
-        "id": "gwei-cz",
+        "id": "bitcoinovej-kanal-komunita",
         "type": "lightning",
-        "name": "Gwei.cz",
-        "track": "eth",
-        "speakers": [],
+        "name": "Discord Bitcoinového kanálu",
+        "track": "btc",
+        "speakers": [
+          "jan-cerny"
+        ],
         "duration": 10,
         "parent": "lokalni-komunity-intro",
-        "description": "Představení česko-slovenské Ethereum/DeFi komunity s název [Gwei.cz](https://gwei.cz).\n",
+        "description": "23. ledna 2020 byl založen discord Bitcoinového kanálu. Komunita se postupně rozrostla o spoustu skvělých lidí. V době lockdownu jsme se začali scházet ve virtuální kryptohospodě, sdíleli si stavbu počítačů a šířili osvětu na Clubhousu. Díky našemu discordu vznikla spousta úspěšných projektů jako DCA Bot (dcabot.online), KryptoDoupě.cz, BTC Platby (btcplatby.cz), Adopce bitcoinu pro obchodní korporace (JUDr. Adam Lokaj, Hana Trnková Kocourková). Nejnovějším přírůstkem je cworfunding aplikace pro sledování portfolia CryptoUseful.\n",
         "tags": [
           "komunity",
-          "Ethereum",
-          "DeFi",
-          "DAO"
+          "Bitcoin"
         ]
       },
       {
@@ -25069,5 +25138,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T01:39:14.734Z"
+  "time": "2022-05-25T02:57:50.271Z"
 }

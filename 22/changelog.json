@@ -2064,7 +2064,28 @@
   {
     "date": "2022-05-25",
     "speakers": {},
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "terragedon-kolaps-ust-luna",
+          "name": "TERRAGEDON: Kolaps UST a LUNA"
+        },
+        {
+          "id": "bitcoinovej-kanal-komunita",
+          "name": "Discord Bitcoinového kanálu"
+        }
+      ],
+      "removed": [
+        {
+          "id": "future-of-defi",
+          "name": "Future of DeFi"
+        },
+        {
+          "id": "gwei-cz",
+          "name": "Gwei.cz"
+        }
+      ]
+    },
     "partners": {}
   }
 ]

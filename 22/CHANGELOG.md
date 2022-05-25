@@ -1,5 +1,18 @@
 # Changelog
 
+## 25.5.2022
+
+### Události
+
+* přidáno [TERRAGEDON: Kolaps UST a LUNA](https://utxo.cz/udalosti?id=terragedon-kolaps-ust-luna)
+* přidáno [Discord Bitcoinového kanálu](https://utxo.cz/udalosti?id=bitcoinovej-kanal-komunita)
+
+### Události
+
+* odebráno [Future of DeFi](https://utxo.cz/udalosti?id=future-of-defi)
+* odebráno [Gwei.cz](https://utxo.cz/udalosti?id=gwei-cz)
+
+
 ## 24.5.2022
 
 ### Přednášející
