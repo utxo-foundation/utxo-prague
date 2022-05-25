@@ -8,6 +8,10 @@
 * přidáno [Ladislav Prekop](https://utxo.cz/lide?id=ladislav-prekop)
 * přidáno [Marianna Sádecká](https://utxo.cz/lide?id=marianna-sadecka)
 
+### Přednášející
+
+* odebráno [Helena Horská](https://utxo.cz/lide?id=helena-horska)
+
 ### Události
 
 * přidáno [TERRAGEDON: Kolaps UST a LUNA](https://utxo.cz/udalosti?id=terragedon-kolaps-ust-luna)
@@ -25,6 +29,7 @@
 
 ### Události
 
+* odebráno [Token = energie, Likvidita = život [TBD]](https://utxo.cz/udalosti?id=token-energie-likvidita-zivot)
 * odebráno [Future of DeFi](https://utxo.cz/udalosti?id=future-of-defi)
 * odebráno [Gwei.cz](https://utxo.cz/udalosti?id=gwei-cz)
 

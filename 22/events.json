@@ -110,24 +110,6 @@
     "popularity": 0.7
   },
   {
-    "id": "token-energie-likvidita-zivot",
-    "type": "panel",
-    "name": "Token = energie, Likvidita = život [TBD]",
-    "track": "defi",
-    "duration": 85,
-    "difficulty": "advanced",
-    "speakers": [
-      "m0xt"
-    ],
-    "description": "Efektivní použití energie vede k dlouhodobému a udržitelnému životu. Většina krypto projektů však do této fáze ještě nedošla. Jaké jsou tedy ty správné cesty a způsoby jak toto dilema řešit?\n",
-    "tags": [
-      "Ethereum",
-      "DeFi",
-      "udržitelnost"
-    ],
-    "popularity": 0.7
-  },
-  {
     "id": "czk-stablecoin-panel",
     "type": "panel",
     "name": "Koruna česká na blockchainu (dCZK stablecoin) - panelová debata",
@@ -1038,7 +1020,7 @@
   {
     "id": "investovani-20",
     "type": "talk",
-    "name": "Změna paradigmatu (Investování 2.0) [TBD]",
+    "name": "Racionální rozhodování",
     "difficulty": "beginner",
     "track": "zaklady",
     "speakers": [
@@ -1046,11 +1028,12 @@
     ],
     "duration": 55,
     "tags": [
+      "psychologie",
       "investice",
       "portfolio",
       "DeFi"
     ],
-    "description": "Modely chování, které máme naučené a přebrané z historie, nemusí fungovat/nefungují v dnešním světě. Krypto je dobrým příkladem, ale pouze jedním z mnoha. Na spoustu problémů už dnes existují alternativní řešení, nicméně se o těchto věcech a inovativních přístupech příliš nemluví. Blokchainové technologie nabízejí zajímavé paralely a představují hodnoty, na kterých by nové vzorce chování mohly fungovat lépe.\n",
+    "description": "Káva nebo čaj, knížka nebo film, dovolená u moře nebo na horách,… Rozhodování je náš denní chléb. Rozhodujete se racionálně nebo upřednostňujete své emoce? Rozhodování hraje zvláště v investování velkou roli. Naučte se dělat správná racionální rozhodnutí, uvědomte si jeho výhody a pochopte principy, které vám pomohou lépe fungovat v tomto světě.\n",
     "popularity": 0.7
   },
   {
@@ -1994,7 +1977,7 @@
     ],
     "duration": 10,
     "parent": "lokalni-defi-intro",
-    "description": "Efektivní řízení se neobejde bez datové analýzy. Spousta projektů bohužel tyto velmi cenné informace neřeší. Na vině je i komunita, která by měla vyvíjet tlak na vytvoření alespoň základního dashboardu na Dune a mít tak jasný přehled o aktuálním dění okolo daného projektu. To je další známka toho, že jsme stále ve velmi ranné fázi a podobné věci a služby se teprve tvoří. 1ab poskytuje tato data a následně reportuje získané informace týmu/komunitě.\n",
+    "description": "Představte si ideální prostředí pro fungování projektu v kryptu - využívá se datová analýza pro detekci správných kroků a rozhodnutí a všechny získané informace jsou lehce dostupné a transparentní. 1ab pomáhá poskytnout všechny důležité ukazatele a následně je reportuje týmu/komunitě na pravidelné bázi.\n",
     "tags": [
       "Ethereum",
       "datová analýza",

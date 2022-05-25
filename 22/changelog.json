@@ -2077,6 +2077,12 @@
           "id": "marianna-sadecka",
           "name": "Marianna Sádecká"
         }
+      ],
+      "removed": [
+        {
+          "id": "helena-horska",
+          "name": "Helena Horská"
+        }
       ]
     },
     "events": {
@@ -2131,6 +2137,10 @@
         }
       ],
       "removed": [
+        {
+          "id": "token-energie-likvidita-zivot",
+          "name": "Token = energie, Likvidita = život [TBD]"
+        },
         {
           "id": "future-of-defi",
           "name": "Future of DeFi"
