@@ -532,6 +532,19 @@
         ]
       },
       {
+        "id": "jan-rosko",
+        "name": "Honza Roško",
+        "bio": "Soukromý investor / trader",
+        "linkedin": "janrosko",
+        "country": "cz",
+        "tracks": [
+          "zaklady"
+        ],
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "hynek-jina",
         "name": "Hynek Jína",
         "twitter": "HynekJina",
@@ -710,18 +723,6 @@
         "photos": [
           "web:jpg",
           "twitter:jpg"
-        ]
-      },
-      {
-        "id": "jan-rosko",
-        "name": "Jan Roško",
-        "bio": "Soukromý investor/trader",
-        "country": "cz",
-        "tracks": [
-          "zaklady"
-        ],
-        "photos": [
-          "web:jpg"
         ]
       },
       {
@@ -1671,6 +1672,12 @@
           "spolecnost"
         ],
         "country": "sk",
+        "available": [
+          {
+            "from": "2022-06-04T15:00:00",
+            "to": "2022-06-04T23:59:59"
+          }
+        ],
         "photos": [
           "web:jpg",
           "sm:png",
@@ -3306,7 +3313,7 @@
       {
         "id": "opravdu-vlastnite-cryptopunka",
         "type": "talk",
-        "name": "Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT [TBD]",
+        "name": "Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT",
         "track": "nft",
         "difficulty": "beginner",
         "speakers": [
@@ -3949,7 +3956,7 @@
       {
         "id": "jan-se-pojistit-proti-propadu-bitcoinu",
         "type": "workshop",
-        "name": "Jak se pojistit proti propadu Bitcoinu [TBD]",
+        "name": "Jak se pojistit proti propadu Bitcoinu",
         "track": "zaklady",
         "speakers": [
           "jan-rosko"
@@ -3961,7 +3968,8 @@
           "investice",
           "trading",
           "hedging"
-        ]
+        ],
+        "description": "Aneb jak uvažovat o propadech, včetně praktické ukázky hedge jako \"pojištění\" ceny. Hlavní myšlenkou přednášky je pravidlo #1 investování i tradingu - ochrana kapitálu. Přednáška má 3 části. V první se zamyslíme, jak vysilující mohou být dlouhodobé propady na různých trzích, nejen v kryptu. Druhá část přednášky kromě definování hedge také ukáže nastavení hlavy nutné pro správné hedgování. Třetí část nabídne praktické tipy včetně konkrétního nastavení parametrů na derivátové burze.\n"
       },
       {
         "id": "dane-a-krypto-qa-campfire",
@@ -25384,5 +25392,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T17:44:59.297Z"
+  "time": "2022-05-25T18:00:50.495Z"
 }

@@ -1157,7 +1157,7 @@
   {
     "id": "opravdu-vlastnite-cryptopunka",
     "type": "talk",
-    "name": "Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT [TBD]",
+    "name": "Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT",
     "track": "nft",
     "difficulty": "beginner",
     "speakers": [
@@ -1800,7 +1800,7 @@
   {
     "id": "jan-se-pojistit-proti-propadu-bitcoinu",
     "type": "workshop",
-    "name": "Jak se pojistit proti propadu Bitcoinu [TBD]",
+    "name": "Jak se pojistit proti propadu Bitcoinu",
     "track": "zaklady",
     "speakers": [
       "jan-rosko"
@@ -1812,7 +1812,8 @@
       "investice",
       "trading",
       "hedging"
-    ]
+    ],
+    "description": "Aneb jak uvažovat o propadech, včetně praktické ukázky hedge jako \"pojištění\" ceny. Hlavní myšlenkou přednášky je pravidlo #1 investování i tradingu - ochrana kapitálu. Přednáška má 3 části. V první se zamyslíme, jak vysilující mohou být dlouhodobé propady na různých trzích, nejen v kryptu. Druhá část přednášky kromě definování hedge také ukáže nastavení hlavy nutné pro správné hedgování. Třetí část nabídne praktické tipy včetně konkrétního nastavení parametrů na derivátové burze.\n"
   },
   {
     "id": "dane-a-krypto-qa-campfire",

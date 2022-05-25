@@ -502,6 +502,19 @@
     ]
   },
   {
+    "id": "jan-rosko",
+    "name": "Honza Roško",
+    "bio": "Soukromý investor / trader",
+    "linkedin": "janrosko",
+    "country": "cz",
+    "tracks": [
+      "zaklady"
+    ],
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "hynek-jina",
     "name": "Hynek Jína",
     "twitter": "HynekJina",
@@ -680,18 +693,6 @@
     "photos": [
       "web:jpg",
       "twitter:jpg"
-    ]
-  },
-  {
-    "id": "jan-rosko",
-    "name": "Jan Roško",
-    "bio": "Soukromý investor/trader",
-    "country": "cz",
-    "tracks": [
-      "zaklady"
-    ],
-    "photos": [
-      "web:jpg"
     ]
   },
   {
@@ -1641,6 +1642,12 @@
       "spolecnost"
     ],
     "country": "sk",
+    "available": [
+      {
+        "from": "2022-06-04T15:00:00",
+        "to": "2022-06-04T23:59:59"
+      }
+    ],
     "photos": [
       "web:jpg",
       "sm:png",
