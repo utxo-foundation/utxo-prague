@@ -2725,6 +2725,23 @@
   after:
     - danove-triky-a-kouzla
 
+- id: pokec-o-blockchain-gamingu
+  name: Pokec o Blockchain gamingu, NFTs a Metaversu (KryptoHerna)
+  type: campfire
+  track: nft
+  speakers: [ fetyas ]
+  duration: 30
+  difficulty: beginner
+  tags:
+    - gaming
+    - NFT
+    - Metaverse
+  description: |
+    Přidejte se k neformálnímu setkání komunity [KryptoHerny](/udalosti?id=kryptoherna) a všech nadšenců do blockchainových her. Sedneme si, probereme novinky, které se v oblasti objevily, vyměníme si názory a hlavně poznáme nové kolegy. Určitě se přidají i vývojáři z Česka a Slovenska, takže s nimi můžete rozebrat jejich projekty. Táborák nemá žádný cíl, tak si přijďte pokecat kdykoliv.
+  fixed:
+    date: '2022-06-04'
+
+
 # Ostatní
 # ==========================
 
