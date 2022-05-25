@@ -73,9 +73,17 @@ tags:
 schedule: plan
 
 plan:
-	deno run --unstable --allow-read --allow-write utils/plan.js $(num)
+	deno run --unstable --allow-read --allow-write utils/plan.js $(num) $(append)
 
 plan-candidates:
 	js-yaml dist/22/schedule-candidates.json > spec/22/schedule-candidates.yaml
 
 schedule: plan plan-candidates build
+
+schedule-multi:
+	tmux new-session -d "make schedule num=$(num) append=true"
+	tmux split-window -d "make schedule num=$(num) append=true"
+	tmux split-window -d "make schedule num=$(num) append=true"
+	tmux split-window -d "make schedule num=$(num) append=true"
+	tmux split-window -d "make schedule num=$(num) append=true"
+	tmux attach

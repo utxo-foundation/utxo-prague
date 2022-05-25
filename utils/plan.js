@@ -463,10 +463,12 @@ async function main() {
   const limit = null;
   let i = 0;
   const numResults = Deno.args[0] || 10;
+  const appendResults = Boolean(Deno.args[1]) || false;
   const startTime = new Date();
 
   console.log("Planning started ..");
   console.log(`Looking for ${numResults} results`);
+  console.log(`Append results: ${appendResults}`);
 
   const plans = [];
 
@@ -516,11 +518,28 @@ async function main() {
           `, best score: ${bestScore()}`,
       );
       const outputFn = "./dist/22/schedule-candidates.json";
-      console.log(`Writing result: ${outputFn}`);
-      const filtered = plans.sort((x, y) =>
-        x.metrics.score > y.metrics.score ? -1 : 1
-      ).slice(0, 10);
-      Deno.writeTextFile(outputFn, JSON.stringify(filtered, null, 2));
+
+      if (appendResults) {
+        const current = JSON.parse(await Deno.readTextFile(outputFn))
+        for (const fi of plans) {
+          if (current.find(c => c.hash === fi.hash)) {
+            continue
+          }
+          current.push(fi)
+        }
+        const filtered = current.sort((x, y) =>
+          x.metrics.score > y.metrics.score ? -1 : 1
+        ).slice(0, 10);
+        console.log(`Appending result: ${outputFn}`);
+        Deno.writeTextFile(outputFn, JSON.stringify(filtered, null, 2));
+
+      } else {
+        const filtered = plans.sort((x, y) =>
+          x.metrics.score > y.metrics.score ? -1 : 1
+        ).slice(0, 10);
+        console.log(`Writing result: ${outputFn}`);
+        Deno.writeTextFile(outputFn, JSON.stringify(filtered, null, 2));
+      }
       break;
     }
 
