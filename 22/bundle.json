@@ -760,6 +760,9 @@
         "id": "jan-zibner",
         "name": "Jan Zibner",
         "orgs": "[Artiffine](https://www.artiffine.com/)\n",
+        "tracks": [
+          "nft"
+        ],
         "country": "cz",
         "photos": []
       },
@@ -1026,6 +1029,19 @@
         ]
       },
       {
+        "id": "ladislav-prekop",
+        "name": "Ladislav Prekop",
+        "twitter": "PrekopLadislav",
+        "orgs": "[Sollarion](https://sollarion.com/)\n",
+        "tracks": [
+          "nft"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "lenka-hudakova",
         "name": "Lenka Hudáková",
         "nickname": "Lenkla",
@@ -1156,6 +1172,9 @@
           "url": "https://www.instagram.com/marianna_sadecka"
         },
         "orgs": "Spoluzakladatelka [Slovak Students For Liberty](https://www.facebook.com/slovaksfl/)\n",
+        "tracks": [
+          "spolecnost"
+        ],
         "country": "sk",
         "photos": [
           "twitter:jpg"
@@ -4271,9 +4290,11 @@
       {
         "id": "sollarion",
         "type": "lightning",
-        "name": "Sollarion [TBD]",
+        "name": "Sollarion",
         "track": "nft",
-        "speakers": [],
+        "speakers": [
+          "ladislav-prekop"
+        ],
         "duration": 10,
         "parent": "lokalni-nft-intro",
         "tags": [
@@ -28031,7 +28052,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 118,
+      "speakers": 119,
       "tracks": 10,
       "event-types": 7,
       "events": 165,
@@ -28042,5 +28063,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T18:18:43.071Z"
+  "time": "2022-05-25T18:28:34.691Z"
 }

@@ -730,6 +730,9 @@
     "id": "jan-zibner",
     "name": "Jan Zibner",
     "orgs": "[Artiffine](https://www.artiffine.com/)\n",
+    "tracks": [
+      "nft"
+    ],
     "country": "cz",
     "photos": []
   },
@@ -996,6 +999,19 @@
     ]
   },
   {
+    "id": "ladislav-prekop",
+    "name": "Ladislav Prekop",
+    "twitter": "PrekopLadislav",
+    "orgs": "[Sollarion](https://sollarion.com/)\n",
+    "tracks": [
+      "nft"
+    ],
+    "country": "cz",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "lenka-hudakova",
     "name": "Lenka Hudáková",
     "nickname": "Lenkla",
@@ -1126,6 +1142,9 @@
       "url": "https://www.instagram.com/marianna_sadecka"
     },
     "orgs": "Spoluzakladatelka [Slovak Students For Liberty](https://www.facebook.com/slovaksfl/)\n",
+    "tracks": [
+      "spolecnost"
+    ],
     "country": "sk",
     "photos": [
       "twitter:jpg"

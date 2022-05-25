@@ -5,6 +5,7 @@
 ### Přednášející
 
 * přidáno [Jan Zibner](https://utxo.cz/lide?id=jan-zibner)
+* přidáno [Ladislav Prekop](https://utxo.cz/lide?id=ladislav-prekop)
 * přidáno [Marianna Sádecká](https://utxo.cz/lide?id=marianna-sadecka)
 
 ### Události
