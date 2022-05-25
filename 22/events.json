@@ -23,7 +23,7 @@
   {
     "id": "btc-vs-altcoiny",
     "type": "panel",
-    "name": "Bitcoin vs. altcoiny [TBD]",
+    "name": "Bitcoin vs. altcoiny",
     "speakers": [
       "libor-flossler",
       "josef-tetek",
@@ -43,7 +43,7 @@
     "fixed": {
       "date": "2022-06-05"
     },
-    "description": "Diskuze bude probíhat mezi Bitcoin maximalistou Pepou Tětkem a Krypto realistou Davidem Stancelem. Cílem prezentace bude otevřená diskuze o parametrech, smysluplnosti, ryzicích a potenciálním využití alterntivních kryptoměn v porovnání s Bitcoinem. Diskuzi bude moderovat Libor z Investocky.\n"
+    "description": "Diskuze bude probíhat mezi Bitcoin maximalistou Pepou Tětkem a Krypto realistou Davidem Stancelem. Cílem prezentace bude otevřená diskuze o parametrech, smysluplnosti, rizicích a potenciálním využití alterntivních kryptoměn v porovnání s Bitcoinem. Diskuzi bude moderovat Libor z Investocky.\n"
   },
   {
     "id": "nft-metaverse-panel",
@@ -1164,7 +1164,8 @@
       "NFT",
       "autorské právo"
     ],
-    "popularity": 0.5
+    "popularity": 0.5,
+    "description": "Koupili jste si NFT a stali jste se vlastníky Vašeho oblíbeného portrétu. Za miliony Kč. Já si ho stáhnul z webu. Zdarma. Umožňuje Vám právo nakládat s portrétem způsobem, jakým já nemohu? Nebo jsou naše práva v zásadě stejná? Co když si z portrétu udělám svoji profilovku? Můžete s tím něco dělat? Cílem přednášky je naučit diváky rozpoznat obsah práv spojených s konkrétním NFT a poradit, na co si dát při jejich nákupu pozor. Ze známých údajů se totiž jeví, že čím více práv k NFT dostanete, tím vyšší bude i jeho hodnota.\n"
   },
   {
     "id": "fediverse",
@@ -2225,6 +2226,22 @@
       "DAO",
       "gaming",
       "DeFi"
+    ]
+  },
+  {
+    "id": "investocka-workshop",
+    "name": "Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva",
+    "type": "workshop",
+    "track": "zaklady",
+    "speakers": [
+      "libor-flossler"
+    ],
+    "description": "Otevřená diskuze o aktuálním dění, chování centrálních bank, inflaci, úrokových sazbách, stabilitě finančního systému a o tom, jak se dá investovat v období všebubliny.\n",
+    "duration": 60,
+    "tags": [
+      "investice",
+      "inflace",
+      "portfolio"
     ]
   },
   {

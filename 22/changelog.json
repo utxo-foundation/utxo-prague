@@ -2086,6 +2086,10 @@
           "name": "Discord Bitcoinového kanálu"
         },
         {
+          "id": "investocka-workshop",
+          "name": "Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva"
+        },
+        {
           "id": "kryptoinsider-next",
           "name": "KryptoInsider: ? [TBD]"
         },
