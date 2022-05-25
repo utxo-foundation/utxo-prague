@@ -2124,6 +2124,10 @@
         {
           "id": "dane-a-krypto-qa",
           "name": "Daně a krypto - Q&A"
+        },
+        {
+          "id": "pokec-o-blockchain-gamingu",
+          "name": "Pokec o Blockchain gamingu, NFTs a Metaversu (KryptoHerna)"
         }
       ],
       "removed": [

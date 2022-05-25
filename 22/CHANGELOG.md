@@ -21,6 +21,7 @@
 * přidáno [CryptoByte 2022 - konference DIY](https://utxo.cz/udalosti?id=cryptobyte-konference-diy)
 * přidáno [NFTs jako (ne)dostupná příležitost? (Artiffine)](https://utxo.cz/udalosti?id=nfts-jako-ne-dostupna-prilezitost)
 * přidáno [Daně a krypto - Q&A](https://utxo.cz/udalosti?id=dane-a-krypto-qa)
+* přidáno [Pokec o Blockchain gamingu, NFTs a Metaversu (KryptoHerna)](https://utxo.cz/udalosti?id=pokec-o-blockchain-gamingu)
 
 ### Události
 
