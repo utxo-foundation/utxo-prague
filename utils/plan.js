@@ -364,13 +364,14 @@ class UTXOPlanner {
         }
       }
       // calculate exlusivity deviation
-      let exclusivityDev = 1
+      let exclusivityDev = 1;
       if (ev.popularity) {
-        const stage = this.stages.find(s => s.id === si.stage)
+        const stage = this.stages.find((s) => s.id === si.stage);
         if (stage.exclusivity) {
-          exclusivityDev = 1 - (ev.popularity > stage.exclusivity
-            ? (ev.popularity - stage.exclusivity)
-            : (stage.exclusivity - ev.popularity))
+          exclusivityDev = 1 -
+            (ev.popularity > stage.exclusivity
+              ? (ev.popularity - stage.exclusivity)
+              : (stage.exclusivity - ev.popularity));
         }
       }
 
@@ -379,7 +380,7 @@ class UTXOPlanner {
           prev + cur[0], 0) / crossings.length),
         tagsCrossing: (crossings.reduce((prev, cur) =>
           prev + cur[1], 0) / crossings.length),
-        exclusivityDev
+        exclusivityDev,
       };
     }
   }
@@ -520,19 +521,18 @@ async function main() {
       const outputFn = "./dist/22/schedule-candidates.json";
 
       if (appendResults) {
-        const current = JSON.parse(await Deno.readTextFile(outputFn))
+        const current = JSON.parse(await Deno.readTextFile(outputFn));
         for (const fi of plans) {
-          if (current.find(c => c.hash === fi.hash)) {
-            continue
+          if (current.find((c) => c.hash === fi.hash)) {
+            continue;
           }
-          current.push(fi)
+          current.push(fi);
         }
         const filtered = current.sort((x, y) =>
           x.metrics.score > y.metrics.score ? -1 : 1
         ).slice(0, 10);
         console.log(`Appending result: ${outputFn}`);
         Deno.writeTextFile(outputFn, JSON.stringify(filtered, null, 2));
-
       } else {
         const filtered = plans.sort((x, y) =>
           x.metrics.score > y.metrics.score ? -1 : 1
