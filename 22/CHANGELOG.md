@@ -12,6 +12,10 @@
 * odebráno [Future of DeFi](https://utxo.cz/udalosti?id=future-of-defi)
 * odebráno [Gwei.cz](https://utxo.cz/udalosti?id=gwei-cz)
 
+### Partneři
+
+* přidáno [BohemianDAO](https://utxo.cz/#partneri?id=bohemiandao)
+
 
 ## 24.5.2022
 

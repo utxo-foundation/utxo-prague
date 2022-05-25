@@ -192,6 +192,19 @@
     ]
   },
   {
+    "id": "bohemiandao",
+    "name": "BohemianDAO",
+    "type": "sponsor",
+    "twitter": "bohemiandao",
+    "web": {
+      "url": "https://bohemiandao.cz"
+    },
+    "desc": "Nezisková decentralizovaná autonomní organizace (DAO), vytvořená za účelem financování lokálních projektů podporující vzdělání a adopci platformy Ethereum a decentralizovaných financí (DeFi).",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "bitcoach",
     "name": "Bitcoach.org",
     "type": "sponsor",

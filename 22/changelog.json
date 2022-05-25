@@ -2086,6 +2086,13 @@
         }
       ]
     },
-    "partners": {}
+    "partners": {
+      "added": [
+        {
+          "id": "bohemiandao",
+          "name": "BohemianDAO"
+        }
+      ]
+    }
   }
 ]
