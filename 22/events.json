@@ -151,7 +151,7 @@
       "lukas-kovanda",
       "dominik-stroukal"
     ],
-    "duration": 85,
+    "duration": 55,
     "difficulty": "beginner",
     "popularity": 0.8,
     "tags": [
@@ -2720,7 +2720,7 @@
   {
     "id": "kryptoinsider-sladkovsky",
     "type": "campfire",
-    "name": "KryptoInsider: Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní [TBD]",
+    "name": "KryptoInsider: Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní",
     "track": "regulace",
     "speakers": [
       "jaromir-sladkovsky",
@@ -3030,7 +3030,8 @@
       "stage": "pitevna"
     },
     "tags": [
-      "music"
+      "hudba",
+      "DJs"
     ],
     "description": "Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)\n\n## Eddie Mur (KZ)\nNarodil se v Kazachstánu, ale domovem je pro něj Praha. Jeho otec ho seznámil s dýdžejskou technikou a vzbudil v něm lásku k hudbě obecně. Eddie se 20 let přibližoval a zkoumal různé druhy hudebních žánrů z celé škály až do nedávné doby, kdy se neodvratně zamiloval do housu a minimalu. Jeho atmosférické sety nyní pomáhají budovat pražskou undergroundovou scénu.\n\n[eddrum @ SoundCloud](https://soundcloud.com/eddrum)\n\n## Sam Gittis (US)\nSam Gittis, který mísí deep house s digitálním uměním, vytváří taneční hudbu, hraje v nočních klubech a zároveň je kurátorem první pražské galerie NFT Crypto Portal, zapustil kořeny v undergroundové umělecké kultuře. Míchání spojení mezi lidmi, uměním a zvukem je jeho silnou stránkou a chce, aby se stalo základem jeho cesty do web3. \n\n[samgittis @ SoundCloud](https://soundcloud.com/samgittis)\n\n## dMIT.RY (CZ)\ndMIT.RY okupuje místní a mezinárodní djské stánky již více než 14 let. Za tu dobu prošel různými fázemi klubové hudby, nasál mnoho vlivů, nedržel se jednoho stylu a vždy hledal další svěží věc, přičemž respektoval kořeny.\n\nAčkoli je v současné době v režimu spánku, jeho label Neo Violence si získal slušnou celosvětovou pozornost během tzv. lo-fi house éry, kdy vydal 4 vinyly & 23 digitálních releasů, na kterých se podílela jména z celého světa, jako například J.Albert, Low Tape nebo Rudolf C a další.\n\nKromě toho, že má za sebou řadu rezidencí po pražských klubech a na jejich parketech představil řadu zahraničních hostů, se dMIT.RY již 8 let stará o booking v oblíbeném Groove Baru, kde dává příležitost začínajícím i zavedeným místním DJs.\nRádio je další dlouhodobou aktivitou na jeho seznamu. Kromě toho, že je rezidentním moderátorem žižkovského Radia Punctum od jeho počátků, pořádal také 3 roky dvouměsíční show na Rinse France, kde světu představoval nejnovější & nadcházející klubové releasy.\n\nA aby toho nebylo málo, za zmínku stojí i jeho vystoupení na berlínském HÖRu v rámci showcase Neo Violence nebo jeho mix pro Crack Magazine, který je zaměřen na CZ/SK producenty.\n\n[dmit-ry @ SoundCloud](https://soundcloud.com/dmit-ry)\n"
   },
@@ -3051,8 +3052,8 @@
   },
   {
     "id": "coinstory-krest",
-    "type": "other",
-    "track": "other",
+    "type": "talk",
+    "track": "defi",
     "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]",
     "speakers": [
       "david-stancel"
@@ -3065,7 +3066,8 @@
     "tags": [
       "křest",
       "budoucnost",
-      "diskuze"
+      "diskuze",
+      "DeFi"
     ]
   },
   {
@@ -3097,7 +3099,8 @@
       "stage": "rajska-zahrada"
     },
     "tags": [
-      "music"
+      "hudba",
+      "DJs"
     ]
   },
   {
@@ -3142,7 +3145,7 @@
       "stage": "lustrovy-sal"
     },
     "tags": [
-      "music"
+      "živá hudba"
     ],
     "description": "Violoncello duo concert (mix vážné a pop music)\n"
   },
@@ -3150,7 +3153,7 @@
     "id": "party-lustrovy-sal",
     "type": "other",
     "track": "other",
-    "name": "Reprodukovaná hudba",
+    "name": "DJs [TBD]",
     "speakers": [],
     "duration": 110,
     "fixed": {
@@ -3158,11 +3161,12 @@
       "stage": "lustrovy-sal"
     },
     "tags": [
-      "music"
+      "hudba",
+      "DJs"
     ]
   },
   {
-    "id": "party-campfire-indoor-chiptune",
+    "id": "gweicz-music-stage",
     "type": "other",
     "track": "other",
     "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]",
@@ -3175,7 +3179,7 @@
       "stage": "campfire-indoor"
     },
     "tags": [
-      "music"
+      "hudba"
     ],
     "description": "Pojďte popít a potancovat na prapodivnou diskotéku v rytmu osmibitů s Gwei.cz komunitou. 👾🎵🤘\n"
   }
