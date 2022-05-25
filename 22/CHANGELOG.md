@@ -10,6 +10,7 @@
 ### Události
 
 * přidáno [TERRAGEDON: Kolaps UST a LUNA](https://utxo.cz/udalosti?id=terragedon-kolaps-ust-luna)
+* přidáno [Daně a krypto - Q&A (workshop)](https://utxo.cz/udalosti?id=dane-a-krypto-qa-campfire)
 * přidáno [Discord Bitcoinového kanálu](https://utxo.cz/udalosti?id=bitcoinovej-kanal-komunita)
 * přidáno [Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva](https://utxo.cz/udalosti?id=investocka-workshop)
 * přidáno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-next)
@@ -18,6 +19,7 @@
 * přidáno [Crypto-weddings-rituals](https://utxo.cz/udalosti?id=crypto-weddings-rituals)
 * přidáno [CryptoByte 2022 - konference DIY](https://utxo.cz/udalosti?id=cryptobyte-konference-diy)
 * přidáno [NFTs jako (ne)dostupná příležitost? (Artiffine)](https://utxo.cz/udalosti?id=nfts-jako-ne-dostupna-prilezitost)
+* přidáno [Daně a krypto - Q&A](https://utxo.cz/udalosti?id=dane-a-krypto-qa)
 
 ### Události
 

@@ -2082,6 +2082,10 @@
           "name": "TERRAGEDON: Kolaps UST a LUNA"
         },
         {
+          "id": "dane-a-krypto-qa-campfire",
+          "name": "Daně a krypto - Q&A (workshop)"
+        },
+        {
           "id": "bitcoinovej-kanal-komunita",
           "name": "Discord Bitcoinového kanálu"
         },
@@ -2112,6 +2116,10 @@
         {
           "id": "nfts-jako-ne-dostupna-prilezitost",
           "name": "NFTs jako (ne)dostupná příležitost? (Artiffine)"
+        },
+        {
+          "id": "dane-a-krypto-qa",
+          "name": "Daně a krypto - Q&A"
         }
       ],
       "removed": [

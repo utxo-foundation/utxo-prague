@@ -778,6 +778,7 @@
       {
         "id": "jana-kubatova",
         "name": "Jana Kubátová",
+        "nickname": "Qubi",
         "twitter": "NfTense",
         "bio": "Idea-maker, copywriter, kurátorka, manažerka projektů\n",
         "orgs": "Spoluzakladatelka [NFTense](https://twitter.com/NfTense) a [The Divergents](https://thedivergents.io/)\n",
@@ -2729,11 +2730,12 @@
           "regulace",
           "daně"
         ],
-        "fixed": {
-          "stage": "rajska-zahrada"
-        },
         "description": "Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější. Daňové tipy, triky a rady jsou seřazeny od těch nejjednodušších až po ty nejkomplexnější, nejdražší a nejsložitější postupy pro \"velké kluky\" z krypta.\n",
-        "popularity": 1
+        "popularity": 1,
+        "fixed": {
+          "stage": "rajska-zahrada",
+          "date": "2022-06-04"
+        }
       },
       {
         "id": "jan-krypto-zmenilo-zabehle-firemni-struktury",
@@ -3962,6 +3964,28 @@
         ]
       },
       {
+        "id": "dane-a-krypto-qa-campfire",
+        "type": "workshop",
+        "name": "Daně a krypto - Q&A (workshop)",
+        "track": "regulace",
+        "speakers": [
+          "kirill-juran"
+        ],
+        "duration": 60,
+        "difficulty": "beginner",
+        "tags": [
+          "daně",
+          "regulace"
+        ],
+        "description": "Neformální talk o daních v praxi. Jak funguje finančák, jaké má nástroje, co jsou nejnovější poznatky, co lze očekávat v budoucích letech? O tom všem se můžete s Kirillem pobavit na neformálním campfire. Pokračování debaty z prvního dne, navazuje na [Daňové triky tipy a kouzla](https://utxo.cz/udalosti?id=danove-triky-a-kouzla) a [Daně a krypto - Q&A (campfire)](https://utxo.cz/udalosti?id=dane-a-krypto-qa).\n",
+        "fixed": {
+          "date": "2022-06-05"
+        },
+        "after": [
+          "danove-triky-a-kouzla"
+        ]
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -5085,6 +5109,28 @@
         "fixed": {
           "date": "2022-06-04"
         }
+      },
+      {
+        "id": "dane-a-krypto-qa",
+        "type": "campfire",
+        "name": "Daně a krypto - Q&A",
+        "track": "regulace",
+        "speakers": [
+          "kirill-juran"
+        ],
+        "duration": 30,
+        "difficulty": "beginner",
+        "tags": [
+          "daně",
+          "regulace"
+        ],
+        "description": "Neformální talk o daních v praxi. Jak funguje finančák, jaké má nástroje, co jsou nejnovější poznatky, co lze očekávat v budoucích letech? O tom všem se můžete s Kirillem pobavit na neformálním workshopu.\n",
+        "fixed": {
+          "date": "2022-06-04"
+        },
+        "after": [
+          "danove-triky-a-kouzla"
+        ]
       },
       {
         "id": "party-electronic-stage",
@@ -25330,7 +25376,7 @@
       "speakers": 118,
       "tracks": 10,
       "event-types": 7,
-      "events": 163,
+      "events": 165,
       "stages": 10,
       "faqs": 6,
       "partners": 33,
@@ -25338,5 +25384,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-25T17:08:11.847Z"
+  "time": "2022-05-25T17:44:59.297Z"
 }
