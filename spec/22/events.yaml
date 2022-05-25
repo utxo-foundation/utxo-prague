@@ -17,12 +17,16 @@
     - lenka-stawarczyk
   track: zaklady
   duration: 85
-  difficulty: beginner
+  difficulty: advanced
   tags:
     - práce
+    - lifestyle
+    - budoucnost
     - finanční nezávislost
     - ženy
   popularity: 0.9
+  description: |
+    Největší rozdíly “normální” práce a práce v kryptu? A proč vůbec přecházet? Jsou hlavní motivací obvykle prachy? První práce v kryptu umí být náraz. Mentální i fyzický. Tady se dozvíte, co pomáhá to ustát. A vytušíte, jaké to je, pracovat v kryptu a jestli je to pro vás. A jako bonus se možná i dozvíte kudy na to.
 
 - id: btc-vs-altcoiny
   type: panel
@@ -1387,14 +1391,19 @@
 
 - id: krypto-z-pohledu-rodicu
   type: workshop
-  name: Krypto z pohledu rodičů
+  name: Krypto pohledem rodičů
   track: zaklady
   speakers: [ sona-parke ]
   duration: 50
   difficulty: beginner
   tags:
+    - rodina
+    - komunikace
+    - bezpečnost
     - finanční gramotnost
     - děti
+  description: |
+    V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.
 
 - id: bleskomat-worskhop
   type: workshop
