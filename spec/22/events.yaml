@@ -2266,7 +2266,7 @@
 - id: sollarion-campfire
   type: campfire
   name: Sollarion introduction and giveaway
-  speakers: []
+  speakers: [ ladislav-prekop ]
   track: nft
   duration: 30
   difficulty: beginner
