@@ -2042,6 +2042,7 @@
     "parent": "lokalni-projekty-intro",
     "description": "DCA spoření do kryptoměn ([web](http://stosuj.cz/)).\n",
     "tags": [
+      "DCA",
       "spoření",
       "Bitcoin"
     ]
@@ -2837,7 +2838,7 @@
   },
   {
     "id": "bitcoin-mindset-session",
-    "name": "Bitcoin Mindset [TBD]",
+    "name": "Bitcoin Mindset - prezentace + Q&A",
     "type": "campfire",
     "track": "zaklady",
     "speakers": [
@@ -2851,7 +2852,8 @@
     ],
     "fixed": {
       "date": "2022-06-04"
-    }
+    },
+    "description": "Užitečný pomocník pro kryptonadšence, který je k dispozici zcela zdarma jako aplikace pro Android, iOS nebo jako rozšíření do webového prohlížeče. Jedná se o šikovnou kalkulačku, která umí bleskově přepočítat hodnotu jednotlivých měn/kryptoměn mezi sebou. Zadaná hodnota v kterékoliv měně/kryptoměně se ihned přepočte do všech ostatních zvolených měn. Další užitečnou vlastností je například správa vlastního portfolia a možnost jednoduše přepnout všechny statistiky do jakékoliv zvolené měny.\nJednoduché nastavení, důraz na použitelnost a bez otravných reklam. Více info na: https://bitcoinmindset.org/\n"
   },
   {
     "id": "polkadot-parachainy-vs-smart-contracts",
@@ -2987,6 +2989,26 @@
       "Metaverse"
     ],
     "description": "Přidejte se k neformálnímu setkání komunity [KryptoHerny](/udalosti?id=kryptoherna) a všech nadšenců do blockchainových her. Sedneme si, probereme novinky, které se v oblasti objevily, vyměníme si názory a hlavně poznáme nové kolegy. Určitě se přidají i vývojáři z Česka a Slovenska, takže s nimi můžete rozebrat jejich projekty. Táborák nemá žádný cíl, tak si přijďte pokecat kdykoliv.\n",
+    "fixed": {
+      "date": "2022-06-04"
+    }
+  },
+  {
+    "id": "stosuj-campfire",
+    "name": "DCA automaticky na Štosuj.cz",
+    "type": "campfire",
+    "track": "zaklady",
+    "speakers": [
+      "lubos-kovarik"
+    ],
+    "duration": 30,
+    "difficulty": "beginner",
+    "tags": [
+      "DCA",
+      "spoření",
+      "bitcoin"
+    ],
+    "description": "Jak automatizovat svou DCA (Dollar-Cost Averaging) nákupní strategii kryptoměn. Představení českého projektu stosuj.cz a ukázka nastavení pravidelných nákupů. Představení dalších plánů naší služby - výpočet a automatizace exit strategie, rebalancing portfolia, edukační portál.\n",
     "fixed": {
       "date": "2022-06-04"
     }
