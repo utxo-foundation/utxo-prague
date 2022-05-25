@@ -531,11 +531,12 @@
   tags:
     - regulace
     - daně
-  fixed:
-    stage: rajska-zahrada
   description: |
     Jak zbytečně nedanit a na co si dát pozor. V přednášce se dozvíte, jak přemýšlet o daních v kryptu na vyšší úrovni. Dozvíte se jak základní tipy které by měl vědět každý, tak i high level postupy, které využívají ti nejzkušenější. Daňové tipy, triky a rady jsou seřazeny od těch nejjednodušších až po ty nejkomplexnější, nejdražší a nejsložitější postupy pro "velké kluky" z krypta.
   popularity: 1
+  fixed:
+    stage: rajska-zahrada
+    date: '2022-06-04'
 
 - id: jan-krypto-zmenilo-zabehle-firemni-struktury
   type: talk
@@ -1638,6 +1639,23 @@
     - trading
     - hedging
 
+- id: dane-a-krypto-qa-campfire
+  type: workshop
+  name: Daně a krypto - Q&A (workshop)
+  track: regulace
+  speakers: [ kirill-juran ]
+  duration: 60
+  difficulty: beginner
+  tags:
+    - daně
+    - regulace
+  description: |
+     Neformální talk o daních v praxi. Jak funguje finančák, jaké má nástroje, co jsou nejnovější poznatky, co lze očekávat v budoucích letech? O tom všem se můžete s Kirillem pobavit na neformálním campfire. Pokračování debaty z prvního dne, navazuje na [Daňové triky tipy a kouzla](https://utxo.cz/udalosti?id=danove-triky-a-kouzla) a [Daně a krypto - Q&A (campfire)](https://utxo.cz/udalosti?id=dane-a-krypto-qa).
+  fixed:
+    date: '2022-06-05'
+  after:
+    - danove-triky-a-kouzla
+
 
 # Lightning talks
 # ==========================
@@ -2688,6 +2706,22 @@
   fixed:
     date: '2022-06-04'
   
+- id: dane-a-krypto-qa
+  type: campfire
+  name: Daně a krypto - Q&A
+  track: regulace
+  speakers: [ kirill-juran ]
+  duration: 30
+  difficulty: beginner
+  tags:
+    - daně
+    - regulace
+  description: |
+     Neformální talk o daních v praxi. Jak funguje finančák, jaké má nástroje, co jsou nejnovější poznatky, co lze očekávat v budoucích letech? O tom všem se můžete s Kirillem pobavit na neformálním workshopu.
+  fixed:
+    date: '2022-06-04'
+  after:
+    - danove-triky-a-kouzla
 
 # Ostatní
 # ==========================
