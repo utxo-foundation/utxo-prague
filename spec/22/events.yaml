@@ -373,7 +373,7 @@
   name: Bitcoin a české korporace
   track: btc
   speakers: [ adam-lokaj ]
-  duration: 25
+  duration: 55
   difficulty: expert
   description: |
     Pokud se chcete se dozvědět, proč by se měla česká obchodní korporace zajímat o Bitcoin a jak by jej měla zařadit do svého fungování, tak přijďte. Konkrétně se dozvíte jednotlivé důvody pro adopci Bitcoinu, jak jí správně v rámci korporace provést, jak na to reaguje české daňové právo a účetnictví. Zároveň budou prezentovány příklady z praxe, kde adopce již proběhla.
@@ -1178,7 +1178,7 @@
 
 - id: dabluv-advokat-kryptopodvody-a-jine-problemy
   type: talk
-  name: Ďáblův advokát - kryptopodvody a jiné problémy [TBD]
+  name: Ďáblův advokát - kryptopodvody a jiné problémy
   track: zaklady
   speakers: [ giso ]
   duration: 25
@@ -1188,6 +1188,8 @@
     - scamy
     - bezpečnost
   popularity: 0.6
+  description: |
+    Budou jednoho dne kryptoměny ve spojení s decentralizací cestou ke svobodě každé žijící osoby na této planetě? Máme tady skutečně technologii, která posune svět z doby informační na dobu svobody a hojnosti? Uvědomujeme si opravdu veškerá rizika, která na nás a naše blízké čekají? Anebo snad jen žijeme v sociální bublině s klapkami na očích a nechceme si připustit, co se kolem nás skutečně odehrává? Pokud si myslíte, že nastal čas rozšířit si svůj pohled o negativní zážitky lidí, kteří při seznámení s kryptoměnami dostali tvrdou ránu, tak je tato přednáška přímo pro Vás.
 
  # Lightning talks (series)
  # =========================
@@ -1635,7 +1637,7 @@
   name: Daně a krypto - Q&A (workshop)
   track: regulace
   speakers: [ kirill-juran ]
-  duration: 60
+  duration: 50
   difficulty: beginner
   tags:
     - daně
@@ -1646,6 +1648,18 @@
     date: '2022-06-05'
   after:
     - danove-triky-a-kouzla
+
+- id: krypto-a-nemovitosti
+  type: workshop
+  name: Krypto a nemovitosti
+  track: zaklady
+  speakers: [ frantisek-kudrna ]
+  duration: 50
+  difficulty: beginner
+  tags:
+    - nemovitosti
+  description: |
+    Každý investor rád investuje do více typů aktiv, kryptoměnové investory nevyjímaje. Tento workshop bude proto o možném přelévání prostředků do konzervativní oblasti nemovitostí. Technologie blockchainu nalézá uplatnění v daleko více oblastech, než se může na první pohled zdát. Užitečnost decentralizované databáze je tedy dobré neomezovat pouze na aktuální ocenění dané kryptoměny a hledat pro její využití nové příležitosti.
 
 
 # Lightning talks
@@ -2763,9 +2777,9 @@
     - sam-gittis
     - dmitry
 
-  duration: 360
+  duration: 350
   fixed:
-    time: '1/20:00-23:59'
+    time: '1/20:00-02:00'
     stage: pitevna
   tags:
     - hudba
@@ -2840,7 +2854,7 @@
   speakers: []
   duration: 110
   fixed:
-    time: '1/22:00-23:59'
+    time: '1/22:00-00:00'
     stage: rajska-zahrada
   tags:
     - hudba
@@ -2889,7 +2903,7 @@
   speakers: []
   duration: 110
   fixed:
-    time: '1/22:00-23:59'
+    time: '1/22:00-00:00'
     stage: lustrovy-sal
   tags:
     - hudba
@@ -2901,9 +2915,9 @@
   name: Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]
   speakers:
     - tree
-  duration: 140
+  duration: 110
   fixed:
-    time: '1/19:30-22:00'
+    time: '1/20:00-22:00'
     stage: campfire-indoor
   tags:
     - hudba

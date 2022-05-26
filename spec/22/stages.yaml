@@ -10,6 +10,7 @@
     - '1/14:30-19:00'
     - '2/10:00-14:00'
     - '2/15:00-19:00'
+  livestream: true
 
 - id: lustrovy-sal
   name: Lustrový sál
@@ -23,6 +24,7 @@
     - '1/13:30-19:30'
     - '2/10:00-13:00'
     - '2/13:30-18:30'
+  livestream: true
 
 - id: klenbovy-sal
   name: Klenbový sál
@@ -36,6 +38,7 @@
     - '1/13:30-19:30'
     - '2/10:00-13:00'
     - '2/13:30-18:30'
+  livestream: true
 
 - id: exit-room
   name: Exit room
@@ -49,6 +52,7 @@
     - '1/14:00-19:30'
     - '2/10:00-13:30'
     - '2/14:00-18:30'
+  livestream: true
 
 - id: knihovna
   name: Knihovna
