@@ -14,6 +14,7 @@
 
 * přidáno [Satoshi Labs](https://utxo.cz/#partneri?id=satoshilabs)
 * přidáno [Marketing & Media](https://utxo.cz/#partneri?id=marketing-media)
+* přidáno [Pen&Production](https://utxo.cz/#partneri?id=pen-production)
 
 
 ## 25.5.2022

@@ -5981,6 +5981,15 @@
         "type": "supplier",
         "twitter": "marketingamedia",
         "photos": []
+      },
+      {
+        "id": "pen-production",
+        "name": "Pen&Production",
+        "type": "supplier",
+        "web": {
+          "url": "https://www.ppmedia.cz/"
+        },
+        "photos": []
       }
     ],
     "projects": [
@@ -29274,10 +29283,10 @@
       "events": 173,
       "stages": 10,
       "faqs": 6,
-      "partners": 35,
+      "partners": 36,
       "projects": 72,
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-26T20:56:59.750Z"
+  "time": "2022-05-26T22:20:29.423Z"
 }
