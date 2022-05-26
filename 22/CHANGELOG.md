@@ -1,5 +1,16 @@
 # Changelog
 
+## 26.5.2022
+
+### Přednášející
+
+* přidáno [František Kudrna](https://utxo.cz/lide?id=frantisek-kudrna)
+
+### Události
+
+* přidáno [Krypto a nemovitosti](https://utxo.cz/udalosti?id=krypto-a-nemovitosti)
+
+
 ## 25.5.2022
 
 ### Přednášející

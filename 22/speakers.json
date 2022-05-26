@@ -377,14 +377,24 @@
     "desc": "Mastodon: [fuxoft@kompost.cz](https://kompost.cz/@fuxoft)\n",
     "available": [
       {
-        "from": "2022-06-04T14:00:00",
-        "to": "2022-06-04T23:59:59"
-      },
-      {
-        "from": "2022-06-05T14:00:00",
+        "from": "2022-06-04T17:30:00",
         "to": "2022-06-05T23:59:59"
       }
     ],
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
+    "id": "frantisek-kudrna",
+    "name": "František Kudrna",
+    "twitter": "fkudrna",
+    "orgs": "CFO @ [Altlift](https://www.altlift.cz/)\n",
+    "tracks": [
+      "zaklady"
+    ],
+    "country": "cz",
+    "desc": "František se v oblasti kryptoměn pohybuje od počátku roku 2016. Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids\n",
     "photos": [
       "web:jpg"
     ]
