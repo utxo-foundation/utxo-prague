@@ -10,6 +10,11 @@
 
 * přidáno [Krypto a nemovitosti](https://utxo.cz/udalosti?id=krypto-a-nemovitosti)
 
+### Partneři
+
+* přidáno [Satoshi Labs](https://utxo.cz/#partneri?id=satoshilabs)
+* přidáno [Marketing & Media](https://utxo.cz/#partneri?id=marketing-media)
+
 
 ## 25.5.2022
 

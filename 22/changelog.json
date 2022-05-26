@@ -2214,6 +2214,17 @@
         }
       ]
     },
-    "partners": {}
+    "partners": {
+      "added": [
+        {
+          "id": "satoshilabs",
+          "name": "Satoshi Labs"
+        },
+        {
+          "id": "marketing-media",
+          "name": "Marketing & Media"
+        }
+      ]
+    }
   }
 ]

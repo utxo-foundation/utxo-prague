@@ -386,5 +386,19 @@
     "photos": [
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "satoshilabs",
+    "name": "Satoshi Labs",
+    "type": "supplier",
+    "twitter": "satoshilabs",
+    "photos": []
+  },
+  {
+    "id": "marketing-media",
+    "name": "Marketing & Media",
+    "type": "supplier",
+    "twitter": "marketingamedia",
+    "photos": []
   }
 ]

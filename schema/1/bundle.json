@@ -227,7 +227,8 @@
             "enum": [
               "sponsor",
               "community",
-              "medium"
+              "medium",
+              "supplier"
             ]
           },
           "twitter": {
