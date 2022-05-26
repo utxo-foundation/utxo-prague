@@ -19,6 +19,7 @@ items:
         - sponsor
         - community
         - medium
+        - supplier
     twitter:
       type: string
       pattern: '^[a-zA-Z0-9_]+$'

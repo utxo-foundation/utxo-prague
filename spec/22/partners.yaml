@@ -234,3 +234,18 @@
   desc: Youtube kanál
   web:
     url: https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg
+
+# Suppliers
+# ======================
+
+- id: satoshilabs
+  name: Satoshi Labs
+  type: supplier
+  twitter: satoshilabs
+
+- id: marketing-media
+  name: Marketing & Media
+  type: supplier
+  twitter: marketingamedia
+
+
