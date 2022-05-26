@@ -908,15 +908,18 @@
       {
         "id": "josef-vacek",
         "name": "Josef Vacek",
+        "nickname": "atris.eth",
         "twitter": "atris_eth",
         "linkedin": "josef-v-19021b128",
-        "orgs": "Vývojář v [Decentree](https://decentree.com/)\n",
+        "bio": "Full-stack web dev",
+        "orgs": "Vývojář v [Decentree](https://decentree.com/), [Moralis](https://moralis.io/)\n",
         "tracks": [
           "eth",
           "defi"
         ],
         "country": "cz",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -29359,5 +29362,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-26T23:03:41.692Z"
+  "time": "2022-05-26T23:29:28.055Z"
 }
