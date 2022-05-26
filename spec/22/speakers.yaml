@@ -1301,7 +1301,7 @@
 
 - id: frantisek-kudrna
   name: František Kudrna
-  twitter: fkudrna
+  linkedin: fkudrna
   orgs: |
     CFO @ [Altlift](https://www.altlift.cz/)
   tracks: [ zaklady ]
@@ -1309,5 +1309,22 @@
   desc: |
     František se v oblasti kryptoměn pohybuje od počátku roku 2016. Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids
 
+- id: tomas-martykan
+  name: Tomáš Martykán
+  twitter: tom_martykan
+  linkedin: tomas-martykan
+  orgs: |
+    Vývojář v [Decentree](https://decentree.com/)
+  tracks: [ eth, defi ]
+  country: cz
+
+- id: josef-vacek
+  name: Josef Vacek
+  twitter: atris_eth
+  linkedin: josef-v-19021b128
+  orgs: |
+    Vývojář v [Decentree](https://decentree.com/)
+  tracks: [ eth, defi ]
+  country: cz
 
 
