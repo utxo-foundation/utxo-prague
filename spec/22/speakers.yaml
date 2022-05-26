@@ -1320,10 +1320,12 @@
 
 - id: josef-vacek
   name: Josef Vacek
+  nickname: atris.eth
   twitter: atris_eth
   linkedin: josef-v-19021b128
+  bio: Full-stack web dev
   orgs: |
-    Vývojář v [Decentree](https://decentree.com/)
+    Vývojář v [Decentree](https://decentree.com/), [Moralis](https://moralis.io/)
   tracks: [ eth, defi ]
   country: cz
 
