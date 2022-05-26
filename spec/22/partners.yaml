@@ -248,4 +248,9 @@
   type: supplier
   twitter: marketingamedia
 
+- id: pen-production
+  name: Pen&Production
+  type: supplier
+  web:
+    url: https://www.ppmedia.cz/
 
