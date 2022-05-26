@@ -388,7 +388,7 @@
   {
     "id": "frantisek-kudrna",
     "name": "František Kudrna",
-    "twitter": "fkudrna",
+    "linkedin": "fkudrna",
     "orgs": "CFO @ [Altlift](https://www.altlift.cz/)\n",
     "tracks": [
       "zaklady"
@@ -872,6 +872,21 @@
     ],
     "photos": [
       "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "josef-vacek",
+    "name": "Josef Vacek",
+    "twitter": "atris_eth",
+    "linkedin": "josef-v-19021b128",
+    "orgs": "Vývojář v [Decentree](https://decentree.com/)\n",
+    "tracks": [
+      "eth",
+      "defi"
+    ],
+    "country": "cz",
+    "photos": [
       "twitter:jpg"
     ]
   },
@@ -1871,6 +1886,21 @@
     "desc": "Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.\n",
     "photos": [
       "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "tomas-martykan",
+    "name": "Tomáš Martykán",
+    "twitter": "tom_martykan",
+    "linkedin": "tomas-martykan",
+    "orgs": "Vývojář v [Decentree](https://decentree.com/)\n",
+    "tracks": [
+      "eth",
+      "defi"
+    ],
+    "country": "cz",
+    "photos": [
       "twitter:jpg"
     ]
   },

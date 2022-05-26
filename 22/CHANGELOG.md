@@ -5,10 +5,14 @@
 ### Přednášející
 
 * přidáno [František Kudrna](https://utxo.cz/lide?id=frantisek-kudrna)
+* přidáno [Josef Vacek](https://utxo.cz/lide?id=josef-vacek)
+* přidáno [Tomáš Martykán](https://utxo.cz/lide?id=tomas-martykan)
 
 ### Události
 
 * přidáno [Krypto a nemovitosti](https://utxo.cz/udalosti?id=krypto-a-nemovitosti)
+* přidáno [Ďáblův advokát - navazující diskuse](https://utxo.cz/udalosti?id=dabluv-advokat-campfire)
+* přidáno [Jak vyvíjet na blockchainu od A do Z](https://utxo.cz/udalosti?id=jan-vyvijet-na-blockchainu-od-a-do-z)
 
 ### Partneři
 

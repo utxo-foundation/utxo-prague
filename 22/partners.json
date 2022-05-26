@@ -392,14 +392,18 @@
     "name": "Satoshi Labs",
     "type": "supplier",
     "twitter": "satoshilabs",
-    "photos": []
+    "photos": [
+      "twitter:jpg"
+    ]
   },
   {
     "id": "marketing-media",
     "name": "Marketing & Media",
     "type": "supplier",
     "twitter": "marketingamedia",
-    "photos": []
+    "photos": [
+      "twitter:jpg"
+    ]
   },
   {
     "id": "pen-production",

@@ -2203,6 +2203,14 @@
         {
           "id": "frantisek-kudrna",
           "name": "František Kudrna"
+        },
+        {
+          "id": "josef-vacek",
+          "name": "Josef Vacek"
+        },
+        {
+          "id": "tomas-martykan",
+          "name": "Tomáš Martykán"
         }
       ]
     },
@@ -2211,6 +2219,14 @@
         {
           "id": "krypto-a-nemovitosti",
           "name": "Krypto a nemovitosti"
+        },
+        {
+          "id": "dabluv-advokat-campfire",
+          "name": "Ďáblův advokát - navazující diskuse"
+        },
+        {
+          "id": "jan-vyvijet-na-blockchainu-od-a-do-z",
+          "name": "Jak vyvíjet na blockchainu od A do Z"
         }
       ]
     },

@@ -3031,6 +3031,43 @@
     }
   },
   {
+    "id": "dabluv-advokat-campfire",
+    "name": "Ďáblův advokát - navazující diskuse",
+    "type": "campfire",
+    "track": "zaklady",
+    "speakers": [
+      "giso"
+    ],
+    "duration": 30,
+    "description": "Volně navazující debata k přednášce [Ďáblův advokát - kryptopodvody a jiné problémy](https://utxo.cz/udalosti?id=dabluv-advokat-kryptopodvody-a-jine-problemy). Campfire bude narozdíl od přednášky zaměřen více na dialog, tudíž bude dost prostoru i na Vaše dotazy. Zároveň díky tomu budete mít možnost získat detailnější informace, které na přednášce nezazní. (Účast na přednášce není nutná pro následnou návštěvu volné debaty)\n",
+    "tags": [
+      "podvody",
+      "scamy",
+      "bezpečnost"
+    ],
+    "after": [
+      "dabluv-advokat-kryptopodvody-a-jine-problemy"
+    ]
+  },
+  {
+    "id": "jan-vyvijet-na-blockchainu-od-a-do-z",
+    "name": "Jak vyvíjet na blockchainu od A do Z",
+    "type": "campfire",
+    "track": "eth",
+    "speakers": [
+      "tomas-martykan",
+      "josef-vacek"
+    ],
+    "duration": 30,
+    "description": "V tomto campfiru budete mít možnost probrat s našimi zkušenými blockchain vývojáři veškeré dotazy, které vás o blockchain vývoji zajímají. Jaká technologie je nejvhodnější pro fintech? A jaká naopak pro NFTs? Jaké jsou klady a zápory vyvíjení na Ethereu? Tyto, i veškeré další technologické dotazy, vám rádi zodpovíme a rádi zkonzultujeme i vaše nápady.\n",
+    "tags": [
+      "Ethereum",
+      "vývoj",
+      "smart-kontrakty",
+      "NFT"
+    ]
+  },
+  {
     "id": "party-electronic-stage",
     "type": "other",
     "track": "other",
