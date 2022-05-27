@@ -1,0 +1,14 @@
+- id: doprava
+  name: 'Doprava'
+  text: |
+    TBA
+
+- id: jidlo-piti
+  name: 'Jídlo a pití'
+  text: |
+    TBA
+
+- id: ubytovani
+  name: 'Ubytování'
+  text: |
+    TBA

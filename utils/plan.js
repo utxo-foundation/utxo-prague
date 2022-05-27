@@ -105,12 +105,10 @@ class UTXOPlanner {
     const [dayNumber, period] = str.split("/");
     const [start, end] = period.split("-");
     const date = index.dates[Number(dayNumber) - 1];
-    const endDate = end > start
-      ? date
-      : format(
-        new Date((new Date(date)).getTime() + (1000 * 60 * 60 * 24)),
-        "yyyy-MM-dd",
-      );
+    const endDate = end > start ? date : format(
+      new Date((new Date(date)).getTime() + (1000 * 60 * 60 * 24)),
+      "yyyy-MM-dd",
+    );
     return {
       start: parse(`${date} ${start}`, "yyyy-MM-dd HH:mm"),
       end: parse(`${endDate} ${end}`, "yyyy-MM-dd HH:mm"),
