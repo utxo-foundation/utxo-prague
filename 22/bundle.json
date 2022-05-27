@@ -65,23 +65,6 @@
         ]
       },
       {
-        "id": "adela-sipova",
-        "name": "Adéla Šípová",
-        "twitter": "adela_sipova",
-        "linkedin": "adelasipova",
-        "orgs": "Senátorka za [Pirátskou stranu](https://www.pirati.cz/)\n",
-        "country": "cz",
-        "web": {
-          "url": "https://www.adelasipova.cz/"
-        },
-        "tracks": [
-          "regulace"
-        ],
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "ales-janda",
         "name": "Aleš Janda",
         "linkedin": "alesjanda",
@@ -792,6 +775,22 @@
         "photos": [
           "web:jpg",
           "twitter:jpg"
+        ]
+      },
+      {
+        "id": "jana-sedlakova",
+        "name": "Jana Sedláková",
+        "twitter": "janasedlkov7",
+        "orgs": "Managing partner [Sedláková Legal](https://www.sedlakovalegal.cz/cs/tym/5)\n",
+        "web": {
+          "url": "https://www.sedlakovalegal.cz/"
+        },
+        "tracks": [
+          "regulace"
+        ],
+        "country": "cz",
+        "photos": [
+          "web:jpg"
         ]
       },
       {
@@ -2413,7 +2412,7 @@
           "martin-panek",
           "michal-hardyn",
           "jiri-havranek",
-          "adela-sipova",
+          "jana-sedlakova",
           "hana-kocourkova"
         ],
         "track": "spolecnost",
@@ -30196,5 +30195,5 @@
       "practical-info": 3
     }
   },
-  "time": "2022-05-27T13:58:31.218Z"
+  "time": "2022-05-27T14:37:47.400Z"
 }

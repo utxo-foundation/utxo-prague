@@ -2252,8 +2252,18 @@
     "speakers": {
       "added": [
         {
+          "id": "jana-sedlakova",
+          "name": "Jana Sedláková"
+        },
+        {
           "id": "oldrich-peslar",
           "name": "Oldřich Peslar"
+        }
+      ],
+      "removed": [
+        {
+          "id": "adela-sipova",
+          "name": "Adéla Šípová"
         }
       ]
     },

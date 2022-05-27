@@ -4,7 +4,12 @@
 
 ### Přednášející
 
+* přidáno [Jana Sedláková](https://utxo.cz/lide?id=jana-sedlakova)
 * přidáno [Oldřich Peslar](https://utxo.cz/lide?id=oldrich-peslar)
+
+### Přednášející
+
+* odebráno [Adéla Šípová](https://utxo.cz/lide?id=adela-sipova)
 
 ### Události
 
