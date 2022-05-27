@@ -1,7 +1,6 @@
 import { format, parse } from "https://deno.land/std@0.139.0/datetime/mod.ts";
-import { UTXOEngine } from "./engine.js";
-import { MultiProgressBar } from "https://deno.land/x/progress@v1.2.4/mod.ts";
 import { createHash } from "https://deno.land/std/hash/mod.ts";
+import { UTXOEngine } from "./engine.js";
 
 const utxo = new UTXOEngine({ silent: true });
 await utxo.init();

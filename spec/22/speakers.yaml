@@ -1016,16 +1016,16 @@
   country: cz
   tracks: [ defi ]
 
-- id: adela-sipova
-  name: Adéla Šípová
-  twitter: adela_sipova
-  linkedin: adelasipova
-  orgs: |
-    Senátorka za [Pirátskou stranu](https://www.pirati.cz/)
-  country: cz
-  web:
-    url: https://www.adelasipova.cz/
-  tracks: [ regulace ]
+# - id: adela-sipova
+# name: Adéla Šípová
+#  twitter: adela_sipova
+#  linkedin: adelasipova
+#  orgs: |
+#    Senátorka za [Pirátskou stranu](https://www.pirati.cz/)
+#  country: cz
+#  web:
+#    url: https://www.adelasipova.cz/
+#  tracks: [ regulace ]
 
 - id: hana-kocourkova
   name: Hana Kocourková
@@ -1336,5 +1336,15 @@
   orgs: |
     Head of legal @ [Rockaway Blockchain Fund](https://rbf.capital/)
   tracks: [ regulace ]
+  country: cz
+
+- id: jana-sedlakova
+  name: Jana Sedláková
+  twitter: janasedlkov7
+  orgs: |
+    Managing partner [Sedláková Legal](https://www.sedlakovalegal.cz/cs/tym/5)
+  web:
+    url: https://www.sedlakovalegal.cz/
+  track: [ regulace ]
   country: cz
 
