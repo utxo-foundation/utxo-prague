@@ -411,7 +411,8 @@
         "country": "cz",
         "desc": "František se v oblasti kryptoměn pohybuje od počátku roku 2016. Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -790,7 +791,8 @@
         ],
         "country": "cz",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -30195,5 +30197,5 @@
       "practical-info": 3
     }
   },
-  "time": "2022-05-27T14:37:47.400Z"
+  "time": "2022-05-27T14:39:58.141Z"
 }
