@@ -121,8 +121,6 @@ for (const entryId of utxo.entriesList()) {
           }
         }
       });
-    }
-    if (["events"].includes(specId)) {
       Deno.test(`UTXO.${entryId}: ${specId}[fixed-stages]`, () => {
         const stages = entry.specs.stages.map((s) => s.id);
         for (const item of entry.specs[specId]) {
