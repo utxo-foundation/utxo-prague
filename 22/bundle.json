@@ -29395,6 +29395,23 @@
         "hash": "cc66f20af1f660cef5e60164a52c0a706a481693ef3362a045cdf6eb866b6ece",
         "time": "2022-05-25T23:27:11.667Z"
       }
+    ],
+    "practical-info": [
+      {
+        "id": "doprava",
+        "name": "Doprava",
+        "text": "TBA\n"
+      },
+      {
+        "id": "jidlo-piti",
+        "name": "Jídlo a pití",
+        "text": "TBA\n"
+      },
+      {
+        "id": "ubytovani",
+        "name": "Ubytování",
+        "text": "TBA\n"
+      }
     ]
   },
   "stats": {
@@ -29407,8 +29424,9 @@
       "faqs": 6,
       "partners": 36,
       "projects": 72,
-      "schedule-candidates": 10
+      "schedule-candidates": 10,
+      "practical-info": 3
     }
   },
-  "time": "2022-05-27T00:32:01.666Z"
+  "time": "2022-05-27T01:17:04.290Z"
 }

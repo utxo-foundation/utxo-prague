@@ -1,0 +1,25 @@
+{
+  "$id": "https://spec.utxo.cz/schema/1/practical-info.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "name",
+      "text"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "name": {
+        "type": "string"
+      },
+      "text": {
+        "type": "string"
+      }
+    }
+  }
+}
