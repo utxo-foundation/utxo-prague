@@ -8,8 +8,9 @@
     "2022-06-05"
   ],
   "scheduleTimes": [
-    "1/09:00-23:30",
-    "2/10:00-19:00"
+    "1/09:00-20:00/Sobota 4.6.2022",
+    "1/20:00-02:00/UTXO.Party (sobota večer)",
+    "2/10:00-19:00/Neděle 5.6.2022"
   ],
   "place": "Gabriel Loci, Praha",
   "country": "Czech Republic",
@@ -44,7 +45,7 @@
       "speakers": 121,
       "tracks": 10,
       "event-types": 7,
-      "events": 175,
+      "events": 177,
       "stages": 10,
       "faqs": 6,
       "partners": 36,
@@ -52,5 +53,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-26T23:29:28.055Z"
+  "time": "2022-05-27T00:16:42.833Z"
 }

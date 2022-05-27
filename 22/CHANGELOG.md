@@ -1,5 +1,13 @@
 # Changelog
 
+## 27.5.2022
+
+### Události
+
+* přidáno [Základy mintování NFTs (KodaDot) [TBD]](https://utxo.cz/udalosti?id=zaklady-mintovani-nft)
+* přidáno [Jak na tvorbu domácího finančního derivátu (v kryptu) … a proč se o to vůbec pokoušet](https://utxo.cz/udalosti?id=jak-na-tvorbu-domaciho-derivatu)
+
+
 ## 26.5.2022
 
 ### Přednášející

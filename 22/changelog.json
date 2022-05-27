@@ -2246,5 +2246,22 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-05-27",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "zaklady-mintovani-nft",
+          "name": "Základy mintování NFTs (KodaDot) [TBD]"
+        },
+        {
+          "id": "jak-na-tvorbu-domaciho-derivatu",
+          "name": "Jak na tvorbu domácího finančního derivátu (v kryptu) … a proč se o to vůbec pokoušet"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

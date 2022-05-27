@@ -8,8 +8,9 @@
     "2022-06-05"
   ],
   "scheduleTimes": [
-    "1/09:00-23:30",
-    "2/10:00-19:00"
+    "1/09:00-20:00/Sobota 4.6.2022",
+    "1/20:00-02:00/UTXO.Party (sobota večer)",
+    "2/10:00-19:00/Neděle 5.6.2022"
   ],
   "place": "Gabriel Loci, Praha",
   "country": "Czech Republic",
@@ -4042,6 +4043,55 @@
         "description": "Každý investor rád investuje do více typů aktiv, kryptoměnové investory nevyjímaje. Tento workshop bude proto o možném přelévání prostředků do konzervativní oblasti nemovitostí. Technologie blockchainu nalézá uplatnění v daleko více oblastech, než se může na první pohled zdát. Užitečnost decentralizované databáze je tedy dobré neomezovat pouze na aktuální ocenění dané kryptoměny a hledat pro její využití nové příležitosti.\n"
       },
       {
+        "id": "investocka-workshop",
+        "name": "Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva",
+        "type": "workshop",
+        "track": "zaklady",
+        "speakers": [
+          "libor-flossler"
+        ],
+        "difficulty": "beginner",
+        "description": "Otevřená diskuze o aktuálním dění, chování centrálních bank, inflaci, úrokových sazbách, stabilitě finančního systému a o tom, jak se dá investovat v období všebubliny.\n",
+        "duration": 50,
+        "tags": [
+          "investice",
+          "inflace",
+          "portfolio"
+        ]
+      },
+      {
+        "id": "zaklady-mintovani-nft",
+        "name": "Základy mintování NFTs (KodaDot) [TBD]",
+        "type": "workshop",
+        "track": "nft",
+        "speakers": [
+          "damsky"
+        ],
+        "difficulty": "expert",
+        "duration": 50,
+        "tags": [
+          "NFT",
+          "Polkadot"
+        ]
+      },
+      {
+        "id": "jak-na-tvorbu-domaciho-derivatu",
+        "name": "Jak na tvorbu domácího finančního derivátu (v kryptu) … a proč se o to vůbec pokoušet",
+        "type": "workshop",
+        "track": "defi",
+        "speakers": [
+          "jan-rosko"
+        ],
+        "difficulty": "expert",
+        "duration": 50,
+        "tags": [
+          "deriváty",
+          "DeFi",
+          "investice"
+        ],
+        "description": "Přednáška krátce představí kategorii finančních derivátů a ukáže, jak mohou správně použité deriváty naplnit náš investiční cíl lépe než jednoduchá spotová pozice či drahý investiční certifikát z banky. Dozvíte se, že i retailový účastník trhu je schopný vytvořit si relativně jednoduše a pomocí běžně dostupných nástrojů finanční derivát tak, aby plnil jeho požadavky na výnos, diverzifikaci a především riziko. Představených bude několik idejí, jedná se spíše o myšlenkové koncepty a způsob uvažování než o konkrétní návody. Určeno pro pokročilé, kteří znají rozdíl mezi spotovou a derivátovou pozicí, tuší jaké jsou principy DeFi a ví, co je to stop-loss.\n"
+      },
+      {
         "id": "cryptobyte-recap",
         "type": "lightning",
         "name": "CryptoByte",
@@ -4464,22 +4514,6 @@
           "DAO",
           "gaming",
           "DeFi"
-        ]
-      },
-      {
-        "id": "investocka-workshop",
-        "name": "Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva",
-        "type": "workshop",
-        "track": "zaklady",
-        "speakers": [
-          "libor-flossler"
-        ],
-        "description": "Otevřená diskuze o aktuálním dění, chování centrálních bank, inflaci, úrokových sazbách, stabilitě finančního systému a o tom, jak se dá investovat v období všebubliny.\n",
-        "duration": 60,
-        "tags": [
-          "investice",
-          "inflace",
-          "portfolio"
         ]
       },
       {
@@ -29354,7 +29388,7 @@
       "speakers": 121,
       "tracks": 10,
       "event-types": 7,
-      "events": 175,
+      "events": 177,
       "stages": 10,
       "faqs": 6,
       "partners": 36,
@@ -29362,5 +29396,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-26T23:29:28.055Z"
+  "time": "2022-05-27T00:16:42.833Z"
 }
