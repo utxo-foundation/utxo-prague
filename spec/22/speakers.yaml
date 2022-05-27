@@ -1329,4 +1329,11 @@
   tracks: [ eth, defi ]
   country: cz
 
+- id: oldrich-peslar
+  name: Oldřich Peslar
+  linkedin: oldrich-peslar
+  orgs: |
+    Head of legal @ [Rockaway Blockchain Fund](https://rbf.capital/)
+  tracks: [ regulace ]
+  country: cz
 
