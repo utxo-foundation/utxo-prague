@@ -18,7 +18,11 @@
       "2/10:00-14:00",
       "2/15:00-19:00"
     ],
-    "livestream": true
+    "livestream": true,
+    "streams": [
+      "1/08:45-19:30/jJUn50_iyFI",
+      "2/09:45-19:15/xxxxx"
+    ]
   },
   {
     "id": "lustrovy-sal",
@@ -39,7 +43,11 @@
       "2/10:00-13:00",
       "2/13:30-18:30"
     ],
-    "livestream": true
+    "livestream": true,
+    "streams": [
+      "1/09:15-19:30/jJUn50_iyFI",
+      "2/09:45-18:30/xxxxx"
+    ]
   },
   {
     "id": "klenbovy-sal",
@@ -59,7 +67,11 @@
       "2/10:00-13:00",
       "2/13:30-18:30"
     ],
-    "livestream": true
+    "livestream": true,
+    "streams": [
+      "1/09:15-19:30/pS5khAKucq8",
+      "2/09:45-18:30/xxxxx"
+    ]
   },
   {
     "id": "exit-room",
@@ -78,7 +90,11 @@
       "2/10:00-13:30",
       "2/14:00-18:30"
     ],
-    "livestream": true
+    "livestream": true,
+    "streams": [
+      "1/09:15-19:30/bqiZ2xih6Jk",
+      "2/09:45-18:30/xxxxx"
+    ]
   },
   {
     "id": "knihovna",
