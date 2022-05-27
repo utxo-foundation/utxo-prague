@@ -1661,6 +1661,45 @@
   description: |
     Každý investor rád investuje do více typů aktiv, kryptoměnové investory nevyjímaje. Tento workshop bude proto o možném přelévání prostředků do konzervativní oblasti nemovitostí. Technologie blockchainu nalézá uplatnění v daleko více oblastech, než se může na první pohled zdát. Užitečnost decentralizované databáze je tedy dobré neomezovat pouze na aktuální ocenění dané kryptoměny a hledat pro její využití nové příležitosti.
 
+- id: investocka-workshop
+  name: Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva
+  type: workshop
+  track: zaklady
+  speakers: [ libor-flossler ]
+  difficulty: beginner
+  description: |
+    Otevřená diskuze o aktuálním dění, chování centrálních bank, inflaci, úrokových sazbách, stabilitě finančního systému a o tom, jak se dá investovat v období všebubliny.
+  duration: 50
+  tags:
+    - investice
+    - inflace
+    - portfolio
+ 
+- id: zaklady-mintovani-nft
+  name: Základy mintování NFTs (KodaDot) [TBD]
+  type: workshop
+  track: nft
+  speakers: [ damsky ]
+  difficulty: expert
+  duration: 50
+  tags:
+    - NFT
+    - Polkadot
+
+- id: jak-na-tvorbu-domaciho-derivatu
+  name: Jak na tvorbu domácího finančního derivátu (v kryptu)
+  type: workshop
+  track: defi
+  speakers: [ jan-rosko ]
+  difficulty: expert
+  duration: 50
+  tags:
+    - deriváty
+    - DeFi
+    - investice
+  description: |
+    Přednáška krátce představí kategorii finančních derivátů a ukáže, jak mohou správně použité deriváty naplnit náš investiční cíl lépe než jednoduchá spotová pozice či drahý investiční certifikát z banky. Dozvíte se, že i retailový účastník trhu je schopný vytvořit si relativně jednoduše a pomocí běžně dostupných nástrojů finanční derivát tak, aby plnil jeho požadavky na výnos, diverzifikaci a především riziko. Představených bude několik idejí, jedná se spíše o myšlenkové koncepty a způsob uvažování než o konkrétní návody. Určeno pro pokročilé, kteří znají rozdíl mezi spotovou a derivátovou pozicí, tuší jaké jsou principy DeFi a ví, co je to stop-loss.
+
 
 # Lightning talks
 # ==========================
@@ -2086,19 +2125,6 @@
     - DAO
     - gaming
     - DeFi
-
-- id: investocka-workshop
-  name: Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva
-  type: workshop
-  track: zaklady
-  speakers: [ libor-flossler ]
-  description: |
-    Otevřená diskuze o aktuálním dění, chování centrálních bank, inflaci, úrokových sazbách, stabilitě finančního systému a o tom, jak se dá investovat v období všebubliny.
-  duration: 60
-  tags:
-    - investice
-    - inflace
-    - portfolio
 
 
 # Campfire
