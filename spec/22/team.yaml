@@ -19,21 +19,20 @@ persons:
     name: Simona Pacáková
     twitter: SPacakova
 
+  exez:
+    name: Exez
+    twitter: OndraPulc
+
   petr:
     name: Petr Klein
     twitter: kleinpetr_com
-
-  david:
-    name: DavidBankless
-    twitter: davidbankless
 
   jiri:
     name: Jiří Čepelka
     twitter: JiriCepelka
 
-  exez:
-    name: Exez
-    twitter: OndraPulc
+  tomassino:
+    name: Tomassino
 
   dusan:
     name: Dušan Kmetyo
@@ -43,8 +42,8 @@ persons:
     name: Dmitrij Malyšev
     twitter: dmit_ry
 
-  tomassino:
-    name: Tomassino
+  fullander:
+    name: Fullander
 
 teams:
 
