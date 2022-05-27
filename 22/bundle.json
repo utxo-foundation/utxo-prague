@@ -1414,6 +1414,19 @@
         ]
       },
       {
+        "id": "oldrich-peslar",
+        "name": "Oldřich Peslar",
+        "linkedin": "oldrich-peslar",
+        "orgs": "Head of legal @ [Rockaway Blockchain Fund](https://rbf.capital/)\n",
+        "tracks": [
+          "regulace"
+        ],
+        "country": "cz",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "ondrej-bajer",
         "name": "Ondřej Bajer",
         "nickname": "WaltΞer",
@@ -2372,7 +2385,8 @@
           "kirill-juran",
           "ondrej-kovarik",
           "frantisek-vinopal",
-          "tomas-elbert"
+          "tomas-elbert",
+          "oldrich-peslar"
         ],
         "track": "regulace",
         "duration": 85,
@@ -29385,7 +29399,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 121,
+      "speakers": 122,
       "tracks": 10,
       "event-types": 7,
       "events": 177,
@@ -29396,5 +29410,5 @@
       "schedule-candidates": 10
     }
   },
-  "time": "2022-05-27T00:16:42.833Z"
+  "time": "2022-05-27T00:32:01.666Z"
 }

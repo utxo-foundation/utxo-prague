@@ -2249,7 +2249,14 @@
   },
   {
     "date": "2022-05-27",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "oldrich-peslar",
+          "name": "Oldřich Peslar"
+        }
+      ]
+    },
     "events": {
       "added": [
         {

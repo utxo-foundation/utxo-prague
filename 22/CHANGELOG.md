@@ -2,6 +2,10 @@
 
 ## 27.5.2022
 
+### Přednášející
+
+* přidáno [Oldřich Peslar](https://utxo.cz/lide?id=oldrich-peslar)
+
 ### Události
 
 * přidáno [Základy mintování NFTs (KodaDot) [TBD]](https://utxo.cz/udalosti?id=zaklady-mintovani-nft)
