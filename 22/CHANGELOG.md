@@ -1,5 +1,12 @@
 # Changelog
 
+## 28.5.2022
+
+### Partneři
+
+* přidáno [esogames.cz](https://utxo.cz/#partneri?id=esogames)
+
+
 ## 27.5.2022
 
 ### Přednášející

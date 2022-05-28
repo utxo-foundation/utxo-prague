@@ -2442,7 +2442,7 @@
   {
     "id": "skovo",
     "type": "campfire",
-    "name": "Skovo.cz - ukázka [TBD]",
+    "name": "Udělej si vlastní Stress testy (Skovo.cz)",
     "track": "zaklady",
     "speakers": [
       "jiri-skrivan"
@@ -2451,11 +2451,13 @@
     "duration": 30,
     "tags": [
       "seed",
-      "bezpečnost"
+      "bezpečnost",
+      "hardware"
     ],
     "fixed": {
       "stage": "campfire-outdoor"
-    }
+    },
+    "description": "V rámci workshopu Vám nabízíme možnost vlastních Stress testů. Obsahem je požár domu a jeho následná demolice. Jak je provedeme? Pomocí nářadí, které se v tuto chvíli prezentuje pro práci s kovem, zaznamenáte jakýkoliv záznam. Záleží pouze na Vás. :) Poté přistoupíme ke zkoušce OHNĚM! (Tímto bychom chtěli poděkovat panu Janu Bradáčovi z [www.bradac3d.cz](https://www.bradac3d.cz/) za zapůjčení výhně). Výheň dosáhne teploty 1400°C  Tuto výheň je možné použít i na kovářské svařování a  její výplní je tzv. Sibral, což je kamenná vata, která teplo neabsorbuje, ale odráží. V dalším kroku materiál prudce zchladíme ve vodě a poté ho na drsném povrchu poškodíme nářadím určeném k demolici. Na závěr poskytneme zájemcům testovaný kryptoplate, aby si sami ověřili jeho čitelnost.\n"
   },
   {
     "id": "kodadot-campfire",

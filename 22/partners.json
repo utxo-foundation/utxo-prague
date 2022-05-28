@@ -413,5 +413,14 @@
       "url": "https://www.ppmedia.cz/"
     },
     "photos": []
+  },
+  {
+    "id": "esogames",
+    "name": "esogames.cz",
+    "type": "supplier",
+    "web": {
+      "url": "https://esogames.cz"
+    },
+    "photos": []
   }
 ]
