@@ -1,4 +1,4 @@
-# Seznam všech přednášejících
+# všech přednášejících
 # ---------------------------
 # JSON Schema Viewer: https://json-schema.app/view/%23%2Fdefinitions%2Fspeaker?url=https%3A%2F%2Fspec.utxo.cz%2Fschema%2F1%2Fbundle.json
 
@@ -191,7 +191,7 @@
     Člen [KryptoVláďa](https://www.kryptovlada.win) komunity
   tracks: [ zaklady, defi ]
   country: cz
-  description: |
+  desc: |
     O klasické trhy se zajímám více než 10 let, začínal jsem na akciích a kolem financí se motal neustále včetně studia VŠE. Zažil jsem si i praxi zprostředkovatele finančních produktů, ale zálibu nakonec objevil ve světě kryptoměn, který nabízí často i na první pohled nepředstavitelné možnosti. Baví mě nad věcmi přemýšlet z trochu jiného pohledu a využít široký rozhled ve svůj prospěch.
 
 - id: urza
