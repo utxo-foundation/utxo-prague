@@ -19,7 +19,7 @@ jobs:
 
       - name: Install npm modules
         run: |
-          cd tools/schedule-pdf && npm install
+          cd utils/schedule-pdf && npm install
 
       - name: Build sources
         run: make schedule-pdf
