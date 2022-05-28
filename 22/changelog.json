@@ -2283,7 +2283,14 @@
   },
   {
     "date": "2022-05-28",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "tino-forbidden",
+          "name": "Tino Hrnčiar"
+        }
+      ]
+    },
     "events": {},
     "partners": {
       "added": [

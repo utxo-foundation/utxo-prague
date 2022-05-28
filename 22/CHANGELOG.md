@@ -2,6 +2,10 @@
 
 ## 28.5.2022
 
+### Přednášející
+
+* přidáno [Tino Hrnčiar](https://utxo.cz/lide?id=tino-forbidden)
+
 ### Partneři
 
 * přidáno [esogames.cz](https://utxo.cz/#partneri?id=esogames)

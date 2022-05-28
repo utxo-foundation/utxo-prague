@@ -75,18 +75,27 @@
   {
     "id": "nft-usecases-panel",
     "type": "panel",
-    "name": "Potenciál tokenizace aktiv je nad rámec umění a sběratelství v blízké budoucnosti [TBD]",
+    "name": "Potenciál NFT je větší než jen digitální umění a sběratelství",
     "speakers": [
-      "lenka-hudakova",
-      "matej-zimak"
+      "tino-forbidden",
+      "matej-zimak",
+      "jan-zibner",
+      "matej-yangwao"
     ],
+    "properties": {
+      "moderators": [
+        "tino-forbidden"
+      ]
+    },
     "duration": 55,
     "difficulty": "advanced",
     "track": "nft",
     "tags": [
-      "NFT"
+      "NFT",
+      "tokenizace"
     ],
-    "popularity": 0.7
+    "popularity": 0.7,
+    "description": "NFT je často spojované s mánií kolem sbírek kreslených obrázků nebo digitálního umění za astronomické ceny. Potenciál nezaměnitelných tokenů jako technologie je ovšem daleko větší - od způsobů, jak konzumujeme produkty a služby, jak dokazujeme vlastnictví nebo zkušenosti, až po výkon určitých práv. V jakých oblastech se dá NFT uplatnit dnes a co všechno může být NFT v budoucnosti? Debatu bude moderovat Tino Hrnčiar (Tino Forbidden).\n"
   },
   {
     "id": "nft-curation-art-heritage",
@@ -98,6 +107,11 @@
       "derek-alois-halsey",
       "giovanna-graziosi-casimiro"
     ],
+    "properties": {
+      "moderators": [
+        "michaela-malatin"
+      ]
+    },
     "duration": 55,
     "difficulty": "expert",
     "track": "nft",
