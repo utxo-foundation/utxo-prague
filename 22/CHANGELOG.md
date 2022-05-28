@@ -6,6 +6,11 @@
 
 * přidáno [Tino Hrnčiar](https://utxo.cz/lide?id=tino-forbidden)
 
+### Události
+
+* přidáno [NFT Combinator [EN]](https://utxo.cz/udalosti?id=nft-combinator)
+* přidáno [Navazující diskuze po přednášce FIRE movement](https://utxo.cz/udalosti?id=fire-movement-tomas-campfire)
+
 ### Partneři
 
 * přidáno [esogames.cz](https://utxo.cz/#partneri?id=esogames)

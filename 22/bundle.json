@@ -5356,6 +5356,44 @@
         ]
       },
       {
+        "id": "nft-combinator",
+        "name": "NFT Combinator [EN]",
+        "type": "campfire",
+        "duration": 15,
+        "speakers": [],
+        "track": "nft",
+        "description": "NFT Combinator is an incubator for digital artists backed by the leading blockchain security company Quantstamp. In the NFT Combinator we help artists break into the digital art world. Our team work with artists on the project's vision, smart contract minting, marketing and go-to-market strategies.\n",
+        "tags": [
+          "NFT",
+          "inkubátor"
+        ],
+        "fixed": {
+          "date": "2022-06-05"
+        }
+      },
+      {
+        "id": "fire-movement-tomas-campfire",
+        "name": "Navazující diskuze po přednášce FIRE movement",
+        "type": "campfire",
+        "duration": 15,
+        "speakers": [
+          "tomas-kryptovlada"
+        ],
+        "track": "spolecnost",
+        "description": "V případě zájmu si projdeme konkrétní služby, které na cestě k finanční nezávislosti mohou pomoci. A také si ukážeme místa, kde takové aplikace hledat, když jsou ještě méně známé a často tedy výhodnější.\n",
+        "tags": [
+          "finanční nezávislost",
+          "DeFi",
+          "lending"
+        ],
+        "after": [
+          "fire-movement"
+        ],
+        "fixed": {
+          "date": "2022-06-04"
+        }
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
@@ -32508,7 +32546,7 @@
       "speakers": 123,
       "tracks": 10,
       "event-types": 7,
-      "events": 177,
+      "events": 179,
       "stages": 10,
       "faqs": 6,
       "partners": 37,
@@ -32517,5 +32555,5 @@
       "practical-info": 3
     }
   },
-  "time": "2022-05-28T14:26:11.507Z"
+  "time": "2022-05-28T18:06:13.866Z"
 }

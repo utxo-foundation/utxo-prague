@@ -2291,7 +2291,18 @@
         }
       ]
     },
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "nft-combinator",
+          "name": "NFT Combinator [EN]"
+        },
+        {
+          "id": "fire-movement-tomas-campfire",
+          "name": "Navazující diskuze po přednášce FIRE movement"
+        }
+      ]
+    },
     "partners": {
       "added": [
         {
