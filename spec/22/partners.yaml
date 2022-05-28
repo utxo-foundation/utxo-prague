@@ -254,3 +254,9 @@
   web:
     url: https://www.ppmedia.cz/
 
+- id: esogames
+  name: esogames.cz
+  type: supplier
+  web:
+    url: https://esogames.cz
+
