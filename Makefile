@@ -87,3 +87,7 @@ schedule-multi:
 	tmux split-window -d "make schedule num=$(num) append=true"
 	tmux split-window -d "make schedule num=$(num) append=true"
 	tmux attach
+
+schedule-pdf:
+	mkdir -p dist/22/pdf && cd utils/schedule-pdf && node index.js $(local)
+

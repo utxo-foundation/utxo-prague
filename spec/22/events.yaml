@@ -2833,6 +2833,37 @@
     - smart-kontrakty
     - NFT
 
+- id: nft-combinator
+  name: NFT Combinator [EN]
+  type: campfire
+  duration: 15
+  speakers: []
+  track: nft
+  description: |
+    NFT Combinator is an incubator for digital artists backed by the leading blockchain security company Quantstamp. In the NFT Combinator we help artists break into the digital art world. Our team work with artists on the project's vision, smart contract minting, marketing and go-to-market strategies.
+  tags:
+    - NFT
+    - inkubátor
+  fixed:
+    date: '2022-06-05'
+
+- id: fire-movement-tomas-campfire
+  name: Navazující diskuze po přednášce FIRE movement
+  type: campfire
+  duration: 15
+  speakers: [ tomas-kryptovlada ]
+  track: spolecnost
+  description: |
+    V případě zájmu si projdeme konkrétní služby, které na cestě k finanční nezávislosti mohou pomoci. A také si ukážeme místa, kde takové aplikace hledat, když jsou ještě méně známé a často tedy výhodnější.
+  tags:
+    - finanční nezávislost
+    - DeFi
+    - lending
+  after:
+    - fire-movement
+  fixed:
+    date: '2022-06-04'
+
 # Ostatní
 # ==========================
 

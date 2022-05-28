@@ -1,0 +1,35 @@
+name: Generate schedule PDFs
+
+on:
+schedule:
+  - cron:  '30 5,17 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+           fetch-depth: 0
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '17'
+
+      - name: Install npm modules
+        run: |
+          cd tools/schedule-pdf && npm install
+
+      - name: Build sources
+        run: make schedule-pdf
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/master' }}
+        with:
+          external_repository: utxo-foundation/pub.utxo.cz
+          personal_token: ${{ secrets.TOKEN_DOCS }}
+          publish_dir: ./dist/22/pdf
+          destination_dir: ./22/pdf
