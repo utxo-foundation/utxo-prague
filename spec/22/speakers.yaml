@@ -1288,10 +1288,13 @@
 
 - id: jan-zibner
   name: Jan Zibner
+  bio: Právník se specializací na právo duševního vlastnictví a digitální trendy
   orgs: |
-    [Artiffine](https://www.artiffine.com/)
+    CLO & spoluzakladatel [Artiffine](https://info.artiffine.com/)
   tracks: [ nft ]
   country: cz
+  desc: |
+    JUDr., Ph.D. IT/IP právník se specializací na právo duševního vlastnictví a digitální trendy, aktuálně jako CLO & Co-founder projektu Artiffine
 
 - id: ladislav-prekop
   name: Ladislav Prekop
@@ -1361,4 +1364,17 @@
     [Rumpel crew](https://rumpelcrew.com/), spoluzakladatel [Life is Porno](https://www.lifeisporno.com/)
   tracks: [ nft ]
   country: sk
+
+- id: martin-pulpan
+  name: Martin Půlpán
+  linkedin: martinpulpanprofile
+  bio: Krypto a blockchain nadšenec s byznysovým know-how
+  orgs: |
+    Spoluzakladatel [Artifine](htts://info.artiffine.com)
+  tracks: [ nft ]
+  country: cz
+  desc: |
+    Krypto a blockchain nadšenec s byznysovým know-how, aktuálně jako CEO & Co-founder projektu Artiffine
+
+
 
