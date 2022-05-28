@@ -1353,3 +1353,12 @@
   tracks: [ regulace ]
   country: cz
 
+- id: tino-forbidden
+  name: Tino Hrnčiar
+  nickname: Tino Forbidden
+  twitter: tinoforbidden
+  orgs: |
+    [Rumpel crew](https://rumpelcrew.com/), spoluzakladatel [Life is Porno](https://www.lifeisporno.com/)
+  tracks: [ nft ]
+  country: sk
+
