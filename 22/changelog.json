@@ -2286,6 +2286,10 @@
     "speakers": {
       "added": [
         {
+          "id": "martin-pulpan",
+          "name": "Martin Půlpán"
+        },
+        {
           "id": "tino-forbidden",
           "name": "Tino Hrnčiar"
         }

@@ -741,12 +741,16 @@
       {
         "id": "jan-zibner",
         "name": "Jan Zibner",
-        "orgs": "[Artiffine](https://www.artiffine.com/)\n",
+        "bio": "Právník se specializací na právo duševního vlastnictví a digitální trendy",
+        "orgs": "CLO & spoluzakladatel [Artiffine](https://info.artiffine.com/)\n",
         "tracks": [
           "nft"
         ],
         "country": "cz",
-        "photos": []
+        "desc": "JUDr., Ph.D. IT/IP právník se specializací na právo duševního vlastnictví a digitální trendy, aktuálně jako CLO & Co-founder projektu Artiffine\n",
+        "photos": [
+          "web:jpg"
+        ]
       },
       {
         "id": "jana-galvis",
@@ -1279,6 +1283,21 @@
         ],
         "photos": [
           "twitter:jpg"
+        ]
+      },
+      {
+        "id": "martin-pulpan",
+        "name": "Martin Půlpán",
+        "linkedin": "martinpulpanprofile",
+        "bio": "Krypto a blockchain nadšenec s byznysovým know-how",
+        "orgs": "Spoluzakladatel [Artifine](htts://info.artiffine.com)\n",
+        "tracks": [
+          "nft"
+        ],
+        "country": "cz",
+        "desc": "Krypto a blockchain nadšenec s byznysovým know-how, aktuálně jako CEO & Co-founder projektu Artiffine\n",
+        "photos": [
+          "web:jpg"
         ]
       },
       {
@@ -5243,7 +5262,8 @@
         "type": "campfire",
         "track": "nft",
         "speakers": [
-          "jan-zibner"
+          "jan-zibner",
+          "martin-pulpan"
         ],
         "duration": 30,
         "tags": [
@@ -32543,7 +32563,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 123,
+      "speakers": 124,
       "tracks": 10,
       "event-types": 7,
       "events": 179,
@@ -32555,5 +32575,5 @@
       "practical-info": 3
     }
   },
-  "time": "2022-05-28T18:15:42.049Z"
+  "time": "2022-05-28T21:20:27.344Z"
 }

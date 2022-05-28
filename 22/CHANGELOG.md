@@ -4,6 +4,7 @@
 
 ### Přednášející
 
+* přidáno [Martin Půlpán](https://utxo.cz/lide?id=martin-pulpan)
 * přidáno [Tino Hrnčiar](https://utxo.cz/lide?id=tino-forbidden)
 
 ### Události
