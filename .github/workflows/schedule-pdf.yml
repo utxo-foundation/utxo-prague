@@ -1,8 +1,8 @@
 name: Generate schedule PDFs
 
 on:
-schedule:
-  - cron:  '30 5,17 * * *'
+  schedule:
+    - cron:  '30 5,17 * * *'
 
 jobs:
   deploy:
