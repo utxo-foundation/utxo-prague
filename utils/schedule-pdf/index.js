@@ -29,7 +29,7 @@ async function makePdf (browser, item) {
 
 async function run () {
 
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ headless: true });
 
   const items = [
     { id: 'sobota', url: '/program?time=0', format: 'a3' },
