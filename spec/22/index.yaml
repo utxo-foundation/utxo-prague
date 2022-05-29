@@ -34,3 +34,4 @@ specDef:
   - type: team
   - type: schedule-candidates
   - type: practical-info
+  - type: schedule
