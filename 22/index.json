@@ -39,7 +39,8 @@
     "projects": "https://spec.utxo.cz/22/projects.json",
     "team": "https://spec.utxo.cz/22/team.json",
     "schedule-candidates": "https://spec.utxo.cz/22/schedule-candidates.json",
-    "practical-info": "https://spec.utxo.cz/22/practical-info.json"
+    "practical-info": "https://spec.utxo.cz/22/practical-info.json",
+    "schedule": "https://spec.utxo.cz/22/schedule.json"
   },
   "stats": {
     "counts": {
@@ -52,8 +53,9 @@
       "partners": 37,
       "projects": 72,
       "schedule-candidates": 11,
-      "practical-info": 3
+      "practical-info": 3,
+      "schedule": 151
     }
   },
-  "time": "2022-05-29T14:16:09.077Z"
+  "time": "2022-05-29T18:41:35.542Z"
 }
