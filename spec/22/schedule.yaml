@@ -195,18 +195,18 @@
     end: '2022-06-04T11:30:00.000Z'
   event: hackujeme-defi-arbitraze
 - id: bm
-  date: '2022-06-04'
-  stage: klenbovy-sal
+  date: '2022-06-05'
+  stage: exit-room
   period:
-    start: '2022-06-04T10:00:00.000Z'
-    end: '2022-06-04T11:00:00.000Z'
+    start: '2022-06-05T08:00:00.000Z'
+    end: '2022-06-05T09:00:00.000Z'
   event: guildy-odf-dao-organizacni-revoluce
 - id: b2
   date: '2022-06-04'
   stage: exit-room
   period:
-    start: '2022-06-04T10:30:00.000Z'
-    end: '2022-06-04T11:30:00.000Z'
+    start: '2022-06-04T11:00:00.000Z'
+    end: '2022-06-04T12:00:00.000Z'
   event: uvod-cosmos-ekosystem
 - id: ds
   date: '2022-06-04'
@@ -755,11 +755,11 @@
     end: '2022-06-04T14:00:00.000Z'
   event: terragedon-kolaps-ust-luna
 - id: b0
-  date: '2022-06-05'
+  date: '2022-06-04'
   stage: klenbovy-sal
   period:
-    start: '2022-06-05T10:00:00.000Z'
-    end: '2022-06-05T11:00:00.000Z'
+    start: '2022-06-04T10:00:00.000Z'
+    end: '2022-06-04T11:00:00.000Z'
   event: uvod-do-polkadot
 - id: av
   date: '2022-06-05'
