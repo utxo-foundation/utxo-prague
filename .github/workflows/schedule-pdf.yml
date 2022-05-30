@@ -3,6 +3,9 @@ name: Generate schedule PDFs
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '*/30 * * * *'
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
