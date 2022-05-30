@@ -905,8 +905,8 @@
   date: '2022-06-05'
   stage: exit-room
   period:
-    start: '2022-06-05T13:00:00.000Z'
-    end: '2022-06-05T14:00:00.000Z'
+    start: '2022-06-05T15:00:00.000Z'
+    end: '2022-06-05T16:00:00.000Z'
   event: mise-projektu-cardano
 - id: ai
   date: '2022-06-05'
@@ -982,8 +982,8 @@
   date: '2022-06-05'
   stage: exit-room
   period:
-    start: '2022-06-05T15:00:00.000Z'
-    end: '2022-06-05T16:00:00.000Z'
+    start: '2022-06-05T13:00:00.000Z'
+    end: '2022-06-05T14:00:00.000Z'
   event: polkadot-governance
 - id: dl
   date: '2022-06-05'
