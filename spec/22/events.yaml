@@ -2596,7 +2596,7 @@
     time: '2/18:00-18:30'
 
 - id: rbf-labs-venture-studio
-  name: RBF Labs - Venture studio
+  name: 'Venture studio a vývoj produktů v DeFi/web3'
   type: campfire
   track: defi
   speakers:
@@ -2608,7 +2608,7 @@
     - financování
     - VC
   description: |
-    RBF Labs je nový subjekt zaměřený na vývoj softwarových produktů ve web3 prostoru. Rockaway Blockchain Fund byl v době založení Labs již diversifikovaný: kromě VC aktivit zaroven provozuje Yield fund investující do DeFi a validatory vybranych blockchainových projektů ([RBF Staking](https://rbf.capital/staking/)). Ukáži dva produkty, které jsme v Labs vytvořili pro Yield fund a vysvětlím, jak hledáme a vyhodnocujeme nové příležitosti.
+    Na blockchainu mohou i malé týmy rychle vytvářet užitečné produkty a testovat trh: pěněženky, tvorba komunity/airdropy a aktivní open-source ekosystém nahrazují přihlašovací infrastrukturu, tradiční marketing a uzavřené API služby. Jak tedy najít projekty s největším potenciálem? Vysvětlím náš přístup na příkladu a ukážu dva produkty, které jsou již v provozu. Například náš [investment risk dashboard](https://ydash.rbf.capital) svou hodnotu již jednoznačně prokázal při ochraně investic do DeFi.
   fixed:
     date: '2022-06-04'
 
