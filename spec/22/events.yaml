@@ -1775,19 +1775,6 @@
   description: |
     Představa, že si čtete zprávy na Twitteru a bez námahy tím vyděláváte, zní možná až příliš snově. Česká mobilní aplikace [Tweetoshi](https://tweetoshi.com/) nicméně tuto myšlenku přetváří v realitu – a rovnou vás za aktivitu na jedné z nejoblíbenějších sociálních sítí platí v bitcoinech, které si můžete nechat, nebo je dále darovat vašim oblíbeným tvůrcům. Tým okolo Tweetoshi se skládá ze známých jmen jako je Matěj Švancer (aka KRYPTO Mates), Marek Palatinus (aka Slush) a nebo Alex Pilař.
 
-- id: baserank
-  type: lightning
-  name: Baserank
-  track: btc
-  speakers: [ ondrej-pilny ]
-  duration: 10
-  parent: lokalni-projekty-intro
-  tags:
-    - rating
-    - investice
-  description: |
-    [Baserank](https://baserank.io/) pomáhá investorům lépe porozumět potenciálu a rizikům investic do krypto aktiv.
-
 - id: pwn
   type: lightning
   name: PWN Finance
@@ -2134,6 +2121,19 @@
     - DAO
     - gaming
     - DeFi
+
+- id: baserank
+  type: lightning
+  name: Baserank
+  track: btc
+  speakers: [ ondrej-pilny ]
+  duration: 10
+  parent: lokalni-projekty-intro
+  tags:
+    - rating
+    - investice
+  description: |
+    [Baserank](https://baserank.io/) pomáhá investorům lépe porozumět potenciálu a rizikům investic do krypto aktiv.
 
 
 # Campfire
