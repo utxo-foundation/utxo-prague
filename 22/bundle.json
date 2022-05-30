@@ -3779,25 +3779,6 @@
         "description": "Workshopem navážeme na stejnojmennou přednášku [DeFi pro začátečníky](/udalosti?id=defi-pro-zacatecniky), tentokrát mnohem víc technicky, všechno si prakticky ukážeme a probereme. Vezměte si s sebou notebooky popřípadě telefony s jakoukoliv smart kontrakt peněženkou a prostředky na ní, na workshop samozřejmě půjde jít i bez notebooku/telefonu a jenom se koukat, pro lepší zážitek bude ale lepší si něco donést.\n\n## Ideální peněženky a sítě\n### PC peněženky\nMetamask: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... ) \nKelpr: ( Terra Luna, Osmosis, Juno, Secret Network, KAVA,..... )\n\n### peněženky do telefonu\nTrust Wallet: ( Ethereum, Polygon, Gnosis Chain, BSC, ...... )\nKelpr: ( Osmosis ) \n\n**Nejlepší bude samozřejmě využít levné síťe , Ethereum je spíš pro větší kapitál a na vyzkoušení budou lepší ostatní síťe které mají pro začátečníky přívětivé poplatky.*\n"
       },
       {
-        "id": "krypto-z-pohledu-rodicu",
-        "type": "workshop",
-        "name": "Krypto pohledem rodičů",
-        "track": "zaklady",
-        "speakers": [
-          "sona-parke"
-        ],
-        "duration": 50,
-        "difficulty": "beginner",
-        "tags": [
-          "rodina",
-          "komunikace",
-          "bezpečnost",
-          "finanční gramotnost",
-          "děti"
-        ],
-        "description": "V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.\n"
-      },
-      {
         "id": "bleskomat-worskhop",
         "type": "workshop",
         "name": "Postav si svůj Bleskomat (DIY)",
@@ -5411,6 +5392,25 @@
         "fixed": {
           "date": "2022-06-04"
         }
+      },
+      {
+        "id": "krypto-z-pohledu-rodicu",
+        "type": "campfire",
+        "name": "Krypto pohledem rodičů",
+        "track": "zaklady",
+        "speakers": [
+          "sona-parke"
+        ],
+        "duration": 50,
+        "difficulty": "beginner",
+        "tags": [
+          "rodina",
+          "komunikace",
+          "bezpečnost",
+          "finanční gramotnost",
+          "děti"
+        ],
+        "description": "V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.\n"
       },
       {
         "id": "party-electronic-stage",
@@ -8244,10 +8244,10 @@
       {
         "id": "cx",
         "date": "2022-06-04",
-        "stage": "white-workshop-room",
+        "stage": "campfire-indoor",
         "period": {
-          "start": "2022-06-04T16:30:00.000Z",
-          "end": "2022-06-04T17:30:00.000Z"
+          "start": "2022-06-04T08:30:00.000Z",
+          "end": "2022-06-04T09:30:00.000Z"
         },
         "event": "krypto-z-pohledu-rodicu"
       },
@@ -9057,5 +9057,5 @@
       "schedule": 153
     }
   },
-  "time": "2022-05-30T11:34:16.414Z"
+  "time": "2022-05-30T11:36:27.772Z"
 }
