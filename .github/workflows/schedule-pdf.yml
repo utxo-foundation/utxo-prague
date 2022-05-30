@@ -17,6 +17,10 @@ jobs:
         with:
           node-version: '17'
 
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/Prague"
+
       - name: Install npm modules
         run: |
           cd utils/schedule-pdf && npm ci
