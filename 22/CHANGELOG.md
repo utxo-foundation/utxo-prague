@@ -9,6 +9,7 @@
 ### Události
 
 * přidáno [Jak se uživit jako crypto trader?](https://utxo.cz/udalosti?id=jak-se-uzivit-jako-crypto-trader)
+* přidáno [Parallel Polis, Bordel & shit talk about nation states and rules](https://utxo.cz/udalosti?id=parallel-popis-bordel-shit-talk-about-nation-states-rules)
 
 
 ## 28.5.2022

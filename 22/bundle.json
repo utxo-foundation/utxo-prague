@@ -5445,6 +5445,23 @@
         ]
       },
       {
+        "id": "parallel-popis-bordel-shit-talk-about-nation-states-rules",
+        "type": "campfire",
+        "name": "Parallel Polis, Bordel & shit talk about nation states and rules",
+        "track": "spolecnost",
+        "speakers": [
+          "mario-havel"
+        ],
+        "duration": 60,
+        "difficulty": "beginner",
+        "description": "Mário Havel a Josef Je z Bordel Hackerspace, Paralelní Polis vás pozývajú na pokec u táboráku, resp campfire session, kde si spolu zanadávame na štáty a preberieme možnosti budovania alternatívy k systému postavenému na násilí. Kryptoanarchia nám dáva možnosti budovať paralelnú spoločnosť a ekonomiku, no však nie je to jednoduché. Stačí na to Bitcoin alebo potrebujeme iné nástroje? Akými výzvami si prechádza/la Paralelní Polis? A ako do toho zapadá Bordel?\n",
+        "tags": [
+          "bordel",
+          "komunity",
+          "ParallerPolis"
+        ]
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
@@ -9082,6 +9099,16 @@
           "end": "2022-06-05T13:00:00.000Z"
         },
         "event": "jak-se-uzivit-jako-crypto-trader"
+      },
+      {
+        "id": "ek",
+        "date": "2022-06-05",
+        "stage": "campfire-indoor",
+        "period": {
+          "start": "2022-06-05T13:00:00.000Z",
+          "end": "2022-06-05T14:00:00.000Z"
+        },
+        "event": "parallel-popis-bordel-shit-talk-about-nation-states-rules"
       }
     ]
   },
@@ -9090,14 +9117,14 @@
       "speakers": 125,
       "tracks": 10,
       "event-types": 7,
-      "events": 180,
+      "events": 181,
       "stages": 10,
       "faqs": 6,
       "partners": 37,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 154
+      "schedule": 155
     }
   },
-  "time": "2022-05-30T13:57:48.360Z"
+  "time": "2022-05-30T14:06:14.811Z"
 }

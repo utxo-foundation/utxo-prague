@@ -1538,5 +1538,15 @@
       "end": "2022-06-05T13:00:00.000Z"
     },
     "event": "jak-se-uzivit-jako-crypto-trader"
+  },
+  {
+    "id": "ek",
+    "date": "2022-06-05",
+    "stage": "campfire-indoor",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T14:00:00.000Z"
+    },
+    "event": "parallel-popis-bordel-shit-talk-about-nation-states-rules"
   }
 ]
