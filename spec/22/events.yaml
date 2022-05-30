@@ -2879,6 +2879,19 @@
     - altcoins
     - charts
 
+- id: parallel-popis-bordel-shit-talk-about-nation-states-rules
+  type: campfire
+  name: Parallel Polis, Bordel & shit talk about nation states and rules
+  track: spolecnost
+  speakers: [ mario-havel ]
+  duration: 60
+  difficulty: beginner
+  description: |
+    Mário Havel a Josef Je z Bordel Hackerspace, Paralelní Polis vás pozývajú na pokec u táboráku, resp campfire session, kde si spolu zanadávame na štáty a preberieme možnosti budovania alternatívy k systému postavenému na násilí. Kryptoanarchia nám dáva možnosti budovať paralelnú spoločnosť a ekonomiku, no však nie je to jednoduché. Stačí na to Bitcoin alebo potrebujeme iné nástroje? Akými výzvami si prechádza/la Paralelní Polis? A ako do toho zapadá Bordel?
+  tags:
+    - bordel
+    - komunity
+    - ParallerPolis
 
 # Ostatní
 # ==========================
