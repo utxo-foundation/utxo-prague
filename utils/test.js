@@ -1,5 +1,6 @@
 import { assertEquals } from "https://deno.land/std@0.119.0/testing/asserts.ts";
 import { UTXOEngine } from "./engine.js";
+import { getDate, isPeriodOverlap } from "./periods.js";
 
 // initialize ajv JSON Schema validator
 import Ajv from "https://esm.sh/ajv@8.8.1?pin=v58";
@@ -135,6 +136,97 @@ for (const entryId of utxo.entriesList()) {
                 throw new Error(`Stage not exists: ${st}`);
               }
             }
+          }
+        }
+      });
+    }
+    if (["schedule"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[rules]`, () => {
+        const usedEvs = [];
+        for (const item of entry.specs[specId]) {
+          const ev = entry.specs.events.find((e) => e.id === item.event);
+
+          // fixed.date
+          if (ev.fixed && ev.fixed.date) {
+            const evDate = getDate(item.period.start);
+            if (evDate !== ev.fixed.date) {
+              throw new Error(
+                `Break fixed date [${ev.id}] - fixed: ${ev.fixed.date}, scheduled: ${evDate}`,
+              );
+            }
+          }
+
+          // fixed.stage
+          if (ev.fixed && ev.fixed.stage && ev.fixed.stage !== item.stage) {
+            throw new Error(
+              `Break fixed.stage [${ev.id}] - fixed: ${ev.fixed.stage}, scheduled: ${item.stage}`,
+            );
+          }
+
+          // paralel events for speakers
+          for (
+            const si of entry.specs[specId].filter((e) => e.id !== item.id)
+          ) {
+            if (!isPeriodOverlap(item.period, si.period)) {
+              continue;
+            }
+            const sev = entry.specs.events.find((e) => e.id === si.event);
+            for (const sp of sev.speakers) {
+              if (ev.speakers.includes(sp)) {
+                throw new Error(
+                  `Speaker have overlapping events [${sp}]: ${ev.id} + ${sev.id}`,
+                );
+              }
+            }
+          }
+
+          // availability rules
+          for (const sp of ev.speakers) {
+            const speaker = entry.specs.speakers.find((s) => s.id === sp);
+            if (!speaker.available || speaker.available.length === 0) {
+              continue;
+            }
+            let ok = false;
+            for (const av of speaker.available) {
+              const period = { start: av.from, end: av.to };
+              if (isPeriodOverlap(item.period, period)) {
+                ok = true;
+              }
+            }
+            if (!ok) {
+              throw new Error(
+                `Speaker availability rule break [${sp}]: ${
+                  JSON.stringify(item.period)
+                }`,
+              );
+            }
+          }
+
+          for (
+            const si of entry.specs[specId].filter((e) =>
+              e.stage === item.stage && item.id !== e.id
+            )
+          ) {
+            if (isPeriodOverlap(item.period, si.period)) {
+              throw new Error(
+                `Overlapping events on same stage (?): ${item.event} vs ${si.event}`,
+              );
+            }
+          }
+
+          if (usedEvs.includes(ev.id)) {
+            throw new Error(`Duplicate event (?): ${ev.id}`);
+          }
+
+          usedEvs.push(ev.id);
+        }
+        for (
+          const ev of entry.specs.events.filter((s) =>
+            !["lightning"].includes(s.type)
+          )
+        ) {
+          if (!usedEvs.includes(ev.id)) {
+            throw new Error(`Event not found in schedule: ${ev.id}`);
           }
         }
       });

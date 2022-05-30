@@ -1,6 +1,8 @@
 import { format, parse } from "https://deno.land/std@0.139.0/datetime/mod.ts";
 import { createHash } from "https://deno.land/std/hash/mod.ts";
 import { UTXOEngine } from "./engine.js";
+import { isPeriodOverlap } from "./periods.js";
+import { genId } from "./genid.js";
 
 const utxo = new UTXOEngine({ silent: true });
 await utxo.init();
@@ -29,23 +31,6 @@ function shuffle(array) {
 
 function rand(max) {
   return Math.floor(Math.random() * max);
-}
-
-function genId(used) {
-  const chars = "abcdefghijklmnopqrstuvwxyz0123456789";
-  //const numbers = "";
-
-  let output = null;
-  for (const n of chars) {
-    for (const ch of chars) {
-      output = `${n}${ch}`;
-      if (used.includes(output)) {
-        continue;
-      }
-      return output;
-    }
-  }
-  return false;
 }
 
 class UTXOPlanner {
@@ -197,11 +182,6 @@ class UTXOPlanner {
     return [null, null];
   }
 
-  isPeriodOverlap(x, y) {
-    return (x.start.getTime() < y.end.getTime() &&
-      x.end.getTime() > y.start.getTime());
-  }
-
   eventSlotValidator(ev, slot, stage) {
     // check "after"
     if (ev.after) {
@@ -236,7 +216,7 @@ class UTXOPlanner {
         0,
       );
       if (speakers > 0) {
-        if (this.isPeriodOverlap(si.period, slot)) {
+        if (isPeriodOverlap(si.period, slot)) {
           return false;
         }
       }
@@ -251,7 +231,7 @@ class UTXOPlanner {
         let okey = false;
         for (const spa of sp.available) {
           if (
-            this.isPeriodOverlap({
+            isPeriodOverlap({
               start: new Date(spa.from),
               end: new Date(spa.to),
             }, slot)
@@ -394,7 +374,7 @@ class UTXOPlanner {
         if (ssi.event === si.event) {
           continue;
         }
-        if (this.isPeriodOverlap(si.period, ssi.period)) {
+        if (isPeriodOverlap(si.period, ssi.period)) {
           const eev = this.eventsOriginal.find((e) => e.id === ssi.event);
           const tagsCrossing = ev.tags.reduce((prev, cur) =>
             prev + (eev.tags.includes(cur)

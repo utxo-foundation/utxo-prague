@@ -91,3 +91,5 @@ schedule-multi:
 schedule-pdf:
 	mkdir -p dist/22/pdf && cd utils/schedule-pdf && node index.js $(local)
 
+id:
+	deno run --unstable --allow-read utils/schedule-id.js

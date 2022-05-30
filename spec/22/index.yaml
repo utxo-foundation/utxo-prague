@@ -32,6 +32,5 @@ specDef:
   - type: partners
   - type: projects
   - type: team
-  - type: schedule-candidates
   - type: practical-info
   - type: schedule

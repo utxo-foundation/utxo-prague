@@ -1,5 +1,5 @@
 - id: rajska-zahrada
-  name: Rajská zahrada
+  name: 'P1 Rajská zahrada'
   types: [ talk, panel, lightning-series ]
   capacity:
     seat: 325
@@ -16,7 +16,7 @@
     - '2/09:45-19:15/xxxxx'
 
 - id: lustrovy-sal
-  name: Lustrový sál
+  name: 'P2 Lustrový sál'
   types: [ talk, panel, lightning-series ]
   capacity:
     seat: 130
@@ -33,7 +33,7 @@
     - '2/09:45-18:30/xxxxx'
 
 - id: klenbovy-sal
-  name: Klenbový sál
+  name: 'P3 Klenbový sál'
   types: [ talk, lightning-series ]
   capacity:
     seat: 130
@@ -50,7 +50,7 @@
     - '2/09:45-18:30/xxxxx'
 
 - id: exit-room
-  name: Exit room
+  name: 'P4 Exit room'
   types: [ talk ]
   capacity:
     seat: 80
@@ -67,7 +67,7 @@
     - '2/09:45-18:30/xxxxx'
 
 - id: knihovna
-  name: Knihovna
+  name: 'W1 Knihovna'
   types: [ workshop ]
   capacity:
     seat: 40
@@ -80,7 +80,7 @@
     - '2/14:00-18:30'
 
 - id: white-workshop-room
-  name: Table room
+  name: 'W2 Table room'
   types: [ workshop ]
   capacity:
     seat: 30
@@ -93,7 +93,7 @@
     - '2/14:00-18:30'
 
 - id: campfire-outdoor
-  name: 🔥 Campfire (venku)
+  name: '🔥 C1 Campfire (venku)'
   types: [ campfire ]
   capacity:
     seat: 40
@@ -105,7 +105,7 @@
     - '2/12:30-18:30'
 
 - id: campfire-indoor
-  name: 🔥 Campfire (uvnitř)
+  name: '🔥 C2 Campfire (uvnitř)'
   types: [ campfire ]
   capacity:
     seat: 20
