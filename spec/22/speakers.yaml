@@ -1377,5 +1377,11 @@
   desc: |
     Krypto a blockchain nadšenec s byznysovým know-how, aktuálně jako CEO & Co-founder projektu Artiffine
 
-
+- id: lurkerp
+  name: LurkerP
+  twitter: lurker_p
+  orgs: |
+    Spoluzakladatel [Sigull](https://www.signull.io/)
+  tracks: [ zaklady ]
+  country: cz
 
