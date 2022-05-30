@@ -115,6 +115,7 @@
 - id: petr-klein
   name: Petr Klein
   twitter: kleinptr
+  mastodon: '@kleinptr@mastodon.social'
   bio: Libertarián, nadšenec do nových technologií
   orgs: |
     Člen [Gwei.cz Councilu](https://gwei.cz), člen [Border Hackerspace](https://bordel.paralelnipolis.cz/#/), APUS Finance

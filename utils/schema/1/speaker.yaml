@@ -23,6 +23,9 @@ properties:
     type: string
     pattern: "^[a-zA-Z0-9-]+$"
     title: LinkedIn uživatelské jméno
+  mastodon:
+    type: string
+    title: Mastodon uživatelské jméno
   orgs:
     type: string
     title: Organizace (Markdown)
