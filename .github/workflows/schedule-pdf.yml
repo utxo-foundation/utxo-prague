@@ -29,6 +29,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           external_repository: utxo-foundation/pub.utxo.cz
-          github_token: ${{ secrets.TOKEN_DOCS }}
+          deploy_key: ${{ secrets.ACTIONS_PUB_DEPLOY_KEY }}
           publish_dir: ./dist/22/pdf
           destination_dir: ./22/pdf
