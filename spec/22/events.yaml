@@ -1388,22 +1388,6 @@
     **Nejlepší bude samozřejmě využít levné síťe , Ethereum je spíš pro větší kapitál a na vyzkoušení budou lepší ostatní síťe které mají pro začátečníky přívětivé poplatky.*
 
 
-- id: krypto-z-pohledu-rodicu
-  type: workshop
-  name: Krypto pohledem rodičů
-  track: zaklady
-  speakers: [ sona-parke ]
-  duration: 50
-  difficulty: beginner
-  tags:
-    - rodina
-    - komunikace
-    - bezpečnost
-    - finanční gramotnost
-    - děti
-  description: |
-    V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.
-
 - id: bleskomat-worskhop
   type: workshop
   name: Postav si svůj Bleskomat (DIY)
@@ -2863,6 +2847,23 @@
     - fire-movement
   fixed:
     date: '2022-06-04'
+
+- id: krypto-z-pohledu-rodicu
+  type: campfire
+  name: Krypto pohledem rodičů
+  track: zaklady
+  speakers: [ sona-parke ]
+  duration: 50
+  difficulty: beginner
+  tags:
+    - rodina
+    - komunikace
+    - bezpečnost
+    - finanční gramotnost
+    - děti
+  description: |
+    V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.
+
 
 # Ostatní
 # ==========================
