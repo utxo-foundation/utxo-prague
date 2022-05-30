@@ -2324,8 +2324,22 @@
   },
   {
     "date": "2022-05-30",
-    "speakers": {},
-    "events": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "lurkerp",
+          "name": "LurkerP"
+        }
+      ]
+    },
+    "events": {
+      "added": [
+        {
+          "id": "jak-se-uzivit-jako-crypto-trader",
+          "name": "Jak se uživit jako crypto trader?"
+        }
+      ]
+    },
     "partners": {}
   }
 ]

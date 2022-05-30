@@ -1156,6 +1156,19 @@
         ]
       },
       {
+        "id": "lurkerp",
+        "name": "LurkerP",
+        "twitter": "lurker_p",
+        "orgs": "Spoluzakladatel [Sigull](https://www.signull.io/)\n",
+        "tracks": [
+          "zaklady"
+        ],
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "m0xt",
         "name": "m0xt",
         "twitter": "m0xt_",
@@ -5414,6 +5427,24 @@
         "description": "V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.\n"
       },
       {
+        "id": "jak-se-uzivit-jako-crypto-trader",
+        "type": "campfire",
+        "name": "Jak se uživit jako crypto trader?",
+        "track": "zaklady",
+        "speakers": [
+          "lurkerp"
+        ],
+        "duration": 30,
+        "difficulty": "beginner",
+        "description": "Jak se uživit jako crypto trader? A jak moc nereálný úkol to je? Během přednášky se dozvíte důležité informace například jak neshořet na trhu během prvního měsíce, nepanikařit při každé větší ztrátě, minimalizovat rizika a jaká jsou obecná pravidla pro fungování na trhu. Během několika let aktivního tradingu jsem si prošel všemi možnými ekonomickými cykly, ziskem i ztrátou (nejen ve sféře finanční) a tak máte možnost se poučit z mých chyb, abyste mit klidnejsi (nebo alespoň nějaký) spánek.\n",
+        "tags": [
+          "journey",
+          "trading",
+          "altcoins",
+          "charts"
+        ]
+      },
+      {
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
@@ -9041,22 +9072,32 @@
           "end": "2022-06-05T10:30:00.000Z"
         },
         "event": "nft-combinator"
+      },
+      {
+        "id": "ej",
+        "date": "2022-06-05",
+        "stage": "campfire-indoor",
+        "period": {
+          "start": "2022-06-05T12:30:00.000Z",
+          "end": "2022-06-05T13:00:00.000Z"
+        },
+        "event": "jak-se-uzivit-jako-crypto-trader"
       }
     ]
   },
   "stats": {
     "counts": {
-      "speakers": 124,
+      "speakers": 125,
       "tracks": 10,
       "event-types": 7,
-      "events": 179,
+      "events": 180,
       "stages": 10,
       "faqs": 6,
       "partners": 37,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 153
+      "schedule": 154
     }
   },
-  "time": "2022-05-30T13:30:03.709Z"
+  "time": "2022-05-30T13:57:48.360Z"
 }

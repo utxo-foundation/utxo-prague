@@ -3156,6 +3156,24 @@
     "description": "V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.\n"
   },
   {
+    "id": "jak-se-uzivit-jako-crypto-trader",
+    "type": "campfire",
+    "name": "Jak se uživit jako crypto trader?",
+    "track": "zaklady",
+    "speakers": [
+      "lurkerp"
+    ],
+    "duration": 30,
+    "difficulty": "beginner",
+    "description": "Jak se uživit jako crypto trader? A jak moc nereálný úkol to je? Během přednášky se dozvíte důležité informace například jak neshořet na trhu během prvního měsíce, nepanikařit při každé větší ztrátě, minimalizovat rizika a jaká jsou obecná pravidla pro fungování na trhu. Během několika let aktivního tradingu jsem si prošel všemi možnými ekonomickými cykly, ziskem i ztrátou (nejen ve sféře finanční) a tak máte možnost se poučit z mých chyb, abyste mit klidnejsi (nebo alespoň nějaký) spánek.\n",
+    "tags": [
+      "journey",
+      "trading",
+      "altcoins",
+      "charts"
+    ]
+  },
+  {
     "id": "party-electronic-stage",
     "type": "other",
     "track": "other",

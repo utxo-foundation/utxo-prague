@@ -1,5 +1,16 @@
 # Changelog
 
+## 30.5.2022
+
+### Přednášející
+
+* přidáno [LurkerP](https://utxo.cz/lide?id=lurkerp)
+
+### Události
+
+* přidáno [Jak se uživit jako crypto trader?](https://utxo.cz/udalosti?id=jak-se-uzivit-jako-crypto-trader)
+
+
 ## 28.5.2022
 
 ### Přednášející
