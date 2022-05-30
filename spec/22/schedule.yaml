@@ -793,8 +793,8 @@
   date: '2022-06-05'
   stage: campfire-outdoor
   period:
-    start: '2022-06-05T10:30:00.000Z'
-    end: '2022-06-05T11:00:00.000Z'
+    start: '2022-06-05T16:00:00.000Z'
+    end: '2022-06-05T16:30:00.000Z'
   event: skovo
 - id: dz
   date: '2022-06-05'
@@ -1024,8 +1024,8 @@
   date: '2022-06-05'
   stage: campfire-outdoor
   period:
-    start: '2022-06-05T16:00:00.000Z'
-    end: '2022-06-05T16:30:00.000Z'
+    start: '2022-06-05T10:30:00.000Z'
+    end: '2022-06-05T11:00:00.000Z'
   event: crypto-weddings-rituals
 - id: co
   date: '2022-06-05'
