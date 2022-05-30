@@ -1156,8 +1156,10 @@
 - id: william-lobkowicz
   name: William Lobkowicz
   twitter: wrlobkowicz
-  orgs: |
+  bio: |
     Česko-americký podnikatel z českého šlechtického rodu Lobkowiczů
+  orgs: |
+    [The Lobkowicz Collections](https://www.lobkowicz.cz/), nezisková kulturni organizace
   web:
     url: https://www.lobkowicz.cz/en
   tracks: [ nft ]
