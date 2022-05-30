@@ -5416,7 +5416,7 @@
         "id": "party-electronic-stage",
         "type": "other",
         "track": "other",
-        "name": "Electronic stage - Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)",
+        "name": "Electronic music stage - Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)",
         "speakers": [
           "eddie-mur",
           "sam-gittis",
@@ -9057,5 +9057,5 @@
       "schedule": 153
     }
   },
-  "time": "2022-05-30T04:26:39.917Z"
+  "time": "2022-05-30T04:50:47.241Z"
 }
