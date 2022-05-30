@@ -2375,7 +2375,7 @@
   {
     "id": "holky-v-kryptu-campfire",
     "type": "campfire",
-    "name": "Potkej Holkyvkryptu",
+    "name": "Potkej Holky v kryptu",
     "track": "zaklady",
     "speakers": [
       "tereza-starostova",
@@ -2860,7 +2860,6 @@
     ],
     "description": "Zhodnocení konference, ještě před tím než skončí. Co se vám na naší konferenci líbilo a co naopak do příště musíme vylepšit? Bude vůbec nějaké příště? Pojďte si popovídat s organizátory konference. Během tohoto campfire bude (možná) šance zakoupit si limitovanou edici vstupenky na UTXO.23 s ultra slevou (ale psst!).\n",
     "fixed": {
-      "stage": "campfire-outdoor",
       "time": "2/18:00-18:30"
     }
   },
