@@ -2139,7 +2139,8 @@
         "id": "william-lobkowicz",
         "name": "William Lobkowicz",
         "twitter": "wrlobkowicz",
-        "orgs": "Česko-americký podnikatel z českého šlechtického rodu Lobkowiczů\n",
+        "bio": "Česko-americký podnikatel z českého šlechtického rodu Lobkowiczů\n",
+        "orgs": "[The Lobkowicz Collections](https://www.lobkowicz.cz/), nezisková kulturni organizace\n",
         "web": {
           "url": "https://www.lobkowicz.cz/en"
         },
@@ -9126,5 +9127,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-05-30T14:06:14.811Z"
+  "time": "2022-05-30T17:19:50.931Z"
 }
