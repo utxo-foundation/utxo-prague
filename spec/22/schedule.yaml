@@ -111,11 +111,11 @@
     end: '2022-06-04T11:30:00.000Z'
   event: pokec-o-blockchain-gamingu
 - id: c6
-  date: '2022-06-05'
+  date: '2022-06-04'
   stage: white-workshop-room
   period:
-    start: '2022-06-05T09:00:00.000Z'
-    end: '2022-06-05T10:00:00.000Z'
+    start: '2022-06-04T11:30:00.000Z'
+    end: '2022-06-04T12:30:00.000Z'
   event: staking-a-polkadot-aukce
 - id: af
   date: '2022-06-04'
@@ -671,11 +671,11 @@
     end: '2022-06-05T09:00:00.000Z'
   event: zijeme-bez-fiatu
 - id: df
-  date: '2022-06-04'
-  stage: knihovna
+  date: '2022-06-05'
+  stage: white-workshop-room
   period:
-    start: '2022-06-04T09:00:00.000Z'
-    end: '2022-06-04T10:00:00.000Z'
+    start: '2022-06-05T09:00:00.000Z'
+    end: '2022-06-05T10:00:00.000Z'
   event: krypto-a-nemovitosti
 - id: az
   date: '2022-06-05'
