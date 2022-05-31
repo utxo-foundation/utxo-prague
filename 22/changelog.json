@@ -2356,7 +2356,18 @@
         }
       ]
     },
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "meditace-nedele-rano",
+          "name": "Kryptomeditácia [TBD]"
+        },
+        {
+          "id": "meditace-sobota-vecer",
+          "name": "Kryptomeditácia [TBD]"
+        }
+      ]
+    },
     "partners": {
       "added": [
         {

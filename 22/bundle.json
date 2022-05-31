@@ -10,7 +10,7 @@
   "scheduleTimes": [
     "1/09:00-20:00/Sobota 4.6.",
     "1/20:00-02:00/UTXO.Party (sobota 4.6.)",
-    "2/10:00-19:00/Neděle 5.6."
+    "2/09:00-19:00/Neděle 5.6."
   ],
   "place": "Gabriel Loci, Praha",
   "country": "Czech Republic",
@@ -5644,6 +5644,42 @@
           "hudba"
         ],
         "description": "Pojďte popít a potancovat na prapodivnou diskotéku v rytmu osmibitů s Gwei.cz komunitou. 👾🎵🤘\n"
+      },
+      {
+        "id": "meditace-nedele-rano",
+        "name": "Kryptomeditácia [TBD]",
+        "type": "campfire",
+        "track": "spolecnost",
+        "speakers": [
+          "marianna-sadecka"
+        ],
+        "duration": 60,
+        "tags": [
+          "meditace",
+          "mindfulness"
+        ],
+        "fixed": {
+          "time": "2/09:00-10:00",
+          "stage": "nft-chillout"
+        }
+      },
+      {
+        "id": "meditace-sobota-vecer",
+        "name": "Kryptomeditácia [TBD]",
+        "type": "campfire",
+        "track": "spolecnost",
+        "speakers": [
+          "marianna-sadecka"
+        ],
+        "duration": 60,
+        "tags": [
+          "meditace",
+          "mindfulness"
+        ],
+        "fixed": {
+          "time": "1/18:00-19:00",
+          "stage": "nft-chillout"
+        }
       }
     ],
     "stages": [
@@ -9136,6 +9172,26 @@
           "end": "2022-06-05T14:00:00.000Z"
         },
         "event": "parallel-popis-bordel-shit-talk-about-nation-states-rules"
+      },
+      {
+        "id": "el",
+        "date": "2022-06-05",
+        "stage": "nft-chillout",
+        "period": {
+          "start": "2022-06-05T07:00:00.000Z",
+          "end": "2022-06-05T08:00:00.000Z"
+        },
+        "event": "meditace-nedele-rano"
+      },
+      {
+        "id": "em",
+        "date": "2022-06-04",
+        "stage": "nft-chillout",
+        "period": {
+          "start": "2022-06-04T16:00:00.000Z",
+          "end": "2022-06-04T17:00:00.000Z"
+        },
+        "event": "meditace-sobota-vecer"
       }
     ]
   },
@@ -9144,14 +9200,14 @@
       "speakers": 126,
       "tracks": 10,
       "event-types": 7,
-      "events": 181,
+      "events": 183,
       "stages": 10,
       "faqs": 6,
       "partners": 39,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 155
+      "schedule": 157
     }
   },
-  "time": "2022-05-31T21:16:03.758Z"
+  "time": "2022-05-31T21:16:31.952Z"
 }

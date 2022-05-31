@@ -3359,5 +3359,41 @@
       "hudba"
     ],
     "description": "Pojďte popít a potancovat na prapodivnou diskotéku v rytmu osmibitů s Gwei.cz komunitou. 👾🎵🤘\n"
+  },
+  {
+    "id": "meditace-nedele-rano",
+    "name": "Kryptomeditácia [TBD]",
+    "type": "campfire",
+    "track": "spolecnost",
+    "speakers": [
+      "marianna-sadecka"
+    ],
+    "duration": 60,
+    "tags": [
+      "meditace",
+      "mindfulness"
+    ],
+    "fixed": {
+      "time": "2/09:00-10:00",
+      "stage": "nft-chillout"
+    }
+  },
+  {
+    "id": "meditace-sobota-vecer",
+    "name": "Kryptomeditácia [TBD]",
+    "type": "campfire",
+    "track": "spolecnost",
+    "speakers": [
+      "marianna-sadecka"
+    ],
+    "duration": 60,
+    "tags": [
+      "meditace",
+      "mindfulness"
+    ],
+    "fixed": {
+      "time": "1/18:00-19:00",
+      "stage": "nft-chillout"
+    }
   }
 ]

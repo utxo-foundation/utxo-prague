@@ -6,6 +6,11 @@
 
 * přidáno [Pavlína Vanečková](https://utxo.cz/lide?id=pavlina-vaneckova)
 
+### Události
+
+* přidáno [Kryptomeditácia [TBD]](https://utxo.cz/udalosti?id=meditace-nedele-rano)
+* přidáno [Kryptomeditácia [TBD]](https://utxo.cz/udalosti?id=meditace-sobota-vecer)
+
 ### Partneři
 
 * přidáno [Tugu](https://utxo.cz/#partneri?id=tugu)
