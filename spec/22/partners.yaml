@@ -263,3 +263,7 @@
 - id: tugu
   name: Tugu
   type: supplier
+
+- id: decentree
+  name: Decentree
+  type: supplier
