@@ -2,8 +2,8 @@
   name: 'P1 Rajská zahrada'
   types: [ talk, panel, lightning-series ]
   capacity:
-    seat: 325
-    stand: 200
+    seat: 320
+    stand: 80
   exclusivity: 1
   times:
     - '1/09:00-14:00'
@@ -19,8 +19,8 @@
   name: 'P2 Lustrový sál'
   types: [ talk, panel, lightning-series ]
   capacity:
-    seat: 130
-    stand: 75
+    seat: 135
+    stand: 50
   exclusivity: 0.8
   times:
     - '1/09:30-13:00'
@@ -36,8 +36,8 @@
   name: 'P3 Klenbový sál'
   types: [ talk, lightning-series ]
   capacity:
-    seat: 130
-    stand: 75
+    seat: 135
+    stand: 50
   exclusivity: 0.6
   times:
     - '1/09:30-13:00'
@@ -53,7 +53,7 @@
   name: 'P4 Exit room'
   types: [ talk ]
   capacity:
-    seat: 80
+    seat: 70
     stand: 30
   exclusivity: 0.4
   times:
@@ -83,7 +83,7 @@
   name: 'W2 Table room'
   types: [ workshop ]
   capacity:
-    seat: 30
+    seat: 35
     stand: 15
   exclusivity: 0.5
   times:
@@ -97,7 +97,7 @@
   types: [ campfire ]
   capacity:
     seat: 40
-    stand: 200
+    stand: 100
   times:
     - '1/09:30-12:00'
     - '1/12:30-17:00'
@@ -109,7 +109,7 @@
   types: [ campfire ]
   capacity:
     seat: 20
-    stand: 100
+    stand: 80
   times:
     - '1/09:30-12:00'
     - '1/12:30-19:00'
@@ -121,7 +121,7 @@
   types: [ nft-event ]
   capacity:
     seat: 30
-    stand: 75
+    stand: 40
   times:
     - '1/09:30-20:00'
     - '2/10:00-18:00'
