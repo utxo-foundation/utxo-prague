@@ -2345,5 +2345,18 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-05-31",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "tugu",
+          "name": "Tugu"
+        }
+      ]
+    }
   }
 ]

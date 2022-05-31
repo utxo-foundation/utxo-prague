@@ -6280,6 +6280,12 @@
           "url": "https://esogames.cz"
         },
         "photos": []
+      },
+      {
+        "id": "tugu",
+        "name": "Tugu",
+        "type": "supplier",
+        "photos": []
       }
     ],
     "projects": [
@@ -9121,11 +9127,11 @@
       "events": 181,
       "stages": 10,
       "faqs": 6,
-      "partners": 37,
+      "partners": 38,
       "projects": 72,
       "practical-info": 3,
       "schedule": 155
     }
   },
-  "time": "2022-05-30T17:19:50.931Z"
+  "time": "2022-05-31T13:20:20.463Z"
 }

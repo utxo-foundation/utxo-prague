@@ -422,5 +422,11 @@
       "url": "https://esogames.cz"
     },
     "photos": []
+  },
+  {
+    "id": "tugu",
+    "name": "Tugu",
+    "type": "supplier",
+    "photos": []
   }
 ]

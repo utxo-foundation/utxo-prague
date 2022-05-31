@@ -1,5 +1,12 @@
 # Changelog
 
+## 31.5.2022
+
+### Partneři
+
+* přidáno [Tugu](https://utxo.cz/#partneri?id=tugu)
+
+
 ## 30.5.2022
 
 ### Přednášející
