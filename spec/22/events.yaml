@@ -764,7 +764,7 @@
 
 - id: proc-a-jak-pouzivat-bitcoin
   type: talk
-  name: Proč a jak používat Bitcoin
+  name: Proč Bitcoin
   track: btc
   speakers: [ hynek-jina ]
   duration: 55
@@ -774,7 +774,7 @@
     - Bitcoin
     - Lightning Network
   description: |
-    Bitcoin jsou peníze. Od peněz potřebujeme hlavně, aby neztráceli hodnotu. Jistě, ale tuto hodnotu jednou budeme potřebovat použít - jinak to hodnota moc není. Pokusím se vám ukázat proč nemusíte čekat na nějaký bájný moment v budoucnosti a jak můžete používat Bitcoin už dnes.
+    Bitcoin lze vnímat různými způsoby. Utečete s ním přes hranice nebo ho komukoliv bez potřeby svolení odešlete. Proč by to ale mělo zajímat někoho v Čechách? Chtěl bych vám popsat v čem vidím hodnotu Bitcoinu já, v čem ji dle mého soudu vidí lidé ze zbytku světa a v čem byste ji mohli vidět i vy.
 
 - id: l2-zaklady
   type: talk
