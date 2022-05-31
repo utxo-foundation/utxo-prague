@@ -1463,6 +1463,8 @@
   difficulty: advanced
   tags:
     - networking
+  description: |
+    Networking pro všechny, kteří mají chuť uplatnit svoje dovednosti ve světě blockchainu. V první části budeš mít možnost poznat zapálené lidi se stejným zájmem a začít konverzace, které tě nakopnou novým směrem. Nebude to ale jen o vyměňovaní vizitek! V druhé části si uděláme rychlý brainstorm a pomůžeme ti vymyslet nebo rozvinout nápad na projekt. Přijď sám nebo s kamarády, s nápadem nebo bez… můžeš odejít s obojím! Prosíme zájemce o vyplnění [krátkého formuláře (2 minuty)](https://form.jotform.com/jacobjelen/utxo22-networking).
 
 - id: lightning-ekosystem
   type: workshop
