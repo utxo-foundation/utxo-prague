@@ -260,3 +260,6 @@
   web:
     url: https://esogames.cz
 
+- id: tugu
+  name: Tugu
+  type: supplier
