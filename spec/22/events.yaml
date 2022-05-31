@@ -3056,8 +3056,8 @@
 
 - id: meditace-nedele-rano
   name: Kryptomeditácia [TBD]
-  type: campfire
-  track: spolecnost
+  type: other
+  track: other
   speakers: [ marianna-sadecka ]
   duration: 60
   tags:
@@ -3069,8 +3069,8 @@
 
 - id: meditace-sobota-vecer
   name: Kryptomeditácia [TBD]
-  type: campfire
-  track: spolecnost
+  type: other
+  track: other
   speakers: [ marianna-sadecka ]
   duration: 60
   tags:
