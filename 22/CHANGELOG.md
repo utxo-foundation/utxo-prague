@@ -2,6 +2,10 @@
 
 ## 31.5.2022
 
+### Přednášející
+
+* přidáno [Pavlína Vanečková](https://utxo.cz/lide?id=pavlina-vaneckova)
+
 ### Partneři
 
 * přidáno [Tugu](https://utxo.cz/#partneri?id=tugu)

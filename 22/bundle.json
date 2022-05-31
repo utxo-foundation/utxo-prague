@@ -1602,6 +1602,19 @@
         ]
       },
       {
+        "id": "pavlina-vaneckova",
+        "name": "Pavlína Vanečková",
+        "bio": "Investiční analytička, kryptoskeptik",
+        "tracks": [
+          "spolecnost"
+        ],
+        "country": "cz",
+        "desc": "Pavlína se s kryptoměnami poprvé setkala již v roce 2017, kdy ji zaujal růst ceny bitcoinu a chtěla se o celém tomto fenoménu dozvědět více. Bakalářskou práci věnovala možnostem praní špinavých peněz skrze kryptoměny, diplomovou pak ICO. I po skončení studií zůstávají kryptoměny i nadále součástí jejího života, s rostoucími znalostmi v tomto oboru však sama sebe začíná uvádět jako kryptoskeptika. Momentálně pracuje na pozici investiční analytičky a kryptoměnám se věnuje ve svém volném čase.\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "petr-hotovec",
         "name": "Petr Hotovec",
         "linkedin": "petr-hotovec-2b1759a7",
@@ -9121,7 +9134,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 125,
+      "speakers": 126,
       "tracks": 10,
       "event-types": 7,
       "events": 181,
@@ -9133,5 +9146,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-05-31T13:20:20.463Z"
+  "time": "2022-05-31T13:30:56.671Z"
 }

@@ -2348,7 +2348,14 @@
   },
   {
     "date": "2022-05-31",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "pavlina-vaneckova",
+          "name": "Pavlína Vanečková"
+        }
+      ]
+    },
     "events": {},
     "partners": {
       "added": [
