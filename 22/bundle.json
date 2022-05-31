@@ -3109,7 +3109,7 @@
       {
         "id": "proc-a-jak-pouzivat-bitcoin",
         "type": "talk",
-        "name": "Proč a jak používat Bitcoin",
+        "name": "Proč Bitcoin",
         "track": "btc",
         "speakers": [
           "hynek-jina"
@@ -3121,7 +3121,7 @@
           "Bitcoin",
           "Lightning Network"
         ],
-        "description": "Bitcoin jsou peníze. Od peněz potřebujeme hlavně, aby neztráceli hodnotu. Jistě, ale tuto hodnotu jednou budeme potřebovat použít - jinak to hodnota moc není. Pokusím se vám ukázat proč nemusíte čekat na nějaký bájný moment v budoucnosti a jak můžete používat Bitcoin už dnes.\n"
+        "description": "Bitcoin lze vnímat různými způsoby. Utečete s ním přes hranice nebo ho komukoliv bez potřeby svolení odešlete. Proč by to ale mělo zajímat někoho v Čechách? Chtěl bych vám popsat v čem vidím hodnotu Bitcoinu já, v čem ji dle mého soudu vidí lidé ze zbytku světa a v čem byste ji mohli vidět i vy.\n"
       },
       {
         "id": "l2-zaklady",
@@ -5655,8 +5655,8 @@
           "lightning-series"
         ],
         "capacity": {
-          "seat": 325,
-          "stand": 200
+          "seat": 320,
+          "stand": 80
         },
         "exclusivity": 1,
         "times": [
@@ -5680,8 +5680,8 @@
           "lightning-series"
         ],
         "capacity": {
-          "seat": 130,
-          "stand": 75
+          "seat": 135,
+          "stand": 50
         },
         "exclusivity": 0.8,
         "times": [
@@ -5704,8 +5704,8 @@
           "lightning-series"
         ],
         "capacity": {
-          "seat": 130,
-          "stand": 75
+          "seat": 135,
+          "stand": 50
         },
         "exclusivity": 0.6,
         "times": [
@@ -5727,7 +5727,7 @@
           "talk"
         ],
         "capacity": {
-          "seat": 80,
+          "seat": 70,
           "stand": 30
         },
         "exclusivity": 0.4,
@@ -5768,7 +5768,7 @@
           "workshop"
         ],
         "capacity": {
-          "seat": 30,
+          "seat": 35,
           "stand": 15
         },
         "exclusivity": 0.5,
@@ -5787,7 +5787,7 @@
         ],
         "capacity": {
           "seat": 40,
-          "stand": 200
+          "stand": 100
         },
         "times": [
           "1/09:30-12:00",
@@ -5804,7 +5804,7 @@
         ],
         "capacity": {
           "seat": 20,
-          "stand": 100
+          "stand": 80
         },
         "times": [
           "1/09:30-12:00",
@@ -5821,7 +5821,7 @@
         ],
         "capacity": {
           "seat": 30,
-          "stand": 75
+          "stand": 40
         },
         "times": [
           "1/09:30-20:00",
@@ -6297,6 +6297,12 @@
       {
         "id": "tugu",
         "name": "Tugu",
+        "type": "supplier",
+        "photos": []
+      },
+      {
+        "id": "decentree",
+        "name": "Decentree",
         "type": "supplier",
         "photos": []
       }
@@ -9140,11 +9146,11 @@
       "events": 181,
       "stages": 10,
       "faqs": 6,
-      "partners": 38,
+      "partners": 39,
       "projects": 72,
       "practical-info": 3,
       "schedule": 155
     }
   },
-  "time": "2022-05-31T13:30:56.671Z"
+  "time": "2022-05-31T16:38:32.545Z"
 }

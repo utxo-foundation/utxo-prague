@@ -2362,6 +2362,10 @@
         {
           "id": "tugu",
           "name": "Tugu"
+        },
+        {
+          "id": "decentree",
+          "name": "Decentree"
         }
       ]
     }

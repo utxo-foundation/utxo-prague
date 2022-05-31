@@ -8,8 +8,8 @@
       "lightning-series"
     ],
     "capacity": {
-      "seat": 325,
-      "stand": 200
+      "seat": 320,
+      "stand": 80
     },
     "exclusivity": 1,
     "times": [
@@ -33,8 +33,8 @@
       "lightning-series"
     ],
     "capacity": {
-      "seat": 130,
-      "stand": 75
+      "seat": 135,
+      "stand": 50
     },
     "exclusivity": 0.8,
     "times": [
@@ -57,8 +57,8 @@
       "lightning-series"
     ],
     "capacity": {
-      "seat": 130,
-      "stand": 75
+      "seat": 135,
+      "stand": 50
     },
     "exclusivity": 0.6,
     "times": [
@@ -80,7 +80,7 @@
       "talk"
     ],
     "capacity": {
-      "seat": 80,
+      "seat": 70,
       "stand": 30
     },
     "exclusivity": 0.4,
@@ -121,7 +121,7 @@
       "workshop"
     ],
     "capacity": {
-      "seat": 30,
+      "seat": 35,
       "stand": 15
     },
     "exclusivity": 0.5,
@@ -140,7 +140,7 @@
     ],
     "capacity": {
       "seat": 40,
-      "stand": 200
+      "stand": 100
     },
     "times": [
       "1/09:30-12:00",
@@ -157,7 +157,7 @@
     ],
     "capacity": {
       "seat": 20,
-      "stand": 100
+      "stand": 80
     },
     "times": [
       "1/09:30-12:00",
@@ -174,7 +174,7 @@
     ],
     "capacity": {
       "seat": 30,
-      "stand": 75
+      "stand": 40
     },
     "times": [
       "1/09:30-20:00",

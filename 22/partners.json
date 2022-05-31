@@ -428,5 +428,11 @@
     "name": "Tugu",
     "type": "supplier",
     "photos": []
+  },
+  {
+    "id": "decentree",
+    "name": "Decentree",
+    "type": "supplier",
+    "photos": []
   }
 ]

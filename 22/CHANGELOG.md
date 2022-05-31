@@ -9,6 +9,7 @@
 ### Partneři
 
 * přidáno [Tugu](https://utxo.cz/#partneri?id=tugu)
+* přidáno [Decentree](https://utxo.cz/#partneri?id=decentree)
 
 
 ## 30.5.2022
