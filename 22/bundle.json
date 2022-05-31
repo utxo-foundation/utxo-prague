@@ -5648,8 +5648,8 @@
       {
         "id": "meditace-nedele-rano",
         "name": "Kryptomeditácia [TBD]",
-        "type": "campfire",
-        "track": "spolecnost",
+        "type": "other",
+        "track": "other",
         "speakers": [
           "marianna-sadecka"
         ],
@@ -5666,8 +5666,8 @@
       {
         "id": "meditace-sobota-vecer",
         "name": "Kryptomeditácia [TBD]",
-        "type": "campfire",
-        "track": "spolecnost",
+        "type": "other",
+        "track": "other",
         "speakers": [
           "marianna-sadecka"
         ],
@@ -9209,5 +9209,5 @@
       "schedule": 157
     }
   },
-  "time": "2022-05-31T21:16:31.952Z"
+  "time": "2022-05-31T21:20:57.944Z"
 }
