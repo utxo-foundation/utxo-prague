@@ -3893,7 +3893,7 @@
       {
         "id": "team-building-najdi-partaka",
         "type": "workshop",
-        "name": "Team Building - najdi parťáky na budování crypto projektů",
+        "name": "Networking pro krypto podnikavce",
         "track": "spolecnost",
         "speakers": [
           "jacob-jelen"
@@ -9153,5 +9153,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-05-31T16:45:24.898Z"
+  "time": "2022-05-31T18:03:28.509Z"
 }
