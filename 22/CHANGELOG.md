@@ -11,6 +11,10 @@
 * přidáno [Carmine Options [TBD]](https://utxo.cz/udalosti?id=carmine)
 * přidáno [Decentralizované sociální sítě & Lens Protocol](https://utxo.cz/udalosti?id=decentralizovane-socialni-site-lens-protocol)
 
+### Partneři
+
+* přidáno [Hookamonk](https://utxo.cz/#partneri?id=hookamonk)
+
 
 ## 31.5.2022
 

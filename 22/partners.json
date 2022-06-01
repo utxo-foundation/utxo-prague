@@ -434,5 +434,11 @@
     "name": "Decentree",
     "type": "supplier",
     "photos": []
+  },
+  {
+    "id": "hookamonk",
+    "name": "Hookamonk",
+    "type": "supplier",
+    "photos": []
   }
 ]
