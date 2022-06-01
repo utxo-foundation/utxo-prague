@@ -1332,7 +1332,7 @@
         "name": "Martin Vlach",
         "nickname": "Huge",
         "twitter": "UserHuge",
-        "orgs": "Spoluzakladatel [Camine Options](https://carmine.finance/) a [Chainkeepers](https://www.chainkeepers.io/)\n",
+        "orgs": "Spoluzakladatel [Carmine Options](https://carmine.finance/) a [Chainkeepers](https://www.chainkeepers.io/)\n",
         "country": "cz",
         "tracks": [
           "defi"
@@ -2255,10 +2255,6 @@
     ],
     "event-types": [
       {
-        "id": "panel",
-        "name": "Panelová debata"
-      },
-      {
         "id": "talk",
         "name": "Přednáška"
       },
@@ -2267,12 +2263,21 @@
         "name": "Workshop"
       },
       {
-        "id": "lightning",
-        "name": "Blesková přednáška"
+        "id": "panel",
+        "name": "Panelová debata",
+        "shortname": "Panelovka"
       },
       {
         "id": "lightning-series",
-        "name": "Pásmo bleskových přednášek"
+        "name": "Pásmo bleskových přednášek",
+        "shortname": "Bleskovky",
+        "url": "https://docs.utxo.cz/hlavni-program/formaty-programu#bleskova-prednaska-lightning-talk"
+      },
+      {
+        "id": "lightning",
+        "name": "Blesková přednáška",
+        "shortname": "Bleskovka",
+        "hidden": true
       },
       {
         "id": "campfire",
@@ -2280,7 +2285,7 @@
       },
       {
         "id": "other",
-        "name": "ostatní"
+        "name": "Ostatní"
       }
     ],
     "events": [
@@ -3631,7 +3636,7 @@
         "name": "Lokální krypto komunity",
         "track": "spolecnost",
         "speakers": [],
-        "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n",
+        "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
         "tags": [
           "společnost"
         ],
@@ -3644,7 +3649,7 @@
         "name": "Lokální krypto projekty",
         "track": "zaklady",
         "speakers": [],
-        "description": "Představení lokálních kryptoměnových projektů.\n",
+        "description": "Představení lokálních kryptoměnových projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
         "tags": [
           "Bitcoin"
         ],
@@ -3657,7 +3662,7 @@
         "name": "Lokální Bitcoin projekty",
         "track": "btc",
         "speakers": [],
-        "description": "Představení lokálních bitcoinově zaměřených projektů.\n",
+        "description": "Představení lokálních bitcoinově zaměřených projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
         "duration": 55,
         "tags": [
           "Bitcoin"
@@ -3670,7 +3675,7 @@
         "name": "Lokální DAO projekty",
         "track": "dao",
         "speakers": [],
-        "description": "Představení lokálních DAO projektů.\n",
+        "description": "Představení lokálních DAO projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
         "duration": 25,
         "tags": [
           "DAO"
@@ -3686,7 +3691,7 @@
         "tags": [
           "DeFi"
         ],
-        "description": "Představení lokálních DeFi projektů.\n",
+        "description": "Představení lokálních DeFi projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
         "duration": 85,
         "popularity": 0.7
       },
@@ -3699,7 +3704,7 @@
         "tags": [
           "NFT"
         ],
-        "description": "Představení lokálních NFT/Metaverse projektů.\n",
+        "description": "Představení lokálních NFT/Metaverse projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
         "duration": 85,
         "popularity": 0.7
       },
@@ -4361,6 +4366,22 @@
           "pujčky"
         ],
         "description": "Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.\n"
+      },
+      {
+        "id": "carmine",
+        "type": "lightning",
+        "name": "Carmine Options [TBD]",
+        "track": "defi",
+        "speakers": [
+          "martin-vlach"
+        ],
+        "duration": 10,
+        "parent": "lokalni-defi-intro",
+        "tags": [
+          "DeFi",
+          "options",
+          "AMM"
+        ]
       },
       {
         "id": "stosujcz",
@@ -5705,7 +5726,7 @@
         "livestream": true,
         "streams": [
           "1/08:45-19:30/jJUn50_iyFI",
-          "2/09:45-19:15/xxxxx"
+          "2/09:45-19:15/osNm7D1R3rw"
         ]
       },
       {
@@ -5729,8 +5750,8 @@
         ],
         "livestream": true,
         "streams": [
-          "1/09:15-19:30/jJUn50_iyFI",
-          "2/09:45-18:30/xxxxx"
+          "1/09:15-19:30/e73I-rQBozk",
+          "2/09:45-18:30/WCoAJhVLLbM"
         ]
       },
       {
@@ -5753,8 +5774,8 @@
         ],
         "livestream": true,
         "streams": [
-          "1/09:15-19:30/pS5khAKucq8",
-          "2/09:45-18:30/xxxxx"
+          "1/09:15-19:30/tkRVtaCCgwk",
+          "2/09:45-18:30/GZ5FFWTleTk"
         ]
       },
       {
@@ -5776,8 +5797,8 @@
         ],
         "livestream": true,
         "streams": [
-          "1/09:15-19:30/bqiZ2xih6Jk",
-          "2/09:45-18:30/xxxxx"
+          "1/09:15-19:30/ku_qtzNsotg",
+          "2/09:45-18:30/Gsf9ubuh7rU"
         ]
       },
       {
@@ -9200,7 +9221,7 @@
       "speakers": 126,
       "tracks": 10,
       "event-types": 7,
-      "events": 183,
+      "events": 184,
       "stages": 10,
       "faqs": 6,
       "partners": 39,
@@ -9209,5 +9230,5 @@
       "schedule": 157
     }
   },
-  "time": "2022-05-31T21:20:57.944Z"
+  "time": "2022-06-01T01:06:25.696Z"
 }

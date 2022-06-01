@@ -1,9 +1,5 @@
 [
   {
-    "id": "panel",
-    "name": "Panelová debata"
-  },
-  {
     "id": "talk",
     "name": "Přednáška"
   },
@@ -12,12 +8,21 @@
     "name": "Workshop"
   },
   {
-    "id": "lightning",
-    "name": "Blesková přednáška"
+    "id": "panel",
+    "name": "Panelová debata",
+    "shortname": "Panelovka"
   },
   {
     "id": "lightning-series",
-    "name": "Pásmo bleskových přednášek"
+    "name": "Pásmo bleskových přednášek",
+    "shortname": "Bleskovky",
+    "url": "https://docs.utxo.cz/hlavni-program/formaty-programu#bleskova-prednaska-lightning-talk"
+  },
+  {
+    "id": "lightning",
+    "name": "Blesková přednáška",
+    "shortname": "Bleskovka",
+    "hidden": true
   },
   {
     "id": "campfire",
@@ -25,6 +30,6 @@
   },
   {
     "id": "other",
-    "name": "ostatní"
+    "name": "Ostatní"
   }
 ]

@@ -1346,7 +1346,7 @@
     "name": "Lokální krypto komunity",
     "track": "spolecnost",
     "speakers": [],
-    "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n",
+    "description": "Představení lokálních česko-slovenských kryptoměnových komunit.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
     "tags": [
       "společnost"
     ],
@@ -1359,7 +1359,7 @@
     "name": "Lokální krypto projekty",
     "track": "zaklady",
     "speakers": [],
-    "description": "Představení lokálních kryptoměnových projektů.\n",
+    "description": "Představení lokálních kryptoměnových projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
     "tags": [
       "Bitcoin"
     ],
@@ -1372,7 +1372,7 @@
     "name": "Lokální Bitcoin projekty",
     "track": "btc",
     "speakers": [],
-    "description": "Představení lokálních bitcoinově zaměřených projektů.\n",
+    "description": "Představení lokálních bitcoinově zaměřených projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
     "duration": 55,
     "tags": [
       "Bitcoin"
@@ -1385,7 +1385,7 @@
     "name": "Lokální DAO projekty",
     "track": "dao",
     "speakers": [],
-    "description": "Představení lokálních DAO projektů.\n",
+    "description": "Představení lokálních DAO projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
     "duration": 25,
     "tags": [
       "DAO"
@@ -1401,7 +1401,7 @@
     "tags": [
       "DeFi"
     ],
-    "description": "Představení lokálních DeFi projektů.\n",
+    "description": "Představení lokálních DeFi projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
     "duration": 85,
     "popularity": 0.7
   },
@@ -1414,7 +1414,7 @@
     "tags": [
       "NFT"
     ],
-    "description": "Představení lokálních NFT/Metaverse projektů.\n",
+    "description": "Představení lokálních NFT/Metaverse projektů.\n\nKaždý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. \n\nUpozornění: Toto není panelová debata.\n",
     "duration": 85,
     "popularity": 0.7
   },
@@ -2076,6 +2076,22 @@
       "pujčky"
     ],
     "description": "Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.\n"
+  },
+  {
+    "id": "carmine",
+    "type": "lightning",
+    "name": "Carmine Options [TBD]",
+    "track": "defi",
+    "speakers": [
+      "martin-vlach"
+    ],
+    "duration": 10,
+    "parent": "lokalni-defi-intro",
+    "tags": [
+      "DeFi",
+      "options",
+      "AMM"
+    ]
   },
   {
     "id": "stosujcz",

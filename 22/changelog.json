@@ -2380,5 +2380,18 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-06-01",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "carmine",
+          "name": "Carmine Options [TBD]"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]
