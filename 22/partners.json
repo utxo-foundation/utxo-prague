@@ -440,5 +440,12 @@
     "name": "Hookamonk",
     "type": "supplier",
     "photos": []
+  },
+  {
+    "id": "divergents",
+    "name": "The Divergents",
+    "twitter": "divergentsnft",
+    "type": "supplier",
+    "photos": []
   }
 ]

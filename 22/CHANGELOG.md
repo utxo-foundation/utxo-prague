@@ -14,6 +14,7 @@
 ### Partneři
 
 * přidáno [Hookamonk](https://utxo.cz/#partneri?id=hookamonk)
+* přidáno [The Divergents](https://utxo.cz/#partneri?id=divergents)
 
 
 ## 31.5.2022
