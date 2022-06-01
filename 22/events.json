@@ -1346,7 +1346,9 @@
     "type": "talk",
     "name": "Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?",
     "track": "zaklady",
-    "speakers": [],
+    "speakers": [
+      "lurkerp"
+    ],
     "duration": 55,
     "difficulty": "beginner",
     "popularity": 0.7,
