@@ -1038,11 +1038,21 @@
       {
         "id": "kristina-klaudyova",
         "name": "Kristina Klaudyová",
+        "twitter": "KristinaKlaudy1",
+        "bio": "Brand strategist",
         "tracks": [
           "spolecnost"
         ],
+        "web": {
+          "name": "Kristina Klaudyová @ LinkedIn",
+          "url": "https://www.linkedin.com/in/kristina-klaudyov%C3%A1-56111891"
+        },
         "country": "cz",
-        "photos": []
+        "desc": "Working as a brand strategist for major brands like McDonald’s and Mars for four years. Co-leading art agency, Haraldos Stunt Brothers, representing artists around the world focused on historical performances and cooperating with film studios like HBO or Netflix and events around the world. She also has experience with film production of independent films and marketing strategies for small, expanding businesses.\n",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
       },
       {
         "id": "tomas-kryptovlada",
@@ -9266,5 +9276,5 @@
       "schedule": 158
     }
   },
-  "time": "2022-06-01T09:18:53.945Z"
+  "time": "2022-06-01T11:36:15.409Z"
 }
