@@ -272,3 +272,8 @@
   name: Hookamonk
   type: supplier
 
+- id: divergents
+  name: The Divergents
+  twitter: divergentsnft
+  type: supplier
+
