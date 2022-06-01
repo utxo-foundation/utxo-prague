@@ -1097,5 +1097,12 @@
     start: '2022-06-04T16:00:00.000Z'
     end: '2022-06-04T17:00:00.000Z'
   event: meditace-sobota-vecer
+- id: en
+  date: '2022-06-04'
+  stage: campfire-indoor
+  period:
+    start: '2022-06-04T11:00:00.000Z'
+    end: '2022-06-04T11:30:00.000Z'
+  event: decentralizovane-socialni-site-lens-protocol
 
   

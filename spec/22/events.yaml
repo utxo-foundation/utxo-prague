@@ -2933,6 +2933,19 @@
     - komunity
     - ParallerPolis
 
+- id: decentralizovane-socialni-site-lens-protocol
+  type: campfire
+  track: spolecnost
+  speakers: [ kristina-klaudyova ]
+  duration: 30
+  difficulty: beginner
+  name: Decentralizované sociální sítě & Lens Protocol
+  description: Krátká diskuze na téma potenciálu decentralizovaných sociálních sítích. Jaká je jejich základní idea, co mohou uživatelům nabídnout, jaký potenciál přináší pro společnost a zda jsou konkurencí či vývojovým stupněm aktuálních Social Media platforem. Blíže bychom si decentralizované sociální sítě představili na příkladu nově spuštěné decentralizované sociální platformy od Aave, Lens.Protocol.
+  tags:
+    - socialní sítě
+    - decentralizce
+
+
 # Ostatní
 # ==========================
 
