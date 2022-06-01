@@ -2383,12 +2383,23 @@
   },
   {
     "date": "2022-06-01",
-    "speakers": {},
+    "speakers": {
+      "added": [
+        {
+          "id": "kristina-klaudyova",
+          "name": "Kristina Klaudyová"
+        }
+      ]
+    },
     "events": {
       "added": [
         {
           "id": "carmine",
           "name": "Carmine Options [TBD]"
+        },
+        {
+          "id": "decentralizovane-socialni-site-lens-protocol",
+          "name": "Decentralizované sociální sítě & Lens Protocol"
         }
       ]
     },

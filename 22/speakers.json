@@ -1005,6 +1005,15 @@
     ]
   },
   {
+    "id": "kristina-klaudyova",
+    "name": "Kristina Klaudyová",
+    "tracks": [
+      "spolecnost"
+    ],
+    "country": "cz",
+    "photos": []
+  },
+  {
     "id": "tomas-kryptovlada",
     "name": "Krypto Tomas CZ",
     "twitter": "KryptoTomasCZ",

@@ -2,9 +2,14 @@
 
 ## 1.6.2022
 
+### Přednášející
+
+* přidáno [Kristina Klaudyová](https://utxo.cz/lide?id=kristina-klaudyova)
+
 ### Události
 
 * přidáno [Carmine Options [TBD]](https://utxo.cz/udalosti?id=carmine)
+* přidáno [Decentralizované sociální sítě & Lens Protocol](https://utxo.cz/udalosti?id=decentralizovane-socialni-site-lens-protocol)
 
 
 ## 31.5.2022
