@@ -8,6 +8,7 @@
 
 ### Události
 
+* přidáno [Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?](https://utxo.cz/udalosti?id=investovani-vs-obchodovani-v-kryptu)
 * přidáno [Carmine Options [TBD]](https://utxo.cz/udalosti?id=carmine)
 * přidáno [Decentralizované sociální sítě & Lens Protocol](https://utxo.cz/udalosti?id=decentralizovane-socialni-site-lens-protocol)
 

@@ -2394,6 +2394,10 @@
     "events": {
       "added": [
         {
+          "id": "investovani-vs-obchodovani-v-kryptu",
+          "name": "Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?"
+        },
+        {
           "id": "carmine",
           "name": "Carmine Options [TBD]"
         },

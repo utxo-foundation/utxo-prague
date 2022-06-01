@@ -1578,5 +1578,15 @@
       "end": "2022-06-04T11:30:00.000Z"
     },
     "event": "decentralizovane-socialni-site-lens-protocol"
+  },
+  {
+    "id": "eo",
+    "date": "2022-06-05",
+    "stage": "exit-room",
+    "period": {
+      "start": "2022-06-05T14:00:00.000Z",
+      "end": "2022-06-05T15:00:00.000Z"
+    },
+    "event": "investovani-vs-obchodovani-v-kryptu"
   }
 ]
