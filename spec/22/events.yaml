@@ -1210,6 +1210,10 @@
   speakers: []
   description: |
     Představení lokálních česko-slovenských kryptoměnových komunit.
+
+    Každý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. 
+
+    Upozornění: Toto není panelová debata.
   tags:
     - společnost
   duration: 85
@@ -1222,6 +1226,10 @@
   speakers: []
   description: |
     Představení lokálních kryptoměnových projektů.
+
+    Každý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. 
+
+    Upozornění: Toto není panelová debata.
   tags:
     - Bitcoin
   duration: 55
@@ -1234,6 +1242,10 @@
   speakers: []
   description: |
     Představení lokálních bitcoinově zaměřených projektů.
+
+    Každý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. 
+
+    Upozornění: Toto není panelová debata.
   duration: 55
   tags:
     - Bitcoin
@@ -1246,6 +1258,10 @@
   speakers: []
   description: |
     Představení lokálních DAO projektů.
+
+    Každý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. 
+
+    Upozornění: Toto není panelová debata.
   duration: 25
   tags:
     - DAO
@@ -1260,6 +1276,10 @@
     - DeFi
   description: |
     Představení lokálních DeFi projektů.
+
+    Každý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. 
+
+    Upozornění: Toto není panelová debata.
   duration: 85
   popularity: 0.7
 
@@ -1273,6 +1293,10 @@
     - NFT
   description: |
     Představení lokálních NFT/Metaverse projektů.
+
+    Každý přednášející má 5-10 minut na představení svého projektu (blesková přednáška). Projekty budou prezentovány v uvedeném pořadí přímo po sobě (pauza 1-3 min). Pokud zbyde čas, tak na konci bude možnost položit otázky. 
+
+    Upozornění: Toto není panelová debata.
   duration: 85
   popularity: 0.7
 
