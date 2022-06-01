@@ -267,3 +267,8 @@
 - id: decentree
   name: Decentree
   type: supplier
+
+- id: hookamonk
+  name: Hookamonk
+  type: supplier
+
