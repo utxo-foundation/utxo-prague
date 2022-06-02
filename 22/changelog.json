@@ -2431,6 +2431,21 @@
         }
       ]
     },
-    "partners": {}
+    "partners": {
+      "added": [
+        {
+          "id": "hobby-tv",
+          "name": "Hobby TV"
+        },
+        {
+          "id": "holky-z-marketingu",
+          "name": "Holky z marketingu"
+        },
+        {
+          "id": "finmag",
+          "name": "Finmag"
+        }
+      ]
+    }
   }
 ]

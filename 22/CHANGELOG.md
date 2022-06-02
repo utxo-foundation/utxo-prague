@@ -6,6 +6,12 @@
 
 * přidáno [Krypto skepticky](https://utxo.cz/udalosti?id=krypto-skepticky)
 
+### Partneři
+
+* přidáno [Hobby TV](https://utxo.cz/#partneri?id=hobby-tv)
+* přidáno [Holky z marketingu](https://utxo.cz/#partneri?id=holky-z-marketingu)
+* přidáno [Finmag](https://utxo.cz/#partneri?id=finmag)
+
 
 ## 1.6.2022
 

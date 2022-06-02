@@ -388,6 +388,17 @@
     ]
   },
   {
+    "id": "hobby-tv",
+    "name": "Hobby TV",
+    "type": "medium",
+    "web": {
+      "url": "https://tvhobby.cz/"
+    },
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
     "id": "satoshilabs",
     "name": "Satoshi Labs",
     "type": "supplier",
@@ -446,6 +457,26 @@
     "name": "The Divergents",
     "twitter": "divergentsnft",
     "type": "supplier",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "holky-z-marketingu",
+    "type": "supplier",
+    "name": "Holky z marketingu",
+    "web": {
+      "url": "https://holkyzmarketingu.cz/"
+    },
+    "photos": []
+  },
+  {
+    "id": "finmag",
+    "type": "supplier",
+    "name": "Finmag",
+    "web": {
+      "url": "https://finmag.penize.cz/"
+    },
     "photos": []
   }
 ]

@@ -1593,6 +1593,10 @@
     "id": "pavlina-vaneckova",
     "name": "Pavlína Vanečková",
     "bio": "Investiční analytička, kryptoskeptik",
+    "web": {
+      "name": "Pavlína Vanečková @ LinkedIn",
+      "url": "https://www.linkedin.com/in/pavl%C3%ADna-van%C4%9B%C4%8Dkov%C3%A1-b912bb161"
+    },
     "tracks": [
       "spolecnost"
     ],
