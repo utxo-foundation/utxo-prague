@@ -2474,8 +2474,7 @@
         "name": "CBDC – cesta do monetárního otroctví",
         "track": "regulace",
         "speakers": [
-          "lukas-kovanda",
-          "dominik-stroukal"
+          "lukas-kovanda"
         ],
         "duration": 55,
         "difficulty": "beginner",
@@ -3632,24 +3631,6 @@
         "description": "Budou jednoho dne kryptoměny ve spojení s decentralizací cestou ke svobodě každé žijící osoby na této planetě? Máme tady skutečně technologii, která posune svět z doby informační na dobu svobody a hojnosti? Uvědomujeme si opravdu veškerá rizika, která na nás a naše blízké čekají? Anebo snad jen žijeme v sociální bublině s klapkami na očích a nechceme si připustit, co se kolem nás skutečně odehrává? Pokud si myslíte, že nastal čas rozšířit si svůj pohled o negativní zážitky lidí, kteří při seznámení s kryptoměnami dostali tvrdou ránu, tak je tato přednáška přímo pro Vás.\n"
       },
       {
-        "id": "investovani-vs-obchodovani-v-kryptu",
-        "type": "talk",
-        "name": "Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?",
-        "track": "zaklady",
-        "speakers": [
-          "lurkerp"
-        ],
-        "duration": 55,
-        "difficulty": "beginner",
-        "popularity": 0.7,
-        "description": "Lidi za mnou chodí s otázkami jako: “Mám si teď koupit Bitcoin, potažmo krypto? Co s tím mám pak dělat? A kdy to jako mám pak zase prodat?”. Dříve než se dočkají jakékoliv odpovědi, první se vždy ptám “A co od toho očekáváš?”.  My se spolu podíváme na shodu a rozdíly mezi obchodováním a investováním v kryptu a projdeme nástroje vhodné pro light research a hledání nových pozic. Zazní také drobné příběhy ze života, které vám pomohou v rozhodnutí, kterým směrem se vydat. Mezi obchodováním a investováním je totiž rozdíl a jeho neznalost vás může stát.\n",
-        "tags": [
-          "trading",
-          "investice",
-          "versus"
-        ]
-      },
-      {
         "id": "lokalni-komunity-intro",
         "type": "lightning-series",
         "name": "Lokální krypto komunity",
@@ -4198,8 +4179,7 @@
         "type": "workshop",
         "track": "zaklady",
         "speakers": [
-          "pavlina-vaneckova",
-          "dominik-stroukal"
+          "pavlina-vaneckova"
         ],
         "difficulty": "beginner",
         "duration": 50,
@@ -5098,8 +5078,7 @@
         "duration": 30,
         "difficulty": "beginner",
         "tags": [
-          "rozhovor",
-          "maximalismus"
+          "rozhovor"
         ],
         "fixed": {
           "stage": "campfire-outdoor",
@@ -5139,7 +5118,9 @@
         ],
         "duration": 30,
         "difficulty": "beginner",
-        "tags": [],
+        "tags": [
+          "maximalismus"
+        ],
         "fixed": {
           "stage": "campfire-outdoor",
           "time": "2/15:00-15:30"
@@ -9312,16 +9293,6 @@
         "event": "decentralizovane-socialni-site-lens-protocol"
       },
       {
-        "id": "eo",
-        "date": "2022-06-05",
-        "stage": "exit-room",
-        "period": {
-          "start": "2022-06-05T14:00:00.000Z",
-          "end": "2022-06-05T15:00:00.000Z"
-        },
-        "event": "investovani-vs-obchodovani-v-kryptu"
-      },
-      {
         "id": "ep",
         "date": "2022-06-04",
         "stage": "knihovna",
@@ -9338,14 +9309,14 @@
       "speakers": 127,
       "tracks": 10,
       "event-types": 7,
-      "events": 186,
+      "events": 185,
       "stages": 10,
       "faqs": 6,
       "partners": 44,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 159
+      "schedule": 158
     }
   },
-  "time": "2022-06-02T13:05:55.147Z"
+  "time": "2022-06-02T14:01:14.028Z"
 }
