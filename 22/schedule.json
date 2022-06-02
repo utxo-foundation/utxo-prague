@@ -670,16 +670,6 @@
     "event": "jak-si-posichrovat-a-rozlozit-portfolio"
   },
   {
-    "id": "cv",
-    "date": "2022-06-04",
-    "stage": "knihovna",
-    "period": {
-      "start": "2022-06-04T15:30:00.000Z",
-      "end": "2022-06-04T16:30:00.000Z"
-    },
-    "event": "btc-privacy"
-  },
-  {
     "id": "be",
     "date": "2022-06-04",
     "stage": "exit-room",

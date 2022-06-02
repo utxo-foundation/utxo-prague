@@ -3779,21 +3779,6 @@
         "description": "V tomto workshopu se podiváme na aktuální možnosti bridgování na druhé vrstvy nad Ethereem, povíme si něco o jejich výhodách a nevýhodách, oficiální versus custom protokol bridge a ukážeme si jak se jednoduše dostat na druhé vrstvy pomocí Fiat ramp.\n"
       },
       {
-        "id": "btc-privacy",
-        "type": "workshop",
-        "name": "BTC on-chain soukromí (privacy)",
-        "track": "btc",
-        "speakers": [
-          "matthew-cook"
-        ],
-        "duration": 50,
-        "difficulty": "advanced",
-        "tags": [
-          "Bitcoin",
-          "soukromí"
-        ]
-      },
-      {
         "id": "defi-pro-zacatecniky-workshop",
         "type": "workshop",
         "name": "DeFi pro začátečníky (workshop)",
@@ -8392,16 +8377,6 @@
         "event": "jak-si-posichrovat-a-rozlozit-portfolio"
       },
       {
-        "id": "cv",
-        "date": "2022-06-04",
-        "stage": "knihovna",
-        "period": {
-          "start": "2022-06-04T15:30:00.000Z",
-          "end": "2022-06-04T16:30:00.000Z"
-        },
-        "event": "btc-privacy"
-      },
-      {
         "id": "be",
         "date": "2022-06-04",
         "stage": "exit-room",
@@ -9298,14 +9273,14 @@
       "speakers": 127,
       "tracks": 10,
       "event-types": 7,
-      "events": 184,
+      "events": 183,
       "stages": 10,
       "faqs": 6,
       "partners": 45,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 157
+      "schedule": 156
     }
   },
-  "time": "2022-06-02T17:33:50.266Z"
+  "time": "2022-06-02T19:15:41.574Z"
 }

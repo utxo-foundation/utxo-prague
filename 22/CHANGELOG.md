@@ -12,6 +12,7 @@
 
 * odebráno [Základy a história DeFi protokolov](https://utxo.cz/udalosti?id=zaklady-a-historie-defi-protokolu)
 * odebráno [Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?](https://utxo.cz/udalosti?id=investovani-vs-obchodovani-v-kryptu)
+* odebráno [BTC on-chain soukromí (privacy)](https://utxo.cz/udalosti?id=btc-privacy)
 * odebráno [KryptoInsider: Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou](https://utxo.cz/udalosti?id=kryptoinsider-stroukal)
 * odebráno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-next)
 * odebráno [Kryptomeditácia [TBD]](https://utxo.cz/udalosti?id=meditace-sobota-vecer)
