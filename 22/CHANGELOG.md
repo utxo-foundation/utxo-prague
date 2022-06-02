@@ -6,6 +6,10 @@
 
 * přidáno [Krypto skepticky](https://utxo.cz/udalosti?id=krypto-skepticky)
 
+### Události
+
+* odebráno [Základy a história DeFi protokolov](https://utxo.cz/udalosti?id=zaklady-a-historie-defi-protokolu)
+
 ### Partneři
 
 * přidáno [Hobby TV](https://utxo.cz/#partneri?id=hobby-tv)
