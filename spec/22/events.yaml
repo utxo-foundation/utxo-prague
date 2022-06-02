@@ -1395,17 +1395,6 @@
   description: |
     V tomto workshopu se podiváme na aktuální možnosti bridgování na druhé vrstvy nad Ethereem, povíme si něco o jejich výhodách a nevýhodách, oficiální versus custom protokol bridge a ukážeme si jak se jednoduše dostat na druhé vrstvy pomocí Fiat ramp.
 
-- id: btc-privacy
-  type: workshop
-  name: BTC on-chain soukromí (privacy)
-  track: btc
-  speakers: [ matthew-cook ]
-  duration: 50
-  difficulty: advanced
-  tags:
-    - Bitcoin
-    - soukromí
-
 - id: defi-pro-zacatecniky-workshop
   type: workshop
   name: DeFi pro začátečníky (workshop)
