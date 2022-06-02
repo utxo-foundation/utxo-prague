@@ -166,6 +166,18 @@
     ]
   },
   {
+    "id": "polkadot",
+    "name": "Polkadot",
+    "type": "sponsor",
+    "twitter": "Polkadot",
+    "web": {
+      "url": "https://polkadot.network/"
+    },
+    "photos": [
+      "web:png"
+    ]
+  },
+  {
     "id": "sollarion",
     "name": "Sollarion Game",
     "type": "sponsor",

@@ -18,6 +18,7 @@
 
 ### Partneři
 
+* přidáno [Polkadot](https://utxo.cz/#partneri?id=polkadot)
 * přidáno [Hobby TV](https://utxo.cz/#partneri?id=hobby-tv)
 * přidáno [Holky z marketingu](https://utxo.cz/#partneri?id=holky-z-marketingu)
 * přidáno [Finmag](https://utxo.cz/#partneri?id=finmag)

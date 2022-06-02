@@ -6116,6 +6116,18 @@
         ]
       },
       {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "type": "sponsor",
+        "twitter": "Polkadot",
+        "web": {
+          "url": "https://polkadot.network/"
+        },
+        "photos": [
+          "web:png"
+        ]
+      },
+      {
         "id": "sollarion",
         "name": "Sollarion Game",
         "type": "sponsor",
@@ -9289,11 +9301,11 @@
       "events": 184,
       "stages": 10,
       "faqs": 6,
-      "partners": 44,
+      "partners": 45,
       "projects": 72,
       "practical-info": 3,
       "schedule": 157
     }
   },
-  "time": "2022-06-02T17:32:30.090Z"
+  "time": "2022-06-02T17:33:50.266Z"
 }

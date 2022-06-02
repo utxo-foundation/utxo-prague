@@ -2464,6 +2464,10 @@
     "partners": {
       "added": [
         {
+          "id": "polkadot",
+          "name": "Polkadot"
+        },
+        {
           "id": "hobby-tv",
           "name": "Hobby TV"
         },
