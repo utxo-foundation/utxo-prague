@@ -171,6 +171,9 @@ for (const entryId of utxo.entriesList()) {
               continue;
             }
             const sev = entry.specs.events.find((e) => e.id === si.event);
+            if (!sev) {
+              throw new Error(`Event not defined: ${si.event}`);
+            }
             for (const sp of sev.speakers) {
               if (ev.speakers.includes(sp)) {
                 throw new Error(

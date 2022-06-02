@@ -333,7 +333,7 @@
   period:
     start: '2022-06-04T13:00:00.000Z'
     end: '2022-06-04T13:30:00.000Z'
-  event: kryptoinsider-stroukal
+  event: kryptoinsider2
 - id: d8
   date: '2022-06-04'
   stage: campfire-indoor
@@ -914,7 +914,7 @@
   period:
     start: '2022-06-05T13:00:00.000Z'
     end: '2022-06-05T13:30:00.000Z'
-  event: kryptoinsider-next
+  event: kryptoinsider4
 - id: a6
   date: '2022-06-05'
   stage: lustrovy-sal
