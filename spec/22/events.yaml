@@ -144,7 +144,6 @@
   track: regulace
   speakers:
     - lukas-kovanda
-    - dominik-stroukal
   duration: 55
   difficulty: beginner
   popularity: 0.8
@@ -1204,20 +1203,20 @@
   description: |
     Budou jednoho dne kryptoměny ve spojení s decentralizací cestou ke svobodě každé žijící osoby na této planetě? Máme tady skutečně technologii, která posune svět z doby informační na dobu svobody a hojnosti? Uvědomujeme si opravdu veškerá rizika, která na nás a naše blízké čekají? Anebo snad jen žijeme v sociální bublině s klapkami na očích a nechceme si připustit, co se kolem nás skutečně odehrává? Pokud si myslíte, že nastal čas rozšířit si svůj pohled o negativní zážitky lidí, kteří při seznámení s kryptoměnami dostali tvrdou ránu, tak je tato přednáška přímo pro Vás.
 
-- id: investovani-vs-obchodovani-v-kryptu
-  type: talk
-  name: Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?
-  track: zaklady
-  speakers: [ lurkerp ]
-  duration: 55
-  difficulty: beginner
-  popularity: 0.7
-  description: |
-    Lidi za mnou chodí s otázkami jako: “Mám si teď koupit Bitcoin, potažmo krypto? Co s tím mám pak dělat? A kdy to jako mám pak zase prodat?”. Dříve než se dočkají jakékoliv odpovědi, první se vždy ptám “A co od toho očekáváš?”.  My se spolu podíváme na shodu a rozdíly mezi obchodováním a investováním v kryptu a projdeme nástroje vhodné pro light research a hledání nových pozic. Zazní také drobné příběhy ze života, které vám pomohou v rozhodnutí, kterým směrem se vydat. Mezi obchodováním a investováním je totiž rozdíl a jeho neznalost vás může stát.
-  tags:
-    - trading
-    - investice
-    - versus
+#- id: investovani-vs-obchodovani-v-kryptu
+#  type: talk
+#  name: Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?
+#  track: zaklady
+#  speakers: [ lurkerp ]
+#  duration: 55
+#  difficulty: beginner
+#  popularity: 0.7
+#  description: |
+#    Lidi za mnou chodí s otázkami jako: “Mám si teď koupit Bitcoin, potažmo krypto? Co s tím mám pak dělat? A kdy to jako mám pak zase prodat?”. Dříve než se dočkají jakékoliv odpovědi, první se vždy ptám “A co od toho očekáváš?”.  My se spolu podíváme na shodu a rozdíly mezi obchodováním a investováním v kryptu a projdeme nástroje vhodné pro light research a hledání nových pozic. Zazní také drobné příběhy ze života, které vám pomohou v rozhodnutí, kterým směrem se vydat. Mezi obchodováním a investováním je totiž rozdíl a jeho neznalost vás může stát.
+#  tags:
+#    - trading
+#    - investice
+#    - versus
 
 
  # Lightning talks (series)
@@ -1745,7 +1744,6 @@
   track: zaklady
   speakers:
     - pavlina-vaneckova
-    - dominik-stroukal
   difficulty: beginner
   duration: 50
   tags:
@@ -2598,7 +2596,6 @@
   difficulty: beginner
   tags:
     - rozhovor
-    - maximalismus
   fixed:
     stage: campfire-outdoor
     time: '1/15:00-15:30'
@@ -2627,7 +2624,8 @@
   speakers: [ josef-tetek, petr-lukac ]
   duration: 30
   difficulty: beginner
-  tags: []
+  tags:
+    - maximalismus
   fixed:
     stage: campfire-outdoor
     time: '2/15:00-15:30'
