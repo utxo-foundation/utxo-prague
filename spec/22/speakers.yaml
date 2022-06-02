@@ -419,6 +419,8 @@
   twitter: DusanKmetyo
   bio: Organizátor konference [CryptoByte](https://cryptobyte.cz/), Youtuber
   tracks: [ zaklady, btc, spolecnost ]
+  web:
+    url: https://cryptobyte.cz
   country: cz
   available:
     - from: '2022-06-04T08:00:00'
