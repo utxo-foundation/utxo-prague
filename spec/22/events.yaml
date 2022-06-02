@@ -814,24 +814,24 @@
       - rajska-zahrada
       - lustrovy-sal
 
-- id: zaklady-a-historie-defi-protokolu
-  type: talk
-  name: Základy a história DeFi protokolov
-  track: defi
-  speakers: [ adam-studenik ]
-  duration: 55
-  difficulty: beginner
-  tags:
-    - DeFi
-    - Ethereum
-    - stablecoin
-    - DEX
-    - pujčky
-    - liquidity mining
-    - historie
-  description: |
-    Na prednáške budem hovoriť hlavne o projektoch ktoré bežia na Ethereu poprípade EVM forkoch ako je napríklad Polygon, Binance Smart Chain, Fantom atď. Prednášku som rozdelil na 4 hlavné časti: 1. Stablekoiny 2. Decentralizované burzy 3. Lending protokoli 4. Bridge / Mosty. Po alebo pred prednáškou budem tatkiež robiť workshop kde Vám ukážem ako to v skutočnosti funguju a ako sa s DeFi pracuje. Vy sami si teda budete môcť vyskúšať čo znamená byť DeFi liquidity providerom, investorom, farmárom, poprípade ako sa pripraviť na airdropy budúcich zaujímavých projektov.
-  popularity: 0.5
+#- id: zaklady-a-historie-defi-protokolu
+#  type: talk
+#  name: Základy a história DeFi protokolov
+#  track: defi
+#  speakers: [ adam-studenik ]
+#  duration: 55
+#  difficulty: beginner
+#  tags:
+#    - DeFi
+#    - Ethereum
+#    - stablecoin
+#    - DEX
+#    - pujčky
+#    - liquidity mining
+#    - historie
+#  description: |
+#    Na prednáške budem hovoriť hlavne o projektoch ktoré bežia na Ethereu poprípade EVM forkoch ako je napríklad Polygon, Binance Smart Chain, Fantom atď. Prednášku som rozdelil na 4 hlavné časti: 1. Stablekoiny 2. Decentralizované burzy 3. Lending protokoli 4. Bridge / Mosty. Po alebo pred prednáškou budem tatkiež robiť workshop kde Vám ukážem ako to v skutočnosti funguju a ako sa s DeFi pracuje. Vy sami si teda budete môcť vyskúšať čo znamená byť DeFi liquidity providerom, investorom, farmárom, poprípade ako sa pripraviť na airdropy budúcich zaujímavých projektov.
+#  popularity: 0.5
 
 - id: defi-pro-zacatecniky
   type: talk
