@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "au",
+    "eventId": "o-praci-v-kryptu",
+    "name": "Z normální práce do krypta",
+    "period": {
+      "start": "2022-06-04T11:30:00.000Z",
+      "end": "2022-06-04T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "av",
+    "eventId": "btc-vs-altcoiny",
+    "name": "Bitcoin vs. altcoiny",
+    "period": {
+      "start": "2022-06-05T11:00:00.000Z",
+      "end": "2022-06-05T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "aw",
+    "eventId": "nft-metaverse-panel",
+    "name": "NFT a Metaverse [TBD]",
+    "period": {
+      "start": "2022-06-04T10:00:00.000Z",
+      "end": "2022-06-04T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "ax",
+    "eventId": "nft-usecases-panel",
+    "name": "Potenciál NFT je větší než jen digitální umění a sběratelství",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "ay",
+    "eventId": "nft-curation-art-heritage",
+    "name": "Heritage layers scented with open source goes beyond CryptoArt [EN]",
+    "period": {
+      "start": "2022-06-04T16:30:00.000Z",
+      "end": "2022-06-04T17:30:00.000Z"
+    }
+  },
+  {
+    "id": "aa",
+    "eventId": "czk-stablecoin-panel",
+    "name": "Koruna česká na blockchainu (dCZK stablecoin) - panelová debata",
+    "period": {
+      "start": "2022-06-05T12:00:00.000Z",
+      "end": "2022-06-05T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "az",
+    "eventId": "cbdc-panel",
+    "name": "CBDC – cesta do monetárního otroctví",
+    "period": {
+      "start": "2022-06-04T15:00:00.000Z",
+      "end": "2022-06-04T16:00:00.000Z"
+    }
+  },
+  {
+    "id": "a0",
+    "eventId": "regulace-panel",
+    "name": "Kryptoměnové regulace u nás a ve světě (MiCA atp.)",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "a1",
+    "eventId": "politicka-a-regulatorni-situace-kryptomen-co-nas-ceka",
+    "name": "Politická a regulatorní situace kryptoměn. Co nás čeká?",
+    "period": {
+      "start": "2022-06-05T13:30:00.000Z",
+      "end": "2022-06-05T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "a2",
+    "eventId": "eticky-vekslak",
+    "name": "Etický vekslák - kryptomeny bez povolenia",
+    "period": {
+      "start": "2022-06-04T12:30:00.000Z",
+      "end": "2022-06-04T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "a3",
+    "eventId": "volny-trh-penez",
+    "name": "Volný trh peněz",
+    "period": {
+      "start": "2022-06-05T15:30:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "a4",
+    "eventId": "historie-cypherpunku",
+    "name": "Bitcoin a Cypherpunks - Jejich role v dnešním světě",
+    "period": {
+      "start": "2022-06-04T11:30:00.000Z",
+      "end": "2022-06-04T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "a5",
+    "eventId": "pokrok-bez-povoleni",
+    "name": "Pokrok bez povolení: Jak sdílená ekonomika, crowdfunding a kryptoměny změnily svět",
+    "period": {
+      "start": "2022-06-04T16:00:00.000Z",
+      "end": "2022-06-04T17:00:00.000Z"
+    }
+  },
+  {
+    "id": "a6",
+    "eventId": "jak-jsem-prodaval-bitcoiny-pred-deseti-lety",
+    "name": "Historie Bitcoinu: Jak jsem prodával bitcoiny před deseti lety",
+    "period": {
+      "start": "2022-06-05T13:30:00.000Z",
+      "end": "2022-06-05T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "a7",
+    "eventId": "pribeh-nejvetsiho-btc-donejtu",
+    "name": "Příběh o největším BTC donejtu na české YouTube scéně",
+    "period": {
+      "start": "2022-06-04T11:30:00.000Z",
+      "end": "2022-06-04T12:00:00.000Z"
+    }
+  },
+  {
+    "id": "a8",
+    "eventId": "kdyz-byl-bitcoin-jeste-divoky-zapad",
+    "name": "Když byl Bitcoin ještě Divoký západ",
+    "period": {
+      "start": "2022-06-04T15:30:00.000Z",
+      "end": "2022-06-04T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "a9",
+    "eventId": "ceska-kryptonadace",
+    "name": "Česká KryptoNadace - spolupráce mezi krypto a neziskovým sektorem",
+    "period": {
+      "start": "2022-06-05T16:00:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "ba",
+    "eventId": "adopce-kryptomen",
+    "name": "Adopce kryptoměn",
+    "period": {
+      "start": "2022-06-05T10:00:00.000Z",
+      "end": "2022-06-05T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "bb",
+    "eventId": "adopce-btc",
+    "name": "Bitcoin a české korporace",
+    "period": {
+      "start": "2022-06-04T07:30:00.000Z",
+      "end": "2022-06-04T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "ab",
+    "eventId": "czk-stablecoin",
+    "name": "Koruna česká na blockchainu (dCZK stablecoin)",
+    "period": {
+      "start": "2022-06-05T11:30:00.000Z",
+      "end": "2022-06-05T12:00:00.000Z"
+    }
+  },
+  {
+    "id": "bc",
+    "eventId": "somnium-space-talk",
+    "name": "Somnium Space - představení a demo",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "bd",
+    "eventId": "gaming-v-rozvojovych-zemich",
+    "name": "Blockchainové hry v rozvojových zemích",
+    "period": {
+      "start": "2022-06-05T10:30:00.000Z",
+      "end": "2022-06-05T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "be",
+    "eventId": "blockchain-hry-a-deti",
+    "name": "Blockchain, hry a děti",
+    "period": {
+      "start": "2022-06-04T15:30:00.000Z",
+      "end": "2022-06-04T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "bf",
+    "eventId": "social-tokeny",
+    "name": "Social Token Salad",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "bg",
+    "eventId": "od-mozku-k-blockchainu-decentralizovana-veda-desci",
+    "name": "Od mozku k blockchainu aneb Decentralizovaná věda (DeSci)",
+    "period": {
+      "start": "2022-06-05T15:00:00.000Z",
+      "end": "2022-06-05T16:00:00.000Z"
+    }
+  },
+  {
+    "id": "bh",
+    "eventId": "jak-spustit-krypto-projekt-regulace-omezeni",
+    "name": "Jak spustit krypto projekt? (pohled právníka)",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "bi",
+    "eventId": "danove-triky-a-kouzla",
+    "name": "Daňové triky tipy a kouzla",
+    "period": {
+      "start": "2022-06-04T07:30:00.000Z",
+      "end": "2022-06-04T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "bj",
+    "eventId": "jan-krypto-zmenilo-zabehle-firemni-struktury",
+    "name": "Jak krypto změnilo zaběhlé firemní struktury",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "bk",
+    "eventId": "prace-zivobyti-v-kryptomenach",
+    "name": "Práce a možnosti živobytí v kryptoměnách",
+    "period": {
+      "start": "2022-06-04T17:00:00.000Z",
+      "end": "2022-06-04T17:30:00.000Z"
+    }
+  },
+  {
+    "id": "bl",
+    "eventId": "talent-ve-web3-vc-pohled",
+    "name": "Talent ve Web3 (z pohledu VC)",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "bm",
+    "eventId": "guildy-odf-dao-organizacni-revoluce",
+    "name": "Guildy, ODF a DAO jako organizační revoluce",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "bn",
+    "eventId": "hypoteky-pro-cryptonatives",
+    "name": "Hypotéky pro Cryptonatives",
+    "period": {
+      "start": "2022-06-04T10:00:00.000Z",
+      "end": "2022-06-04T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "bo",
+    "eventId": "devpill-me-public-goods",
+    "name": "Úvod k devpill.me a public goods",
+    "period": {
+      "start": "2022-06-04T16:00:00.000Z",
+      "end": "2022-06-04T17:00:00.000Z"
+    }
+  },
+  {
+    "id": "bp",
+    "eventId": "quadratic-developer-rewards",
+    "name": "Quadratic Developer Rewards (KodaDot) [TBD]",
+    "period": {
+      "start": "2022-06-05T10:30:00.000Z",
+      "end": "2022-06-05T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "bq",
+    "eventId": "zakladni-filozofie-tvorby-tokenu",
+    "name": "Základní filozofie tvorby tokenu (tokenomiky)",
+    "period": {
+      "start": "2022-06-04T14:00:00.000Z",
+      "end": "2022-06-04T15:00:00.000Z"
+    }
+  },
+  {
+    "id": "br",
+    "eventId": "nastartuj-svuj-projekt-pandemie-nove-moznost-raisingu",
+    "name": "Jak založit US startup a získat $1M+ od investorů v USA a Asii – na dálku z České Republiky",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "bs",
+    "eventId": "dao-101",
+    "name": "DAOs 101 - Úvod do Decentralizovaných Autonómnych Organizácií",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "bt",
+    "eventId": "terragedon-kolaps-ust-luna",
+    "name": "TERRAGEDON: Kolaps UST a LUNA",
+    "period": {
+      "start": "2022-06-04T13:30:00.000Z",
+      "end": "2022-06-04T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "bu",
+    "eventId": "zaklady-zabezpeceni",
+    "name": "Základy zabezpečení nejen ve světě kryptoměn",
+    "period": {
+      "start": "2022-06-05T11:30:00.000Z",
+      "end": "2022-06-05T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "bv",
+    "eventId": "proc-a-jak-pouzivat-bitcoin",
+    "name": "Proč Bitcoin",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "bw",
+    "eventId": "l2-zaklady",
+    "name": "Layer2s - úvod do druhých vrstev a proč je potřebujeme",
+    "period": {
+      "start": "2022-06-05T09:30:00.000Z",
+      "end": "2022-06-05T10:30:00.000Z"
+    }
+  },
+  {
+    "id": "bx",
+    "eventId": "eth2",
+    "name": "The Merge (Eth2)",
+    "period": {
+      "start": "2022-06-05T15:30:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "ac",
+    "eventId": "defi-pro-zacatecniky",
+    "name": "DeFi pro začátečníky",
+    "period": {
+      "start": "2022-06-04T07:30:00.000Z",
+      "end": "2022-06-04T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "bz",
+    "eventId": "high-freq-algo-trading-solana",
+    "name": "High frequency algo trading na Solaně",
+    "period": {
+      "start": "2022-06-05T12:00:00.000Z",
+      "end": "2022-06-05T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "b0",
+    "eventId": "uvod-do-polkadot",
+    "name": "Úvod do Polkadotu",
+    "period": {
+      "start": "2022-06-04T10:00:00.000Z",
+      "end": "2022-06-04T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "b1",
+    "eventId": "mise-projektu-cardano",
+    "name": "Mise projektu Cardano",
+    "period": {
+      "start": "2022-06-05T15:00:00.000Z",
+      "end": "2022-06-05T16:00:00.000Z"
+    }
+  },
+  {
+    "id": "b2",
+    "eventId": "uvod-cosmos-ekosystem",
+    "name": "Úvod do Cosmos Ekosystému",
+    "period": {
+      "start": "2022-06-04T11:00:00.000Z",
+      "end": "2022-06-04T12:00:00.000Z"
+    }
+  },
+  {
+    "id": "b3",
+    "eventId": "uvod-near",
+    "name": "Úvod do NEAR",
+    "period": {
+      "start": "2022-06-04T07:30:00.000Z",
+      "end": "2022-06-04T08:00:00.000Z"
+    }
+  },
+  {
+    "id": "b4",
+    "eventId": "fire-movement",
+    "name": "FIRE movement (Financial Independence, Retire Early)",
+    "period": {
+      "start": "2022-06-04T09:30:00.000Z",
+      "end": "2022-06-04T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "b5",
+    "eventId": "investovani-20",
+    "name": "Racionální rozhodování",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "b6",
+    "eventId": "chyby-pri-skladani-portfolia",
+    "name": "Chyby, které děláš při skládání portfolia (a jak je opravit)",
+    "period": {
+      "start": "2022-06-04T14:30:00.000Z",
+      "end": "2022-06-04T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "b7",
+    "eventId": "fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv",
+    "name": "Fundamentální analýza jako základ investice do krypto aktiv",
+    "period": {
+      "start": "2022-06-04T12:30:00.000Z",
+      "end": "2022-06-04T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "b8",
+    "eventId": "smart-contracts-audits",
+    "name": "Audity smart kontraktů - co to je a k čemu je to vůbec dobré?",
+    "period": {
+      "start": "2022-06-05T12:30:00.000Z",
+      "end": "2022-06-05T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "b9",
+    "eventId": "polkadot-governance",
+    "name": "Polkadot governance",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "ca",
+    "eventId": "ztratou-recovery-seedu-neztratite-jenom-finance",
+    "name": "Ztrátou Recovery Seed neztratíte pouze finance…",
+    "period": {
+      "start": "2022-06-04T14:00:00.000Z",
+      "end": "2022-06-04T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "cb",
+    "eventId": "opravdu-vlastnite-cryptopunka",
+    "name": "Opravdu vlastníte Vašeho cryptopunka? - právní aspekty vlastnictví NFT",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "cc",
+    "eventId": "fediverse",
+    "name": "Fediverse aneb sociální síť kterou si Elon nekoupí",
+    "period": {
+      "start": "2022-06-04T16:30:00.000Z",
+      "end": "2022-06-04T17:30:00.000Z"
+    }
+  },
+  {
+    "id": "cd",
+    "eventId": "jak-vyuzit-potencial-defi-na-maximum",
+    "name": "Úvod do yield farmingu",
+    "period": {
+      "start": "2022-06-04T12:00:00.000Z",
+      "end": "2022-06-04T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "ce",
+    "eventId": "budoucnost-kryptomen-je-v-produktech-nikoliv-v-chainech",
+    "name": "Budoucnost kryptoměn je v produktech, nikoliv v chainech",
+    "period": {
+      "start": "2022-06-05T10:00:00.000Z",
+      "end": "2022-06-05T10:30:00.000Z"
+    }
+  },
+  {
+    "id": "cf",
+    "eventId": "reaktivni-nft",
+    "name": "Reaktívne NFTs",
+    "period": {
+      "start": "2022-06-04T12:30:00.000Z",
+      "end": "2022-06-04T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "cg",
+    "eventId": "institucionalni-investori-v-kryptu",
+    "name": "Institucionální investoři v kryptu – kdo jsou a máme se jich bát?",
+    "period": {
+      "start": "2022-06-04T13:30:00.000Z",
+      "end": "2022-06-04T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "ch",
+    "eventId": "zkusenosti-z-provozem-pos-blockchainu",
+    "name": "Zkušenosti s provozem PoS blockchainů (RBF Staking)",
+    "period": {
+      "start": "2022-06-04T13:00:00.000Z",
+      "end": "2022-06-04T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "ci",
+    "eventId": "jak-ziskat-financovani-pro-vas-web3-projekt",
+    "name": "Jak získat financování pro váš Web 3.0 projekt",
+    "period": {
+      "start": "2022-06-04T09:30:00.000Z",
+      "end": "2022-06-04T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "cj",
+    "eventId": "jak-si-posichrovat-a-rozlozit-portfolio",
+    "name": "Jak vydělat miliony, i když je nemáš",
+    "period": {
+      "start": "2022-06-05T14:30:00.000Z",
+      "end": "2022-06-05T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "ck",
+    "eventId": "dabluv-advokat-kryptopodvody-a-jine-problemy",
+    "name": "Ďáblův advokát - kryptopodvody a jiné problémy",
+    "period": {
+      "start": "2022-06-04T08:00:00.000Z",
+      "end": "2022-06-04T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "cl",
+    "eventId": "lokalni-komunity-intro",
+    "name": "Lokální krypto komunity",
+    "period": {
+      "start": "2022-06-04T14:00:00.000Z",
+      "end": "2022-06-04T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "cm",
+    "eventId": "lokalni-projekty-intro",
+    "name": "Lokální krypto projekty",
+    "period": {
+      "start": "2022-06-04T13:00:00.000Z",
+      "end": "2022-06-04T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "cn",
+    "eventId": "lokalni-btc-intro",
+    "name": "Lokální Bitcoin projekty",
+    "period": {
+      "start": "2022-06-04T13:30:00.000Z",
+      "end": "2022-06-04T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "co",
+    "eventId": "lokalni-dao-intro",
+    "name": "Lokální DAO projekty",
+    "period": {
+      "start": "2022-06-05T16:00:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "cp",
+    "eventId": "lokalni-defi-intro",
+    "name": "Lokální DeFi projekty",
+    "period": {
+      "start": "2022-06-05T13:30:00.000Z",
+      "end": "2022-06-05T15:00:00.000Z"
+    }
+  },
+  {
+    "id": "cq",
+    "eventId": "lokalni-nft-intro",
+    "name": "Lokální NFT projekty",
+    "period": {
+      "start": "2022-06-04T14:30:00.000Z",
+      "end": "2022-06-04T16:00:00.000Z"
+    }
+  },
+  {
+    "id": "cr",
+    "eventId": "eticky-vekslak-workshop",
+    "name": "Etický vekslák - praktický workshop",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "cs",
+    "eventId": "bezpecnost-workshop",
+    "name": "Základy zabezpečení (ne)jen ve světě kryptoměn",
+    "period": {
+      "start": "2022-06-05T14:00:00.000Z",
+      "end": "2022-06-05T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "ct",
+    "eventId": "privacy-workshop",
+    "name": "Základy soukromí a anonymizace",
+    "period": {
+      "start": "2022-06-04T10:00:00.000Z",
+      "end": "2022-06-04T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "cu",
+    "eventId": "l2-bridge-rampy-prakticky",
+    "name": "Layer2s - bridge a fiat rampy prakticky",
+    "period": {
+      "start": "2022-06-05T12:00:00.000Z",
+      "end": "2022-06-05T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "cw",
+    "eventId": "defi-pro-zacatecniky-workshop",
+    "name": "DeFi pro začátečníky (workshop)",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "cy",
+    "eventId": "bleskomat-worskhop",
+    "name": "Postav si svůj Bleskomat (DIY)",
+    "period": {
+      "start": "2022-06-05T10:30:00.000Z",
+      "end": "2022-06-05T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "cz",
+    "eventId": "pujcka-na-blockchainu-jednoduse-rychle",
+    "name": "Půjčka na blockchainu s 0% úrokem rychle a jednoduše (APUS Finance)",
+    "period": {
+      "start": "2022-06-04T13:00:00.000Z",
+      "end": "2022-06-04T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "c0",
+    "eventId": "near-v-praxi",
+    "name": "NEAR v praxi",
+    "period": {
+      "start": "2022-06-04T12:30:00.000Z",
+      "end": "2022-06-04T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "c1",
+    "eventId": "bitcoin-tezba",
+    "name": "Bitcoin těžba",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T10:30:00.000Z"
+    }
+  },
+  {
+    "id": "c2",
+    "eventId": "lightning-transakce-a-penezenky-pro-zacatecniky",
+    "name": "Lightning transakce a peněženky pro začátečníky",
+    "period": {
+      "start": "2022-06-04T12:00:00.000Z",
+      "end": "2022-06-04T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "c3",
+    "eventId": "team-building-najdi-partaka",
+    "name": "Networking pro krypto podnikavce",
+    "period": {
+      "start": "2022-06-04T14:00:00.000Z",
+      "end": "2022-06-04T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "c4",
+    "eventId": "lightning-ekosystem",
+    "name": "Co všechno jde dělat na Lightning Network",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "c5",
+    "eventId": "hackujeme-defi-arbitraze",
+    "name": "Hackujeme DeFi arbitráže",
+    "period": {
+      "start": "2022-06-04T10:00:00.000Z",
+      "end": "2022-06-04T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "c6",
+    "eventId": "staking-a-polkadot-aukce",
+    "name": "Staking a Polkadot aukce",
+    "period": {
+      "start": "2022-06-04T11:30:00.000Z",
+      "end": "2022-06-04T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "c7",
+    "eventId": "somnium-space-workshop",
+    "name": "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]",
+    "period": {
+      "start": "2022-06-05T15:30:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "c8",
+    "eventId": "btc-full-node-workshop",
+    "name": "Full node, sluha každého správného Bitcoinera",
+    "period": {
+      "start": "2022-06-04T14:30:00.000Z",
+      "end": "2022-06-04T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "c9",
+    "eventId": "liberalismus-a-svoboda",
+    "name": "Liberalismus a svoboda",
+    "period": {
+      "start": "2022-06-05T10:00:00.000Z",
+      "end": "2022-06-05T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "da",
+    "eventId": "play-to-earn-sorare",
+    "name": "Play-to-earn: Praktická ukázka, jak vydělávat koukáním na fotbal (Sorare)",
+    "period": {
+      "start": "2022-06-05T14:00:00.000Z",
+      "end": "2022-06-05T15:00:00.000Z"
+    }
+  },
+  {
+    "id": "db",
+    "eventId": "uvod-do-tvorby-smart-contractu-solana",
+    "name": "Úvod do tvorby smart-contractů na Solana blockchainu",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "dc",
+    "eventId": "maximalni-yield-bez-ohledu-na-chain",
+    "name": "Max degen mode yield farming",
+    "period": {
+      "start": "2022-06-04T13:30:00.000Z",
+      "end": "2022-06-04T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "dd",
+    "eventId": "jan-se-pojistit-proti-propadu-bitcoinu",
+    "name": "Jak se pojistit proti propadu Bitcoinu",
+    "period": {
+      "start": "2022-06-04T07:30:00.000Z",
+      "end": "2022-06-04T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "de",
+    "eventId": "dane-a-krypto-qa-campfire",
+    "name": "Daně a krypto - Q&A (workshop)",
+    "period": {
+      "start": "2022-06-05T12:00:00.000Z",
+      "end": "2022-06-05T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "df",
+    "eventId": "krypto-a-nemovitosti",
+    "name": "Krypto a nemovitosti",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "dg",
+    "eventId": "investocka-workshop",
+    "name": "Pokec o aktuální ekonomické situaci a její návaznost na jednotlivá investiční aktiva",
+    "period": {
+      "start": "2022-06-04T16:30:00.000Z",
+      "end": "2022-06-04T17:30:00.000Z"
+    }
+  },
+  {
+    "id": "dh",
+    "eventId": "zaklady-mintovani-nft",
+    "name": "Základy mintování NFTs (KodaDot) [TBD]",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "di",
+    "eventId": "jak-na-tvorbu-domaciho-derivatu",
+    "name": "Jak na tvorbu domácího finančního derivátu (v kryptu) … a proč se o to vůbec pokoušet",
+    "period": {
+      "start": "2022-06-05T15:30:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "ep",
+    "eventId": "krypto-skepticky",
+    "name": "Krypto skepticky",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "dj",
+    "eventId": "gwei-cz-setkani",
+    "name": "Setkání s Gwei.cz komunitou",
+    "period": {
+      "start": "2022-06-04T12:00:00.000Z",
+      "end": "2022-06-04T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "dk",
+    "eventId": "bohemiandao-campfire",
+    "name": "BohemianDAO - financování lokálních vzdělávacích Ethereum & DeFi projektů",
+    "period": {
+      "start": "2022-06-04T07:30:00.000Z",
+      "end": "2022-06-04T08:30:00.000Z"
+    }
+  },
+  {
+    "id": "dl",
+    "eventId": "holky-v-kryptu-campfire",
+    "name": "Potkej Holky v kryptu",
+    "period": {
+      "start": "2022-06-05T12:00:00.000Z",
+      "end": "2022-06-05T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "dm",
+    "eventId": "dydx-intro",
+    "name": "dYdX - Perpetual Futures platforma, úvod a demo",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "dn",
+    "eventId": "je-krypto-letadlo",
+    "name": "Je krypto letadlo?",
+    "period": {
+      "start": "2022-06-04T13:30:00.000Z",
+      "end": "2022-06-04T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "do",
+    "eventId": "zijeme-bez-fiatu",
+    "name": "Žijeme bez fiatu",
+    "period": {
+      "start": "2022-06-05T08:00:00.000Z",
+      "end": "2022-06-05T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "dp",
+    "eventId": "digitalni-identita-v-metaverse",
+    "name": "Digitální identita v metaverse",
+    "period": {
+      "start": "2022-06-04T09:30:00.000Z",
+      "end": "2022-06-04T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "dq",
+    "eventId": "skovo",
+    "name": "Udělej si vlastní Stress testy (Skovo.cz)",
+    "period": {
+      "start": "2022-06-05T16:00:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "dr",
+    "eventId": "kodadot-campfire",
+    "name": "KodaDot nfts and chill",
+    "period": {
+      "start": "2022-06-05T14:30:00.000Z",
+      "end": "2022-06-05T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "ad",
+    "eventId": "kryptovlada-qa",
+    "name": "KryptoVláďa Q&A",
+    "period": {
+      "start": "2022-06-04T17:00:00.000Z",
+      "end": "2022-06-04T18:00:00.000Z"
+    }
+  },
+  {
+    "id": "ds",
+    "eventId": "sollarion-campfire",
+    "name": "Sollarion introduction and giveaway",
+    "period": {
+      "start": "2022-06-04T10:30:00.000Z",
+      "end": "2022-06-04T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "ae",
+    "eventId": "hopium-diaries-ape-tax-rekt",
+    "name": "Hopiové deníky + Degenská daň (video)",
+    "period": {
+      "start": "2022-06-04T20:00:00.000Z",
+      "end": "2022-06-04T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "dt",
+    "eventId": "blockchain-gaming-scams",
+    "name": "Blockchain and gaming: How to prevent getting scammed [EN]",
+    "period": {
+      "start": "2022-06-05T15:30:00.000Z",
+      "end": "2022-06-05T16:00:00.000Z"
+    }
+  },
+  {
+    "id": "du",
+    "eventId": "krypto-v-podnikani-campfire",
+    "name": "Krypto v podnikaní",
+    "period": {
+      "start": "2022-06-04T08:00:00.000Z",
+      "end": "2022-06-04T09:00:00.000Z"
+    }
+  },
+  {
+    "id": "dv",
+    "eventId": "fintech-v-asii-campfire",
+    "name": "Fintech v Asii",
+    "period": {
+      "start": "2022-06-05T11:00:00.000Z",
+      "end": "2022-06-05T12:00:00.000Z"
+    }
+  },
+  {
+    "id": "dw",
+    "eventId": "zeny-v-it-a-kryptu-campfire",
+    "name": "Ženy v IT a kryptu",
+    "period": {
+      "start": "2022-06-05T09:30:00.000Z",
+      "end": "2022-06-05T10:30:00.000Z"
+    }
+  },
+  {
+    "id": "dx",
+    "eventId": "opcni-protokoly-dnes-a-zitra",
+    "name": "Opční protokoly dnes a zítra",
+    "period": {
+      "start": "2022-06-05T12:00:00.000Z",
+      "end": "2022-06-05T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "dy",
+    "eventId": "prezije-bitcoin-bez-block-rewards",
+    "name": "Přežije Bitcoin, až se nebudou tisknout nové bitcoiny?",
+    "period": {
+      "start": "2022-06-04T17:00:00.000Z",
+      "end": "2022-06-04T17:30:00.000Z"
+    }
+  },
+  {
+    "id": "dz",
+    "eventId": "anonymizace-campfire",
+    "name": "Způsoby anonymizace tokenů (Tornado, SCRT, Aztec)",
+    "period": {
+      "start": "2022-06-05T10:30:00.000Z",
+      "end": "2022-06-05T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "d0",
+    "eventId": "idealni-kryptoportfolio",
+    "name": "Ideální kryptoportfolio",
+    "period": {
+      "start": "2022-06-04T16:30:00.000Z",
+      "end": "2022-06-04T17:00:00.000Z"
+    }
+  },
+  {
+    "id": "d1",
+    "eventId": "czk-kurz-na-blockchainu-oracles",
+    "name": "CZK kurz na blockchainu (používání Oracle)",
+    "period": {
+      "start": "2022-06-05T11:00:00.000Z",
+      "end": "2022-06-05T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "d2",
+    "eventId": "setkani-s-liborem-z-investocky",
+    "name": "Otevřená diskuze s Liborem z Investocky",
+    "period": {
+      "start": "2022-06-05T14:00:00.000Z",
+      "end": "2022-06-05T15:30:00.000Z"
+    }
+  },
+  {
+    "id": "af",
+    "eventId": "kryptoinsider-jedlinsky",
+    "name": "KryptoInsider: Jakub Jedlinský - ja přežít v bear marketu",
+    "period": {
+      "start": "2022-06-04T09:00:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "ag",
+    "eventId": "kryptoinsider2",
+    "name": "KryptoInsider: David Rakušan - převálcují velké kryptofondy drobné investory",
+    "period": {
+      "start": "2022-06-04T13:00:00.000Z",
+      "end": "2022-06-04T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "ah",
+    "eventId": "kryptoinsider-sladkovsky",
+    "name": "KryptoInsider: Jaromír Sladkovský - proč bankám a tradičním investorům krypto nevoní",
+    "period": {
+      "start": "2022-06-05T09:00:00.000Z",
+      "end": "2022-06-05T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "ai",
+    "eventId": "kryptoinsider4",
+    "name": "KryptoInsider: Josef Tětek - jak jsem se stal bitcoinovým maximalistou",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "d3",
+    "eventId": "apus-finance-ama",
+    "name": "APUS.finance AMA a jak na rizika DeFi půjček",
+    "period": {
+      "start": "2022-06-04T15:00:00.000Z",
+      "end": "2022-06-04T16:00:00.000Z"
+    }
+  },
+  {
+    "id": "aj",
+    "eventId": "utxo23",
+    "name": "UTXO.22 → .23?!",
+    "period": {
+      "start": "2022-06-05T16:00:00.000Z",
+      "end": "2022-06-05T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "d4",
+    "eventId": "rbf-labs-venture-studio",
+    "name": "Venture studio a vývoj produktů v DeFi/web3",
+    "period": {
+      "start": "2022-06-04T11:30:00.000Z",
+      "end": "2022-06-04T12:00:00.000Z"
+    }
+  },
+  {
+    "id": "d5",
+    "eventId": "algoritmicke-stablecoiny-budoucnost-nebo-riziko",
+    "name": "Algoritmické stablecoiny: budoucnost nebo riziko?",
+    "period": {
+      "start": "2022-06-05T09:30:00.000Z",
+      "end": "2022-06-05T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "d6",
+    "eventId": "bitcoin-mindset-session",
+    "name": "Bitcoin Mindset - prezentace + Q&A",
+    "period": {
+      "start": "2022-06-04T16:00:00.000Z",
+      "end": "2022-06-04T16:30:00.000Z"
+    }
+  },
+  {
+    "id": "d7",
+    "eventId": "polkadot-parachainy-vs-smart-contracts",
+    "name": "Polkadot parachainy vs smart contracts",
+    "period": {
+      "start": "2022-06-05T14:00:00.000Z",
+      "end": "2022-06-05T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "d8",
+    "eventId": "setkani-divergents-komunity",
+    "name": "Setkání The Divergents NFT komunity",
+    "period": {
+      "start": "2022-06-04T13:00:00.000Z",
+      "end": "2022-06-04T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "d9",
+    "eventId": "crypto-weddings-rituals",
+    "name": "Crypto-weddings-rituals",
+    "period": {
+      "start": "2022-06-05T10:30:00.000Z",
+      "end": "2022-06-05T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "ea",
+    "eventId": "cryptobyte-konference-diy",
+    "name": "CryptoByte 2022 - konference DIY",
+    "period": {
+      "start": "2022-06-04T14:30:00.000Z",
+      "end": "2022-06-04T15:00:00.000Z"
+    }
+  },
+  {
+    "id": "eb",
+    "eventId": "nfts-jako-ne-dostupna-prilezitost",
+    "name": "NFTs jako (ne)dostupná příležitost? (Artiffine)",
+    "period": {
+      "start": "2022-06-04T12:00:00.000Z",
+      "end": "2022-06-04T12:30:00.000Z"
+    }
+  },
+  {
+    "id": "ec",
+    "eventId": "dane-a-krypto-qa",
+    "name": "Daně a krypto - Q&A",
+    "period": {
+      "start": "2022-06-04T11:30:00.000Z",
+      "end": "2022-06-04T12:00:00.000Z"
+    }
+  },
+  {
+    "id": "ed",
+    "eventId": "pokec-o-blockchain-gamingu",
+    "name": "Pokec o Blockchain gamingu, NFTs a Metaversu (KryptoHerna)",
+    "period": {
+      "start": "2022-06-04T11:00:00.000Z",
+      "end": "2022-06-04T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "ee",
+    "eventId": "stosuj-campfire",
+    "name": "DCA automaticky na Štosuj.cz",
+    "period": {
+      "start": "2022-06-04T14:30:00.000Z",
+      "end": "2022-06-04T15:00:00.000Z"
+    }
+  },
+  {
+    "id": "ef",
+    "eventId": "dabluv-advokat-campfire",
+    "name": "Ďáblův advokát - navazující diskuse",
+    "period": {
+      "start": "2022-06-04T09:30:00.000Z",
+      "end": "2022-06-04T10:00:00.000Z"
+    }
+  },
+  {
+    "id": "eg",
+    "eventId": "jan-vyvijet-na-blockchainu-od-a-do-z",
+    "name": "Jak vyvíjet na blockchainu od A do Z",
+    "period": {
+      "start": "2022-06-04T14:00:00.000Z",
+      "end": "2022-06-04T14:30:00.000Z"
+    }
+  },
+  {
+    "id": "ei",
+    "eventId": "nft-combinator",
+    "name": "NFT Combinator [EN]",
+    "period": {
+      "start": "2022-06-05T10:00:00.000Z",
+      "end": "2022-06-05T10:30:00.000Z"
+    }
+  },
+  {
+    "id": "eh",
+    "eventId": "fire-movement-tomas-campfire",
+    "name": "Navazující diskuze po přednášce FIRE movement",
+    "period": {
+      "start": "2022-06-04T10:30:00.000Z",
+      "end": "2022-06-04T11:00:00.000Z"
+    }
+  },
+  {
+    "id": "cx",
+    "eventId": "krypto-z-pohledu-rodicu",
+    "name": "Krypto pohledem rodičů",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    }
+  },
+  {
+    "id": "ej",
+    "eventId": "jak-se-uzivit-jako-crypto-trader",
+    "name": "Jak se uživit jako crypto trader?",
+    "period": {
+      "start": "2022-06-05T12:30:00.000Z",
+      "end": "2022-06-05T13:00:00.000Z"
+    }
+  },
+  {
+    "id": "ek",
+    "eventId": "parallel-popis-bordel-shit-talk-about-nation-states-rules",
+    "name": "Parallel Polis, Bordel & shit talk about nation states and rules",
+    "period": {
+      "start": "2022-06-05T13:00:00.000Z",
+      "end": "2022-06-05T14:00:00.000Z"
+    }
+  },
+  {
+    "id": "en",
+    "eventId": "decentralizovane-socialni-site-lens-protocol",
+    "name": "Decentralizované sociální sítě & Lens Protocol",
+    "period": {
+      "start": "2022-06-04T11:00:00.000Z",
+      "end": "2022-06-04T11:30:00.000Z"
+    }
+  },
+  {
+    "id": "ak",
+    "eventId": "party-electronic-stage",
+    "name": "Electronic music stage - Eddie Mur (KZ), Sam Gittis (US), dMIT.RY (CZ)",
+    "period": {
+      "start": "2022-06-04T18:00:00.000Z",
+      "end": "2022-06-05T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "al",
+    "eventId": "zahajeni-party",
+    "name": "Uvedení večera, ohlášení začátku tomboly [TBD]",
+    "period": {
+      "start": "2022-06-04T18:00:00.000Z",
+      "end": "2022-06-04T18:30:00.000Z"
+    }
+  },
+  {
+    "id": "am",
+    "eventId": "coinstory-krest",
+    "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]",
+    "period": {
+      "start": "2022-06-04T18:30:00.000Z",
+      "end": "2022-06-04T19:30:00.000Z"
+    }
+  },
+  {
+    "id": "an",
+    "eventId": "tombola-losovani",
+    "name": "Losování hlavních cen tomboly",
+    "period": {
+      "start": "2022-06-04T19:30:00.000Z",
+      "end": "2022-06-04T20:00:00.000Z"
+    }
+  },
+  {
+    "id": "ao",
+    "eventId": "rajska-zahrada-djs",
+    "name": "DJ Pat Heart (TBD)",
+    "period": {
+      "start": "2022-06-04T20:00:00.000Z",
+      "end": "2022-06-04T22:00:00.000Z"
+    }
+  },
+  {
+    "id": "ap",
+    "eventId": "closing-ceremony",
+    "name": "Ukončení konference 🎉",
+    "period": {
+      "start": "2022-06-05T16:30:00.000Z",
+      "end": "2022-06-05T17:00:00.000Z"
+    }
+  },
+  {
+    "id": "aq",
+    "eventId": "opening-ceremony",
+    "name": "Slavnostní zahájení konference 🎉",
+    "period": {
+      "start": "2022-06-04T07:00:00.000Z",
+      "end": "2022-06-04T07:30:00.000Z"
+    }
+  },
+  {
+    "id": "ar",
+    "eventId": "violoncello-duo-concert",
+    "name": "Keishiro Mikawa + TBD - Violoncello duo concert",
+    "period": {
+      "start": "2022-06-04T18:30:00.000Z",
+      "end": "2022-06-04T20:00:00.000Z"
+    }
+  },
+  {
+    "id": "as",
+    "eventId": "party-lustrovy-sal",
+    "name": "DJs [TBD]",
+    "period": {
+      "start": "2022-06-04T20:00:00.000Z",
+      "end": "2022-06-04T22:00:00.000Z"
+    }
+  },
+  {
+    "id": "at",
+    "eventId": "gweicz-music-stage",
+    "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]",
+    "period": {
+      "start": "2022-06-04T18:00:00.000Z",
+      "end": "2022-06-04T20:00:00.000Z"
+    }
+  },
+  {
+    "id": "el",
+    "eventId": "meditace-nedele-rano",
+    "name": "Kryptomeditácia [TBD]",
+    "period": {
+      "start": "2022-06-05T07:00:00.000Z",
+      "end": "2022-06-05T08:00:00.000Z"
+    }
+  }
+]
