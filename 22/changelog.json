@@ -2428,12 +2428,28 @@
         {
           "id": "krypto-skepticky",
           "name": "Krypto skepticky"
+        },
+        {
+          "id": "kryptoinsider2",
+          "name": "KryptoInsider: ? [TBD]"
+        },
+        {
+          "id": "kryptoinsider4",
+          "name": "KryptoInsider:  Josef Tětek - jak jsem se stal bitcoinovým maximalistou"
         }
       ],
       "removed": [
         {
           "id": "zaklady-a-historie-defi-protokolu",
           "name": "Základy a história DeFi protokolov"
+        },
+        {
+          "id": "kryptoinsider-stroukal",
+          "name": "KryptoInsider: Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou"
+        },
+        {
+          "id": "kryptoinsider-next",
+          "name": "KryptoInsider: ? [TBD]"
         }
       ]
     },

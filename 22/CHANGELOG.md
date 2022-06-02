@@ -5,10 +5,14 @@
 ### Události
 
 * přidáno [Krypto skepticky](https://utxo.cz/udalosti?id=krypto-skepticky)
+* přidáno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider2)
+* přidáno [KryptoInsider:  Josef Tětek - jak jsem se stal bitcoinovým maximalistou](https://utxo.cz/udalosti?id=kryptoinsider4)
 
 ### Události
 
 * odebráno [Základy a história DeFi protokolov](https://utxo.cz/udalosti?id=zaklady-a-historie-defi-protokolu)
+* odebráno [KryptoInsider: Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou](https://utxo.cz/udalosti?id=kryptoinsider-stroukal)
+* odebráno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-next)
 
 ### Partneři
 
