@@ -50,12 +50,13 @@
     Food trucky budou nabízet i menší jídla a dezerty, pokud budete mít chuť na svačinku :)
 
     ## Pití
-    V celém objektu se bude nacházet několik barů ve kterých bude možné koupit pivo Budvar 33 nebo třeba colu. Večer budou na barech dostupné i drinky.
+    V celém objektu se bude nacházet několik barů ve kterých bude možné koupit pivo nebo třeba colu. Dostupné bude především pivo Budvar 33, ale samozřejmě také další značky. 
+    Večer budou na barech dostupné i drinky.
 
-    Balená voda bude pro všechny účastníky konference dostupná zdarma po celý den.
+    Balená voda bude pro účastníky konference dostupná zdarma při vstupu.
 
     ## Káva
-    Káva bude dostupná ve vyhrazeném kávovém baru uvnitř a v kavárně venku od značky [Café Reserva](https://www.cafereserva.cz/ "Café Reserva").
+    Káva bude dostupná ve vyhrazeném kávovém baru uvnitř a v kavárně venku primárně od značky [Café Reserva](https://www.cafereserva.cz/ "Café Reserva").
 
 - id: ubytovani
   name: 'Ubytování'
