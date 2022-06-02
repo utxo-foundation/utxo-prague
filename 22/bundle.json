@@ -4418,7 +4418,8 @@
           "DeFi",
           "options",
           "AMM"
-        ]
+        ],
+        "description": "Jak si zajistit hodnotu svých blockchainových aktiv krypto-nativně? Stavíme protokol k prodeji a nákupu opcí na tokeny, chceme tento trh oživit a poskytnout maximální dostupnost, spolehlivost a férové ceny ke snížení rizik investic.\n"
       },
       {
         "id": "stosujcz",
@@ -9317,5 +9318,5 @@
       "schedule": 159
     }
   },
-  "time": "2022-06-01T17:38:56.606Z"
+  "time": "2022-06-02T09:48:00.610Z"
 }
