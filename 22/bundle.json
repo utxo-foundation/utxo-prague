@@ -2474,7 +2474,8 @@
         "name": "CBDC – cesta do monetárního otroctví",
         "track": "regulace",
         "speakers": [
-          "lukas-kovanda"
+          "lukas-kovanda",
+          "jakub-jedlinsky"
         ],
         "duration": 55,
         "difficulty": "beginner",
@@ -9318,5 +9319,5 @@
       "schedule": 158
     }
   },
-  "time": "2022-06-02T14:01:14.028Z"
+  "time": "2022-06-02T14:06:35.697Z"
 }
