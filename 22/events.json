@@ -2759,20 +2759,24 @@
   {
     "id": "kryptoinsider2",
     "type": "campfire",
-    "name": "KryptoInsider: ? [TBD]",
+    "name": "KryptoInsider: David Rakušan - převálcují velké kryptofondy drobné investory",
     "track": "btc",
     "speakers": [
+      "david-rakusan",
       "petr-lukac"
     ],
     "duration": 30,
     "difficulty": "beginner",
     "tags": [
-      "rozhovor"
+      "rozhovor",
+      "investice",
+      "VC"
     ],
     "fixed": {
       "stage": "campfire-outdoor",
       "time": "1/15:00-15:30"
-    }
+    },
+    "description": "Spousta nových projektů nahrává velkým hráčům, kteří kupují ve slevě a vydělávají na \"hloupém\" retailu. David pracuje v největším českém kryptofondu. Jak dnes venture kapitál funguje? A je opravdu k drobným investorům trh tak nefér?\n"
   },
   {
     "id": "kryptoinsider-sladkovsky",
@@ -2799,7 +2803,7 @@
   {
     "id": "kryptoinsider4",
     "type": "campfire",
-    "name": "KryptoInsider:  Josef Tětek - jak jsem se stal bitcoinovým maximalistou",
+    "name": "KryptoInsider: Josef Tětek - jak jsem se stal bitcoinovým maximalistou",
     "track": "zaklady",
     "speakers": [
       "josef-tetek",
@@ -2813,7 +2817,8 @@
     "fixed": {
       "stage": "campfire-outdoor",
       "time": "2/15:00-15:30"
-    }
+    },
+    "description": "Se známým ekonomem Josefem Tětkem o jeho cestě od milovníka altcoinů k zapálenému maximalistovi. Proč je pkdle něj král jen jeden?\n"
   },
   {
     "id": "apus-finance-ama",
@@ -3403,25 +3408,7 @@
     ],
     "fixed": {
       "time": "2/09:00-10:00",
-      "stage": "nft-chillout"
-    }
-  },
-  {
-    "id": "meditace-sobota-vecer",
-    "name": "Kryptomeditácia [TBD]",
-    "type": "other",
-    "track": "other",
-    "speakers": [
-      "marianna-sadecka"
-    ],
-    "duration": 60,
-    "tags": [
-      "meditace",
-      "mindfulness"
-    ],
-    "fixed": {
-      "time": "1/18:00-19:00",
-      "stage": "nft-chillout"
+      "stage": "knihovna"
     }
   }
 ]

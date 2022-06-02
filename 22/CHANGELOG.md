@@ -5,8 +5,8 @@
 ### Události
 
 * přidáno [Krypto skepticky](https://utxo.cz/udalosti?id=krypto-skepticky)
-* přidáno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider2)
-* přidáno [KryptoInsider:  Josef Tětek - jak jsem se stal bitcoinovým maximalistou](https://utxo.cz/udalosti?id=kryptoinsider4)
+* přidáno [KryptoInsider: David Rakušan - převálcují velké kryptofondy drobné investory](https://utxo.cz/udalosti?id=kryptoinsider2)
+* přidáno [KryptoInsider: Josef Tětek - jak jsem se stal bitcoinovým maximalistou](https://utxo.cz/udalosti?id=kryptoinsider4)
 
 ### Události
 
@@ -14,6 +14,7 @@
 * odebráno [Investování vs obchodování v kryptu - je v tom rozdíl? Jak si vybrat svoji cestu a neshořet?](https://utxo.cz/udalosti?id=investovani-vs-obchodovani-v-kryptu)
 * odebráno [KryptoInsider: Dominik Stroukal - jak jsem se stal bitcoinovým maximalistou](https://utxo.cz/udalosti?id=kryptoinsider-stroukal)
 * odebráno [KryptoInsider: ? [TBD]](https://utxo.cz/udalosti?id=kryptoinsider-next)
+* odebráno [Kryptomeditácia [TBD]](https://utxo.cz/udalosti?id=meditace-sobota-vecer)
 
 ### Partneři
 

@@ -2431,11 +2431,11 @@
         },
         {
           "id": "kryptoinsider2",
-          "name": "KryptoInsider: ? [TBD]"
+          "name": "KryptoInsider: David Rakušan - převálcují velké kryptofondy drobné investory"
         },
         {
           "id": "kryptoinsider4",
-          "name": "KryptoInsider:  Josef Tětek - jak jsem se stal bitcoinovým maximalistou"
+          "name": "KryptoInsider: Josef Tětek - jak jsem se stal bitcoinovým maximalistou"
         }
       ],
       "removed": [
@@ -2454,6 +2454,10 @@
         {
           "id": "kryptoinsider-next",
           "name": "KryptoInsider: ? [TBD]"
+        },
+        {
+          "id": "meditace-sobota-vecer",
+          "name": "Kryptomeditácia [TBD]"
         }
       ]
     },
