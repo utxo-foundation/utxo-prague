@@ -302,3 +302,10 @@
   web:
     url: https://finmag.penize.cz/
 
+- id: hospodarske-noviny
+  type: supplier
+  name: Hospodářské noviny
+
+- id: various-promo
+  type: supplier
+  name: Forbes, Czechcrunch, HzM..
