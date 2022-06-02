@@ -1875,7 +1875,8 @@
     "parent": "lokalni-projekty-intro",
     "tags": [
       "konference"
-    ]
+    ],
+    "description": "Z no-coinera pořadatel kryptokonference ([web](https://cryptobyte.cz/)).\n"
   },
   {
     "id": "btc-platby",

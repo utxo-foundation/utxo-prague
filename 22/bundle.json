@@ -334,6 +334,9 @@
           "btc",
           "spolecnost"
         ],
+        "web": {
+          "url": "https://cryptobyte.cz"
+        },
         "country": "cz",
         "available": [
           {
@@ -4186,7 +4189,8 @@
         "parent": "lokalni-projekty-intro",
         "tags": [
           "konference"
-        ]
+        ],
+        "description": "Z no-coinera pořadatel kryptokonference ([web](https://cryptobyte.cz/)).\n"
       },
       {
         "id": "btc-platby",
@@ -6424,6 +6428,18 @@
         "web": {
           "url": "https://finmag.penize.cz/"
         },
+        "photos": []
+      },
+      {
+        "id": "hospodarske-noviny",
+        "type": "supplier",
+        "name": "Hospodářské noviny",
+        "photos": []
+      },
+      {
+        "id": "various-promo",
+        "type": "supplier",
+        "name": "Forbes, Czechcrunch, HzM..",
         "photos": []
       }
     ],
@@ -9276,11 +9292,11 @@
       "events": 183,
       "stages": 10,
       "faqs": 6,
-      "partners": 45,
+      "partners": 47,
       "projects": 72,
       "practical-info": 3,
       "schedule": 156
     }
   },
-  "time": "2022-06-02T21:45:33.753Z"
+  "time": "2022-06-02T22:14:21.216Z"
 }

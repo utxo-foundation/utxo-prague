@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.6.2022
+
+### Partneři
+
+* přidáno [Hospodářské noviny](https://utxo.cz/#partneri?id=hospodarske-noviny)
+* přidáno [Forbes, Czechcrunch, HzM..](https://utxo.cz/#partneri?id=various-promo)
+
+
 ## 2.6.2022
 
 ### Události

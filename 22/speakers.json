@@ -303,6 +303,9 @@
       "btc",
       "spolecnost"
     ],
+    "web": {
+      "url": "https://cryptobyte.cz"
+    },
     "country": "cz",
     "available": [
       {

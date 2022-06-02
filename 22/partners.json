@@ -490,5 +490,17 @@
       "url": "https://finmag.penize.cz/"
     },
     "photos": []
+  },
+  {
+    "id": "hospodarske-noviny",
+    "type": "supplier",
+    "name": "Hospodářské noviny",
+    "photos": []
+  },
+  {
+    "id": "various-promo",
+    "type": "supplier",
+    "name": "Forbes, Czechcrunch, HzM..",
+    "photos": []
   }
 ]

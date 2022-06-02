@@ -2485,5 +2485,22 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-06-03",
+    "speakers": {},
+    "events": {},
+    "partners": {
+      "added": [
+        {
+          "id": "hospodarske-noviny",
+          "name": "Hospodářské noviny"
+        },
+        {
+          "id": "various-promo",
+          "name": "Forbes, Czechcrunch, HzM.."
+        }
+      ]
+    }
   }
 ]
