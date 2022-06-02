@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.6.2022
+
+### Události
+
+* přidáno [Krypto skepticky](https://utxo.cz/udalosti?id=krypto-skepticky)
+
+
 ## 1.6.2022
 
 ### Přednášející

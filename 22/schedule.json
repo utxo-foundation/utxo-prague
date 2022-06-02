@@ -1588,5 +1588,15 @@
       "end": "2022-06-05T15:00:00.000Z"
     },
     "event": "investovani-vs-obchodovani-v-kryptu"
+  },
+  {
+    "id": "ep",
+    "date": "2022-06-04",
+    "stage": "knihovna",
+    "period": {
+      "start": "2022-06-04T08:30:00.000Z",
+      "end": "2022-06-04T09:30:00.000Z"
+    },
+    "event": "krypto-skepticky"
   }
 ]

@@ -2423,7 +2423,14 @@
   {
     "date": "2022-06-02",
     "speakers": {},
-    "events": {},
+    "events": {
+      "added": [
+        {
+          "id": "krypto-skepticky",
+          "name": "Krypto skepticky"
+        }
+      ]
+    },
     "partners": {}
   }
 ]

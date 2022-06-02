@@ -1903,6 +1903,23 @@
     "description": "Přednáška krátce představí kategorii finančních derivátů a ukáže, jak mohou správně použité deriváty naplnit náš investiční cíl lépe než jednoduchá spotová pozice či drahý investiční certifikát z banky. Dozvíte se, že i retailový účastník trhu je schopný vytvořit si relativně jednoduše a pomocí běžně dostupných nástrojů finanční derivát tak, aby plnil jeho požadavky na výnos, diverzifikaci a především riziko. Představených bude několik idejí, jedná se spíše o myšlenkové koncepty a způsob uvažování než o konkrétní návody. Určeno pro pokročilé, kteří znají rozdíl mezi spotovou a derivátovou pozicí, tuší jaké jsou principy DeFi a ví, co je to stop-loss.\n"
   },
   {
+    "id": "krypto-skepticky",
+    "name": "Krypto skepticky",
+    "type": "workshop",
+    "track": "zaklady",
+    "speakers": [
+      "pavlina-vaneckova",
+      "dominik-stroukal"
+    ],
+    "difficulty": "beginner",
+    "duration": 50,
+    "tags": [
+      "kritika",
+      "kryptoskepse"
+    ],
+    "description": "Jak se na krypto dívá nezúčastněná část lidí? Proč existují kryptoskeptici? Jaké je propojení klasických trhů s kryptem, potažmo klasických investorů a kryptoinvestorů? To a další témata, o kterých se moc nechceme bavit.\n"
+  },
+  {
     "id": "cryptobyte-recap",
     "type": "lightning",
     "name": "CryptoByte",
