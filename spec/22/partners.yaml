@@ -102,6 +102,13 @@
   twitter: rbf_cap
   web:
     url: https://rbf.capital/
+   
+- id: polkadot
+  name: Polkadot
+  type: sponsor
+  twitter: Polkadot
+  web:
+    url: https://polkadot.network/
 
 - id: sollarion
   name: Sollarion Game
