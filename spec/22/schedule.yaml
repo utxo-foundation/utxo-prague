@@ -1085,18 +1085,11 @@
   event: parallel-popis-bordel-shit-talk-about-nation-states-rules
 - id: el
   date: '2022-06-05'
-  stage: nft-chillout
+  stage: knihovna
   period:
     start: '2022-06-05T07:00:00.000Z'
     end: '2022-06-05T08:00:00.000Z'
   event: meditace-nedele-rano
-- id: em
-  date: '2022-06-04'
-  stage: nft-chillout
-  period:
-    start: '2022-06-04T16:00:00.000Z'
-    end: '2022-06-04T17:00:00.000Z'
-  event: meditace-sobota-vecer
 - id: en
   date: '2022-06-04'
   stage: campfire-indoor
