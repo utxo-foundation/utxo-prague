@@ -160,6 +160,10 @@ export class UTXOEngine {
         },
       );
 
+      // write QA output of events (schedules)
+      const qa = this.qaSummary(entryId);
+      await this._jsonWrite([entryDir, "qa-summary.json"], qa);
+
       // done
 
       entriesIndex.push({
@@ -196,6 +200,29 @@ export class UTXOEngine {
     if (!this.options.silent) {
       console.log("\nBuild done");
     }
+  }
+
+  qaSummary(entry) {
+    const arr = [];
+    for (
+      const ev of this.entries[entry].specs.events.filter((ev) =>
+        ev.type !== "lightning"
+      )
+    ) {
+      const s = this.entries[entry].specs.schedule.find((s) =>
+        s.event === ev.id
+      );
+      if (!s) {
+        throw new Error(`Schedule not found (?): ${ev.id}`);
+      }
+      arr.push({
+        id: s.id,
+        eventId: ev.id,
+        name: ev.name,
+        period: s.period,
+      });
+    }
+    return arr;
   }
 
   schemaUrl(version = "1", type = "index") {

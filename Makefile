@@ -70,6 +70,9 @@ changelog:
 tags:
 	deno run --unstable --allow-read utils/tags.js
 
+qa-summary:
+	deno run --unstable --allow-read utils/exec.js qaSummary
+
 schedule: plan
 
 plan:
