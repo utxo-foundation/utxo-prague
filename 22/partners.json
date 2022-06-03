@@ -502,5 +502,11 @@
     "type": "supplier",
     "name": "Forbes, Czechcrunch, HzM..",
     "photos": []
+  },
+  {
+    "id": "kodadot",
+    "type": "supplier",
+    "name": "KodaDot",
+    "photos": []
   }
 ]

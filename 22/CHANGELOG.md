@@ -6,6 +6,7 @@
 
 * přidáno [Hospodářské noviny](https://utxo.cz/#partneri?id=hospodarske-noviny)
 * přidáno [Forbes, Czechcrunch, HzM..](https://utxo.cz/#partneri?id=various-promo)
+* přidáno [KodaDot](https://utxo.cz/#partneri?id=kodadot)
 
 
 ## 2.6.2022
