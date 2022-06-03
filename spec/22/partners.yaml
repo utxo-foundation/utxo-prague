@@ -309,3 +309,7 @@
 - id: various-promo
   type: supplier
   name: Forbes, Czechcrunch, HzM..
+
+- id: kodadot
+  type: supplier
+  name: KodaDot
