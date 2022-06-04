@@ -311,13 +311,13 @@
 
 - id: pribeh-nejvetsiho-btc-donejtu
   type: talk
-  name: Příběh o největším BTC donejtu na české YouTube scéně
+  name: Zeptal jsem se Andreje Babiše na Bitcoin…
   track: spolecnost
   speakers: [ stanislav-hruska ]
   duration: 25
   difficulty: beginner
   description: |
-    Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)
+    A taky Aleny Schillerové nebo Jany Maláčové. Jaký vztah mají čeští politici ke kryptoměnám a moderním technologiím? A co tím říkají o budoucnosti ČR?
   tags:
     - Bitcoin
   fixed:
@@ -567,21 +567,21 @@
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
   popularity: 0.6
 
-- id: talent-ve-web3-vc-pohled
-  type: talk
-  name: Talent ve Web3 (z pohledu VC)
-  track: defi
-  duration: 55
-  speakers: [ karel-zheng ]
-  difficulty: advanced
-  tags:
-    - práce
-    - vývoj
-    - DeFi
-    - VC
-  description: |
-    Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?
-  popularity: 0.5
+#- id: talent-ve-web3-vc-pohled
+#  type: talk
+#  name: Talent ve Web3 (z pohledu VC)
+#  track: defi
+#  duration: 55
+#  speakers: [ karel-zheng ]
+#  difficulty: advanced
+#  tags:
+#    - práce
+#    - vývoj
+#    - DeFi
+#    - VC
+#  description: |
+#    Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?
+#  popularity: 0.5
 
 - id: guildy-odf-dao-organizacni-revoluce
   type: talk

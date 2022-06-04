@@ -82,13 +82,6 @@
     start: '2022-06-04T08:30:00.000Z'
     end: '2022-06-04T10:00:00.000Z'
   event: regulace-panel
-- id: bl
-  date: '2022-06-04'
-  stage: lustrovy-sal
-  period:
-    start: '2022-06-04T08:30:00.000Z'
-    end: '2022-06-04T09:30:00.000Z'
-  event: talent-ve-web3-vc-pohled
 - id: cb
   date: '2022-06-04'
   stage: klenbovy-sal
