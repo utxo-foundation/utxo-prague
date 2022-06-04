@@ -2506,5 +2506,18 @@
         }
       ]
     }
+  },
+  {
+    "date": "2022-06-04",
+    "speakers": {},
+    "events": {
+      "removed": [
+        {
+          "id": "talent-ve-web3-vc-pohled",
+          "name": "Talent ve Web3 (z pohledu VC)"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

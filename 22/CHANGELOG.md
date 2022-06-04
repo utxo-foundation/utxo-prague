@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.6.2022
+
+### Události
+
+* odebráno [Talent ve Web3 (z pohledu VC)](https://utxo.cz/udalosti?id=talent-ve-web3-vc-pohled)
+
+
 ## 3.6.2022
 
 ### Partneři

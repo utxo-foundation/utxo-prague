@@ -128,7 +128,7 @@
   {
     "id": "a7",
     "eventId": "pribeh-nejvetsiho-btc-donejtu",
-    "name": "Příběh o největším BTC donejtu na české YouTube scéně",
+    "name": "Zeptal jsem se Andreje Babiše na Bitcoin…",
     "period": {
       "start": "2022-06-04T11:30:00.000Z",
       "end": "2022-06-04T12:00:00.000Z"
@@ -258,15 +258,6 @@
     "period": {
       "start": "2022-06-04T17:00:00.000Z",
       "end": "2022-06-04T17:30:00.000Z"
-    }
-  },
-  {
-    "id": "bl",
-    "eventId": "talent-ve-web3-vc-pohled",
-    "name": "Talent ve Web3 (z pohledu VC)",
-    "period": {
-      "start": "2022-06-04T08:30:00.000Z",
-      "end": "2022-06-04T09:30:00.000Z"
     }
   },
   {

@@ -2646,14 +2646,14 @@
       {
         "id": "pribeh-nejvetsiho-btc-donejtu",
         "type": "talk",
-        "name": "Příběh o největším BTC donejtu na české YouTube scéně",
+        "name": "Zeptal jsem se Andreje Babiše na Bitcoin…",
         "track": "spolecnost",
         "speakers": [
           "stanislav-hruska"
         ],
         "duration": 25,
         "difficulty": "beginner",
-        "description": "Aneb příběh o tom, jak jsem mohl být BTC milionář, ale nejsem :)\n",
+        "description": "A taky Aleny Schillerové nebo Jany Maláčové. Jaký vztah mají čeští politici ke kryptoměnám a moderním technologiím? A co tím říkají o budoucnosti ČR?\n",
         "tags": [
           "Bitcoin"
         ],
@@ -2936,25 +2936,6 @@
         ],
         "description": "Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.\n",
         "popularity": 0.6
-      },
-      {
-        "id": "talent-ve-web3-vc-pohled",
-        "type": "talk",
-        "name": "Talent ve Web3 (z pohledu VC)",
-        "track": "defi",
-        "duration": 55,
-        "speakers": [
-          "karel-zheng"
-        ],
-        "difficulty": "advanced",
-        "tags": [
-          "práce",
-          "vývoj",
-          "DeFi",
-          "VC"
-        ],
-        "description": "Hodnotné projekty budují talentovaní lidi. V projektech založené na blockchainu to platí dvojnásob. Kdo všechno se podílí na budování Webu 3? Je pravda, že je to zatím prostor pouze pro technické lidi?\n",
-        "popularity": 0.5
       },
       {
         "id": "guildy-odf-dao-organizacni-revoluce",
@@ -7849,16 +7830,6 @@
         "event": "regulace-panel"
       },
       {
-        "id": "bl",
-        "date": "2022-06-04",
-        "stage": "lustrovy-sal",
-        "period": {
-          "start": "2022-06-04T08:30:00.000Z",
-          "end": "2022-06-04T09:30:00.000Z"
-        },
-        "event": "talent-ve-web3-vc-pohled"
-      },
-      {
         "id": "cb",
         "date": "2022-06-04",
         "stage": "klenbovy-sal",
@@ -9295,14 +9266,14 @@
       "speakers": 127,
       "tracks": 10,
       "event-types": 7,
-      "events": 183,
+      "events": 182,
       "stages": 10,
       "faqs": 6,
       "partners": 48,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 156
+      "schedule": 155
     }
   },
-  "time": "2022-06-03T13:25:28.603Z"
+  "time": "2022-06-04T03:51:17.514Z"
 }
