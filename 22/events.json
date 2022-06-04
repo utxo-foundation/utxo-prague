@@ -3377,5 +3377,21 @@
       "time": "2/09:00-10:00",
       "stage": "knihovna"
     }
+  },
+  {
+    "id": "pujcky-v-bankovnictvi-vs-defi",
+    "name": "Půjčky v bankovnictví (TradFi) vs v DeFi",
+    "type": "talk",
+    "track": "defi",
+    "speakers": [
+      "radek-svarz"
+    ],
+    "duration": 30,
+    "tags": [
+      "DeFi",
+      "investice",
+      "bankovnictví"
+    ],
+    "description": "Decentralizované Finance (DeFi) umožňují finanční inovace, které v tradičních financích (TradFi) ani nejsou možné. Co je výhodnější použít? Ukážeme si srovnání nabídek bank a DeFi. Probereme aspekty, které možná netušíte, že se při bankovních půjčkách řeší a které mají dopady na vaši budoucí kredibilitu. A zda to s DeFi je, či není lepší.\n"
   }
 ]

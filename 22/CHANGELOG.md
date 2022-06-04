@@ -4,6 +4,10 @@
 
 ### Události
 
+* přidáno [Půjčky v bankovnictví (TradFi) vs v DeFi](https://utxo.cz/udalosti?id=pujcky-v-bankovnictvi-vs-defi)
+
+### Události
+
 * odebráno [Talent ve Web3 (z pohledu VC)](https://utxo.cz/udalosti?id=talent-ve-web3-vc-pohled)
 
 

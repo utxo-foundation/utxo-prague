@@ -2511,6 +2511,12 @@
     "date": "2022-06-04",
     "speakers": {},
     "events": {
+      "added": [
+        {
+          "id": "pujcky-v-bankovnictvi-vs-defi",
+          "name": "Půjčky v bankovnictví (TradFi) vs v DeFi"
+        }
+      ],
       "removed": [
         {
           "id": "talent-ve-web3-vc-pohled",

@@ -5691,6 +5691,22 @@
           "time": "2/09:00-10:00",
           "stage": "knihovna"
         }
+      },
+      {
+        "id": "pujcky-v-bankovnictvi-vs-defi",
+        "name": "Půjčky v bankovnictví (TradFi) vs v DeFi",
+        "type": "talk",
+        "track": "defi",
+        "speakers": [
+          "radek-svarz"
+        ],
+        "duration": 30,
+        "tags": [
+          "DeFi",
+          "investice",
+          "bankovnictví"
+        ],
+        "description": "Decentralizované Finance (DeFi) umožňují finanční inovace, které v tradičních financích (TradFi) ani nejsou možné. Co je výhodnější použít? Ukážeme si srovnání nabídek bank a DeFi. Probereme aspekty, které možná netušíte, že se při bankovních půjčkách řeší a které mají dopady na vaši budoucí kredibilitu. A zda to s DeFi je, či není lepší.\n"
       }
     ],
     "stages": [
@@ -9258,6 +9274,16 @@
           "end": "2022-06-04T09:30:00.000Z"
         },
         "event": "krypto-skepticky"
+      },
+      {
+        "id": "x0",
+        "date": "2022-06-04",
+        "stage": "exit-room",
+        "period": {
+          "start": "2022-06-04T10:30:00.000Z",
+          "end": "2022-06-04T11:00:00.000Z"
+        },
+        "event": "pujcky-v-bankovnictvi-vs-defi"
       }
     ]
   },
@@ -9266,14 +9292,14 @@
       "speakers": 127,
       "tracks": 10,
       "event-types": 7,
-      "events": 182,
+      "events": 183,
       "stages": 10,
       "faqs": 6,
       "partners": 48,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 155
+      "schedule": 156
     }
   },
-  "time": "2022-06-04T03:51:17.514Z"
+  "time": "2022-06-04T04:00:37.511Z"
 }
