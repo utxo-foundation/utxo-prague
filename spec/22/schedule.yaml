@@ -1090,3 +1090,10 @@
     start: '2022-06-04T08:30:00.000Z'
     end: '2022-06-04T09:30:00.000Z'
   event: krypto-skepticky
+- id: x0
+  date: '2022-06-04'
+  stage: exit-room
+  period:
+    start: '2022-06-04T10:30:00.000Z'
+    end: '2022-06-04T11:00:00.000Z'
+  event: pujcky-v-bankovnictvi-vs-defi
