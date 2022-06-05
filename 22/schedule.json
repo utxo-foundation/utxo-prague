@@ -960,16 +960,6 @@
     "event": "investovani-20"
   },
   {
-    "id": "c1",
-    "date": "2022-06-05",
-    "stage": "knihovna",
-    "period": {
-      "start": "2022-06-05T09:00:00.000Z",
-      "end": "2022-06-05T10:30:00.000Z"
-    },
-    "event": "bitcoin-tezba"
-  },
-  {
     "id": "bs",
     "date": "2022-06-05",
     "stage": "rajska-zahrada",
@@ -1500,16 +1490,6 @@
     "event": "nft-combinator"
   },
   {
-    "id": "ej",
-    "date": "2022-06-05",
-    "stage": "campfire-indoor",
-    "period": {
-      "start": "2022-06-05T12:30:00.000Z",
-      "end": "2022-06-05T13:00:00.000Z"
-    },
-    "event": "jak-se-uzivit-jako-crypto-trader"
-  },
-  {
     "id": "ek",
     "date": "2022-06-05",
     "stage": "campfire-indoor",
@@ -1558,5 +1538,15 @@
       "end": "2022-06-04T11:00:00.000Z"
     },
     "event": "pujcky-v-bankovnictvi-vs-defi"
+  },
+  {
+    "id": "x1",
+    "date": "2022-06-05",
+    "stage": "rajska-zahrada",
+    "period": {
+      "start": "2022-06-05T12:30:00.000Z",
+      "end": "2022-06-05T13:00:00.000Z"
+    },
+    "event": "qf-ethprague"
   }
 ]

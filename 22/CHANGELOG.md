@@ -1,5 +1,17 @@
 # Changelog
 
+## 5.6.2022
+
+### Události
+
+* přidáno [Quadratic Funding](https://utxo.cz/udalosti?id=qf-ethprague)
+
+### Události
+
+* odebráno [Bitcoin těžba](https://utxo.cz/udalosti?id=bitcoin-tezba)
+* odebráno [Jak se uživit jako crypto trader?](https://utxo.cz/udalosti?id=jak-se-uzivit-jako-crypto-trader)
+
+
 ## 4.6.2022
 
 ### Události

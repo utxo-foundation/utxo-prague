@@ -2525,5 +2525,28 @@
       ]
     },
     "partners": {}
+  },
+  {
+    "date": "2022-06-05",
+    "speakers": {},
+    "events": {
+      "added": [
+        {
+          "id": "qf-ethprague",
+          "name": "Quadratic Funding"
+        }
+      ],
+      "removed": [
+        {
+          "id": "bitcoin-tezba",
+          "name": "Bitcoin těžba"
+        },
+        {
+          "id": "jak-se-uzivit-jako-crypto-trader",
+          "name": "Jak se uživit jako crypto trader?"
+        }
+      ]
+    },
+    "partners": {}
   }
 ]

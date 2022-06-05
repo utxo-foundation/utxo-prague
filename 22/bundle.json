@@ -3615,6 +3615,21 @@
         "description": "Budou jednoho dne kryptoměny ve spojení s decentralizací cestou ke svobodě každé žijící osoby na této planetě? Máme tady skutečně technologii, která posune svět z doby informační na dobu svobody a hojnosti? Uvědomujeme si opravdu veškerá rizika, která na nás a naše blízké čekají? Anebo snad jen žijeme v sociální bublině s klapkami na očích a nechceme si připustit, co se kolem nás skutečně odehrává? Pokud si myslíte, že nastal čas rozšířit si svůj pohled o negativní zážitky lidí, kteří při seznámení s kryptoměnami dostali tvrdou ránu, tak je tato přednáška přímo pro Vás.\n"
       },
       {
+        "id": "qf-ethprague",
+        "type": "talk",
+        "name": "Quadratic Funding",
+        "track": "eth",
+        "speakers": [
+          "mario-havel"
+        ],
+        "duration": 15,
+        "difficulty": "expert",
+        "tags": [
+          "quadratic funding",
+          "ETHPrague"
+        ]
+      },
+      {
         "id": "lokalni-komunity-intro",
         "type": "lightning-series",
         "name": "Lokální krypto komunity",
@@ -3783,7 +3798,7 @@
       {
         "id": "bleskomat-worskhop",
         "type": "workshop",
-        "name": "Postav si svůj Bleskomat (DIY)",
+        "name": "Lightning network NFC badges a dorazi aj Bleskomat",
         "track": "btc",
         "speakers": [
           "mario-havel"
@@ -3792,7 +3807,8 @@
         "difficulty": "expert",
         "tags": [
           "Bitcoin",
-          "Lightning Network"
+          "Lightning Network",
+          "NFC"
         ]
       },
       {
@@ -3830,22 +3846,6 @@
           "NEAR"
         ],
         "description": "Navážeme na přednášku o úvodu do Near ekosystému, založíme si vlastní peněženku a podíváme se na ty z nejzajímavějších projektů, které na tomto ekosystému běží\n"
-      },
-      {
-        "id": "bitcoin-tezba",
-        "type": "workshop",
-        "name": "Bitcoin těžba",
-        "track": "btc",
-        "speakers": [
-          "kristian-csepcsar"
-        ],
-        "duration": 80,
-        "difficulty": "advanced",
-        "tags": [
-          "Bitcoin",
-          "mining",
-          "hardware"
-        ]
       },
       {
         "id": "lightning-transakce-a-penezenky-pro-zacatecniky",
@@ -5453,24 +5453,6 @@
           "děti"
         ],
         "description": "V užším kruhu budeme diskutovat o tom, jak to máte vy a jak to máme my. Included mimina a babičky s dědama (berte i vlastní). Outcome očekávejte v podobě sdílených triků, jak ke kryptu doma přistupují ostatní a co možná začít dělat jinak. Ať už s vlastníma dětma anebo rodičema. Děti kryptem můžou platit věci, o kterých se dozvíme, až když je pozdě a naše rodiče na kryptu běžně někdo okrádá. Mluvme o tom.\n"
-      },
-      {
-        "id": "jak-se-uzivit-jako-crypto-trader",
-        "type": "campfire",
-        "name": "Jak se uživit jako crypto trader?",
-        "track": "zaklady",
-        "speakers": [
-          "lurkerp"
-        ],
-        "duration": 30,
-        "difficulty": "beginner",
-        "description": "Jak se uživit jako crypto trader? A jak moc nereálný úkol to je? Během přednášky se dozvíte důležité informace například jak neshořet na trhu během prvního měsíce, nepanikařit při každé větší ztrátě, minimalizovat rizika a jaká jsou obecná pravidla pro fungování na trhu. Během několika let aktivního tradingu jsem si prošel všemi možnými ekonomickými cykly, ziskem i ztrátou (nejen ve sféře finanční) a tak máte možnost se poučit z mých chyb, abyste mit klidnejsi (nebo alespoň nějaký) spánek.\n",
-        "tags": [
-          "journey",
-          "trading",
-          "altcoins",
-          "charts"
-        ]
       },
       {
         "id": "parallel-popis-bordel-shit-talk-about-nation-states-rules",
@@ -8686,16 +8668,6 @@
         "event": "investovani-20"
       },
       {
-        "id": "c1",
-        "date": "2022-06-05",
-        "stage": "knihovna",
-        "period": {
-          "start": "2022-06-05T09:00:00.000Z",
-          "end": "2022-06-05T10:30:00.000Z"
-        },
-        "event": "bitcoin-tezba"
-      },
-      {
         "id": "bs",
         "date": "2022-06-05",
         "stage": "rajska-zahrada",
@@ -9226,16 +9198,6 @@
         "event": "nft-combinator"
       },
       {
-        "id": "ej",
-        "date": "2022-06-05",
-        "stage": "campfire-indoor",
-        "period": {
-          "start": "2022-06-05T12:30:00.000Z",
-          "end": "2022-06-05T13:00:00.000Z"
-        },
-        "event": "jak-se-uzivit-jako-crypto-trader"
-      },
-      {
         "id": "ek",
         "date": "2022-06-05",
         "stage": "campfire-indoor",
@@ -9284,6 +9246,16 @@
           "end": "2022-06-04T11:00:00.000Z"
         },
         "event": "pujcky-v-bankovnictvi-vs-defi"
+      },
+      {
+        "id": "x1",
+        "date": "2022-06-05",
+        "stage": "rajska-zahrada",
+        "period": {
+          "start": "2022-06-05T12:30:00.000Z",
+          "end": "2022-06-05T13:00:00.000Z"
+        },
+        "event": "qf-ethprague"
       }
     ]
   },
@@ -9292,14 +9264,14 @@
       "speakers": 127,
       "tracks": 10,
       "event-types": 7,
-      "events": 183,
+      "events": 182,
       "stages": 10,
       "faqs": 6,
       "partners": 48,
       "projects": 72,
       "practical-info": 3,
-      "schedule": 156
+      "schedule": 155
     }
   },
-  "time": "2022-06-04T04:00:37.511Z"
+  "time": "2022-06-05T07:58:20.511Z"
 }
