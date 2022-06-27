@@ -79,6 +79,12 @@ properties:
           type: string
       date:
         type: string
+  video:
+    type: object
+    additionalProperties: false
+    properties:
+      youtube:
+        type: string
 
   popularity:
     type: number
