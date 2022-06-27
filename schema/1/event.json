@@ -107,6 +107,15 @@
         }
       }
     },
+    "video": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "youtube": {
+          "type": "string"
+        }
+      }
+    },
     "popularity": {
       "type": "number",
       "minimum": 0,

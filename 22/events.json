@@ -51,7 +51,7 @@
   {
     "id": "nft-metaverse-panel",
     "type": "panel",
-    "name": "NFT a Metaverse [TBD]",
+    "name": "NFT a Metaverse",
     "speakers": [
       "vojta-zizka",
       "petr-mara",
@@ -346,7 +346,10 @@
     "fixed": {
       "stage": "rajska-zahrada"
     },
-    "popularity": 1
+    "popularity": 1,
+    "video": {
+      "youtube": "4lLDQ73fHWc"
+    }
   },
   {
     "id": "kdyz-byl-bitcoin-jeste-divoky-zapad",
@@ -585,6 +588,9 @@
     "fixed": {
       "stage": "rajska-zahrada",
       "date": "2022-06-04"
+    },
+    "video": {
+      "youtube": "rQgKWLt_OPE"
     }
   },
   {
@@ -693,7 +699,7 @@
   {
     "id": "quadratic-developer-rewards",
     "type": "talk",
-    "name": "Quadratic Developer Rewards (KodaDot) [TBD]",
+    "name": "Quadratic Developer Rewards (KodaDot)",
     "track": "alty",
     "difficulty": "advanced",
     "speakers": [
@@ -1621,7 +1627,7 @@
   {
     "id": "somnium-space-workshop",
     "type": "workshop",
-    "name": "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]",
+    "name": "Somnium Space workshop: SDK, world building, VR words, avatars",
     "track": "nft",
     "speakers": [
       "artur-sychov"
@@ -1798,7 +1804,7 @@
   },
   {
     "id": "zaklady-mintovani-nft",
-    "name": "Základy mintování NFTs (KodaDot) [TBD]",
+    "name": "Základy mintování NFTs (KodaDot)",
     "type": "workshop",
     "track": "nft",
     "speakers": [
@@ -2042,7 +2048,7 @@
   {
     "id": "carmine",
     "type": "lightning",
-    "name": "Carmine Options [TBD]",
+    "name": "Carmine Options",
     "track": "defi",
     "speakers": [
       "martin-vlach"
@@ -3198,7 +3204,7 @@
     "id": "zahajeni-party",
     "type": "other",
     "track": "other",
-    "name": "Uvedení večera, ohlášení začátku tomboly [TBD]",
+    "name": "Uvedení večera, ohlášení začátku tomboly",
     "speakers": [
       "tereza-starostova"
     ],
@@ -3213,7 +3219,7 @@
     "id": "coinstory-krest",
     "type": "talk",
     "track": "defi",
-    "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]",
+    "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta",
     "speakers": [
       "david-stancel"
     ],
@@ -3250,7 +3256,7 @@
     "id": "rajska-zahrada-djs",
     "type": "other",
     "track": "other",
-    "name": "DJ Pat Heart (TBD)",
+    "name": "DJ Pat Heart",
     "speakers": [],
     "duration": 110,
     "fixed": {
@@ -3290,13 +3296,16 @@
       "time": "1/09:00-09:30",
       "stage": "rajska-zahrada"
     },
-    "tags": []
+    "tags": [],
+    "video": {
+      "youtube": "mhpCT0a5mBs"
+    }
   },
   {
     "id": "violoncello-duo-concert",
     "type": "other",
     "track": "other",
-    "name": "Keishiro Mikawa + TBD - Violoncello duo concert",
+    "name": "Keishiro Mikawa - Violoncello duo concert",
     "speakers": [],
     "duration": 80,
     "fixed": {
@@ -3312,7 +3321,7 @@
     "id": "party-lustrovy-sal",
     "type": "other",
     "track": "other",
-    "name": "DJs [TBD]",
+    "name": "DJs",
     "speakers": [],
     "duration": 110,
     "fixed": {
@@ -3328,7 +3337,7 @@
     "id": "gweicz-music-stage",
     "type": "other",
     "track": "other",
-    "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]",
+    "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, ..",
     "speakers": [
       "tree"
     ],
@@ -3344,7 +3353,7 @@
   },
   {
     "id": "meditace-nedele-rano",
-    "name": "Kryptomeditácia [TBD]",
+    "name": "Kryptomeditácia",
     "type": "other",
     "track": "other",
     "speakers": [

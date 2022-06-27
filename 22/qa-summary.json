@@ -20,7 +20,7 @@
   {
     "id": "aw",
     "eventId": "nft-metaverse-panel",
-    "name": "NFT a Metaverse [TBD]",
+    "name": "NFT a Metaverse",
     "period": {
       "start": "2022-06-04T10:00:00.000Z",
       "end": "2022-06-04T11:30:00.000Z"
@@ -290,7 +290,7 @@
   {
     "id": "bp",
     "eventId": "quadratic-developer-rewards",
-    "name": "Quadratic Developer Rewards (KodaDot) [TBD]",
+    "name": "Quadratic Developer Rewards (KodaDot)",
     "period": {
       "start": "2022-06-05T10:30:00.000Z",
       "end": "2022-06-05T11:30:00.000Z"
@@ -758,7 +758,7 @@
   {
     "id": "c7",
     "eventId": "somnium-space-workshop",
-    "name": "Somnium Space workshop: SDK, world building, VR words, avatars [TBD]",
+    "name": "Somnium Space workshop: SDK, world building, VR words, avatars",
     "period": {
       "start": "2022-06-05T15:30:00.000Z",
       "end": "2022-06-05T16:30:00.000Z"
@@ -848,7 +848,7 @@
   {
     "id": "dh",
     "eventId": "zaklady-mintovani-nft",
-    "name": "Základy mintování NFTs (KodaDot) [TBD]",
+    "name": "Základy mintování NFTs (KodaDot)",
     "period": {
       "start": "2022-06-05T13:00:00.000Z",
       "end": "2022-06-05T14:00:00.000Z"
@@ -1298,7 +1298,7 @@
   {
     "id": "al",
     "eventId": "zahajeni-party",
-    "name": "Uvedení večera, ohlášení začátku tomboly [TBD]",
+    "name": "Uvedení večera, ohlášení začátku tomboly",
     "period": {
       "start": "2022-06-04T18:00:00.000Z",
       "end": "2022-06-04T18:30:00.000Z"
@@ -1307,7 +1307,7 @@
   {
     "id": "am",
     "eventId": "coinstory-krest",
-    "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta [TBD]",
+    "name": "Křest knihy Coinstory (David Stancel) + krátké video entry + diskuze k evoluci krypta",
     "period": {
       "start": "2022-06-04T18:30:00.000Z",
       "end": "2022-06-04T19:30:00.000Z"
@@ -1325,7 +1325,7 @@
   {
     "id": "ao",
     "eventId": "rajska-zahrada-djs",
-    "name": "DJ Pat Heart (TBD)",
+    "name": "DJ Pat Heart",
     "period": {
       "start": "2022-06-04T20:00:00.000Z",
       "end": "2022-06-04T22:00:00.000Z"
@@ -1352,7 +1352,7 @@
   {
     "id": "ar",
     "eventId": "violoncello-duo-concert",
-    "name": "Keishiro Mikawa + TBD - Violoncello duo concert",
+    "name": "Keishiro Mikawa - Violoncello duo concert",
     "period": {
       "start": "2022-06-04T18:30:00.000Z",
       "end": "2022-06-04T20:00:00.000Z"
@@ -1361,7 +1361,7 @@
   {
     "id": "as",
     "eventId": "party-lustrovy-sal",
-    "name": "DJs [TBD]",
+    "name": "DJs",
     "period": {
       "start": "2022-06-04T20:00:00.000Z",
       "end": "2022-06-04T22:00:00.000Z"
@@ -1370,7 +1370,7 @@
   {
     "id": "at",
     "eventId": "gweicz-music-stage",
-    "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, .. [TBD]",
+    "name": "Gwei.cz music stage - chiptune (8-bit), electroclash, disco, ..",
     "period": {
       "start": "2022-06-04T18:00:00.000Z",
       "end": "2022-06-04T20:00:00.000Z"
@@ -1379,7 +1379,7 @@
   {
     "id": "el",
     "eventId": "meditace-nedele-rano",
-    "name": "Kryptomeditácia [TBD]",
+    "name": "Kryptomeditácia",
     "period": {
       "start": "2022-06-05T07:00:00.000Z",
       "end": "2022-06-05T08:00:00.000Z"
