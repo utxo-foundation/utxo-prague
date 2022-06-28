@@ -825,7 +825,10 @@
       "seed",
       "internet"
     ],
-    "popularity": 0.4
+    "popularity": 0.4,
+    "video": {
+      "youtube": "bhgDCiA9De0"
+    }
   },
   {
     "id": "proc-a-jak-pouzivat-bitcoin",
@@ -1099,6 +1102,9 @@
         "klenbovy-sal",
         "exit-room"
       ]
+    },
+    "video": {
+      "youtube": "1GLzUyjosM0"
     }
   },
   {
@@ -2743,7 +2749,7 @@
   {
     "id": "kryptoinsider-jedlinsky",
     "type": "campfire",
-    "name": "KryptoInsider: Jakub Jedlinský - ja přežít v bear marketu",
+    "name": "KryptoInsider: Jakub Jedlinský - jak přežít v bear marketu",
     "track": "zaklady",
     "speakers": [
       "jakub-jedlinsky",
@@ -2760,7 +2766,10 @@
       "time": "1/11:00-11:30",
       "stage": "campfire-outdoor"
     },
-    "description": "Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakub Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby \"medvěda\" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?\n"
+    "description": "Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakub Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby \"medvěda\" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?\n",
+    "video": {
+      "youtube": "BqQpAxwVKvw"
+    }
   },
   {
     "id": "kryptoinsider2",
