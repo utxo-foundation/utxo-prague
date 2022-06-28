@@ -4422,7 +4422,10 @@
           "options",
           "AMM"
         ],
-        "description": "Jak si zajistit hodnotu svých blockchainových aktiv krypto-nativně? Stavíme protokol k prodeji a nákupu opcí na tokeny, chceme tento trh oživit a poskytnout maximální dostupnost, spolehlivost a férové ceny ke snížení rizik investic.\n"
+        "description": "Jak si zajistit hodnotu svých blockchainových aktiv krypto-nativně? Stavíme protokol k prodeji a nákupu opcí na tokeny, chceme tento trh oživit a poskytnout maximální dostupnost, spolehlivost a férové ceny ke snížení rizik investic.\n",
+        "video": {
+          "youtube": "vjgyCEDg1ig"
+        }
       },
       {
         "id": "stosujcz",
@@ -9336,5 +9339,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-06-28T18:49:47.699Z"
+  "time": "2022-06-28T19:11:04.893Z"
 }
