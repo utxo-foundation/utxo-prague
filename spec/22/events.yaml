@@ -781,6 +781,8 @@
     - seed
     - internet
   popularity: 0.4
+  video:
+    youtube: bhgDCiA9De0
 
 - id: proc-a-jak-pouzivat-bitcoin
   type: talk
@@ -2602,7 +2604,7 @@
 
 - id: kryptoinsider-jedlinsky
   type: campfire
-  name: 'KryptoInsider: Jakub Jedlinský - ja přežít v bear marketu'
+  name: 'KryptoInsider: Jakub Jedlinský - jak přežít v bear marketu'
   track: zaklady
   speakers: [ jakub-jedlinsky, petr-lukac ]
   duration: 30
@@ -2616,6 +2618,8 @@
     stage: campfire-outdoor
   description: |
     Ještě když většina trhu věřila ve světlé zítřky a nová ATH, Jakub Jedlínský a jeho tým ve firmě Altlift mluvili o novém bear-marketu. Jak během doby "medvěda" přežít? Co dělat s portfoliem a jak se ze všeho nezbláznit?
+  video:
+    youtube: BqQpAxwVKvw
 
 - id: kryptoinsider2
   type: campfire
