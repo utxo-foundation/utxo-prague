@@ -4296,7 +4296,10 @@
           "DeFi",
           "NFT"
         ],
-        "description": "Degens lending to degens. PWN je DeFi lending marketplace kde muzete ziskavat uvery & generovat yield za pouziti jakehokoliv DeFi tokenu, vcetne NFTs.\n"
+        "description": "Degens lending to degens. PWN je DeFi lending marketplace kde muzete ziskavat uvery & generovat yield za pouziti jakehokoliv DeFi tokenu, vcetne NFTs.\n",
+        "video": {
+          "youtube": "qtJteRxpidI"
+        }
       },
       {
         "id": "chainkeepers",
@@ -4312,7 +4315,10 @@
           "Ethereum",
           "DeFi",
           "arbitráže"
-        ]
+        ],
+        "video": {
+          "youtube": "nN9kpsblQEM"
+        }
       },
       {
         "id": "indices",
@@ -4330,7 +4336,10 @@
           "indexy",
           "investice",
           "deriváty"
-        ]
+        ],
+        "video": {
+          "youtube": "COsa8dYUyhg"
+        }
       },
       {
         "id": "1ab",
@@ -4393,7 +4402,10 @@
           "DeFi",
           "pujčky"
         ],
-        "description": "Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.\n"
+        "description": "Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.\n",
+        "video": {
+          "youtube": "DJlu2LN4tKA"
+        }
       },
       {
         "id": "carmine",
@@ -9324,5 +9336,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-06-28T16:37:44.345Z"
+  "time": "2022-06-28T18:49:47.699Z"
 }
