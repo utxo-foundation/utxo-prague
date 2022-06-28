@@ -1862,6 +1862,8 @@
     - NFT
   description: |
     Degens lending to degens. PWN je DeFi lending marketplace kde muzete ziskavat uvery & generovat yield za pouziti jakehokoliv DeFi tokenu, vcetne NFTs.
+  video:
+    youtube: qtJteRxpidI
 
 - id: chainkeepers
   type: lightning
@@ -1874,6 +1876,8 @@
     - Ethereum
     - DeFi
     - arbitráže
+  video:
+    youtube: nN9kpsblQEM
 
 - id: indices
   type: lightning
@@ -1889,6 +1893,8 @@
     - indexy
     - investice
     - deriváty
+  video:
+    youtube: COsa8dYUyhg
 
 - id: 1ab
   type: lightning
@@ -1955,6 +1961,8 @@
     - pujčky
   description: |
     Umíte-li ovládat internetové bankovnictví, tak umíte ovládat i decentralizované finance. Přes jedno webové rozhraní si lidé mohou půjčit peníze, spořit nebo investovat. Představíme si komunitní projekt, který zpřístupňuje decentralizované finance běžným lidem.
+  video:
+    youtube: DJlu2LN4tKA
 
 
 - id: carmine
