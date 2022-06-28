@@ -70,7 +70,10 @@
     "tags": [
       "NFT",
       "metaverse"
-    ]
+    ],
+    "video": {
+      "youtube": "63E6sMCsXf4"
+    }
   },
   {
     "id": "nft-usecases-panel",
@@ -199,6 +202,9 @@
         "rajska-zahrada",
         "lustrovy-sal"
       ]
+    },
+    "video": {
+      "youtube": "0s2VrRX_Nx4"
     }
   },
   {
@@ -412,7 +418,10 @@
       "směnárny"
     ],
     "description": "Budou jednou kryptoměny běžnou součástí života většiny populace? Přednáška se bude zabývat tématy zda je to možné? Kdy se stane, že kryptoměnou zaplatíte kdekoliv? Jaké jsou legislativní překážky adopce kryptoměn? Co dalšího brání rychlejšímu používání kryptoměn mainstreamem? Jaký to bude mít dopad na cenu? Které kryptoměny budou masově využívány? Čím může každý z nás přispět k adopci kryptoměn?\n",
-    "popularity": 0.8
+    "popularity": 0.8,
+    "video": {
+      "youtube": "TMMqlS5EcMw"
+    }
   },
   {
     "id": "adopce-btc",
@@ -762,7 +771,10 @@
       "Ethereum"
     ],
     "description": "Predstavím vám magický svet DAOs: preberieme čo DAOs sú, čím sú užitocné, ako sa podobajú líšia od bežných foriem organizacií. Prejdeme si viacerími oblasťami, cez ktoré sa v DAOs realizujú (technická, spoločenská, ekonomická, politická, právna). Popri ukážke niekoľkých príkladov DAOs budeme mať aj čas na diskusiu a otázky z publika. \n",
-    "popularity": 0.6
+    "popularity": 0.6,
+    "video": {
+      "youtube": "Pjd0QdJ46wM"
+    }
   },
   {
     "id": "terragedon-kolaps-ust-luna",
@@ -975,7 +987,10 @@
       "NEAR"
     ],
     "description": "Někdo ho považuje za druhou vrstvu etherea, někdo za blockchain, který přišel s naprosto unikátním způsobem shardingu, revoluční peněženkou a sexy uživatelským rozhraním. Dokonce i jeho části umí být EVM kompatibilní. Co vlastně Near je?\n",
-    "popularity": 0.5
+    "popularity": 0.5,
+    "video": {
+      "youtube": "5lriYAWJF78"
+    }
   },
   {
     "id": "fire-movement",
@@ -997,6 +1012,9 @@
         "klenbovy-sal",
         "exit-room"
       ]
+    },
+    "video": {
+      "youtube": "x6KZl60eooc"
     }
   },
   {
@@ -1134,7 +1152,10 @@
       "autorské právo"
     ],
     "popularity": 0.5,
-    "description": "Koupili jste si NFT a stali jste se vlastníky Vašeho oblíbeného portrétu. Za miliony Kč. Já si ho stáhnul z webu. Zdarma. Umožňuje Vám právo nakládat s portrétem způsobem, jakým já nemohu? Nebo jsou naše práva v zásadě stejná? Co když si z portrétu udělám svoji profilovku? Můžete s tím něco dělat? Cílem přednášky je naučit diváky rozpoznat obsah práv spojených s konkrétním NFT a poradit, na co si dát při jejich nákupu pozor. Ze známých údajů se totiž jeví, že čím více práv k NFT dostanete, tím vyšší bude i jeho hodnota.\n"
+    "description": "Koupili jste si NFT a stali jste se vlastníky Vašeho oblíbeného portrétu. Za miliony Kč. Já si ho stáhnul z webu. Zdarma. Umožňuje Vám právo nakládat s portrétem způsobem, jakým já nemohu? Nebo jsou naše práva v zásadě stejná? Co když si z portrétu udělám svoji profilovku? Můžete s tím něco dělat? Cílem přednášky je naučit diváky rozpoznat obsah práv spojených s konkrétním NFT a poradit, na co si dát při jejich nákupu pozor. Ze známých údajů se totiž jeví, že čím více práv k NFT dostanete, tím vyšší bude i jeho hodnota.\n",
+    "video": {
+      "youtube": "fmAvoODAd0g"
+    }
   },
   {
     "id": "fediverse",
@@ -1304,7 +1325,10 @@
       "bezpečnost"
     ],
     "popularity": 0.6,
-    "description": "Budou jednoho dne kryptoměny ve spojení s decentralizací cestou ke svobodě každé žijící osoby na této planetě? Máme tady skutečně technologii, která posune svět z doby informační na dobu svobody a hojnosti? Uvědomujeme si opravdu veškerá rizika, která na nás a naše blízké čekají? Anebo snad jen žijeme v sociální bublině s klapkami na očích a nechceme si připustit, co se kolem nás skutečně odehrává? Pokud si myslíte, že nastal čas rozšířit si svůj pohled o negativní zážitky lidí, kteří při seznámení s kryptoměnami dostali tvrdou ránu, tak je tato přednáška přímo pro Vás.\n"
+    "description": "Budou jednoho dne kryptoměny ve spojení s decentralizací cestou ke svobodě každé žijící osoby na této planetě? Máme tady skutečně technologii, která posune svět z doby informační na dobu svobody a hojnosti? Uvědomujeme si opravdu veškerá rizika, která na nás a naše blízké čekají? Anebo snad jen žijeme v sociální bublině s klapkami na očích a nechceme si připustit, co se kolem nás skutečně odehrává? Pokud si myslíte, že nastal čas rozšířit si svůj pohled o negativní zážitky lidí, kteří při seznámení s kryptoměnami dostali tvrdou ránu, tak je tato přednáška přímo pro Vás.\n",
+    "video": {
+      "youtube": "bIf6gUzge18"
+    }
   },
   {
     "id": "qf-ethprague",
@@ -2153,7 +2177,7 @@
     "name": "Holky v kryptu",
     "track": "zaklady",
     "speakers": [
-      "tereza-starostova"
+      "sona-parke"
     ],
     "duration": 10,
     "parent": "lokalni-komunity-intro",
@@ -2162,7 +2186,10 @@
       "komunity",
       "ženy",
       "Bitcoin"
-    ]
+    ],
+    "video": {
+      "youtube": "rWWH5wBqbZc"
+    }
   },
   {
     "id": "bitcoinovej-kanal-komunita",
