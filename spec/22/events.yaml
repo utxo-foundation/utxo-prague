@@ -1978,6 +1978,8 @@
     - AMM
   description: |
     Jak si zajistit hodnotu svých blockchainových aktiv krypto-nativně? Stavíme protokol k prodeji a nákupu opcí na tokeny, chceme tento trh oživit a poskytnout maximální dostupnost, spolehlivost a férové ceny ke snížení rizik investic.
+  video:
+    youtube: vjgyCEDg1ig
 
 # - id: liqwid
 #  type: lightning
