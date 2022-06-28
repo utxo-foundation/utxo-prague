@@ -1028,6 +1028,8 @@
       - lustrovy-sal
       - klenbovy-sal
       - exit-room
+  video:
+    youtube: 1GLzUyjosM0
 
 - id: polkadot-governance
   type: talk
