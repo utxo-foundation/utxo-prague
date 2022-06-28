@@ -576,7 +576,10 @@
       "regulace",
       "daně"
     ],
-    "popularity": 0.5
+    "popularity": 0.5,
+    "video": {
+      "youtube": "nUye1OgU57c"
+    }
   },
   {
     "id": "danove-triky-a-kouzla",
@@ -754,7 +757,10 @@
       "seed investice",
       "startupy"
     ],
-    "popularity": 0.6
+    "popularity": 0.6,
+    "video": {
+      "youtube": "pbbFt8hhVYA"
+    }
   },
   {
     "id": "dao-101",
