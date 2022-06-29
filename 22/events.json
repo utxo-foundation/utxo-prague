@@ -46,7 +46,10 @@
     "fixed": {
       "date": "2022-06-05"
     },
-    "description": "Diskuze bude probíhat mezi Bitcoin maximalistou Pepou Tětkem a Krypto realistou Davidem Stancelem. Cílem prezentace bude otevřená diskuze o parametrech, smysluplnosti, rizicích a potenciálním využití alterntivních kryptoměn v porovnání s Bitcoinem. Diskuzi bude moderovat Libor z Investocky.\n"
+    "description": "Diskuze bude probíhat mezi Bitcoin maximalistou Pepou Tětkem a Krypto realistou Davidem Stancelem. Cílem prezentace bude otevřená diskuze o parametrech, smysluplnosti, rizicích a potenciálním využití alterntivních kryptoměn v porovnání s Bitcoinem. Diskuzi bude moderovat Libor z Investocky.\n",
+    "video": {
+      "youtube": "WQLOuZRJbvk"
+    }
   },
   {
     "id": "nft-metaverse-panel",
@@ -1319,7 +1322,10 @@
       "investice"
     ],
     "description": "Původně jsem přednášku nazval: \"Jak si posichrovat a rozložit svoje portfolio.\" Ale titulek prodává a většina z vás chce to stejný. Umět vydělat, ideálně online a nepřijít o to! Možná chceš jít do důchodu dřív, pracovat hodinu denně, mít klidný spaní a čas na to co miluješ. A máš 50 minut? Řeknu ti, jaké investice mě v životě nejvíc posunuly, co jsem se naučil od bohatých, nebo proč jsem byl all in krypto 2017. Ukážu ti jak se pojistit proti poklesům, využít finanční páky, indexů, stablů, nebo zásadní hacky v kryptu, bezpečnosti a bankovnictví. Proč mít kromě eth nebo btc i nemovitost, akcie a obytnou dodávku, aby ses kdykoliv mohl sbalit a vypadnout.\n",
-    "popularity": 0.7
+    "popularity": 0.7,
+    "video": {
+      "youtube": "Clu7AjRPZFk"
+    }
   },
   {
     "id": "dabluv-advokat-kryptopodvody-a-jine-problemy",
