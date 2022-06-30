@@ -2415,7 +2415,10 @@
           "tokenizace"
         ],
         "popularity": 0.7,
-        "description": "NFT je často spojované s mánií kolem sbírek kreslených obrázků nebo digitálního umění za astronomické ceny. Potenciál nezaměnitelných tokenů jako technologie je ovšem daleko větší - od způsobů, jak konzumujeme produkty a služby, jak dokazujeme vlastnictví nebo zkušenosti, až po výkon určitých práv. V jakých oblastech se dá NFT uplatnit dnes a co všechno může být NFT v budoucnosti? Debatu bude moderovat Tino Hrnčiar (Tino Forbidden).\n"
+        "description": "NFT je často spojované s mánií kolem sbírek kreslených obrázků nebo digitálního umění za astronomické ceny. Potenciál nezaměnitelných tokenů jako technologie je ovšem daleko větší - od způsobů, jak konzumujeme produkty a služby, jak dokazujeme vlastnictví nebo zkušenosti, až po výkon určitých práv. V jakých oblastech se dá NFT uplatnit dnes a co všechno může být NFT v budoucnosti? Debatu bude moderovat Tino Hrnčiar (Tino Forbidden).\n",
+        "video": {
+          "youtube": "t4pS7o3UTAc"
+        }
       },
       {
         "id": "nft-curation-art-heritage",
@@ -2650,7 +2653,10 @@
           "historie",
           "adopce"
         ],
-        "popularity": 0.8
+        "popularity": 0.8,
+        "video": {
+          "youtube": "thq2F2TM1jQ"
+        }
       },
       {
         "id": "pribeh-nejvetsiho-btc-donejtu",
@@ -3204,6 +3210,9 @@
             "rajska-zahrada",
             "lustrovy-sal"
           ]
+        },
+        "video": {
+          "youtube": "V9khL8x2Odk"
         }
       },
       {
@@ -4362,7 +4371,10 @@
           "Ethereum",
           "datová analýza",
           "vývoj"
-        ]
+        ],
+        "video": {
+          "youtube": "n_PIvI-6cP4"
+        }
       },
       {
         "id": "flipper-zone",
@@ -4632,7 +4644,10 @@
         "parent": "lokalni-dao-intro",
         "tags": [
           "DAO"
-        ]
+        ],
+        "video": {
+          "youtube": "g3YKZvEOupM"
+        }
       },
       {
         "id": "altlift-gaming-dao",
@@ -4649,7 +4664,10 @@
           "DAO",
           "gaming",
           "DeFi"
-        ]
+        ],
+        "video": {
+          "youtube": "Dn5tzBsksV8"
+        }
       },
       {
         "id": "baserank",
@@ -9345,5 +9363,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-06-29T18:55:43.529Z"
+  "time": "2022-06-30T01:18:48.654Z"
 }
