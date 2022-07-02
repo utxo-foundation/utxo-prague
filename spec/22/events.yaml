@@ -122,11 +122,11 @@
   name: Koruna česká na blockchainu (dCZK stablecoin) - panelová debata
   speakers:
     - david-antos
-    - lukas-kovanda    
     - radek-svarz
     - frantisek-vinopal
     - marek-kyrsch
     - simona-pacakova
+    - jakub-jedlinsky
   properties:
     moderators: [ david-antos ]
   track: defi
@@ -143,6 +143,8 @@
     stage: lustrovy-sal
     time: '2/14:00-15:30'
   popularity: 0.6
+  video:
+    youtube: t7JZflC1WEY
 
 - id: cbdc-panel
   type: panel
@@ -493,6 +495,8 @@
   description: |
     Social Token je kategorie krypto aktiv, která není takřka probádána a přitom má velký potenciál. Někteří zaměňují NFT za Social Token. Nejsou stejné (ERC-721 vs. ERC-20), naopak se doplňují. Je to jako míchat jablka s hruškami. Nejsou stejné, ale je z nich skvělý salát. Pojďme si spolu projít recept na skvělou strategii propagace jednotlivce, projektů nebo si jen osvojit možnost vlastního tokenu.
   popularity: 0.6
+  video:
+    youtube: d1FdfRMNqi4
 
 - id: od-mozku-k-blockchainu-decentralizovana-veda-desci
   type: talk
