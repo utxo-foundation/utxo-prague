@@ -469,7 +469,10 @@
       "stage": "lustrovy-sal",
       "time": "2/13:30-14:00"
     },
-    "popularity": 0.5
+    "popularity": 0.5,
+    "video": {
+      "youtube": "AR2_Or8gteU"
+    }
   },
   {
     "id": "somnium-space-talk",
@@ -508,7 +511,10 @@
       "rozvojové země",
       "NFT"
     ],
-    "popularity": 0.7
+    "popularity": 0.7,
+    "video": {
+      "youtube": "YN0URgl8Xd8"
+    }
   },
   {
     "id": "blockchain-hry-a-deti",
@@ -568,6 +574,9 @@
         "klenbovy-sal",
         "exit-room"
       ]
+    },
+    "video": {
+      "youtube": "6eiFWQFQqTE"
     }
   },
   {
@@ -854,7 +863,10 @@
       "Bitcoin",
       "Lightning Network"
     ],
-    "description": "Bitcoin lze vnímat různými způsoby. Utečete s ním přes hranice nebo ho komukoliv bez potřeby svolení odešlete. Proč by to ale mělo zajímat někoho v Čechách? Chtěl bych vám popsat v čem vidím hodnotu Bitcoinu já, v čem ji dle mého soudu vidí lidé ze zbytku světa a v čem byste ji mohli vidět i vy.\n"
+    "description": "Bitcoin lze vnímat různými způsoby. Utečete s ním přes hranice nebo ho komukoliv bez potřeby svolení odešlete. Proč by to ale mělo zajímat někoho v Čechách? Chtěl bych vám popsat v čem vidím hodnotu Bitcoinu já, v čem ji dle mého soudu vidí lidé ze zbytku světa a v čem byste ji mohli vidět i vy.\n",
+    "video": {
+      "youtube": "8R5en1Vvm8k"
+    }
   },
   {
     "id": "l2-zaklady",
@@ -1055,7 +1067,10 @@
       "DeFi"
     ],
     "description": "Káva nebo čaj, knížka nebo film, dovolená u moře nebo na horách,… Rozhodování je náš denní chléb. Rozhodujete se racionálně nebo upřednostňujete své emoce? Rozhodování hraje zvláště v investování velkou roli. Naučte se dělat správná racionální rozhodnutí, uvědomte si jeho výhody a pochopte principy, které vám pomohou lépe fungovat v tomto světě.\n",
-    "popularity": 0.7
+    "popularity": 0.7,
+    "video": {
+      "youtube": "O8yzGd8Uzms"
+    }
   },
   {
     "id": "chyby-pri-skladani-portfolia",
@@ -1238,7 +1253,10 @@
       "budoucnost"
     ],
     "description": "Jak bude vypadat budoucnost trhu kryptoměn a které tituly budou nejvíce hodnotné a sledované? Už delší dobu si kladu tyto otázky a rád bych s Vámi nasdílel pár mých teorií, proč si zrovna myslím, že budoucnost trhu kryptoměn je v produktech (Uniswap, Maker DAO atd…) a nikoliv v chainech (Ethereum, Polkadot atd..).\n",
-    "popularity": 0.7
+    "popularity": 0.7,
+    "video": {
+      "youtube": "wy3O5f_Lu_g"
+    }
   },
   {
     "id": "reaktivni-nft",
