@@ -951,6 +951,8 @@
   description: |
     Vyrazíme do vesmíru. Sraz je na planetě Atom, ze které proletíme celou IBC galaxii. Zastavíme se například na oběžné dráze Juna nebo Osmosisu, podržíme minutu ticha za Terru a přibrzdíme i u planety Secret. Podíváme se na první doopravdy interoperabilní blockchain. Jak funguje cosmos of blockchains? Co se na něm dá dělat a jaké planety v tomhle vesmíru stojí za zastávku?
   popularity: 0.5
+  video:
+    youtube: lULQmkF43t0
 
 - id: uvod-near
   type: talk
@@ -1176,6 +1178,8 @@
   popularity: 0.5
   fixed:
     stage: exit-room
+  video:
+    youtube: nm1fbQciaLc
 
 - id: institucionalni-investori-v-kryptu
   type: talk
@@ -1210,6 +1214,8 @@
 
     https://rbf.capital/staking/
   popularity: 0.6
+  video:
+    youtube: 4MJWFKZKsTw
 
 - id: jak-ziskat-financovani-pro-vas-web3-projekt
   type: talk
@@ -3251,7 +3257,7 @@
 #    stage: nft-chillout
 
 - id: pujcky-v-bankovnictvi-vs-defi
-  name: Půjčky v bankovnictví (TradFi) vs v DeFi
+  name: Půjčky v bankovnictví (TradFi) vs DeFi
   type: talk
   track: defi
   speakers: [ radek-svarz ]
