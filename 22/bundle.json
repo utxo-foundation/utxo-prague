@@ -5802,7 +5802,7 @@
       },
       {
         "id": "pujcky-v-bankovnictvi-vs-defi",
-        "name": "Půjčky v bankovnictví (TradFi) vs DeFi",
+        "name": "Půjčky v bankovnictví (TradFi) vs v DeFi",
         "type": "talk",
         "track": "defi",
         "speakers": [
@@ -9399,5 +9399,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-07-12T18:46:56.980Z"
+  "time": "2022-07-12T18:47:56.275Z"
 }
