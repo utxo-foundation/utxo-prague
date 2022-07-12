@@ -920,6 +920,8 @@
   description: |
     Polkadot je platforma od jednoho ze zakladatelů Ethereum sítě a původního autora EVM, Gavina Wooda. Tento protokol je unikátní svým designem, protože už od svého vzniku počítá s tím, že budoucnust kryptoměn je takzvaně multi-chain - to znamená, že zde nebude jeden vítězný projekt, který ovládne celý krypto prostor, ale budeme mít vedle sebe mnoho blockchainů, které spolu budou muset bezpečně a decentralizovaně komunikovat. Dozvíte se tedy jakým způsobem je Polkadot pro tuto budoucnost navržen, co jsou to parachainy a proč by to mohl být jeden z nejzajímavějších projektů roku 2022.
   popularity: 0.5
+  video:
+    youtube: PwOGQKV45kI
 
 - id: mise-projektu-cardano
   type: talk
