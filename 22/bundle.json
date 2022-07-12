@@ -3289,7 +3289,10 @@
           "smart-contract"
         ],
         "description": "Polkadot je platforma od jednoho ze zakladatelů Ethereum sítě a původního autora EVM, Gavina Wooda. Tento protokol je unikátní svým designem, protože už od svého vzniku počítá s tím, že budoucnust kryptoměn je takzvaně multi-chain - to znamená, že zde nebude jeden vítězný projekt, který ovládne celý krypto prostor, ale budeme mít vedle sebe mnoho blockchainů, které spolu budou muset bezpečně a decentralizovaně komunikovat. Dozvíte se tedy jakým způsobem je Polkadot pro tuto budoucnost navržen, co jsou to parachainy a proč by to mohl být jeden z nejzajímavějších projektů roku 2022.\n",
-        "popularity": 0.5
+        "popularity": 0.5,
+        "video": {
+          "youtube": "PwOGQKV45kI"
+        }
       },
       {
         "id": "mise-projektu-cardano",
@@ -3324,7 +3327,10 @@
           "Osmosis"
         ],
         "description": "Vyrazíme do vesmíru. Sraz je na planetě Atom, ze které proletíme celou IBC galaxii. Zastavíme se například na oběžné dráze Juna nebo Osmosisu, podržíme minutu ticha za Terru a přibrzdíme i u planety Secret. Podíváme se na první doopravdy interoperabilní blockchain. Jak funguje cosmos of blockchains? Co se na něm dá dělat a jaké planety v tomhle vesmíru stojí za zastávku?\n",
-        "popularity": 0.5
+        "popularity": 0.5,
+        "video": {
+          "youtube": "lULQmkF43t0"
+        }
       },
       {
         "id": "uvod-near",
@@ -3596,6 +3602,9 @@
         "popularity": 0.5,
         "fixed": {
           "stage": "exit-room"
+        },
+        "video": {
+          "youtube": "nm1fbQciaLc"
         }
       },
       {
@@ -3634,7 +3643,10 @@
           "Cosmos"
         ],
         "description": "RBF Staking je součást Rockaway Blockchain Fondu, která provozuje uzly pro L1 blockchainy v ekosystémech Solana, Cosmos, EVM based a dalších. Na přednášce si porovnáme tyto blockchainy z pohledu architektury a poté z pohledu provozu (bezpečnost, HW/network nároky).\n\nhttps://rbf.capital/staking/\n",
-        "popularity": 0.6
+        "popularity": 0.6,
+        "video": {
+          "youtube": "4MJWFKZKsTw"
+        }
       },
       {
         "id": "jak-ziskat-financovani-pro-vas-web3-projekt",
@@ -5790,7 +5802,7 @@
       },
       {
         "id": "pujcky-v-bankovnictvi-vs-defi",
-        "name": "Půjčky v bankovnictví (TradFi) vs v DeFi",
+        "name": "Půjčky v bankovnictví (TradFi) vs DeFi",
         "type": "talk",
         "track": "defi",
         "speakers": [
@@ -9387,5 +9399,5 @@
       "schedule": 155
     }
   },
-  "time": "2022-07-12T01:14:13.360Z"
+  "time": "2022-07-12T18:46:56.980Z"
 }
