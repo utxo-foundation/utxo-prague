@@ -594,6 +594,8 @@
   description: |
     Představení základů pracovních poměrů a finančních iniciativ v kryptoměnách. Podíváme se, kde nejlépe sledovat nové nabídky a jak ve zkratce fungují dnešní DAOs.
   popularity: 0.6
+  video:
+    youtube: 5VvflqEXkDI
 
 #- id: talent-ve-web3-vc-pohled
 #  type: talk
@@ -1020,6 +1022,8 @@
   description: |
     Kryptoměny jsou pro mě jako nový svět a nová ekonomika, vznikající kompletně online. Všichni to vidíme a chceme být součástí tohoto paralelního světa. Některé fascinuje technologie, jiné investiční příležitosti, které díky růstu celého trhu přichází. A těch, které fascinuje růst ceny, je o poznání víc. Krypto investory nyní potkáváme všude, ale stále málokdo dokáže dlouhodobě vydělávat kvůli jednoduchým chybám, které děláme. Za svých 5 let v kryptu jsem to mohl pozorovat na sobě, ale zároveň díky Blockspace jsem to stejné viděl u stovek dalších lidí. Na této přednášce si tedy ukážeme, co jsou nejtypičtější chyby, které dělá v portfoliu téměř každý - a jak je velmi jednoduše odbourat.
   popularity: 0.6
+  video:
+    youtube: HGyrGnLIYjg
 
 - id: fundamentalni-analyza-jako-zaklad-investice-do-krypto-aktiv
   type: talk
@@ -1146,6 +1150,8 @@
     stages:
       - klenbovy-sal
       - exit-room
+  video:
+    youtube: PhU1Bqvft-0
 
 - id: budoucnost-kryptomen-je-v-produktech-nikoliv-v-chainech
   type: talk
@@ -3268,4 +3274,6 @@
     - bankovnictví
   description: |
     Decentralizované Finance (DeFi) umožňují finanční inovace, které v tradičních financích (TradFi) ani nejsou možné. Co je výhodnější použít? Ukážeme si srovnání nabídek bank a DeFi. Probereme aspekty, které možná netušíte, že se při bankovních půjčkách řeší a které mají dopady na vaši budoucí kredibilitu. A zda to s DeFi je, či není lepší.
+  video:
+    youtube: yipgxtqa7Tw
 
