@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Jaký je časový harmonogram?",
+    "answer": "Časový harmonogram všech přednášek bude zveřejněn nejpozději v pondělí 30. května ráno. Tady je zatím hrubý časový plán:\n* **Sobota**: 8:00 otevření, 9:00-9:15 zahájení, 9:30-19:30 program, 20:00-02:00+ party\n* **Neděle**: 9:00 otevření, 10:00-18:30 program, 18:30-19:00 zakončení, 20:00 uzavření\n"
+  },
+  {
+    "question": "Jak získám vstupenku?",
+    "answer": "První vlna vstupenek bude k dispozici od středy 13. dubna 13:00 za 500 Kč. Druhá vlna od 27. dubna 13:00 za 650 Kč a třetí vlna od 11. května za 750 Kč.\n\nPokud se všechny vstupenky nevyprodají během třetí vlny, potom v pátek 3. června v 12:00 (den před akcí) dojde ke zdražení na 1000 Kč a za stejnou cenu bude k dispozici vstupenka na místě.\n"
+  },
+  {
+    "question": "Pro koho je konference určena?",
+    "answer": "Pro všechny kryptoměnové nadšence. Konference vznikla také jako neutrální místo pro dialog v rámci celé lokální krypto-komunity. Každý něčemu fandíme, ale pojďme se od toho alespoň chvíli odprostit a poslechnout si i myšlenky protistrany, nebo diskutovat.\n"
+  },
+  {
+    "question": "Budou dostupné záznamy přednášek?",
+    "answer": "Ano, všechny přednášky z hlavních 4 sálů (P1-P4) budou po konferenci dostupné zdarma na UTXO.TV nebo našem [YouTube kanálu](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA).\n"
+  },
+  {
+    "question": "Co to znamená \"UTXO\"?",
+    "answer": "\"UTXO\" znamená \"*Unspent transaction output*\", což by se dalo přeložit jako \"neutracený výstup transakce\". Jedná se o [základní mechanismus fungování bitcoinu](https://www.alza.cz/transakcni-poplatky-a-minimalni-velikost-utxo#co-je-utxo).\n\n> \"_UTXO je jediný způsob, jakým váš bitcoin skutečně \"existuje\". Každá transakce bere předchozí neutracené výstupy, používá je jako vstupy a ve výsledku vytváří nové výstupy. Každý konec je novým začátkem. Bitcoin je krásný._\" - [@SatsJoseph](https://twitter.com/SatsJoseph/status/1370329486059843588)\n"
+  },
+  {
+    "question": "Budou přednášky vysílané živě?",
+    "answer": "Ano, plánujeme bohatý program i pro návštěvníky online - živé přenosy ze všech přednáškových sálů (4 hlavní sály - P1-P4), rozhovory s návštěvníky a další obsah. Vše bude zdarma dostupné na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).\n"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "petr-lukac",
+    "name": "Petr Lukáč",
+    "twitter": "RuzovejSlon",
+    "bio": "Novinář, podcaster",
+    "orgs": "Podcast [Krypto Space](https://www.kryptospace.cz/)\n",
+    "tracks": [
+      "spolecnost"
+    ],
+    "country": "cz",
+    "photos": [
+      "web:png",
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "tereza-starostova",
+    "name": "Tereza Starostová",
+    "twitter": "terkastarostova",
+    "orgs": "Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)\n",
+    "tracks": [
+      "zaklady",
+      "spolecnost"
+    ],
+    "country": "cz",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "tree",
+    "name": "tree",
+    "twitter": "treecz",
+    "bio": "Libertarián, propagátor Web3 a DAOs",
+    "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
+    "country": "cz",
+    "tracks": [
+      "eth",
+      "defi",
+      "dao"
+    ],
+    "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
+    "photos": [
+      "twitter:jpg"
+    ]
+  }
+]

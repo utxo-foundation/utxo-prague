@@ -4,5 +4,11 @@
     "entryId": "22",
     "url": "https://spec.utxo.cz/22/",
     "schema": "https://spec.utxo.cz/schema/1/"
+  },
+  {
+    "id": "utxo23",
+    "entryId": "23",
+    "url": "https://spec.utxo.cz/23/",
+    "schema": "https://spec.utxo.cz/schema/1/"
   }
 ]

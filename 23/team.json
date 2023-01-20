@@ -1,0 +1,13 @@
+{
+  "persons": {
+    "tereza": {
+      "name": "Tereza Starostová",
+      "twitter": "terkastarostova"
+    },
+    "tree": {
+      "name": "Tree",
+      "twitter": "treecz"
+    }
+  },
+  "teams": {}
+}

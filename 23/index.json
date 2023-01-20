@@ -1,0 +1,39 @@
+{
+  "id": "utxo23",
+  "name": "UTXO.23",
+  "shortname": "UTXO",
+  "description": "Otevřená komunitní kryptoměnová konference",
+  "dates": [
+    "2023-06-02",
+    "2023-06-04"
+  ],
+  "country": "Czech Republic",
+  "links": {
+    "web": "https://utxo.cz",
+    "docs": "https://docs.utxo.cz",
+    "twitter": "https://twitter.com/utxoprague",
+    "telegram": "https://t.me/utxoprague",
+    "fbpage": "https://www.facebook.com/utxoprague",
+    "instagram": "https://www.instagram.com/utxoprague/",
+    "youtube": "https://www.youtube.com/c/UTXOPrague"
+  },
+  "schemaVersion": 1,
+  "spec": {
+    "speakers": "https://spec.utxo.cz/23/speakers.json",
+    "tracks": "https://spec.utxo.cz/23/tracks.json",
+    "event-types": "https://spec.utxo.cz/23/event-types.json",
+    "faqs": "https://spec.utxo.cz/23/faqs.json",
+    "partners": "https://spec.utxo.cz/23/partners.json",
+    "team": "https://spec.utxo.cz/23/team.json"
+  },
+  "stats": {
+    "counts": {
+      "speakers": 3,
+      "tracks": 10,
+      "event-types": 7,
+      "faqs": 6,
+      "partners": 2
+    }
+  },
+  "time": "2023-01-20T00:07:59.044Z"
+}
