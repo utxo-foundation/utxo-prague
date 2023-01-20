@@ -73,7 +73,7 @@ function checkCol(col, d, current) {
   }
 }
 
-async function generate(entry = "22") {
+async function generate(entry = "23") {
   const commits = await gitCommits();
   const bundleFn = `${entry}/bundle.json`;
   const dates = {};

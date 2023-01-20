@@ -1,0 +1,33 @@
+id: utxo23
+name: UTXO.23
+shortname: UTXO
+description: Otevřená komunitní kryptoměnová konference
+dates: [ '2023-06-02', '2023-06-04' ]
+#scheduleTimes:
+#  - '1/09:00-20:00/Sobota 4.6.'
+#  - '1/20:00-02:00/UTXO.Party (sobota 4.6.)'
+#  - '2/09:00-19:00/Neděle 5.6.'
+#place: Gabriel Loci, Praha
+country: Czech Republic
+links:
+  web: https://utxo.cz
+  docs: https://docs.utxo.cz
+  twitter: https://twitter.com/utxoprague
+  telegram: https://t.me/utxoprague
+  fbpage: https://www.facebook.com/utxoprague
+#  fbevent: https://www.facebook.com/events/276727151106692
+  instagram: https://www.instagram.com/utxoprague/
+  youtube: https://www.youtube.com/c/UTXOPrague
+schemaVersion: 1
+specDef:
+  - type: speakers
+  - type: tracks
+  - type: event-types
+#  - type: events
+#  - type: stages
+  - type: faqs
+  - type: partners
+#  - type: projects
+  - type: team
+#  - type: practical-info
+#  - type: schedule

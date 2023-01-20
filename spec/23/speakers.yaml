@@ -1,0 +1,39 @@
+# všech přednášejících
+# ---------------------------
+# JSON Schema Viewer: https://json-schema.app/view/%23%2Fdefinitions%2Fspeaker?url=https%3A%2F%2Fspec.utxo.cz%2Fschema%2F1%2Fbundle.json
+
+#- id: adam-kracik
+#  name: Adam Kracík
+#  bio: Nezávislý žurnalista a kryptoměnový analytik
+#  tracks: [ zaklady, alty ]
+#  web:
+#    url: https://www.facebook.com/knox.gunner
+#  country: cz
+
+- id: tereza-starostova
+  name: Tereza Starostová
+  twitter: terkastarostova
+  orgs: |
+    Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)
+  tracks: [ zaklady, spolecnost ]
+  country: cz
+
+- id: petr-lukac
+  name: Petr Lukáč
+  twitter: RuzovejSlon
+  bio: Novinář, podcaster
+  orgs: |
+    Podcast [Krypto Space](https://www.kryptospace.cz/)
+  tracks: [ spolecnost ]
+  country: cz
+
+- id: tree
+  name: tree
+  twitter: treecz
+  bio: Libertarián, propagátor Web3 a DAOs
+  orgs: |
+    Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí
+  country: cz
+  tracks: [ eth, defi, dao ]
+  desc: |
+    Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!

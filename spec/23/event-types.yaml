@@ -1,0 +1,26 @@
+
+- id: talk
+  name: Přednáška
+
+- id: workshop
+  name: Workshop
+
+- id: panel
+  name: Panelová debata
+  shortname: Panelovka
+
+- id: lightning-series
+  name: Pásmo bleskových přednášek
+  shortname: Bleskovky
+  url: https://docs.utxo.cz/hlavni-program/formaty-programu#bleskova-prednaska-lightning-talk
+
+- id: lightning
+  name: Blesková přednáška
+  shortname: Bleskovka
+  hidden: true
+
+- id: campfire
+  name: Campfire
+
+- id: other
+  name: Ostatní

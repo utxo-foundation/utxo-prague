@@ -121,6 +121,8 @@ export class UTXOEngine {
 
       // write index
       const index = JSON.parse(JSON.stringify(entry.index));
+      const specDef = JSON.parse(JSON.stringify(index.specDef));
+
       delete index.specDef;
       index.spec = specEndpoints;
       index.stats = { counts: {} };
@@ -147,22 +149,26 @@ export class UTXOEngine {
       });
 
       // copy media-kit
-      const outputMediaDir = [entryDir, "media-kit"].join("/");
-      if (!this.options.silent) {
-        console.log(`UTXO.${entryId}: copying media-kit ..`);
-        console.log(`copying media-kit to ${outputMediaDir}`);
+      if (await exists([ entryDir, "media-kit" ].join("/"))) {
+        const outputMediaDir = [entryDir, "media-kit"].join("/");
+        if (!this.options.silent) {
+          console.log(`UTXO.${entryId}: copying media-kit ..`);
+          console.log(`copying media-kit to ${outputMediaDir}`);
+        }
+        await copy(
+          [this.srcDir, entryId, "media-kit"].join("/"),
+          outputMediaDir,
+          {
+            overwrite: true,
+          },
+        );
       }
-      await copy(
-        [this.srcDir, entryId, "media-kit"].join("/"),
-        outputMediaDir,
-        {
-          overwrite: true,
-        },
-      );
 
       // write QA output of events (schedules)
-      const qa = this.qaSummary(entryId);
-      await this._jsonWrite([entryDir, "qa-summary.json"], qa);
+      if (specDef.find(item => item.type === 'schedule')) {
+        const qa = this.qaSummary(entryId);
+        await this._jsonWrite([entryDir, "qa-summary.json"], qa);
+      }
 
       // done
 
