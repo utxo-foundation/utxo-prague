@@ -254,6 +254,7 @@
       "btc"
     ],
     "country": "cz",
+    "lead": true,
     "photos": [
       "web:jpg"
     ]

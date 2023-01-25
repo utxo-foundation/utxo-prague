@@ -275,6 +275,7 @@
           "btc"
         ],
         "country": "cz",
+        "lead": true,
         "photos": [
           "web:jpg"
         ]
@@ -663,5 +664,5 @@
       "partners": 2
     }
   },
-  "time": "2023-01-25T21:51:05.415Z"
+  "time": "2023-01-25T21:51:32.775Z"
 }
