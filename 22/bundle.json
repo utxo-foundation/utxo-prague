@@ -6230,7 +6230,8 @@
           "url": "https://polkadot.network/"
         },
         "photos": [
-          "web:png"
+          "web:png",
+          "twitter:jpg"
         ]
       },
       {
@@ -9411,5 +9412,5 @@
       "schedule": 155
     }
   },
-  "time": "2023-01-25T13:14:11.396Z"
+  "time": "2023-01-25T21:51:05.359Z"
 }
