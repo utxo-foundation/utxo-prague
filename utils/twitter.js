@@ -1,5 +1,5 @@
 import { config } from "https://deno.land/x/dotenv/mod.ts";
-import SimpleTwitter from "https://deno.land/x/simple_twitter_deno@0.05/simple_twitter_deno.ts";
+import SimpleTwitter from "https://raw.githubusercontent.com/burningtree/twit-deno/master/simple_twitter_deno.ts";
 import { Table } from "https://deno.land/x/cliffy@v0.20.1/table/mod.ts";
 import { UTXOEngine } from "./engine.js";
 import { exists } from "https://deno.land/std/fs/mod.ts";
@@ -10,7 +10,7 @@ await utxo.init();
 
 config({ path: ".env", export: true });
 
-const twitterImagesPath = "./spec/22/photos/";
+const twitterImagesPath = "./spec/23/photos/";
 
 const simple_twitter = new SimpleTwitter({
   consumer_key: Deno.env.get("CONSUMER_KEY"),
@@ -20,7 +20,7 @@ const simple_twitter = new SimpleTwitter({
   bearer_token: Deno.env.get("BEARER_TOKEN"),
 });
 
-const entryId = "22";
+const entryId = "23";
 const entry = utxo.entries[entryId];
 
 const collections = ["speakers", "partners"];

@@ -9,6 +9,7 @@
   web:
     url: https://www.facebook.com/knox.gunner
   country: cz
+  lead: true
 
 - id: juraj-bednar
   name: Juraj Bednár
@@ -43,15 +44,13 @@
 - id: hynek-jina
   name: Hynek Jína
   twitter: HynekJina
-  bio: Ekonom, libertarián, obhájce svobodného vzdělávání
+  bio: Ekonom, libertarián a otec
   orgs: |
-     IT Project Manager v [SatoshiLabs](https://satoshilabs.com/) (Trezor)
+     Head of Development v [Trezoru](https://trezor.io/)
   tracks: [ btc, zaklady ]
   country: cz
   desc: |
-    Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).
-
-    #bitcoin #lightning_network
+    Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz/).
   
 - id: josef-gattermayer
   name: Josef Gattermayer
@@ -62,15 +61,17 @@
   country: cz
   desc: |
     Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.
-  lead: true
 
 - id: petr-sanetrnik
   name: Petr Sanetrník
   twitter: PetrSanetrnik
+  bio: Portfolio manager
   orgs: |
-    Zakladatel [Webfusion](https://webfusion.cz/), spoluzakladatel [VR Education](https://vreducation.cz/), spoluzakladatel a portfolio manager v [Crypviz Asset Management](https://crypviz.io/)
-  tracks: [ eth, defi, nft ]
+    Spoluzakladatel [Crypviz Asset Management fund](https://crypviz.cz/)
+  tracks: [ eth, defi, regulace ]
   country: cz
+  desc: |
+    Jsem zakladatelem digitální agentury webfusion.cz zaměřenou na tvorbu webových stránek, vývoj aplikací a online marketing. Dále jsem také spoluzakladatelem vreducation.cz, kde digitalizujeme firemní vzdělávání a spoluzakladatelem Crypviz Asset Management Fund, kde mám na starost portfolio management.
 
 - id: petr-lukac
   name: Petr Lukáč
@@ -81,21 +82,221 @@
   tracks: [ spolecnost ]
   country: cz
 
-#- id: tree
-#  name: tree
-#  twitter: treecz
-#  bio: Libertarián, propagátor Web3 a DAOs
-#  orgs: |
-#    Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí
-#  country: cz
-#  tracks: [ eth, defi, dao ]
-#  desc: |
-#    Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!
-#
-#- id: tereza-starostova
-#  name: Tereza Starostová
-#  twitter: terkastarostova
-#  orgs: |
-#    Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)
-#  tracks: [ zaklady, spolecnost ]
-#  country: cz
+- id: adam-sobotka
+  name: Adam Sobotka
+  nickname: vorcigernix
+  twitter: vorcigernix
+  orgs: |
+    [Zitrone](https://zitrone.pages.dev/) founder, member of [Developer DAO](https://www.developerdao.com/) and Forefront
+  tracks: [ eth, dao ]
+  country: cz
+
+- id: dominika-v
+  name: Dominika V
+  twitter: DominikaV5
+  bio: |
+    Content creator, nadšenec do krypta
+  orgs: |
+    [Holky v kryptu](https://holkyvkryptu.cz/)
+  tracks: [ zaklady, btc, spolecnost ]
+  desc: |
+    Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.
+
+- id: jan-zibner
+  name: Jan Zibner
+  twitter: artiffine
+  bio: Právník se specializací na právo duševního vlastnictví a digitální trendy
+  orgs: |
+    CLO & spoluzakladatel [Artiffine](https://www.artiffine.com/)
+  tracks: [ nft ]
+  country: cz
+  desc: |
+    JUDr., Ph.D. IT/IP právník se specializací na právo duševního vlastnictví a digitální trendy, aktuálně jako CLO & Co-founder projektu Artiffine
+
+- id: jan-21m
+  name: Jan Kohout
+  nickname: JohnnyThe₿itcoiner
+  twitter: jan_21m
+  bio: "#bitcoin pleb, POW maxi, fyzioterapeut"
+  orgs: |
+    Autor pořadu [Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)
+  tracks: [ btc ]
+  country: cz
+  lead: true
+
+- id: julie-sislerova
+  name: Julie Šislerová
+  twitter: juliesislerova
+  bio: VR & AR Expert, Metaverse & NFT Evangelist
+  orgs: |
+    Founder of #HolkyvMetaverse community, mentor #HolkyzMarketingu
+  tracks: [ nft ]
+  country: cz
+  lead: true
+
+- id: karel-fillner
+  name: Karel Fillner
+  twitter: btctip_cz
+  bio: crypto enthusiast
+  orgs: |
+    Founder [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)
+  tracks: [ btc, alty ]
+  country: cz
+  lead: true
+
+- id: kirill-juran
+  name: Kirill Juran
+  linkedin: kirilljuran
+  twitter: KirillJuran
+  bio: Právník, transakční a investiční poradce
+  web:
+    url: https://www.youtube.com/c/KirillJuran/videos
+    name: Kirill Juran @ YouTube
+  orgs: |
+    CEO @ [SimpleTax&Law](https://www.smpl.cz/)
+  country: cz
+  tracks: [ regulace ]
+  lead: true
+
+- id: petr-mensik
+  name: Petr Menšík
+  twitter: polkadotterss
+  bio: Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku
+  orgs: |
+    Zakladatel [Polkadotters](https://twitter.com/polkadotters1)
+  web:
+    url: https://www.facebook.com/petr.mensik.374
+  tracks: [ alty, defi ]
+  country: cz
+  desc: |
+    Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku. Nejblíže je mi ovšem [Polkadot](https://polkadot.network/), proto jsme založili značku [Polkadotters](https://polkadotters.medium.com/) pod kterou pravidelně píšeme pro mezinárodní publikum a zároveň provozujeme validátory na Polkadotu, Kusamě a téměr všech ostatních parachainech.
+
+- id: radek-svarz
+  name: Radek Švarz
+  twitter: radk
+  linkedin: radeksvarz
+  tracks: [ defi, dao, regulace ]
+  bio: Vizionář, architekt, propojování businessu a IT
+  orgs: |
+    dCZK, APUS.finance, advisor [Alzheimerchain](https://alzheimerchain.com/), [Non Fungible Brain](https://www.nonfungiblebrain.com/), KryptoNadace
+  country: cz
+  desc: |
+    Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.
+
+- id: radim-kozub
+  name: Radim Kozub
+  twitter: RadimKozzub
+  orgs: Lawyer in Blockchain Legal
+  web:
+    url: https://www.blockchainlegal.cz/
+  tracks: [ regulace ]
+  country: cz
+  lead: true
+
+- id: sodomak
+  name: Milan Půlkrábek
+  nickname: Sodomák
+  twitter: Sodomak
+  linkedin: milanpulkrabek
+  bio: Lektor a konzultant digitální sebeobrany
+  orgs: Autor projektu CryptoLAB, člen [Paralelní Polis](https://www.paralelnipolis.cz/)
+  web:
+    url: https://www.digitalni-sebeobrana.cz/
+  tracks: [ zaklady, btc, spolecnost ]
+  country: cz
+  lead: true 
+
+- id: fetyas
+  name: Tomáš Kalabis
+  nickname: Fetyas
+  twitter: hernakrypto
+  orgs: |
+    YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)
+  tracks: [ nft ]
+  country: cz
+  desc: |
+    Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.
+    
+- id: huge
+  name: Huge
+  linkedin: uhuge
+  bio: DeFi geek with thirst for AI revolutions
+  orgs: |
+    indie, částečně Lemonero
+  tracks: [ alty, eth, defi ]
+  country: cz
+  web:
+    url: https://github.com/huge
+  desc: |
+    See [LinkedIn.com/in/uhuge](https://linkedin.com/in/uhuge)
+
+- id: jan-cerny
+  name: Jan Černý
+  twitter: JanCerny
+  orgs: |
+    Spolutvůrce [KryptoDoupě.cz](https://kryptodoupe.cz), moderátor [discordu Bitcoinového kanálu](https://bitcoinovejkanal.cz/)
+  tracks: [ zaklady, btc ]
+  country: cz
+  desc: |
+    Jeden z mnoha moderátorů [discordu Bitcoinového kanálu](https://discord.gg/HWG9Erm). Jeden z otců zakladatelů projektu [KryptoDoupě.cz](https://kryptodoupe.cz). Holky mi píšou, jak dostat bitcoiny z Change Invest, kluci se ptají, jak těžit obskurní kryptoměny. Ale jinak jsem pěkná osina v prdeli. :o) (bude to chtít učesat)
+
+- id: martin-janik
+  name: Martin Janík
+  nickname: yanas
+  twitter: yanascz
+  bio: Bitcoiner. Skydiver. Software Developer.
+  orgs: |
+    Vývojář v [Invity.io](https://invity.io/) ze skupiny SatoshiLabs
+  web:
+    url: https://yanas.cz
+  tracks: [ btc ]
+  country: cz
+
+- id: michal-novak
+  name: Michal Novák
+  twitter: PBudoucnosti
+  orgs: |
+    Autor knihy [Lightning Network: Platby budoucnosti](https://platbybudoucnosti.cz/)
+  web:
+    url: https://platbybudoucnosti.cz/
+  tracks: [ btc ]
+  country: cz
+
+- id: stanislav-simek
+  name: Stanislav Šimek
+  web:
+    url: 'https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/'
+  bio: Právník a kryptoměnový konzultant
+  tracks: [ regulace, nft ]
+  desc: |
+    Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.
+  country: cz
+
+- id: ondrej-rehacek
+  name: Ondřej Řeháček
+  twitter: olidotexe
+  bio: Vývojář, Smart-contract Auditor
+  orgs: |
+    Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)
+  tracks: [ eth, alty, nft ]
+  desc: |
+    Full-stack software engineer with eight years of experience, Solana blockchain auditor.
+
+- id: tree
+  name: tree
+  twitter: treecz
+  bio: Libertarián, propagátor Web3 a DAOs
+  orgs: |
+    Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí
+  country: cz
+  tracks: [ eth, defi, dao ]
+  desc: |
+    Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!
+
+- id: tereza-starostova
+  name: Tereza Starostová
+  twitter: terkastarostova
+  orgs: |
+    Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)
+  tracks: [ zaklady, spolecnost ]
+  country: cz
