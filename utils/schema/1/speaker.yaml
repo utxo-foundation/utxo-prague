@@ -32,6 +32,9 @@ properties:
   bio:
     type: string
     title: Stručný popis (bio) (Markdown)
+  caption:
+    type: string
+    title: Stručný popis v angličtině
   web:
     type: object
     additionalProperties: false

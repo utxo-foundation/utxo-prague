@@ -1,6 +1,7 @@
 import { assertEquals } from "https://deno.land/std@0.119.0/testing/asserts.ts";
 import { UTXOEngine } from "./engine.js";
 import { getDate, isPeriodOverlap } from "./periods.js";
+import removeMd from "npm:remove-markdown";
 
 // initialize ajv JSON Schema validator
 import Ajv from "https://esm.sh/ajv@8.8.1?pin=v58";
@@ -51,6 +52,21 @@ for (const entryId of utxo.entriesList()) {
             throw `Duplicate key: ${item.id}`;
           }
           used.push(item.id);
+        }
+      });
+    }
+
+    if (["speakers"].includes(specId)) {
+      Deno.test(`UTXO.${entryId}: ${specId}[caption-length]`, () => {
+        for (const item of entry.specs[specId]) {
+          if (!item.caption) {
+            continue;
+          }
+          const max = 55
+          const len = removeMd(item.caption).length
+          if (len > max) {
+            throw new Error(`Caption too long: ${len} of ${max} chars [${item.id}]`)
+          }
         }
       });
     }
