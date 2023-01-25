@@ -278,7 +278,8 @@
         "country": "cz",
         "lead": true,
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -317,7 +318,8 @@
         ],
         "desc": "Full-stack software engineer with eight years of experience, Solana blockchain auditor.\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -666,5 +668,5 @@
       "partners": 2
     }
   },
-  "time": "2023-01-25T21:54:03.087Z"
+  "time": "2023-01-25T21:54:42.154Z"
 }
