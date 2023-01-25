@@ -261,6 +261,7 @@
     url: https://platbybudoucnosti.cz/
   tracks: [ btc ]
   country: cz
+  lead: true
 
 - id: stanislav-simek
   name: Stanislav Šimek
