@@ -335,6 +335,7 @@
           "alty",
           "nft"
         ],
+        "country": "cz",
         "desc": "Full-stack software engineer with eight years of experience, Solana blockchain auditor.\n",
         "photos": [
           "web:jpg",
@@ -697,5 +698,5 @@
       "partners": 2
     }
   },
-  "time": "2023-01-26T00:10:09.330Z"
+  "time": "2023-01-26T00:11:35.038Z"
 }
