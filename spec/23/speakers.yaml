@@ -116,6 +116,7 @@
     [Holky v kryptu](https://holkyvkryptu.cz/)
   caption: Content creator, Crypto enthusiast @ [Women in crypto CZ](https://holkyvkryptu.cz/)
   tracks: [ zaklady, btc, spolecnost ]
+  country: cz
   desc: |
     Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.
   lead: true
@@ -139,9 +140,9 @@
   twitter: jan_21m
   bio: "#bitcoin pleb, POW maxi, fyzioterapeut"
   orgs: |
-    Autor pořadu [Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)
+    Autor pořadu ["Kryptoplebs"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)
   caption: |
-    Author of the ["Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA), physiotherapist
+    Author of the ["Kryptoplebs"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA), physiotherapist
   tracks: [ btc ]
   country: cz
   lead: true
