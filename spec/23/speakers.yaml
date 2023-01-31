@@ -333,6 +333,18 @@
   desc: |
     Full-stack software engineer with eight years of experience, Solana blockchain auditor.
 
+- id: pavol-luptak
+  name: Pavol Lupták
+  twitter: wilderko
+  bio: Kryptoanarchista, voluntarista, věčný cestovatel zaměřený na hackování technologií a společnosti
+  orgs: |
+    [Nethemba](https://nethemba.com/), [Hacktrophy](https://hacktrophy.com/), [liberationtravel](https://liberation.travel/)
+  caption: |
+    Cryptoanarchist, voluntaryist, perpetual traveler
+  tracks: [ spolecnost ]
+  country: sk
+  lead: true
+
 - id: tree
   name: tree
   twitter: treecz
