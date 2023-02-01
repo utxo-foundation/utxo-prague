@@ -345,6 +345,19 @@
   country: sk
   lead: true
 
+- id: lukas-kovanda
+  name: Lukáš Kovanda
+  twitter: lukaskovanda
+  bio: Ekonom a autor ekonomické literatury
+  orgs: |
+    Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), Poradce @ [SAB Finance](https://www.sab.cz/) | Přednášející @ [VŠE](https://www.vse.cz/)
+  caption: |
+    Chief Economist @ [Trinity Bank](https://www.trinitybank.cz/), Advisor @ [SAB Finance](https://www.sab.cz/)
+    
+  country: cz
+  tracks: [ regulace ]
+  lead: true
+
 - id: tree
   name: tree
   twitter: treecz
