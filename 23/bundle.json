@@ -261,6 +261,22 @@
         ]
       },
       {
+        "id": "lukas-kovanda",
+        "name": "Lukáš Kovanda",
+        "twitter": "lukaskovanda",
+        "bio": "Ekonom a autor ekonomické literatury",
+        "orgs": "Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), Poradce @ [SAB Finance](https://www.sab.cz/) | Přednášející @ [VŠE](https://www.vse.cz/)\n",
+        "caption": "Chief Economist @ [Trinity Bank](https://www.trinitybank.cz/), Advisor @ [SAB Finance](https://www.sab.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "regulace"
+        ],
+        "lead": true,
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "martin-janik",
         "name": "Martin Janík",
         "nickname": "yanas",
@@ -707,12 +723,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 28,
+      "speakers": 29,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 2
     }
   },
-  "time": "2023-01-31T09:55:45.153Z"
+  "time": "2023-02-01T09:31:30.829Z"
 }
