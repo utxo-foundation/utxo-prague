@@ -267,13 +267,17 @@
         "bio": "Ekonom a autor ekonomické literatury",
         "orgs": "Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), Poradce @ [SAB Finance](https://www.sab.cz/) | Přednášející @ [VŠE](https://www.vse.cz/)\n",
         "caption": "Chief Economist @ [Trinity Bank](https://www.trinitybank.cz/), Advisor @ [SAB Finance](https://www.sab.cz/)\n",
+        "web": {
+          "url": "http://www.lukaskovanda.cz/"
+        },
         "country": "cz",
         "tracks": [
           "regulace"
         ],
         "lead": true,
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -730,5 +734,5 @@
       "partners": 2
     }
   },
-  "time": "2023-02-01T09:31:30.829Z"
+  "time": "2023-02-01T09:32:55.108Z"
 }
