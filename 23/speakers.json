@@ -2,6 +2,7 @@
   {
     "id": "adam-kracik",
     "name": "Adam Kracík",
+    "twitter": "kracik_adam",
     "bio": "Nezávislý žurnalista a kryptoměnový analytik",
     "caption": "Freelance journalist and cryptocurrency analyst\n",
     "tracks": [
@@ -14,7 +15,8 @@
     "country": "cz",
     "lead": true,
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
@@ -90,6 +92,21 @@
     "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz/).\n",
     "photos": [
       "web:jpg",
+      "twitter:jpg"
+    ]
+  },
+  {
+    "id": "jacob-jelen",
+    "name": "Jacob Jelen",
+    "twitter": "jacobjelen",
+    "bio": "Product designer, Creative Technologist",
+    "orgs": "[Donat.Network](https://donat.network/)\n",
+    "caption": "Product Designer & Technologist, [Donat.Network](https://donat.network/)\n",
+    "country": "cz",
+    "tracks": [
+      "spolecnost"
+    ],
+    "photos": [
       "twitter:jpg"
     ]
   },
@@ -508,7 +525,7 @@
     "twitter": "treecz",
     "bio": "Libertarián, propagátor Web3 a DAOs",
     "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
-    "caption": "Zakladatel [Gwei.cz](https://gwei.cz), organizátor [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)\n",
+    "caption": "Thinker of [Gwei.cz](https://gwei.cz), [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)\n",
     "country": "cz",
     "tracks": [
       "eth",
