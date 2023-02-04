@@ -4,6 +4,7 @@
 
 - id: adam-kracik
   name: Adam Kracík
+  twitter: kracik_adam
   bio: Nezávislý žurnalista a kryptoměnový analytik
   caption: |
     Freelance journalist and cryptocurrency analyst
@@ -359,6 +360,17 @@
   tracks: [ regulace ]
   lead: true
 
+- id: jacob-jelen
+  name: Jacob Jelen
+  twitter: jacobjelen
+  bio: Product designer, Creative Technologist
+  orgs: |
+    [Donat.Network](https://donat.network/)
+  caption: |
+    Product Designer & Technologist, [Donat.Network](https://donat.network/)
+  country: cz
+  tracks: [ spolecnost ]
+
 - id: tree
   name: tree
   twitter: treecz
@@ -366,7 +378,7 @@
   orgs: |
     Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí
   caption: |
-    Zakladatel [Gwei.cz](https://gwei.cz), organizátor [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)
+    Thinker of [Gwei.cz](https://gwei.cz), [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)
   country: cz
   tracks: [ eth, defi, dao ]
   desc: |
