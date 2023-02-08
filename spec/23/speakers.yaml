@@ -371,6 +371,32 @@
   country: cz
   tracks: [ spolecnost ]
 
+- id: petr-hotovec
+  name: Petr Hotovec
+  linkedin: petr-hotovec-2b1759a7
+  bio: Vystudovaný právník a ekonom
+  orgs: |
+    [Soft Vision](https://softvision.ai/)
+  caption: Cryptocurrency hedge fund manager and consultant
+  tracks: [ regulace ]
+  country: cz
+  desc: |
+    Petr Hotovec is the chief operating officer at the Investment Adviser. Petr worked in Prague, Czech Republic-based legal office Skils s.r.o. advokátní kancelář (former Weil, Gotshal & Manges) as a lawyer. Prior to that he worked as an analyst in the first Central European cryptocurrency fund – Kryptofond and at Allen & Overy in Prague as a paralegal. Petr specialised in M&A, corporate and finance law during his stay at Skils and Allen & Overy.
+    Petr Hotovec holds a master’s degree in law and a bachelor's degree in economics and finance from the Charles University in Prague, Czech Republic. 
+
+    Petr Hotovec is co-founder of Dromi Solutions, a blockchain consultancy agency.
+
+- id: adam-hrazdira
+  name: Adam Hrazdira
+  bio: Solana blockchain auditor, nadšenec pro programovací jazyk Rust
+  orgs: |
+    [Ackee Blockchain](https://ackeeblockchain.com/)
+  caption: Solana blockchain auditor, Rust language enthusiast
+  tracks: [ alty ]
+  country: cz
+  desc: |
+    Solana blockchain auditor v české bezpečnostní společnosti Ackee Blockchain.
+
 - id: tree
   name: tree
   twitter: treecz
