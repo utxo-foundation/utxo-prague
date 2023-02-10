@@ -198,6 +198,21 @@
         ]
       },
       {
+        "id": "jiri-skrivan",
+        "name": "Jiří Skřivan",
+        "bio": "Podnikatel, milovník svobody, nadšenec do krypta",
+        "orgs": "Zakladatel [Skovo.cz](https://www.skovo.cz/)\n",
+        "caption": "Founder [Skovo.cz](https://www.skovo.cz/)\n",
+        "country": "cz",
+        "tracks": [
+          "zaklady"
+        ],
+        "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "josef-gattermayer",
         "name": "Josef Gattermayer",
         "twitter": "jgattermayer",
@@ -775,12 +790,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 32,
+      "speakers": 33,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 2
     }
   },
-  "time": "2023-02-08T18:15:22.018Z"
+  "time": "2023-02-10T10:05:58.791Z"
 }
