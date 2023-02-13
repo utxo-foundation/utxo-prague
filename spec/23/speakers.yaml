@@ -409,6 +409,21 @@
   desc: |
     Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.
 
+- id: jiri-cepelka
+  name: Jiří Čepelka
+  twitter: JiriCepelka
+  web:
+    url: https://jiricepelka.carrd.co
+  tracks: [ zaklady, eth, defi ]
+  bio: Kryptoanarchista a lunarpunk
+  caption: Cryptoanarchist and lunarpunk, [IBC Prague](https://ibcprague.carrd.co/) organizer
+  orgs: |
+    Zakladatel Secret Network czech/slovak & organizátor [IBC Prague](https://ibcprague.carrd.co/)
+  country: cz
+  desc: |
+    Miluju Ethereum, Secret Network a DAOs 
+    Aktivně se podílím na budování soukromí ve Web3 a na adopci Secret Network.
+
 - id: tree
   name: tree
   twitter: treecz
