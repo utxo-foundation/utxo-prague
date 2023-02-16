@@ -1,4 +1,4 @@
-const mediaKitDir = "spec/22/media-kit";
+const mediaKitDir = "spec/23/media-kit";
 
 async function makePNG(fname, opt = { width: 500 }) {
   const fn = mediaKitDir + "/" + fname;
@@ -10,7 +10,7 @@ async function makePNG(fname, opt = { width: 500 }) {
     cmd: [
       "bash",
       "-c",
-      `/opt/homebrew/Cellar/librsvg/2.52.8/bin/rsvg-convert -w ${opt.width} ${fn} > ${fnr}`,
+      `/opt/homebrew/bin/rsvg-convert -w ${opt.width} ${fn} > ${fnr}`,
     ],
   });
   const resp = await p.status();
