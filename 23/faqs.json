@@ -1,7 +1,7 @@
 [
   {
     "question": "Jak získám vstupenku?",
-    "answer": "TODO\n"
+    "answer": "První vlna vstupenek bude k dispozici od pondělí 27. dubna 13:00 za 590 Kč (150 vstupenek). Potom se bude cena v předprodeji postupně zvyšovat až na 790 Kč, případně 1000 Kč na místě.\n"
   },
   {
     "question": "Pro koho je konference určena?",
@@ -9,7 +9,7 @@
   },
   {
     "question": "Budou dostupné záznamy přednášek?",
-    "answer": "Ano, všechny přednášky z hlavních 4 sálů (P1-P4) budou po konferenci dostupné zdarma na UTXO.TV nebo našem [YouTube kanálu](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA).\n"
+    "answer": "Ano, přednášky z hlavních sálů budou po konferenci dostupné zdarma na UTXO.TV nebo našem [YouTube kanálu](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA).\n"
   },
   {
     "question": "Co to znamená \"UTXO\"?",
@@ -17,6 +17,6 @@
   },
   {
     "question": "Budou přednášky vysílané živě?",
-    "answer": "Ano, plánujeme bohatý program i pro návštěvníky online - živé přenosy ze všech přednáškových sálů, rozhovory s návštěvníky a další obsah. Vše bude zdarma dostupné na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).\n"
+    "answer": "Ano, vše bude zdarma dostupné na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).\n"
   }
 ]
