@@ -7,7 +7,7 @@ dates: [ '2023-06-03', '2023-06-04' ]
 #  - '1/09:00-20:00/Sobota 4.6.'
 #  - '1/20:00-02:00/UTXO.Party (sobota 4.6.)'
 #  - '2/09:00-19:00/Neděle 5.6.'
-#place: Gabriel Loci, Praha
+place: Gabriel Loci, Praha
 country: Czech Republic
 links:
   web: https://utxo.cz
