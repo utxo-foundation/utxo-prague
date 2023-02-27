@@ -96,6 +96,7 @@
     Independent journalist, Podcast [Krypto Space](https://www.kryptospace.cz/)
   tracks: [ spolecnost ]
   country: cz
+  lead: true
 
 - id: adam-sobotka
   name: Adam Sobotka
@@ -146,7 +147,6 @@
     Author of the ["Kryptoplebs"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA), physiotherapist
   tracks: [ btc ]
   country: cz
-  lead: true
 
 - id: julie-sislerova
   name: Julie Šislerová
@@ -437,6 +437,7 @@
   country: sk
   desc: |
     Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii Chief Investment Officer vo [Fumbi](https://fumbi.network/). David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).
+  lead: true
 
 - id: jakub-jedlinsky
   name: Jakub Jedlinský
@@ -445,7 +446,6 @@
   caption: Macroeconomist specialising in tokenomics modelling
   orgs: |
     Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [KMEV VŠE](https://kmev.vse.cz/)
-  lead: true
   tracks: [ defi, alty, spolecnost ]
   country: cz
 
