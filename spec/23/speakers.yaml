@@ -487,6 +487,19 @@
   desc: |
     Zakladatel meetvers.io, Web3 social nadšenec
 
+- id: libor-flossler
+  nickname: Investocka
+  name: Libor Flössler
+  twitter: investocka
+  orgs: |
+    YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)
+  caption: YT channel [Investocka](https://www.youtube.com/c/Investocka), investment board game ["Win Life"](https://www.vyhrejzivot.cz/)
+  web:
+    url: https://vyhrejzivot.cz
+  tracks: [ zaklady ]
+  country: cz
+  desc: |
+    YT kanál Investocka. Autor české investiční deskovky Vyhrej Život. Investor
 
 - id: tree
   name: tree
