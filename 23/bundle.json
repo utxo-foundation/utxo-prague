@@ -393,6 +393,25 @@
         ]
       },
       {
+        "id": "libor-flossler",
+        "nickname": "Investocka",
+        "name": "Libor Flössler",
+        "twitter": "investocka",
+        "orgs": "YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)\n",
+        "caption": "YT channel [Investocka](https://www.youtube.com/c/Investocka), investment board game [\"Win Life\"](https://www.vyhrejzivot.cz/)",
+        "web": {
+          "url": "https://vyhrejzivot.cz"
+        },
+        "tracks": [
+          "zaklady"
+        ],
+        "country": "cz",
+        "desc": "YT kanál Investocka. Autor české investiční deskovky Vyhrej Život. Investor\n",
+        "photos": [
+          "web:jpg"
+        ]
+      },
+      {
         "id": "lukas-kovanda",
         "name": "Lukáš Kovanda",
         "twitter": "lukaskovanda",
@@ -911,12 +930,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 39,
+      "speakers": 40,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 2
     }
   },
-  "time": "2023-03-10T12:35:30.919Z"
+  "time": "2023-03-10T12:44:36.730Z"
 }
