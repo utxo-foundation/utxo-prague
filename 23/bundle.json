@@ -408,7 +408,8 @@
         "country": "cz",
         "desc": "YT kanál Investocka. Autor české investiční deskovky Vyhrej Život. Investor\n",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -426,6 +427,25 @@
           "regulace"
         ],
         "lead": true,
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "mario-havel",
+        "name": "Mario Havel",
+        "twitter": "TMIYChao",
+        "bio": "Kryptoanarchista, libertarián a hacker",
+        "orgs": "[Ethereum Foundation](https://ethereum.foundation/), Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)\n",
+        "caption": "Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)\n",
+        "tracks": [
+          "zaklady",
+          "btc",
+          "eth",
+          "defi"
+        ],
+        "country": "sk",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -930,12 +950,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 40,
+      "speakers": 41,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 2
     }
   },
-  "time": "2023-03-20T00:00:33.074Z"
+  "time": "2023-03-20T00:04:12.962Z"
 }
