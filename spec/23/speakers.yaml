@@ -501,6 +501,17 @@
   desc: |
     YT kanál Investocka. Autor české investiční deskovky Vyhrej Život. Investor
 
+- id: mario-havel
+  name: Mario Havel
+  twitter: TMIYChao
+  bio: Kryptoanarchista, libertarián a hacker
+  orgs: |
+    [Ethereum Foundation](https://ethereum.foundation/), Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
+  caption: |
+    Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)
+  tracks: [ zaklady, btc, eth, defi ]
+  country: sk
+
 - id: tree
   name: tree
   twitter: treecz
