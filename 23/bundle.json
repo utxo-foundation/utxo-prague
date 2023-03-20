@@ -33,7 +33,7 @@
         "country": "cz",
         "desc": "Solana blockchain auditor v české bezpečnostní společnosti Ackee Blockchain.\n",
         "photos": [
-          "web:png"
+          "web:jpg"
         ]
       },
       {
@@ -465,7 +465,7 @@
         ],
         "desc": "Analyst in Altlift.cz with focus on testing tokenomics using SFC modelling\n",
         "photos": [
-          "web:png",
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -957,5 +957,5 @@
       "partners": 2
     }
   },
-  "time": "2023-03-20T00:05:32.231Z"
+  "time": "2023-03-20T05:43:52.206Z"
 }
