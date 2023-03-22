@@ -932,6 +932,17 @@
         "photos": [
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "finex-cz",
+        "name": "Finex.cz",
+        "type": "medium",
+        "web": {
+          "url": "https://finex.cz/"
+        },
+        "photos": [
+          "web:svg"
+        ]
       }
     ],
     "team": {
@@ -954,8 +965,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 2
+      "partners": 3
     }
   },
-  "time": "2023-03-20T05:43:52.206Z"
+  "time": "2023-03-22T15:41:16.127Z"
 }

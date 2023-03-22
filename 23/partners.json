@@ -18,5 +18,16 @@
     "photos": [
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "finex-cz",
+    "name": "Finex.cz",
+    "type": "medium",
+    "web": {
+      "url": "https://finex.cz/"
+    },
+    "photos": [
+      "web:svg"
+    ]
   }
 ]
