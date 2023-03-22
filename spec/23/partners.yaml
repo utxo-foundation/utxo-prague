@@ -20,6 +20,12 @@
 # Press partners
 # ======================
 
+- id: finex-cz
+  name: Finex.cz
+  type: medium
+  web:
+    url: https://finex.cz/
+
 
 # Suppliers
 # ======================
