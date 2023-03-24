@@ -446,6 +446,7 @@
           "defi"
         ],
         "country": "sk",
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -484,25 +485,6 @@
           "btc"
         ],
         "country": "cz",
-        "photos": [
-          "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "michal-novak",
-        "name": "Michal Novák",
-        "twitter": "PBudoucnosti",
-        "orgs": "Autor knihy [Lightning Network: Platby budoucnosti](https://platbybudoucnosti.cz/)\n",
-        "caption": "Author of [\"Lightning Network: Payments of the Future\"](https://platbybudoucnosti.cz/)\n",
-        "web": {
-          "url": "https://platbybudoucnosti.cz/"
-        },
-        "tracks": [
-          "btc"
-        ],
-        "country": "cz",
-        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -777,6 +759,29 @@
         ]
       },
       {
+        "id": "vladimir-pinker",
+        "name": "Vladimír Pinker",
+        "nickname": "KryptoVláďa",
+        "twitter": "KryptoVlada",
+        "bio": "Vzdělávání o web3 a kryptoměnách",
+        "orgs": "YT kanál \n",
+        "caption": "Education about Web3, [KryptoVláďa](https://www.kryptovlada.win) channel\n",
+        "tracks": [
+          "zaklady",
+          "defi",
+          "nft",
+          "alty",
+          "spolecnost"
+        ],
+        "country": "cz",
+        "lead": true,
+        "desc": "KryptoVláďa je dlouholetý novinář a moderátor, který se po odchodu z televize rozhodl na plno věnovat oblasti kryptoměn. Kromě svého youtubového kanálu působí i na Stream.cz, nebo měl televizní pořad KryptoTime, který získa ocenění od EU za druhů nejlepší evropský projekt v oblasti edukace v blockchainových technologiích.\n",
+        "photos": [
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "vojtech-pour",
         "name": "Vojtěch Pour",
         "twitter": "vojtechpoureth",
@@ -968,5 +973,5 @@
       "partners": 3
     }
   },
-  "time": "2023-03-22T15:41:16.127Z"
+  "time": "2023-03-24T20:09:54.139Z"
 }
