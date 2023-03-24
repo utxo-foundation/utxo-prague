@@ -297,18 +297,18 @@
   tracks: [ btc ]
   country: cz
 
-- id: michal-novak
-  name: Michal Novák
-  twitter: PBudoucnosti
-  orgs: |
-    Autor knihy [Lightning Network: Platby budoucnosti](https://platbybudoucnosti.cz/)
-  caption: |
-    Author of ["Lightning Network: Payments of the Future"](https://platbybudoucnosti.cz/)
-  web:
-    url: https://platbybudoucnosti.cz/
-  tracks: [ btc ]
-  country: cz
-  lead: true
+#- id: michal-novak
+#  name: Michal Novák
+#  twitter: PBudoucnosti
+#  orgs: |
+#    Autor knihy [Lightning Network: Platby budoucnosti](https://platbybudoucnosti.cz/)
+#  caption: |
+#    Author of ["Lightning Network: Payments of the Future"](https://platbybudoucnosti.cz/)
+#  web:
+#    url: https://platbybudoucnosti.cz/
+#  tracks: [ btc ]
+#  country: cz
+#  lead: true
 
 - id: stanislav-simek
   name: Stanislav Šimek
@@ -448,7 +448,6 @@
   tracks: [ defi, alty, spolecnost ]
   country: cz
 
-
 - id: frantisek-kudrna
   name: František Kudrna
   twitter: FrantisekKudrna
@@ -511,6 +510,22 @@
     Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)
   tracks: [ zaklady, btc, eth, defi ]
   country: sk
+  lead: true
+
+- id: vladimir-pinker
+  name: Vladimír Pinker
+  nickname: KryptoVláďa
+  twitter: KryptoVlada
+  bio: Vzdělávání o web3 a kryptoměnách
+  orgs: |
+    YT kanál 
+  caption: |
+    Education about Web3, [KryptoVláďa](https://www.kryptovlada.win) channel
+  tracks: [ zaklady, defi, nft, alty, spolecnost ]
+  country: cz
+  lead: true
+  desc: |
+    KryptoVláďa je dlouholetý novinář a moderátor, který se po odchodu z televize rozhodl na plno věnovat oblasti kryptoměn. Kromě svého youtubového kanálu působí i na Stream.cz, nebo měl televizní pořad KryptoTime, který získa ocenění od EU za druhů nejlepší evropský projekt v oblasti edukace v blockchainových technologiích.
 
 - id: tree
   name: tree
