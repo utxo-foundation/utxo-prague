@@ -26,6 +26,12 @@
   web:
     url: https://finex.cz/
 
+- id: kryptonovinky
+  name: Kryptonovinky
+  type: medium
+  web:
+    url: https://www.kryptonovinky.sk/
+
 
 # Suppliers
 # ======================
