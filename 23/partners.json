@@ -29,5 +29,16 @@
     "photos": [
       "web:svg"
     ]
+  },
+  {
+    "id": "kryptonovinky",
+    "name": "Kryptonovinky",
+    "type": "medium",
+    "web": {
+      "url": "https://www.kryptonovinky.sk/"
+    },
+    "photos": [
+      "web:png"
+    ]
   }
 ]
