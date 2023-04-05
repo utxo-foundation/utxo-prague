@@ -20,6 +20,28 @@
     ]
   },
   {
+    "id": "kryptovlada",
+    "name": "Kryptovláďa",
+    "type": "medium",
+    "web": {
+      "url": "https://www.kryptovlada.win/"
+    },
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
+    "id": "polkadotters",
+    "name": "Polkadotters",
+    "type": "medium",
+    "web": {
+      "url": "https://polkadotters.medium.com/"
+    },
+    "photos": [
+      "web:png"
+    ]
+  },
+  {
     "id": "finex-cz",
     "name": "Finex.cz",
     "type": "medium",
@@ -36,6 +58,50 @@
     "type": "medium",
     "web": {
       "url": "https://www.kryptonovinky.sk/"
+    },
+    "photos": [
+      "web:png"
+    ]
+  },
+  {
+    "id": "kryptomagazin",
+    "name": "Kryptomagazín",
+    "type": "medium",
+    "web": {
+      "url": "https://kryptomagazin.cz/"
+    },
+    "photos": [
+      "web:png"
+    ]
+  },
+  {
+    "id": "kryptospace",
+    "name": "Kryptospace",
+    "type": "medium",
+    "web": {
+      "url": "https://www.kryptospace.cz/"
+    },
+    "photos": [
+      "web:jpg"
+    ]
+  },
+  {
+    "id": "bitcoach",
+    "name": "Bitcoach",
+    "type": "medium",
+    "web": {
+      "url": "https://www.youtube.com/c/Bitcoach"
+    },
+    "photos": [
+      "web:svg"
+    ]
+  },
+  {
+    "id": "trader20",
+    "name": "Trader 2.0",
+    "type": "medium",
+    "web": {
+      "url": "https://trader20.sk/?lang=cs"
     },
     "photos": [
       "web:png"
