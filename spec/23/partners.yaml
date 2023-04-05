@@ -15,13 +15,13 @@
   
 - id: kryptovlada
   name: Kryptovláďa
-  type: medium
+  type: community
   web:
     url: https://www.kryptovlada.win/
 
 - id: polkadotters
   name: Polkadotters
-  type: medium
+  type: community
   web:
     url: https://polkadotters.medium.com/
 
