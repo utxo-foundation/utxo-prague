@@ -13,6 +13,19 @@
   twitter: holkyvkryptu
   desc: Komunita pro začínající a mírně pokročilé uživatele
   
+- id: kryptovlada
+  name: Kryptovláďa
+  type: medium
+  web:
+    url: https://www.kryptovlada.win/
+
+- id: polkadotters
+  name: Polkadotters
+  type: medium
+  web:
+    url: https://polkadotters.medium.com/
+
+  
 # Sponsors
 # ======================
 
@@ -31,6 +44,30 @@
   type: medium
   web:
     url: https://www.kryptonovinky.sk/
+
+- id: kryptomagazin
+  name: Kryptomagazín
+  type: medium
+  web:
+    url: https://kryptomagazin.cz/
+
+- id: kryptospace
+  name: Kryptospace
+  type: medium
+  web:
+    url: https://www.kryptospace.cz/
+
+- id: bitcoach
+  name: Bitcoach
+  type: medium
+  web:
+    url: https://www.youtube.com/c/Bitcoach
+
+- id: trader20
+  name: Trader 2.0
+  type: medium
+  web:
+    url: https://trader20.sk/?lang=cs
 
 
 # Suppliers
