@@ -28,6 +28,11 @@
   
 # Sponsors
 # ======================
+- id: coinmate
+  name: Coinmate
+  type: sponsor
+  web:
+    url: https://coinmate.io/cs
 
 
 # Press partners
