@@ -961,6 +961,17 @@
         ]
       },
       {
+        "id": "coinmate",
+        "name": "Coinmate",
+        "type": "sponsor",
+        "web": {
+          "url": "https://coinmate.io/cs"
+        },
+        "photos": [
+          "web:svg"
+        ]
+      },
+      {
         "id": "finex-cz",
         "name": "Finex.cz",
         "type": "medium",
@@ -1047,8 +1058,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 10
+      "partners": 11
     }
   },
-  "time": "2023-04-05T11:55:46.299Z"
+  "time": "2023-04-06T15:05:31.484Z"
 }
