@@ -160,17 +160,6 @@
   country: cz
   lead: true
 
-- id: karel-fillner
-  name: Karel Fillner
-  twitter: btctip_cz
-  bio: crypto enthusiast
-  orgs: |
-    Zakladatel [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)
-  caption: |
-    Founder of [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/)
-  tracks: [ btc, alty ]
-  country: cz
-
 - id: kirill-juran
   name: Kirill Juran
   linkedin: kirilljuran
