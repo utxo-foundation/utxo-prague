@@ -356,22 +356,6 @@
         ]
       },
       {
-        "id": "karel-fillner",
-        "name": "Karel Fillner",
-        "twitter": "btctip_cz",
-        "bio": "crypto enthusiast",
-        "orgs": "Zakladatel [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)\n",
-        "caption": "Founder of [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/)\n",
-        "tracks": [
-          "btc",
-          "alty"
-        ],
-        "country": "cz",
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "kirill-juran",
         "name": "Kirill Juran",
         "linkedin": "kirilljuran",
@@ -1054,12 +1038,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 41,
+      "speakers": 40,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 11
     }
   },
-  "time": "2023-04-06T15:05:31.484Z"
+  "time": "2023-04-12T05:31:47.742Z"
 }
