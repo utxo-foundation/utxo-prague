@@ -920,16 +920,6 @@
     ],
     "partners": [
       {
-        "id": "gweicz",
-        "name": "Gwei.cz",
-        "type": "community",
-        "twitter": "gweicz",
-        "desc": "Ethereum/DeFi/Web3 komunita",
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "holky-v-kryptu",
         "name": "Holky v kryptu",
         "type": "community",
@@ -1059,8 +1049,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 11
+      "partners": 10
     }
   },
-  "time": "2023-04-14T07:48:56.042Z"
+  "time": "2023-04-15T11:04:25.678Z"
 }
