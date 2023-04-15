@@ -1,12 +1,6 @@
 # Communities
 # ======================
 
-- id: gweicz
-  name: Gwei.cz
-  type: community
-  twitter: gweicz
-  desc: Ethereum/DeFi/Web3 komunita
-
 - id: holky-v-kryptu
   name: Holky v kryptu
   type: community
