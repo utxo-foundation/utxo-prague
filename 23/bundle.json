@@ -1017,7 +1017,9 @@
         "web": {
           "url": "https://cryptokingdom.tech/cs/"
         },
-        "photos": []
+        "photos": [
+          "web:webp"
+        ]
       },
       {
         "id": "blockwise",
@@ -1026,7 +1028,9 @@
         "web": {
           "url": "https://www.blockwise.sk/"
         },
-        "photos": []
+        "photos": [
+          "web:webp"
+        ]
       },
       {
         "id": "krypto-denik",
@@ -1035,7 +1039,9 @@
         "web": {
           "url": "https://www.instagram.com/kryptodenik/"
         },
-        "photos": []
+        "photos": [
+          "web:webp"
+        ]
       }
     ],
     "team": {
@@ -1061,5 +1067,5 @@
       "partners": 13
     }
   },
-  "time": "2023-04-18T22:13:33.326Z"
+  "time": "2023-04-18T22:20:05.144Z"
 }

@@ -115,7 +115,9 @@
     "web": {
       "url": "https://cryptokingdom.tech/cs/"
     },
-    "photos": []
+    "photos": [
+      "web:webp"
+    ]
   },
   {
     "id": "blockwise",
@@ -124,7 +126,9 @@
     "web": {
       "url": "https://www.blockwise.sk/"
     },
-    "photos": []
+    "photos": [
+      "web:webp"
+    ]
   },
   {
     "id": "krypto-denik",
@@ -133,6 +137,8 @@
     "web": {
       "url": "https://www.instagram.com/kryptodenik/"
     },
-    "photos": []
+    "photos": [
+      "web:webp"
+    ]
   }
 ]
