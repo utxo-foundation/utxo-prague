@@ -68,6 +68,24 @@
   web:
     url: https://trader20.sk/?lang=cs
 
+- id: crypto-kingdom
+  name: Crypto Kingdom
+  type: medium
+  web:
+    url: https://cryptokingdom.tech/cs/
+
+- id: blockwise
+  name: blockWise
+  type: medium
+  web:
+    url: https://www.blockwise.sk/
+
+- id: krypto-denik
+  name: KryptoDeník
+  type: medium
+  web:
+    url: https://www.instagram.com/kryptodenik/
+
 
 # Suppliers
 # ======================
