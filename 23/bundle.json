@@ -712,24 +712,6 @@
         ]
       },
       {
-        "id": "tree",
-        "name": "tree",
-        "twitter": "treecz",
-        "bio": "Libertarián, propagátor Web3 a DAOs",
-        "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
-        "caption": "Thinker of [Gwei.cz](https://gwei.cz), [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)\n",
-        "country": "cz",
-        "tracks": [
-          "eth",
-          "defi",
-          "dao"
-        ],
-        "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
-        "photos": [
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "urza",
         "name": "Urza",
         "twitter": "urzanarchy",
@@ -1045,12 +1027,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 41,
+      "speakers": 40,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 10
     }
   },
-  "time": "2023-04-15T11:04:25.678Z"
+  "time": "2023-04-18T13:15:05.909Z"
 }
