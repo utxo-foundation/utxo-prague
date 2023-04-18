@@ -107,5 +107,32 @@
     "photos": [
       "web:png"
     ]
+  },
+  {
+    "id": "crypto-kingdom",
+    "name": "Crypto Kingdom",
+    "type": "medium",
+    "web": {
+      "url": "https://cryptokingdom.tech/cs/"
+    },
+    "photos": []
+  },
+  {
+    "id": "blockwise",
+    "name": "blockWise",
+    "type": "medium",
+    "web": {
+      "url": "https://www.blockwise.sk/"
+    },
+    "photos": []
+  },
+  {
+    "id": "krypto-denik",
+    "name": "KryptoDeník",
+    "type": "medium",
+    "web": {
+      "url": "https://www.instagram.com/kryptodenik/"
+    },
+    "photos": []
   }
 ]
