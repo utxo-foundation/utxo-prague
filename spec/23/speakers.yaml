@@ -516,19 +516,6 @@
   desc: |
     KryptoVláďa je dlouholetý novinář a moderátor, který se po odchodu z televize rozhodl na plno věnovat oblasti kryptoměn. Kromě svého youtubového kanálu působí i na Stream.cz, nebo měl televizní pořad KryptoTime, který získa ocenění od EU za druhů nejlepší evropský projekt v oblasti edukace v blockchainových technologiích.
 
-- id: tree
-  name: tree
-  twitter: treecz
-  bio: Libertarián, propagátor Web3 a DAOs
-  orgs: |
-    Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí
-  caption: |
-    Thinker of [Gwei.cz](https://gwei.cz), [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)
-  country: cz
-  tracks: [ eth, defi, dao ]
-  desc: |
-    Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!
-
 - id: tereza-starostova
   name: Tereza Starostová
   twitter: terkastarostova
