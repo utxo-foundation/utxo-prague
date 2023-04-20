@@ -74,6 +74,33 @@
         ]
       },
       {
+        "id": "artur-sychov",
+        "name": "Artur Sychov",
+        "twitter": "ASychov",
+        "orgs": "Founder & CEO [Somnium Space](https://somniumspace.com/)\n",
+        "caption": "Founder & CEO [Somnium Space](https://somniumspace.com/)\n",
+        "tracks": [
+          "nft"
+        ],
+        "country": "cz",
+        "lead": true,
+        "photos": []
+      },
+      {
+        "id": "bozena-rezab",
+        "name": "Bozena Rezab",
+        "twitter": "ajvxck",
+        "orgs": "CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)\n",
+        "caption": "CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)\n",
+        "desc": "Bozena Rezab je generální ředitelkou a spoluzakladatelkou GAMEE, herní platformy s více než 40 miliony uživatelů spojující metaverse, hráče, značky a we3 komunity ve hře. Bozeny rolí je strategie GAMEE a představování práv na digitální vlastnictví a hodnotu blockchainu hernímu publiku. Před GAMEE byla zodpovědná za růst YouTube na evropských trzích.",
+        "tracks": [
+          "nft"
+        ],
+        "country": "cz",
+        "lead": true,
+        "photos": []
+      },
+      {
         "id": "david-stancel",
         "name": "David Stancel",
         "twitter": "dave_stancel",
@@ -1060,12 +1087,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 40,
+      "speakers": 42,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 13
     }
   },
-  "time": "2023-04-18T22:20:05.144Z"
+  "time": "2023-04-20T12:23:23.772Z"
 }
