@@ -61,7 +61,9 @@
     ],
     "country": "cz",
     "lead": true,
-    "photos": []
+    "photos": [
+      "web:jpg"
+    ]
   },
   {
     "id": "bozena-rezab",

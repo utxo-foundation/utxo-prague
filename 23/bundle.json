@@ -83,7 +83,9 @@
         ],
         "country": "cz",
         "lead": true,
-        "photos": []
+        "photos": [
+          "web:jpg"
+        ]
       },
       {
         "id": "bozena-rezab",
@@ -1094,5 +1096,5 @@
       "partners": 13
     }
   },
-  "time": "2023-04-20T12:31:34.427Z"
+  "time": "2023-04-20T12:33:23.820Z"
 }
