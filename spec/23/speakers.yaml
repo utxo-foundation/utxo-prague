@@ -12,7 +12,6 @@
   web:
     url: https://www.facebook.com/knox.gunner
   country: cz
-  lead: true
 
 - id: juraj-bednar
   name: Juraj Bednár
@@ -121,7 +120,6 @@
   country: cz
   desc: |
     Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.
-  lead: true
 
 - id: jan-zibner
   name: Jan Zibner
