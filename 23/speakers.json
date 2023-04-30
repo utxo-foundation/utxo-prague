@@ -62,7 +62,8 @@
     "country": "cz",
     "lead": true,
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
@@ -78,7 +79,8 @@
     "country": "cz",
     "lead": true,
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
@@ -95,7 +97,8 @@
     ],
     "country": "cz",
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {
@@ -801,7 +804,8 @@
     ],
     "country": "cz",
     "photos": [
-      "web:jpg"
+      "web:jpg",
+      "twitter:jpg"
     ]
   },
   {

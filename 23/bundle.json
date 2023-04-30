@@ -84,7 +84,8 @@
         "country": "cz",
         "lead": true,
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -100,7 +101,8 @@
         "country": "cz",
         "lead": true,
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -117,7 +119,8 @@
         ],
         "country": "cz",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -823,7 +826,8 @@
         ],
         "country": "cz",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
         ]
       },
       {
@@ -1129,5 +1133,5 @@
       "partners": 13
     }
   },
-  "time": "2023-04-30T19:18:14.469Z"
+  "time": "2023-04-30T20:23:19.427Z"
 }
