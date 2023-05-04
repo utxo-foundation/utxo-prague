@@ -627,7 +627,7 @@
   orgs: |
     [Blockspace](https://blockspace.cz/)
   tracks: [ defi, regulace ]
-   web:
+  web:
     url: https://blockspace.cz/defi/
   country: cz
   desc: |
