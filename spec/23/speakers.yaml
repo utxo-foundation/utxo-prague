@@ -590,7 +590,7 @@
     Hlavní analytička CYRRUS, a.s.
   orgs: |
     [CYRRUS, a.s.](https://www.cyrrus.cz/)
-  tracks: [ investice ]
+  tracks: [ other ]
   web:
     url: https://www.linkedin.com/in/anna-p%C3%ADchov%C3%A1/
   country: cz
@@ -598,9 +598,9 @@
 - id: antonin-jilek
   name: Antonín Jílek
   nickname: cryptonda
-  twitter: AntoninJilek
+  twitter: cryptondacz
   bio: Web developer, podnikatel, nadšenec do krypta a NFT
-  tracks: [ NFT, metaverse ]
+  tracks: [ nft ]
   country: cz
   desc: |
     Web developer, podnikatel, nadšenec do krypta a NFT. Podílí se na organizaci kryptoměnových konferencí (Cryptobyte, UTXO, Prague Blockchain Week) a je členem několika komunit (KryptoVláďa, Futureland...).
@@ -613,7 +613,7 @@
     Progresivní web3 kouzelník
   orgs: |
     Head of Operations v [KodaDotu](https://kodadot.xyz/) - NFTs na Polkadotu, COO v KodaConu - Web3 events
-  tracks: [ zaklady, DAO, spolecnost ]
+  tracks: [ zaklady, dao, spolecnost ]
   country: cz
   desc: |
     Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.
@@ -637,10 +637,10 @@
   name: Jakub Tesař
   bio: Innovation, Digital & Emerging Tech Lead ve společnosti EY
   caption: |
-    Innovation, Digital & Emerging Tech Lead ve společnosti EY
+    Innovation, Digital & Emerging Tech Lead v EY
   orgs: |
     [EY](https://www.ey.com/en_gl)
-  tracks: [ ethereum, defi, metaverse ]
+  tracks: [ eth, defi, nft ]
   web:
     url: https://www.ey.com/en_gl
   country: cz
@@ -650,7 +650,7 @@
   twitter: DivergentsNFT
   bio: Iniciátorka vlastních NFT projektů, konzultantka externím NFT projektům
   caption: |
-    Iniciátorka vlastních NFT projektů, konzultantka externím NFT projektům
+    Iniciátorka a konzultantka NFT projektů
   orgs: |
     [NFTense/DVRG](https://nftense.com/), [The Divergents](https://thedivergents.io/), [Here/After The Art](https://www.hereaftertheart.com/)
   tracks: [ nft, spolecnost ]
@@ -683,7 +683,7 @@
     Founder a vývojář platformy Firefish.io
   orgs: |
     [firefish.io](https://firefish.io/)
-  tracks: [ bitcoin, defi, spolecnost ]
+  tracks: [ btc, defi, spolecnost ]
   web:
     url: https://firefish.io/
   country: sk
@@ -698,7 +698,7 @@
     Grafik, gaming expert @Altlift
   orgs: |
     [Altlift](https://www.altlift.cz/)
-  tracks: [ DAO, nft ]
+  tracks: [ dao, nft ]
   web:
     url: https://www.mailn.cz/
   country: cz
@@ -714,7 +714,7 @@
     [Futureland DAO](https://futureland.io/)
   caption: |
     Data scientist, crypto & web3 nadšenec
-  tracks: [ ethereum, DAO, nft ]
+  tracks: [ eth, dao, nft ]
   country: cz
   desc: |
     Data scientist @ Gen, člen Futureland DAO  
@@ -742,7 +742,7 @@
     Obchodní ředitel v [MOLKI VISION](https://molki.vision/#1), moderátor ve [Futureland DAO](https://futureland.io/)
   caption: |
     30 let v TELCO, 2 roky zájem o web3, DI, DAO, VR/AR
-  tracks: [ DAO, nft ]
+  tracks: [ dao, nft ]
   country: cz    
   desc: |
     30 let v TELCO sféře ve vlastní firmě. Nyní obchodní ředitel v MOLKI VISION. Zájem o WEB3, AR/VR, ale hlavně jsem NETWORKER, rád spojuji lidi, kteří by se měli poznat... 
@@ -752,7 +752,7 @@
   twitter: petrmara
   bio: Tech Optimist. Creating content on the Internet. Digital Art Collector.
   caption: |
-    Tech Optimist. Creating content on the Internet. Digital Art Collector.
+    Tech Optimist. Creating content on the Internet.
   tracks: [ zaklady, defi, nft ]
   web:
     url: https://linktr.ee/petrmara
@@ -766,7 +766,7 @@
     [Coinmate](https://coinmate.io/cs)
   caption: |
     Crypto analytik, investor, spoluzakladatel baserank.io
-  tracks: [ zaklady, bitcoin, regulace, spolecnost ]
+  tracks: [ zaklady, btc, regulace, spolecnost ]
   web:
     url: https://coinmate.io/cs
   country: cz  
@@ -796,7 +796,7 @@
     [Futureland](https://futureland.io/)
   caption: |
     Content creator and social media manager, NFT nadšenec
-  tracks: [ zaklady, DAO, nft ]
+  tracks: [ zaklady, dao, nft ]
   web:
     url: https://futureland.io/
   country: cz  
