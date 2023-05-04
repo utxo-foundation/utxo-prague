@@ -228,7 +228,6 @@
     url: https://www.digitalni-sebeobrana.cz/
   tracks: [ zaklady, btc, spolecnost ]
   country: cz
-  lead: true 
 
 - id: fetyas
   name: Tomáš Kalabis
@@ -759,6 +758,7 @@
   web:
     url: https://linktr.ee/petrmara
   country: cz
+  lead: true 
   
 - id: roman-valihrach
   name: Roman Valihrach
@@ -772,6 +772,7 @@
   web:
     url: https://coinmate.io/cs
   country: cz  
+  lead: true
   desc: |
     O Bitcoinu jsem se dozvěděl ve 2011 a od té doby mě nepřestal fascinovat. Posouvat jeho myšlenky dále ale není jednoduché. Vysvětli "proč Bitcoin?" během pár minut, fakticky není možné. Abych podpořil adopci kryptoměn, rozhodl jsem se v roce 2013 budovat Coinmate coby bezpečnou a férovou kryptoburzu. Bitcoin může v budoucnu fungovat jako kotva ve světě nekontrolovatelně rostoucího množství peněz a dluhů. Technologie blockchainu má potenciál změnit finanční trhy a internet.
 
@@ -792,6 +793,7 @@
 
 - id: tereza-etheri
   name: Tereza
+  nickname: eTheri
   twitter: teri_eth
   bio: Content creator and social media manager, NFT nadšenec
   orgs: |
