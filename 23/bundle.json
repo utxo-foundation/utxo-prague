@@ -97,6 +97,7 @@
         "nickname": "cryptonda",
         "twitter": "cryptondacz",
         "bio": "Web developer, podnikatel, nadšenec do krypta a NFT",
+        "orgs": "[Develit.io](https://develit.io/)\n",
         "tracks": [
           "nft"
         ],
@@ -1457,5 +1458,5 @@
       "partners": 13
     }
   },
-  "time": "2023-05-04T21:28:37.690Z"
+  "time": "2023-05-04T21:35:53.369Z"
 }
