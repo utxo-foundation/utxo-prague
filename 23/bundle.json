@@ -99,7 +99,10 @@
         ],
         "country": "cz",
         "desc": "Web developer, podnikatel, nadšenec do krypta a NFT. Podílí se na organizaci kryptoměnových konferencí (Cryptobyte, UTXO, Prague Blockchain Week) a je členem několika komunit (KryptoVláďa, Futureland...).\n",
-        "photos": []
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
       },
       {
         "id": "artur-sychov",
@@ -1421,5 +1424,5 @@
       "partners": 13
     }
   },
-  "time": "2023-05-04T20:24:35.642Z"
+  "time": "2023-05-04T20:49:33.328Z"
 }
