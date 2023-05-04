@@ -654,7 +654,7 @@
   orgs: |
     [NFTense/DVRG](https://nftense.com/), [The Divergents](https://thedivergents.io/), [Here/After The Art](https://www.hereaftertheart.com/)
   tracks: [ nft, spolecnost ]
-   web:
+  web:
     url: https://thedivergents.io/
   country: cz
   desc: |
@@ -669,7 +669,7 @@
   orgs: |
     [Alphalytics.ai](https://alphalytics.ai/), [Bshare.io](https://bshare.io/)
   tracks: [ spolecnost ]
-   web:
+  web:
     url: https://thedivergents.io/
   country: en
   desc: |
@@ -684,7 +684,7 @@
   orgs: |
     [firefish.io](https://firefish.io/)
   tracks: [ bitcoin, defi, spolecnost ]
-   web:
+  web:
     url: https://firefish.io/
   country: sk
   desc: |
