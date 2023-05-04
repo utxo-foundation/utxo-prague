@@ -736,7 +736,6 @@
           "spolecnost"
         ],
         "country": "cz",
-        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -883,6 +882,7 @@
           "url": "https://linktr.ee/petrmara"
         },
         "country": "cz",
+        "lead": true,
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -984,6 +984,7 @@
           "url": "https://coinmate.io/cs"
         },
         "country": "cz",
+        "lead": true,
         "desc": "O Bitcoinu jsem se dozvěděl ve 2011 a od té doby mě nepřestal fascinovat. Posouvat jeho myšlenky dále ale není jednoduché. Vysvětli \"proč Bitcoin?\" během pár minut, fakticky není možné. Abych podpořil adopci kryptoměn, rozhodl jsem se v roce 2013 budovat Coinmate coby bezpečnou a férovou kryptoburzu. Bitcoin může v budoucnu fungovat jako kotva ve světě nekontrolovatelně rostoucího množství peněz a dluhů. Technologie blockchainu má potenciál změnit finanční trhy a internet.\n",
         "photos": [
           "web:png",
@@ -1031,6 +1032,7 @@
       {
         "id": "tereza-etheri",
         "name": "Tereza",
+        "nickname": "eTheri",
         "twitter": "teri_eth",
         "bio": "Content creator and social media manager, NFT nadšenec",
         "orgs": "[Futureland](https://futureland.io/)\n",
@@ -1455,5 +1457,5 @@
       "partners": 13
     }
   },
-  "time": "2023-05-04T21:26:23.097Z"
+  "time": "2023-05-04T21:28:37.690Z"
 }
