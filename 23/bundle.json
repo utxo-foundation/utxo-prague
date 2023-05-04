@@ -87,6 +87,7 @@
         },
         "country": "cz",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -366,7 +367,9 @@
           "url": "https://www.ey.com/en_gl"
         },
         "country": "cz",
-        "photos": []
+        "photos": [
+          "web:jpg"
+        ]
       },
       {
         "id": "jan-cerny",
@@ -435,6 +438,7 @@
         "country": "cz",
         "desc": "Jana vystudovala Arts management. V letech 2008 - 2015 realizovala na 50 solo a kolektivních výstav českých a slovenských umělců pod vlastní NGO Inter-Art. Šest let působila jako projektová manažerka a copywriterka v kreativních digitálních agenturách. Poslední dva roky se věnuje rozvoji web3 a uměleckým NFT projektům jako např. The Divergents a Here/After The Art, a své know-how předává firmám se zájmem vstoupit do světa NFT a web3.\n",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -569,6 +573,7 @@
         "country": "en",
         "desc": "LC, a serial entrepreneur and expert in digital marketing, data analytics, and product development. LC is the founder of Alphalytics and Bshare.Alphalytics is a data analytics platform that provides true market transparency through on-chain dynamic wallet tagging analysis. Bshare is a crypto education platform and the leading Mandarin Chinese on-chain data channel.\n",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -709,6 +714,7 @@
         "country": "cz",
         "desc": "Milan je součástí marketingového oddělení a v jeho gesci je tvorba veškerých vizuálů spojených se společností Altlift. Kromě toho se soustředí na analýzy herních NFT projektů.\n",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -773,6 +779,7 @@
         "country": "cz",
         "desc": "Crypto analytik, investor, spoluzakladatel baserank.io.\n",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -877,6 +884,7 @@
         },
         "country": "cz",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -1038,6 +1046,7 @@
         "country": "cz",
         "desc": "Content creator and social media manager, NFT nadšenec.\n",
         "photos": [
+          "web:jpg",
           "twitter:jpg"
         ]
       },
@@ -1446,5 +1455,5 @@
       "partners": 13
     }
   },
-  "time": "2023-05-04T21:09:39.488Z"
+  "time": "2023-05-04T21:26:23.097Z"
 }
