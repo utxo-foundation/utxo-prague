@@ -1433,6 +1433,17 @@
         "photos": [
           "web:webp"
         ]
+      },
+      {
+        "id": "nft-space",
+        "name": "NFT Space",
+        "type": "medium",
+        "web": {
+          "url": "https://www.nftspace.cz/"
+        },
+        "photos": [
+          "web:svg"
+        ]
       }
     ],
     "team": {
@@ -1455,8 +1466,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 13
+      "partners": 14
     }
   },
-  "time": "2023-05-08T14:28:14.474Z"
+  "time": "2023-05-08T15:56:43.514Z"
 }

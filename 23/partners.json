@@ -140,5 +140,16 @@
     "photos": [
       "web:webp"
     ]
+  },
+  {
+    "id": "nft-space",
+    "name": "NFT Space",
+    "type": "medium",
+    "web": {
+      "url": "https://www.nftspace.cz/"
+    },
+    "photos": [
+      "web:svg"
+    ]
   }
 ]
