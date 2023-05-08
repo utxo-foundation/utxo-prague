@@ -86,6 +86,12 @@
   web:
     url: https://www.instagram.com/kryptodenik/
 
+- id: nft-space
+  name: NFT Space
+  type: medium
+  web:
+    url: https://www.nftspace.cz/
+
 
 # Suppliers
 # ======================
