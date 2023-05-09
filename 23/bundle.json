@@ -869,27 +869,6 @@
         ]
       },
       {
-        "id": "petr-mara",
-        "name": "Petr Mára",
-        "twitter": "petrmara",
-        "bio": "Tech Optimist. Creating content on the Internet. Digital Art Collector.",
-        "caption": "Tech Optimist. Creating content on the Internet.\n",
-        "tracks": [
-          "zaklady",
-          "defi",
-          "nft"
-        ],
-        "web": {
-          "url": "https://linktr.ee/petrmara"
-        },
-        "country": "cz",
-        "lead": true,
-        "photos": [
-          "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "petr-mensik",
         "name": "Petr Menšík",
         "twitter": "polkadotterss",
@@ -1462,12 +1441,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 60,
+      "speakers": 59,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 14
     }
   },
-  "time": "2023-05-08T16:01:59.309Z"
+  "time": "2023-05-09T11:23:47.914Z"
 }
