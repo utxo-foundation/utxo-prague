@@ -748,18 +748,6 @@
   desc: |
     30 let v TELCO sféře ve vlastní firmě. Nyní obchodní ředitel v MOLKI VISION. Zájem o WEB3, AR/VR, ale hlavně jsem NETWORKER, rád spojuji lidi, kteří by se měli poznat... 
   
-- id: petr-mara
-  name: Petr Mára
-  twitter: petrmara
-  bio: Tech Optimist. Creating content on the Internet. Digital Art Collector.
-  caption: |
-    Tech Optimist. Creating content on the Internet.
-  tracks: [ zaklady, defi, nft ]
-  web:
-    url: https://linktr.ee/petrmara
-  country: cz
-  lead: true 
-  
 - id: roman-valihrach
   name: Roman Valihrach
   twitter: RValihrach
