@@ -890,25 +890,6 @@
         ]
       },
       {
-        "id": "petr-sanetrnik",
-        "name": "Petr Sanetrník",
-        "twitter": "PetrSanetrnik",
-        "bio": "Portfolio manager",
-        "orgs": "Spoluzakladatel [Crypviz Asset Management fund](https://crypviz.cz/)\n",
-        "caption": "Co-founder of [Crypviz Asset Management fund](https://crypviz.cz/)\n",
-        "tracks": [
-          "eth",
-          "defi",
-          "regulace"
-        ],
-        "country": "cz",
-        "desc": "Jsem zakladatelem digitální agentury webfusion.cz zaměřenou na tvorbu webových stránek, vývoj aplikací a online marketing. Dále jsem také spoluzakladatelem vreducation.cz, kde digitalizujeme firemní vzdělávání a spoluzakladatelem Crypviz Asset Management Fund, kde mám na starost portfolio management.\n",
-        "photos": [
-          "web:jpg",
-          "twitter:jpg"
-        ]
-      },
-      {
         "id": "radek-svarz",
         "name": "Radek Švarz",
         "twitter": "radk",
@@ -1441,12 +1422,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 59,
+      "speakers": 58,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 14
     }
   },
-  "time": "2023-05-09T11:23:47.914Z"
+  "time": "2023-05-10T15:44:33.066Z"
 }
