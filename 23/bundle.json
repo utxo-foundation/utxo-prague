@@ -1296,6 +1296,17 @@
         ]
       },
       {
+        "id": "whalebooks",
+        "name": "Whalebooks",
+        "type": "sponsor",
+        "web": {
+          "url": "https://whalebooks.com/"
+        },
+        "photos": [
+          "web:svg"
+        ]
+      },
+      {
         "id": "finex-cz",
         "name": "Finex.cz",
         "type": "medium",
@@ -1426,8 +1437,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 14
+      "partners": 15
     }
   },
-  "time": "2023-05-10T17:01:11.392Z"
+  "time": "2023-05-11T13:16:56.137Z"
 }
