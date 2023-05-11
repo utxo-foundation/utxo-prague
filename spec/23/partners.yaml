@@ -28,6 +28,12 @@
   web:
     url: https://coinmate.io/cs
 
+- id: whalebooks
+  name: Whalebooks
+  type: sponsor
+  web:
+    url: https://whalebooks.com/
+
 
 # Press partners
 # ======================
