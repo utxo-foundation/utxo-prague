@@ -1307,6 +1307,17 @@
         ]
       },
       {
+        "id": "anycoin",
+        "name": "Anycoin",
+        "type": "sponsor",
+        "web": {
+          "url": "https://www.anycoin.cz/"
+        },
+        "photos": [
+          "web:svg"
+        ]
+      },
+      {
         "id": "finex-cz",
         "name": "Finex.cz",
         "type": "medium",
@@ -1437,8 +1448,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 15
+      "partners": 16
     }
   },
-  "time": "2023-05-11T13:16:56.137Z"
+  "time": "2023-05-15T12:33:01.227Z"
 }

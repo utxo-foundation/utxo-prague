@@ -54,6 +54,17 @@
     ]
   },
   {
+    "id": "anycoin",
+    "name": "Anycoin",
+    "type": "sponsor",
+    "web": {
+      "url": "https://www.anycoin.cz/"
+    },
+    "photos": [
+      "web:svg"
+    ]
+  },
+  {
     "id": "finex-cz",
     "name": "Finex.cz",
     "type": "medium",
