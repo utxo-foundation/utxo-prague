@@ -1297,7 +1297,7 @@
           "url": "https://www.anycoin.cz/"
         },
         "photos": [
-          "web:svg"
+          "web:png"
         ]
       },
       {
@@ -1434,5 +1434,5 @@
       "partners": 16
     }
   },
-  "time": "2023-05-15T12:54:03.137Z"
+  "time": "2023-05-15T20:51:18.452Z"
 }
