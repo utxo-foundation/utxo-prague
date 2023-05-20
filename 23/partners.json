@@ -10,6 +10,16 @@
     ]
   },
   {
+    "id": "gweicz",
+    "name": "Gwei.cz",
+    "type": "community",
+    "twitter": "gweicz",
+    "desc": "Ethereum/DeFi/Web3 komunita",
+    "photos": [
+      "twitter:jpg"
+    ]
+  },
+  {
     "id": "kryptovlada",
     "name": "Kryptovláďa",
     "type": "community",

@@ -1247,6 +1247,16 @@
         ]
       },
       {
+        "id": "gweicz",
+        "name": "Gwei.cz",
+        "type": "community",
+        "twitter": "gweicz",
+        "desc": "Ethereum/DeFi/Web3 komunita",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "kryptovlada",
         "name": "Kryptovláďa",
         "type": "community",
@@ -1432,8 +1442,8 @@
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
-      "partners": 16
+      "partners": 17
     }
   },
-  "time": "2023-05-20T19:55:50.712Z"
+  "time": "2023-05-20T20:31:03.761Z"
 }
