@@ -6,6 +6,12 @@
   type: community
   twitter: holkyvkryptu
   desc: Komunita pro začínající a mírně pokročilé uživatele
+
+- id: gweicz
+  name: Gwei.cz
+  type: community
+  twitter: gweicz
+  desc: Ethereum/DeFi/Web3 komunita
   
 - id: kryptovlada
   name: Kryptovláďa
