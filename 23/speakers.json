@@ -65,7 +65,7 @@
     },
     "country": "cz",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -152,7 +152,7 @@
     "country": "cz",
     "desc": "Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.\n",
     "photos": [
-      "web:png",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -175,7 +175,7 @@
     "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch. David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
     "lead": true,
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -217,7 +217,7 @@
     "country": "cz",
     "desc": "František se v oblasti kryptoměn pohybuje od počátku roku 2016.  Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -239,7 +239,7 @@
     },
     "desc": "See [LinkedIn.com/in/uhuge](https://linkedin.com/in/uhuge)\n",
     "photos": [
-      "web:jpg"
+      "web:webp"
     ]
   },
   {
@@ -309,7 +309,7 @@
     "country": "cz",
     "desc": "Investor, liqudity provider, konzultant.\n",
     "photos": [
-      "web:png",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -347,7 +347,7 @@
     },
     "country": "cz",
     "photos": [
-      "web:jpg"
+      "web:webp"
     ]
   },
   {
@@ -417,7 +417,7 @@
     "country": "cz",
     "desc": "Jana vystudovala Arts management. V letech 2008 - 2015 realizovala na 50 solo a kolektivních výstav českých a slovenských umělců pod vlastní NGO Inter-Art. Šest let působila jako projektová manažerka a copywriterka v kreativních digitálních agenturách. Poslední dva roky se věnuje rozvoji web3 a uměleckým NFT projektům jako např. The Divergents a Here/After The Art, a své know-how předává firmám se zájmem vstoupit do světa NFT a web3.\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -472,7 +472,7 @@
     "country": "cz",
     "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -650,7 +650,7 @@
     ],
     "country": "cz",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -672,7 +672,7 @@
     "country": "sk",
     "desc": "Martin se celý život pohybuje na finančních trzích. V rámci tradičních financí dlouhé roky vedl úspěšný tradingový tým obchodující s energetickými komoditami. Od roku 2021 se plně věnuje Bitcoinu. Nejdříve spoluzaložil hedge fond Stratosphere a od loňského roku pak vyvíjí platformu Firefish.io, která umožňuje využití Bitcoinu jako finančního kolaterálu.\n",
     "photos": [
-      "web:png",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -721,7 +721,7 @@
     ]
   },
   {
-    "id": "nikola",
+    "id": "bihanojko",
     "name": "Nikola",
     "nickname": "Bihanojko",
     "twitter": "bihanojko",
@@ -736,6 +736,7 @@
     "country": "cz",
     "desc": "Data scientist @ Gen, člen Futureland DAO  \n",
     "photos": [
+      "web:jpg",
       "twitter:jpg"
     ]
   },
@@ -757,7 +758,7 @@
     "country": "cz",
     "desc": "Crypto analytik, investor, spoluzakladatel baserank.io.\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -793,7 +794,7 @@
     "country": "cz",
     "desc": "30 let v TELCO sféře ve vlastní firmě. Nyní obchodní ředitel v MOLKI VISION. Zájem o WEB3, AR/VR, ale hlavně jsem NETWORKER, rád spojuji lidi, kteří by se měli poznat... \n",
     "photos": [
-      "web:png",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -883,7 +884,7 @@
     "country": "cz",
     "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -926,7 +927,7 @@
     "lead": true,
     "desc": "O Bitcoinu jsem se dozvěděl ve 2011 a od té doby mě nepřestal fascinovat. Posouvat jeho myšlenky dále ale není jednoduché. Vysvětli \"proč Bitcoin?\" během pár minut, fakticky není možné. Abych podpořil adopci kryptoměn, rozhodl jsem se v roce 2013 budovat Coinmate coby bezpečnou a férovou kryptoburzu. Bitcoin může v budoucnu fungovat jako kotva ve světě nekontrolovatelně rostoucího množství peněz a dluhů. Technologie blockchainu má potenciál změnit finanční trhy a internet.\n",
     "photos": [
-      "web:png",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -946,7 +947,7 @@
     "country": "cz",
     "desc": "Samuela je zástupcem Liberlandu pro Gruzii, kde žije. Přednáší po světě o individuální svobodě nebo aplikovatelné praktické individuální filosofii. Díky svému non-konformnímu myšlení poukazuje na nevšední perspektivy možností života i práce - na téma potenciálu práce na dálku ji sledují tisíce lidí z celého světa hlavně na LinkedInu. V tomto roce vydá Samuela knihu s jejím projektem The Freeist, který ukazuje, jak můžeme prakticky rozšířit své možnosti pro větší svobodu, stejně tak jako to, co nás od toho drží zpět.\n",
     "photos": [
-      "web:png",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -987,7 +988,7 @@
     "country": "cz",
     "desc": "Content creator and social media manager, NFT nadšenec.\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -1055,7 +1056,7 @@
     "lead": true,
     "desc": "KryptoVláďa je dlouholetý novinář a moderátor, který se po odchodu z televize rozhodl na plno věnovat oblasti kryptoměn. Kromě svého youtubového kanálu působí i na Stream.cz, nebo měl televizní pořad KryptoTime, který získa ocenění od EU za druhů nejlepší evropský projekt v oblasti edukace v blockchainových technologiích.\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   },
@@ -1090,7 +1091,7 @@
     ],
     "desc": "Zakladatel meetvers.io, Web3 social nadšenec\n",
     "photos": [
-      "web:jpg",
+      "web:webp",
       "twitter:jpg"
     ]
   }
