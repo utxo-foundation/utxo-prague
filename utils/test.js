@@ -1,6 +1,7 @@
 import { assertEquals } from "https://deno.land/std@0.119.0/testing/asserts.ts";
 import { UTXOEngine } from "./engine.js";
 import { getDate, isPeriodOverlap } from "./periods.js";
+import * as jp from "https://deno.land/x/json_pointer@1.1.0/mod.ts";
 import removeMd from "npm:remove-markdown";
 
 // initialize ajv JSON Schema validator
@@ -37,7 +38,30 @@ for (const entryId of utxo.entriesList()) {
         return null;
       }
       if (!validators[specId](entry.specs[specId])) {
-        throw validators[specId].errors;
+        throw validators[specId].errors.map((e) =>
+          Object.assign(e, {
+            instanceData: {
+              self: jp.get(
+                entry.specs[specId],
+                validators[specId].errors[0].instancePath,
+              ),
+              parent: jp.get(
+                entry.specs[specId],
+                validators[specId].errors[0].instancePath.replace(
+                  /\/([^/]+)$/,
+                  "",
+                ),
+              ),
+              parentOfParent: jp.get(
+                entry.specs[specId],
+                validators[specId].errors[0].instancePath.replace(
+                  /\/([^/]+)\/([^/]+)$/,
+                  "",
+                ),
+              ),
+            },
+          })
+        );
       }
     });
 
@@ -62,10 +86,12 @@ for (const entryId of utxo.entriesList()) {
           if (!item.caption) {
             continue;
           }
-          const max = 55
-          const len = removeMd(item.caption).length
+          const max = 55;
+          const len = removeMd(item.caption).length;
           if (len > max) {
-            throw new Error(`Caption too long: ${len} of ${max} chars [${item.id}]`)
+            throw new Error(
+              `Caption too long: ${len} of ${max} chars [${item.id}]`,
+            );
           }
         }
       });
