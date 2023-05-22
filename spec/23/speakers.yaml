@@ -281,18 +281,6 @@
     Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.
   country: cz
 
-- id: ondrej-rehacek
-  name: Ondřej Řeháček
-  #twitter: olidotexe
-  bio: Vývojář, Smart-contract Auditor
-  orgs: |
-    Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)
-  caption: Developer, Smart-contract Auditor
-  tracks: [ eth, alty, nft ]
-  country: cz
-  desc: |
-    Full-stack software engineer with eight years of experience, Solana blockchain auditor.
-
 - id: pavol-luptak
   name: Pavol Lupták
   twitter: wilderko
@@ -433,18 +421,6 @@
   tracks: [ defi, alty ]
   desc: |
     Analyst in Altlift.cz with focus on testing tokenomics using SFC modelling
-
-- id: vojtech-pour
-  name: Vojtěch Pour
-  twitter: vojtechpoureth
-  bio: spoluzakladatel Meetvers, Web3 social nadšenec
-  orgs: |
-    [Meetvers](https://meetvers.io)
-  caption: Co-founder of [Meetvers](https://meetvers.io), Web3 social enthusiast
-  country: cz
-  tracks: [ eth, spolecnost ]
-  desc: |
-    Zakladatel meetvers.io, Web3 social nadšenec
 
 - id: libor-flossler
   nickname: Investocka
