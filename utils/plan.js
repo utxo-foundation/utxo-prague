@@ -377,9 +377,7 @@ class UTXOPlanner {
         if (isPeriodOverlap(si.period, ssi.period)) {
           const eev = this.eventsOriginal.find((e) => e.id === ssi.event);
           const tagsCrossing = ev.tags.reduce((prev, cur) =>
-            prev + (eev.tags.includes(cur)
-              ? 0
-              : 1), 0) / ev.tags.length;
+            prev + (eev.tags.includes(cur) ? 0 : 1), 0) / ev.tags.length;
           crossings.push([
             ev.track === eev.track &&
               !["zaklady", "spolecnost"].includes(ev.track)
@@ -479,7 +477,7 @@ class UTXOPlanner {
 }
 
 function infoStats(startTime, numResults) {
-  const duration = ((new Date()).getTime() - startTime.getTime());
+  const duration = (new Date()).getTime() - startTime.getTime();
   const perSecond = Math.round((numResults / (duration / 1000)) * 100) / 100;
   const timePerItem = Math.round((duration / numResults) * 100) / 100;
   return `Duration: ${duration / 1000}s, ${perSecond} solutions/s, ${

@@ -149,7 +149,7 @@ export class UTXOEngine {
       });
 
       // copy media-kit
-      if (await exists([ entryDir, "media-kit" ].join("/"))) {
+      if (await exists([entryDir, "media-kit"].join("/"))) {
         const outputMediaDir = [entryDir, "media-kit"].join("/");
         if (!this.options.silent) {
           console.log(`UTXO.${entryId}: copying media-kit ..`);
@@ -165,7 +165,7 @@ export class UTXOEngine {
       }
 
       // write QA output of events (schedules)
-      if (specDef.find(item => item.type === 'schedule')) {
+      if (specDef.find((item) => item.type === "schedule")) {
         const qa = this.qaSummary(entryId);
         await this._jsonWrite([entryDir, "qa-summary.json"], qa);
       }
