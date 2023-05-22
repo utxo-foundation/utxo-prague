@@ -56,6 +56,24 @@
         ]
       },
       {
+        "id": "adam-rajnoha",
+        "name": "Adam Rajnoha",
+        "bio": "VR & AR Expert",
+        "orgs": "Metaverse Chief Explorer at [MOYA](https://themoya.com/) | Co-Founder & CEO at [YORD](https://yordstudio.com/cs/)\n",
+        "caption": "VR & AR Expert\n",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://themoya.com/"
+        },
+        "country": "cz",
+        "desc": "Adam is globally recognized as VR & AR Strategist, Metaverse Explorer, Tech enthusiast, XR Entrepreneur, and Speaker working in the XR field with big players like Apple, Adidas, Niantic, Deloitte, and more. Adam is the CEO of the YORD and Co-founder of Mainware.\n",
+        "photos": [
+          "web:webp"
+        ]
+      },
+      {
         "id": "adam-sobotka",
         "name": "Adam Sobotka",
         "nickname": "vorcigernix",
@@ -179,6 +197,26 @@
         ]
       },
       {
+        "id": "david-marak",
+        "name": "David Mařák",
+        "twitter": "DavidMarakXR",
+        "bio": "VR/AR Expert, AI & Blockchain explorer. Futurist.",
+        "orgs": "Technický ředitel a spoluzakladatel [YORD](https://yordstudio.com/cs/)\n",
+        "caption": "VR/AR Expert, AI & Blockchain explorer. Futurist.\n",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://yordstudio.com/cs/"
+        },
+        "country": "cz",
+        "desc": "David je přední expert na moderní technologie Virtuální a Rozšířené reality. V oboru je již od jeho ranných forem v podobě cardboardů či prvních prototypu rozšířené reality. Před 4 lety spolu založil studio Yord, které během následujících let expandovalo do celého světa a stalo se jedním z 5 nejlepších společností vývoje Immersivních aplikací na světě. Velký nadšenec do AI a Blockchain.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "david-stancel",
         "name": "David Stancel",
         "twitter": "dave_stancel",
@@ -217,6 +255,22 @@
         "desc": "Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.\n",
         "photos": [
           "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "filippo-franchini",
+        "name": "Filippo Franchini",
+        "twitter": "filippoweb3",
+        "bio": "Technical educator, PhD in statistics",
+        "orgs": "Technical educator [web3 foundation](https://web3.foundation/)\n",
+        "caption": "Technical educator, PhD in statistics\n",
+        "tracks": [
+          "zaklady",
+          "alty"
+        ],
+        "country": "it",
+        "photos": [
           "twitter:jpg"
         ]
       },
@@ -388,6 +442,45 @@
           "web:jpg",
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "jan-hubik",
+        "name": "Jan Hubík",
+        "twitter": "hubikj",
+        "bio": "Kryptoanarchista, datový vědec, hacker",
+        "orgs": "Anti Financial Crime SME v [Xapo Bank](https://www.xapobank.com/)\n",
+        "caption": "Kryptoanarchista, datový vědec, hacker\n",
+        "tracks": [
+          "zaklady",
+          "btc",
+          "spolecnost"
+        ],
+        "web": {
+          "url": "https://www.linkedin.com/in/hubik/"
+        },
+        "country": "cz",
+        "desc": "Formální vzdělání mám v několika oborech od fyziky po finance a pracovní život jsem začínal jako datový vědec v astrofyzice. Vždy jsem ale měl rád technologie a vše kolem počítačů, což mě v roce 2013 přivedlo k Bitcoinu a od té doby se mu věnuji z mnoha pohledů - těžba, investice, použití v životě i podnikání a dopady na společnost. Od roku 2015 jsem se angažoval v Paralelní Polis, odkud jsem v roce 2019 odešel do Alzy, kde jsem rozjel Fraud & Risk oddělení. Z Alzy mě v roce 2021 vylákala Xapo Bank, kde do dnes na pozici Anti Financial Crime SME ladím systémy pro monitoring transakcí.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "jan-kamlach",
+        "name": "Jan Kamlach",
+        "bio": "Nadšenec do svobodných peněz",
+        "orgs": "Zakladatel projektu [Chráníme Peníze](https://www.chranimepenize.cz)\n",
+        "caption": "zastánce Web3 & NFT, spoluzakladatel Museverse\n",
+        "tracks": [
+          "zaklady",
+          "spolecnost"
+        ],
+        "web": {
+          "url": "https://www.chranimepenize.cz"
+        },
+        "country": "cz",
+        "desc": "Deset let podnikám a spolupracuju s různými subjekty. Rozjíždím projekt zaměřený na peníze, které mají hodnotu. Věřím stříbru, zlatu a Bitcoinu. Edukuju v oblasti peněz a pomáhám s výběrem vhodných obchodníků při nákupu drahých kovů. Projekt jsem pojmenoval Chráníme Peníze a plánuji se v něm dlouhodobě realizovat.\nŽiju sportem, hlavně fotbalem, kromě hraní i trénuju děti. Největší smysl mi dává vzdělávání se v praxi, nepohrdnu ani eventy úspěšných podnikatelů, mentorů... Rád si přečtu něco inspirativního, ideálně když to rovnou uplatním, naposledy třeba Čtyři tisíce týdnů od Olivera Burkemana, oblíbenou mám Investujte do zlata a stříbra od Mika Maloneyho, na internetu využívám různé zdroje vzdělání včetně podcastů jako Zlé peniaze, dobrý život, Real AF, Na vlně podnikání a další. \nV rámci projektů, do kterých jsem se v minulosti zapojoval, jsem měl možnost vézt menší týmy lidí, což mě také baví. Mám rád networking, konference a vystupování na veřejnosti.\n",
+        "photos": []
       },
       {
         "id": "jan-21m",
@@ -599,6 +692,27 @@
         ]
       },
       {
+        "id": "lubos-kovarik",
+        "name": "Luboš Kovařík",
+        "twitter": "StosujCZ",
+        "bio": "Nadšenec do kryptoměn a automatizace",
+        "orgs": "Zakladatel [Štosuj.cz](https://stosuj.cz/)\n",
+        "caption": "Author: Nadšenec do kryptoměn a automatizace\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
+        "web": {
+          "url": "https://stosuj.cz"
+        },
+        "country": "cz",
+        "desc": "Zakladatel projektu Štosuj.cz, dříve vývojář v GENERAL BYTES. Zajímám se o Bitcoin a kryptoměny přes 10 let a mým cílem je pomáhat lidem řešit stejný problém, který jsem měl já sám. Ideálně vše automatizovat.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "lukas-kovanda",
         "name": "Lukáš Kovanda",
         "twitter": "lukaskovanda",
@@ -699,6 +813,45 @@
         ]
       },
       {
+        "id": "matej-zimak",
+        "name": "Matej Zimák",
+        "twitter": "mattbullish",
+        "bio": "Techpreneur, zastánce Web3 & NFT, spoluzakladatel Museverse, The Divergents",
+        "orgs": "Spoluzakladatel [Museverse](https://museverse.xyz/)\n",
+        "caption": "Spoluzakladatel Museverse, The Divergents\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
+        "web": {
+          "url": "https://museverse.xyz/"
+        },
+        "country": "cz",
+        "desc": "Zakladatel projektu Štosuj.cz, dříve vývojář v GENERAL BYTES. Zajímám se o Bitcoin a kryptoměny přes 10 let a mým cílem je pomáhat lidem řešit stejný problém, který jsem měl já sám. Ideálně vše automatizovat.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "matous-ledvina",
+        "name": "Matouš Ledvina",
+        "twitter": "MatousLed",
+        "bio": "Konzultant, markeťák, školitel, analytik",
+        "orgs": "Konzultant výkonnostního digitálního marketingu v [Google](https://about.google/) a pro [Braiins](https://braiins.com/)\n",
+        "caption": "Konzultant, markeťák, školitel, analytik\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
+        "country": "cz",
+        "desc": "Matouš je konzultant výkonnostního digitálního marketingu v Google a pro Braiins. Zajímá se o moderní technologie a v oblasti kryptoměn už si vyzkoušel první poslední.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "milan-marcak",
         "name": "Milan Marcak",
         "twitter": "milan_marcak",
@@ -743,6 +896,24 @@
         ]
       },
       {
+        "id": "niftyape",
+        "name": "NiftyApe",
+        "twitter": "nftspaceczsk",
+        "bio": "NFT nadšenec, sběratel a Web3 advisor",
+        "orgs": "Co-Founder [NFT Space](https://www.nftspace.cz)\n",
+        "caption": "Author: NFT nadšenec, sběratel a Web3 advisor\n",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://www.nftspace.cz"
+        },
+        "country": "cz",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
         "id": "bihanojko",
         "name": "Nikola",
         "nickname": "Bihanojko",
@@ -779,6 +950,27 @@
         },
         "country": "cz",
         "desc": "Crypto analytik, investor, spoluzakladatel baserank.io.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "ondrej-varga",
+        "name": "Ondřej Varga",
+        "twitter": "thewhalebooks",
+        "bio": "Product & Project mnager, WhaleBooks.com",
+        "orgs": "[GENERAL BYTES s.r.o.](https://lifeisporno.com/)\n",
+        "caption": "Author: Product & Project mnager, WhaleBooks.com\n",
+        "tracks": [
+          "zaklady",
+          "btc",
+          "alty"
+        ],
+        "web": {
+          "url": "https://whalebooks.com"
+        },
+        "country": "cz",
         "photos": [
           "web:webp",
           "twitter:jpg"
@@ -832,6 +1024,24 @@
         "desc": "Petr Hotovec is the chief operating officer at the Investment Adviser. Petr worked in Prague, Czech Republic-based legal office Skils s.r.o. advokátní kancelář (former Weil, Gotshal & Manges) as a lawyer. Prior to that he worked as an analyst in the first Central European cryptocurrency fund – Kryptofond and at Allen & Overy in Prague as a paralegal. Petr specialised in M&A, corporate and finance law during his stay at Skils and Allen & Overy.\nPetr Hotovec holds a master’s degree in law and a bachelor's degree in economics and finance from the Charles University in Prague, Czech Republic. \n\nPetr Hotovec is co-founder of Dromi Solutions, a blockchain consultancy agency.\n",
         "photos": [
           "web:jpg"
+        ]
+      },
+      {
+        "id": "petr-kika",
+        "name": "Petr Kika",
+        "nickname": "Nezmič",
+        "twitter": "Nezmic_999",
+        "bio": "Filosof, sociolog a nadšenec se zájmem o fundament a využití NFT v praxi",
+        "orgs": "Člen vzdělávacího [Futureland DAO](https://futureland.io/), Redaktor blogu NFTčesky a webu Kryptonovinky CZ/SK.\n",
+        "caption": "Nadšenec se zájmem o fundament a využití NFT v praxi\n",
+        "tracks": [
+          "nft"
+        ],
+        "country": "cz",
+        "desc": "Jsem Nezmič - krypto a NFT nadšenec zaměřující se na fundament a využití web3 technologií v praxi. Člen vzdělávacího Futureland DAO, redaktor Kryptonovinek CZ/SK, Discord moderátor a redaktor blogu NFTčesky. Mým cílem je být mostem mezi světy.\n",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
         ]
       },
       {
@@ -972,7 +1182,48 @@
         "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. \nDále jsem spoluzakladatelem společnosti DROMI, ke poskytujeme blockchainové poradenství. Zaměřujeme se na tradičním korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
         "country": "cz",
         "photos": [
-          "web:jpg"
+          "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "stepan-borovka",
+        "name": "Štěpán Borovka",
+        "twitter": "borovka_",
+        "bio": "Vexl team, organizátor Bitcoin meetupů",
+        "orgs": "Pracovník ve [Vexlu](https://vexl.it/)\n",
+        "caption": "Author: Product & Project mnager, WhaleBooks.com\n",
+        "tracks": [
+          "zaklady",
+          "btc"
+        ],
+        "web": {
+          "url": "https://vexl.it/"
+        },
+        "country": "cz",
+        "desc": "Jsem Bitcoinovým nadšencem a k tomu součástí Vexl crew. Mám za sebou organizaci pár Bitcoinových meetupů a pohyb mezi stejně smýšlejícími lidmi je mi blízký. K tomu všemu hraju profesionálně basket a ještě studuju na ekonomické fakultě.\n",
+        "photos": [
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "steve-fau",
+        "name": "Steve Fau",
+        "twitter": "steve_fau",
+        "bio": "Spoluzakladatel PWN, organizátor Prague DeFi Summit",
+        "orgs": "Co-Founder & Head of Product [PWN](https://pwn.xyz/)\n",
+        "caption": "Spoluzakladatel PWN, organizátor Prague DeFi Summit\n",
+        "tracks": [
+          "dao",
+          "defi"
+        ],
+        "web": {
+          "url": "https://pwn.xyz/"
+        },
+        "country": "cz",
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
         ]
       },
       {
@@ -1040,6 +1291,27 @@
         "desc": "člen projektu [Svoboda učení](https://www.svobodauceni.cz/)\n",
         "photos": [
           "web:jpg",
+          "twitter:jpg"
+        ]
+      },
+      {
+        "id": "vit-jedlicka",
+        "name": "Vít Jedlička",
+        "twitter": "Liberland_org",
+        "bio": "Libertarián, zakladatel a prezident Svobodné republiky Liberland",
+        "orgs": "Prezident [Svobodné republiky Liberland](https://liberland.org)\n",
+        "caption": "Zakladatel a prezident Svobodné republiky Liberland\n",
+        "tracks": [
+          "spolecnost",
+          "regulace"
+        ],
+        "web": {
+          "url": "https://liberland.org"
+        },
+        "country": "cz",
+        "lead": true,
+        "photos": [
+          "web:webp",
           "twitter:jpg"
         ]
       },
@@ -1404,12 +1676,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 55,
+      "speakers": 69,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 17
     }
   },
-  "time": "2023-05-22T11:05:05.974Z"
+  "time": "2023-05-22T18:31:18.209Z"
 }
