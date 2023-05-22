@@ -763,24 +763,6 @@
     ]
   },
   {
-    "id": "ondrej-rehacek",
-    "name": "Ondřej Řeháček",
-    "bio": "Vývojář, Smart-contract Auditor",
-    "orgs": "Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
-    "caption": "Developer, Smart-contract Auditor",
-    "tracks": [
-      "eth",
-      "alty",
-      "nft"
-    ],
-    "country": "cz",
-    "desc": "Full-stack software engineer with eight years of experience, Solana blockchain auditor.\n",
-    "photos": [
-      "web:jpg",
-      "twitter:jpg"
-    ]
-  },
-  {
     "id": "pablo-cz",
     "name": "PabloCZ",
     "twitter": "PabloCzeth",
@@ -1074,24 +1056,6 @@
     "country": "cz",
     "photos": [
       "web:jpg",
-      "twitter:jpg"
-    ]
-  },
-  {
-    "id": "vojtech-pour",
-    "name": "Vojtěch Pour",
-    "twitter": "vojtechpoureth",
-    "bio": "spoluzakladatel Meetvers, Web3 social nadšenec",
-    "orgs": "[Meetvers](https://meetvers.io)\n",
-    "caption": "Co-founder of [Meetvers](https://meetvers.io), Web3 social enthusiast",
-    "country": "cz",
-    "tracks": [
-      "eth",
-      "spolecnost"
-    ],
-    "desc": "Zakladatel meetvers.io, Web3 social nadšenec\n",
-    "photos": [
-      "web:webp",
       "twitter:jpg"
     ]
   }
