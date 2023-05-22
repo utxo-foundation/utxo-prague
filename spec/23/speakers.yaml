@@ -747,3 +747,198 @@
   desc: |
     Content creator and social media manager, NFT nadšenec.
     
+- id: jan-hubik
+  name: Jan Hubík
+  twitter: hubikj
+  bio: Kryptoanarchista, datový vědec, hacker
+  orgs: |
+    Anti Financial Crime SME v [Xapo Bank](https://www.xapobank.com/)
+  caption: |
+    Kryptoanarchista, datový vědec, hacker
+  tracks: [ zaklady, btc, spolecnost ]
+  web:
+    url: https://www.linkedin.com/in/hubik/
+  country: cz  
+  desc: |
+    Formální vzdělání mám v několika oborech od fyziky po finance a pracovní život jsem začínal jako datový vědec v astrofyzice. Vždy jsem ale měl rád technologie a vše kolem počítačů, což mě v roce 2013 přivedlo k Bitcoinu a od té doby se mu věnuji z mnoha pohledů - těžba, investice, použití v životě i podnikání a dopady na společnost. Od roku 2015 jsem se angažoval v Paralelní Polis, odkud jsem v roce 2019 odešel do Alzy, kde jsem rozjel Fraud & Risk oddělení. Z Alzy mě v roce 2021 vylákala Xapo Bank, kde do dnes na pozici Anti Financial Crime SME ladím systémy pro monitoring transakcí.
+    
+- id: vit-jedlicka
+  name: Vít Jedlička
+  twitter: Liberland_org
+  bio: Libertarián, zakladatel a prezident Svobodné republiky Liberland
+  orgs: |
+    Prezident [Svobodné republiky Liberland](https://liberland.org)
+  caption: |
+    Libertarián, zakladatel a prezident Svobodné republiky Liberland
+  tracks: [ spolecnost, regulace ]
+  web:
+    url: https://liberland.org
+  country: cz 
+  lead: true
+
+- id: steve-fau
+  name: Steve Fau
+  twitter: steve_fau
+  bio: Spoluzakladatel PWN, organizátor Prague DeFi Summit
+  orgs: |
+    Co-Founder & Head of Product [PWN](https://pwn.xyz/)
+  caption: |
+    Spoluzakladatel PWN, organizátor Prague DeFi Summit
+  tracks: [ dao, defi ]
+  web:
+    url: https://pwn.xyz/
+  country: cz
+
+- id: filippo-franchini
+  name: Filippo Franchini
+  twitter: filippoweb3
+  bio: Technical educator, PhD in statistics
+  orgs: |
+    Technical educator [web3 foundation](https://web3.foundation/)
+  caption: |
+    Technical educator, PhD in statistics
+  tracks: [ zaklady, alty ]
+  country: it
+
+- id: matous-ledvina
+  name: Matouš Ledvina
+  twitter: MatousLed
+  bio: Konzultant, markeťák, školitel, analytik
+  orgs: |
+    Konzultant výkonnostního digitálního marketingu v [Google](https://about.google/) a pro [Braiins](https://braiins.com/)
+  caption: |
+    Konzultant, markeťák, školitel, analytik
+  tracks: [ zaklady, btc ]
+  country: cz  
+  desc: |
+    Matouš je konzultant výkonnostního digitálního marketingu v Google a pro Braiins. Zajímá se o moderní technologie a v oblasti kryptoměn už si vyzkoušel první poslední.
+    
+- id: niftyape
+  name: NiftyApe
+  twitter: nftspaceczsk
+  bio: NFT nadšenec, sběratel a Web3 advisor
+  orgs: |
+    Co-Founder [NFT Space](www.nftspace.cz)
+  caption: |
+    Author: NFT nadšenec, sběratel a Web3 advisor
+  tracks: [ nft ]
+  web:
+    url: www.nftspace.cz
+  country: cz
+
+- id: ondrej-varga
+  name: Ondřej Varga
+  twitter: thewhalebooks
+  bio: Product & Project mnager, WhaleBooks.com
+  orgs: |
+    [GENERAL BYTES s.r.o.](https://lifeisporno.com/)
+  caption: |
+    Author: Product & Project mnager, WhaleBooks.com
+  tracks: [ zaklady, btc, alty ]
+  web:
+    url: https://whalebooks.com
+  country: cz
+
+- id: stepan-borovka
+  name: Štěpán Borovka
+  twitter: borovka_
+  bio: Vexl team, organizátor Bitcoin meetupů
+  orgs: |
+    Pracovník ve [Vexlu](https://vexl.it/)
+  caption: |
+    Author: Product & Project mnager, WhaleBooks.com
+  tracks: [ zaklady, btc ]
+  web:
+    url: https://vexl.it/
+  country: cz
+  desc: |
+    Jsem Bitcoinovým nadšencem a k tomu součástí Vexl crew. Mám za sebou organizaci pár Bitcoinových meetupů a pohyb mezi stejně smýšlejícími lidmi je mi blízký. K tomu všemu hraju profesionálně basket a ještě studuju na ekonomické fakultě.
+
+- id: lubos-kovarik
+  name: Luboš Kovařík
+  twitter: StosujCZ
+  bio: Nadšenec do kryptoměn a automatizace
+  orgs: |
+    Zakladatel [Štosuj.cz](https://stosuj.cz/)
+  caption: |
+    Author: Nadšenec do kryptoměn a automatizace
+  tracks: [ zaklady, btc ]
+  web:
+    url: https://stosuj.cz
+  country: cz
+  desc: |
+    Zakladatel projektu Štosuj.cz, dříve vývojář v GENERAL BYTES. Zajímám se o Bitcoin a kryptoměny přes 10 let a mým cílem je pomáhat lidem řešit stejný problém, který jsem měl já sám. Ideálně vše automatizovat.
+
+- id: matej-zimak
+  name: Matej Zimák
+  twitter: mattbullish
+  bio: Techpreneur, zastánce Web3 & NFT, spoluzakladatel Museverse, The Divergents
+  orgs: |
+    Spoluzakladatel [Museverse](https://museverse.xyz/)
+  caption: |
+    Author: Techpreneur, zastánce Web3 & NFT, spoluzakladatel Museverse, The Divergents
+  tracks: [ zaklady, btc ]
+  web:
+    url: https://museverse.xyz/
+  country: cz
+  desc: |
+    Zakladatel projektu Štosuj.cz, dříve vývojář v GENERAL BYTES. Zajímám se o Bitcoin a kryptoměny přes 10 let a mým cílem je pomáhat lidem řešit stejný problém, který jsem měl já sám. Ideálně vše automatizovat.
+
+- id: jan-kamlach
+  name: Jan Kamlach
+  bio: Nadšenec do svobodných peněz
+  orgs: |
+    Zakladatel projektu [Chráníme Peníze](www.chranimepenize.cz)
+  caption: |
+    Author: Techpreneur, zastánce Web3 & NFT, spoluzakladatel Museverse, The Divergents
+  tracks: [ zaklady, spolecnost ]
+  web:
+    url: www.chranimepenize.cz
+  country: cz
+  desc: |
+    Deset let podnikám a spolupracuju s různými subjekty. Rozjíždím projekt zaměřený na peníze, které mají hodnotu. Věřím stříbru, zlatu a Bitcoinu. Edukuju v oblasti peněz a pomáhám s výběrem vhodných obchodníků při nákupu drahých kovů. Projekt jsem pojmenoval Chráníme Peníze a plánuji se v něm dlouhodobě realizovat.
+    Žiju sportem, hlavně fotbalem, kromě hraní i trénuju děti. Největší smysl mi dává vzdělávání se v praxi, nepohrdnu ani eventy úspěšných podnikatelů, mentorů... Rád si přečtu něco inspirativního, ideálně když to rovnou uplatním, naposledy třeba Čtyři tisíce týdnů od Olivera Burkemana, oblíbenou mám Investujte do zlata a stříbra od Mika Maloneyho, na internetu využívám různé zdroje vzdělání včetně podcastů jako Zlé peniaze, dobrý život, Real AF, Na vlně podnikání a další. 
+    V rámci projektů, do kterých jsem se v minulosti zapojoval, jsem měl možnost vézt menší týmy lidí, což mě také baví. Mám rád networking, konference a vystupování na veřejnosti.
+
+- id: david-marak
+  name: David Mařák
+  twitter: DavidMarakXR
+  bio: VR/AR Expert, AI & Blockchain explorer. Futurist.
+  orgs: |
+    Technický ředitel a spoluzakladatel [YORD](https://yordstudio.com/cs/)
+  caption: |
+    VR/AR Expert, AI & Blockchain explorer. Futurist.
+  tracks: [ nft ]
+  web:
+    url: www.chranimepenize.cz
+  country: cz
+  desc: |
+    David je přední expert na moderní technologie Virtuální a Rozšířené reality. V oboru je již od jeho ranných forem v podobě cardboardů či prvních prototypu rozšířené reality. Před 4 lety spolu založil studio Yord, které během následujících let expandovalo do celého světa a stalo se jedním z 5 nejlepších společností vývoje Immersivních aplikací na světě. Velký nadšenec do AI a Blockchain.
+
+- id: adam-rajnoha
+  name: Adam Rajnoha
+  bio: VR & AR Expert
+  orgs: |
+    Metaverse Chief Explorer at [MOYA](https://themoya.com/) | Co-Founder & CEO at [YORD](https://yordstudio.com/cs/)
+  caption: |
+    VR & AR Expert
+  tracks: [ nft ]
+  web:
+    url: https://themoya.com/
+  country: cz
+  desc: |
+    Adam is globally recognized as VR & AR Strategist, Metaverse Explorer, Tech enthusiast, XR Entrepreneur, and Speaker working in the XR field with big players like Apple, Adidas, Niantic, Deloitte, and more. Adam is the CEO of the YORD and Co-founder of Mainware.
+
+- id: petr-kika
+  name: Petr Kika
+  nickname: Nezmič
+  twitter: Nezmic_999
+  bio: Filosof, sociolog a nadšenec se zájmem o fundament a využití NFT v praxi
+  orgs: |
+    Člen vzdělávacího [Futureland DAO](https://futureland.io/), Redaktor blogu NFTčesky a webu Kryptonovinky CZ/SK.
+  caption: |
+    Filosof, sociolog a nadšenec se zájmem o fundament a využití NFT v praxi
+  tracks: [ nft ]
+  country: cz
+  desc: |
+    Jsem Nezmič - krypto a NFT nadšenec zaměřující se na fundament a využití web3 technologií v praxi. Člen vzdělávacího Futureland DAO, redaktor Kryptonovinek CZ/SK, Discord moderátor a redaktor blogu NFTčesky. Mým cílem je být mostem mezi světy.
