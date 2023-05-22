@@ -272,13 +272,15 @@
 
 - id: stanislav-simek
   name: Stanislav Šimek
+  twitter: Stan_Simek
   web:
-    url: 'https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/'
-  bio: Právník a kryptoměnový konzultant
-  caption: Lawyer and Cryptocurrency Consultant
-  tracks: [ regulace, nft ]
+    url: https://dromisolutions.com/
+  bio: Právník, web3 poradce
+  caption: Právník, web3 poradce
+  tracks: [ regulace, dao, alty ]
   desc: |
-    Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.
+    Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. 
+    Dále jsem spoluzakladatelem společnosti DROMI, ke poskytujeme blockchainové poradenství. Zaměřujeme se na tradičním korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.
   country: cz
 
 - id: pavol-luptak
