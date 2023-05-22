@@ -958,16 +958,18 @@
       {
         "id": "stanislav-simek",
         "name": "Stanislav Šimek",
+        "twitter": "Stan_Simek",
         "web": {
-          "url": "https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/"
+          "url": "https://dromisolutions.com/"
         },
-        "bio": "Právník a kryptoměnový konzultant",
-        "caption": "Lawyer and Cryptocurrency Consultant",
+        "bio": "Právník, web3 poradce",
+        "caption": "Právník, web3 poradce",
         "tracks": [
           "regulace",
-          "nft"
+          "dao",
+          "alty"
         ],
-        "desc": "Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.\n",
+        "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. \nDále jsem spoluzakladatelem společnosti DROMI, ke poskytujeme blockchainové poradenství. Zaměřujeme se na tradičním korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
         "country": "cz",
         "photos": [
           "web:jpg"
@@ -1409,5 +1411,5 @@
       "partners": 17
     }
   },
-  "time": "2023-05-22T10:52:57.720Z"
+  "time": "2023-05-22T11:05:05.974Z"
 }
