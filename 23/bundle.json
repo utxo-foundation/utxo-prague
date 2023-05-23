@@ -56,24 +56,6 @@
         ]
       },
       {
-        "id": "adam-rajnoha",
-        "name": "Adam Rajnoha",
-        "bio": "VR & AR Expert",
-        "orgs": "Metaverse Chief Explorer at [MOYA](https://themoya.com/) | Co-Founder & CEO at [YORD](https://yordstudio.com/cs/)\n",
-        "caption": "VR & AR Expert\n",
-        "tracks": [
-          "nft"
-        ],
-        "web": {
-          "url": "https://themoya.com/"
-        },
-        "country": "cz",
-        "desc": "Adam is globally recognized as VR & AR Strategist, Metaverse Explorer, Tech enthusiast, XR Entrepreneur, and Speaker working in the XR field with big players like Apple, Adidas, Niantic, Deloitte, and more. Adam is the CEO of the YORD and Co-founder of Mainware.\n",
-        "photos": [
-          "web:webp"
-        ]
-      },
-      {
         "id": "adam-sobotka",
         "name": "Adam Sobotka",
         "nickname": "vorcigernix",
@@ -1172,14 +1154,14 @@
         "web": {
           "url": "https://dromisolutions.com/"
         },
-        "bio": "Právník, web3 poradce",
-        "caption": "Právník, web3 poradce",
+        "bio": "CEO v [DROMI](https://dromisolutions.com/) a právník v [BADOKH](https://www.badokh.com/)",
+        "caption": "CEO v DROMI a právník v BADOKH",
         "tracks": [
           "regulace",
           "dao",
           "alty"
         ],
-        "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. \nDále jsem spoluzakladatelem společnosti DROMI, ke poskytujeme blockchainové poradenství. Zaměřujeme se na tradičním korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
+        "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. Dále jsem spoluzakladatelem společnosti DROMI, kde poskytujeme blockchainové poradenství. Zaměřujeme se na tradiční korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
         "country": "cz",
         "photos": [
           "web:jpg",
@@ -1676,12 +1658,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 69,
+      "speakers": 68,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 17
     }
   },
-  "time": "2023-05-23T12:21:35.628Z"
+  "time": "2023-05-23T21:49:55.751Z"
 }
