@@ -519,6 +519,22 @@
         ]
       },
       {
+        "id": "jaroslav-roch",
+        "name": "Jaroslav Roch",
+        "bio": "Businessový právník a odborník na daně",
+        "orgs": "Právník @ [SimpleTax&Law](www.smpl.cz)\n",
+        "caption": "Businessový právník a odborník na daně\n",
+        "tracks": [
+          "regulace"
+        ],
+        "web": {
+          "url": "https://www.smpl.cz"
+        },
+        "country": "cz",
+        "desc": "Jaroslav je expertem na businessové právo a daně. V kryptu se zaměřuje na právní pomoc se strukturováním krypto projektů, s investicemi do krypto startupů a akvizicemi firem. Klientům také pomáhá s adopcí kryptoměn do jejich firem a podnikání. Mimo svět krypta se zaměřuje na právní ochranu majetku firmy, strukturaci podnikání, fúze a akvizice a právo ve venture kapitálu.\n",
+        "photos": []
+      },
+      {
         "id": "jiri-cepelka",
         "name": "Jiří Čepelka",
         "twitter": "JiriCepelka",
@@ -795,6 +811,24 @@
         ]
       },
       {
+        "id": "matej-curda",
+        "name": "Matěj Čurda",
+        "twitter": "MattCurda",
+        "bio": "Metaverse Guide, Web3 Consultant, Speaker, Investor, Airdrop Hunter",
+        "orgs": "Chief Happiness Manager [Meta Investor](https://metainvestor.substack.com/)\n",
+        "caption": "Metaverse Guide, Web3 Consultant, Speaker, Investor\n",
+        "tracks": [
+          "eth",
+          "nft"
+        ],
+        "web": {
+          "url": "https://metainvestor.substack.com/"
+        },
+        "country": "cz",
+        "desc": "Matej is a consultant and advisor in the Web3 space, with a focus on accelerating metaverse and Web3 gaming projects. With years of experience in consulting and a deep interest in gaming, he provides strategic guidance to startups and Fortune 500 companies alike.\nMatej also runs an investment Newsletter and Blog at https://metainvestor.substack.com/, bringing Metaverse closer to users and providing detailed deep dives for investors.\n",
+        "photos": []
+      },
+      {
         "id": "matej-zimak",
         "name": "Matej Zimák",
         "twitter": "mattbullish",
@@ -975,6 +1009,26 @@
           "web:webp",
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "metapavel",
+        "name": "Pavel Říha",
+        "nickname": "MetaPavel",
+        "twitter": "metapavel",
+        "bio": "Futurista, populizátor technologií, našenec pro krypto, NFT, AI, AR/VR",
+        "orgs": "Zakladatel [Futureland DAO](https://futureland.io)\n",
+        "caption": "Populizátor technologií, našenec pro krypto, NFT\n",
+        "tracks": [
+          "dao",
+          "nft",
+          "spolecnost"
+        ],
+        "web": {
+          "url": "https://futureland.io"
+        },
+        "country": "cz",
+        "desc": "Podnikatel, futurista a popularizátor technologií; projekty v oblastech WEB3, AI a VR; zakladatel Futureland DAO a autor knihy Metaverse přichází\n",
+        "photos": []
       },
       {
         "id": "pavol-luptak",
@@ -1658,12 +1712,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 68,
+      "speakers": 71,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 17
     }
   },
-  "time": "2023-05-24T13:36:33.006Z"
+  "time": "2023-05-24T14:16:49.536Z"
 }
