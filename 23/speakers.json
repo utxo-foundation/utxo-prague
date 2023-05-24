@@ -628,6 +628,23 @@
     ]
   },
   {
+    "id": "kristina-klaudyova",
+    "name": "Kristina Klaudyová",
+    "twitter": "KristinaKlaudy1",
+    "bio": "Stratég a kommunity manager",
+    "orgs": "[BanklessHQ](https://www.bankless.com/)\n",
+    "caption": "Stratég a kommunity manager\n",
+    "tracks": [
+      "spolecnost"
+    ],
+    "web": {
+      "url": "https://www.bankless.com/"
+    },
+    "country": "cz",
+    "desc": "Přes čtyři roky jsem pracovala jako Brand Strategist v globální marketingové agentuře Publicis Groupe a následně vedla marketingové odělení ve společnosti Precismo.\nNyní působím jako Community Manager v americké společnosti Bankless a v kryptu tak trávím 100% svého pracovního a 90% volného svého času. Zajímám se především o infrastrukturu, ekonomický systém  a business v kryptu. Zároveň jsme ale také velký fanoušek filozofie, historie a technologií obecně. Ano, prostě nerd. :)\n",
+    "photos": []
+  },
+  {
     "id": "lc-young",
     "name": "LC Young",
     "twitter": "LichiehY",
@@ -991,7 +1008,7 @@
   {
     "id": "metapavel",
     "name": "Pavel Říha",
-    "nickname": "MetaPavel",
+    "nickname": "MetaPavelg",
     "twitter": "metapavel",
     "bio": "Futurista, populizátor technologií, našenec pro krypto, NFT, AI, AR/VR",
     "orgs": "Zakladatel [Futureland DAO](https://futureland.io)\n",
@@ -1134,6 +1151,24 @@
       "web:jpg",
       "twitter:jpg"
     ]
+  },
+  {
+    "id": "rene-darmos",
+    "name": "Rene Darmos",
+    "twitter": "xrendolf",
+    "bio": "Managing partner of investment fund. Member of Bitcoach. DAO advisor.",
+    "orgs": "CEO [Moonhill](https://moonhill.capital/), member of TG community [Bitcoach](https://bitcoach.org/), host of CCC\n",
+    "caption": "Managing partner of investment fund. Bitcoach member\n",
+    "tracks": [
+      "dao",
+      "spolecnost"
+    ],
+    "web": {
+      "url": "https://www.moonhill.capital/"
+    },
+    "country": "cz",
+    "desc": "René má 14 let zkušeností ve vedoucích funkcích managementu, včetně nadnárodních společností jako Red Bull a Unilever. Má více než 8 let zkušeností jako podnikatel a 6 let zkušeností jako investor do kryptoměn s rozsáhlou sítí kontaktů a partnerství, kterou vybudoval také díky pořádání krypto podcastu. René řídí denní provoz v Moonhill Capital, dohlíží na jeho růst a rozhoduje o klíčových strategických a administrativních otázkách. Je také členem skupiny Bitcoach. V současnosti poskytuje poradenství a je také členem rad investičních struktur DAO, čemuž se intenzivně věnuje.\n",
+    "photos": []
   },
   {
     "id": "roman-valihrach",
