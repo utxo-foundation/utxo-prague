@@ -927,3 +927,49 @@
   country: cz
   desc: |
     Jsem Nezmič - krypto a NFT nadšenec zaměřující se na fundament a využití web3 technologií v praxi. Člen vzdělávacího Futureland DAO, redaktor Kryptonovinek CZ/SK, Discord moderátor a redaktor blogu NFTčesky. Mým cílem je být mostem mezi světy.
+
+- id: jaroslav-roch
+  name: Jaroslav Roch
+  bio: Businessový právník a odborník na daně
+  orgs: |
+    Právník @ [SimpleTax&Law](www.smpl.cz)
+  caption: |
+    Businessový právník a odborník na daně
+  tracks: [ regulace ]
+  web:
+    url: https://www.smpl.cz
+  country: cz
+  desc: |
+    Jaroslav je expertem na businessové právo a daně. V kryptu se zaměřuje na právní pomoc se strukturováním krypto projektů, s investicemi do krypto startupů a akvizicemi firem. Klientům také pomáhá s adopcí kryptoměn do jejich firem a podnikání. Mimo svět krypta se zaměřuje na právní ochranu majetku firmy, strukturaci podnikání, fúze a akvizice a právo ve venture kapitálu.
+
+- id: matej-curda
+  name: Matěj Čurda
+  twitter: MattCurda
+  bio: Metaverse Guide, Web3 Consultant, Speaker, Investor, Airdrop Hunter
+  orgs: |
+    Chief Happiness Manager [Meta Investor](https://metainvestor.substack.com/)
+  caption: |
+    Metaverse Guide, Web3 Consultant, Speaker, Investor
+  tracks: [ eth, nft ]
+  web:
+    url: https://metainvestor.substack.com/
+  country: cz
+  desc: |
+    Matej is a consultant and advisor in the Web3 space, with a focus on accelerating metaverse and Web3 gaming projects. With years of experience in consulting and a deep interest in gaming, he provides strategic guidance to startups and Fortune 500 companies alike.
+    Matej also runs an investment Newsletter and Blog at https://metainvestor.substack.com/, bringing Metaverse closer to users and providing detailed deep dives for investors.
+
+- id: metapavel
+  name: Pavel Říha
+  nickname: MetaPavel
+  twitter: metapavel
+  bio: Futurista, populizátor technologií, našenec pro krypto, NFT, AI, AR/VR
+  orgs: |
+    Zakladatel [Futureland DAO](https://futureland.io)
+  caption: |
+    Populizátor technologií, našenec pro krypto, NFT
+  tracks: [ dao, nft, spolecnost ]
+  web:
+    url: https://futureland.io
+  country: cz
+  desc: |
+    Podnikatel, futurista a popularizátor technologií; projekty v oblastech WEB3, AI a VR; zakladatel Futureland DAO a autor knihy Metaverse přichází
