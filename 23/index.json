@@ -27,7 +27,8 @@
     "stages": "https://spec.utxo.cz/23/stages.json",
     "faqs": "https://spec.utxo.cz/23/faqs.json",
     "partners": "https://spec.utxo.cz/23/partners.json",
-    "team": "https://spec.utxo.cz/23/team.json"
+    "team": "https://spec.utxo.cz/23/team.json",
+    "schedule": "https://spec.utxo.cz/23/schedule.json"
   },
   "stats": {
     "counts": {
@@ -37,8 +38,9 @@
       "events": 94,
       "stages": 6,
       "faqs": 5,
-      "partners": 17
+      "partners": 17,
+      "schedule": 94
     }
   },
-  "time": "2023-05-25T19:56:51.157Z"
+  "time": "2023-05-25T19:57:51.410Z"
 }

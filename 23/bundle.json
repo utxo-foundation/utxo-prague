@@ -3008,7 +3008,949 @@
         }
       },
       "teams": {}
-    }
+    },
+    "schedule": [
+      {
+        "id": "aa",
+        "stage": "campfire-outdoor",
+        "event": "7h7da8",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:45:00+02:00",
+          "end": "2023-06-03T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "ab",
+        "stage": "lustrovy-sal",
+        "event": "uttjmv",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T11:30:00+02:00",
+          "end": "2023-06-04T12:15:00+02:00"
+        }
+      },
+      {
+        "id": "ac",
+        "stage": "knihovna",
+        "event": "3tcyng",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:15:00+02:00",
+          "end": "2023-06-04T15:15:00+02:00"
+        }
+      },
+      {
+        "id": "ad",
+        "stage": "campfire-outdoor",
+        "event": "tqmyhb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:45:00+02:00",
+          "end": "2023-06-03T16:30:00+02:00"
+        }
+      },
+      {
+        "id": "ae",
+        "stage": "klenbovy-sal",
+        "event": "nxpqtx",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:30:00+02:00",
+          "end": "2023-06-03T16:15:00+02:00"
+        }
+      },
+      {
+        "id": "af",
+        "stage": "knihovna",
+        "event": "kklvje",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:45:00+02:00",
+          "end": "2023-06-03T15:00:00+02:00"
+        }
+      },
+      {
+        "id": "ag",
+        "stage": "lustrovy-sal",
+        "event": "9tjnas",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:30:00+02:00"
+        }
+      },
+      {
+        "id": "ah",
+        "stage": "lustrovy-sal",
+        "event": "ehalmb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:30:00+02:00",
+          "end": "2023-06-03T10:55:00+02:00"
+        }
+      },
+      {
+        "id": "ai",
+        "stage": "klenbovy-sal",
+        "event": "mbezkd",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:00:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
+        }
+      },
+      {
+        "id": "aj",
+        "stage": "rajska-zahrada",
+        "event": "jptwkd",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T12:00:00+02:00",
+          "end": "2023-06-04T13:15:00+02:00"
+        }
+      },
+      {
+        "id": "ak",
+        "stage": "klenbovy-sal",
+        "event": "3mwenq",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T12:45:00+02:00",
+          "end": "2023-06-04T13:30:00+02:00"
+        }
+      },
+      {
+        "id": "al",
+        "stage": "rajska-zahrada",
+        "event": "ae3sxw",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T16:30:00+02:00",
+          "end": "2023-06-04T17:30:00+02:00"
+        }
+      },
+      {
+        "id": "am",
+        "stage": "klenbovy-sal",
+        "event": "wke3pb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:45:00+02:00"
+        }
+      },
+      {
+        "id": "an",
+        "stage": "klenbovy-sal",
+        "event": "zhascq",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:00:00+02:00"
+        }
+      },
+      {
+        "id": "ao",
+        "stage": "lustrovy-sal",
+        "event": "vjlrdv",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
+        }
+      },
+      {
+        "id": "ap",
+        "stage": "lustrovy-sal",
+        "event": "aefxhc",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:15:00+02:00",
+          "end": "2023-06-03T14:00:00+02:00"
+        }
+      },
+      {
+        "id": "aq",
+        "stage": "campfire-outdoor",
+        "event": "x9rgpd",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T15:45:00+02:00"
+        }
+      },
+      {
+        "id": "ar",
+        "stage": "lustrovy-sal",
+        "event": "dy87a8",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:00:00+02:00",
+          "end": "2023-06-04T14:45:00+02:00"
+        }
+      },
+      {
+        "id": "as",
+        "stage": "campfire-outdoor",
+        "event": "9989p3",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:00:00+02:00",
+          "end": "2023-06-03T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "at",
+        "stage": "campfire-outdoor",
+        "event": "f3qqdj",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "au",
+        "stage": "campfire-outdoor",
+        "event": "3y8esm",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:15:00+02:00",
+          "end": "2023-06-03T15:45:00+02:00"
+        }
+      },
+      {
+        "id": "av",
+        "stage": "knihovna",
+        "event": "e3gt7v",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T11:15:00+02:00",
+          "end": "2023-06-04T12:15:00+02:00"
+        }
+      },
+      {
+        "id": "aw",
+        "stage": "klenbovy-sal",
+        "event": "3vrsv8",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:45:00+02:00",
+          "end": "2023-06-03T11:30:00+02:00"
+        }
+      },
+      {
+        "id": "ax",
+        "stage": "campfire-outdoor",
+        "event": "9gbjwt",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T12:00:00+02:00",
+          "end": "2023-06-03T12:45:00+02:00"
+        }
+      },
+      {
+        "id": "ay",
+        "stage": "lustrovy-sal",
+        "event": "qulwqp",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:15:00+02:00",
+          "end": "2023-06-03T17:25:00+02:00"
+        }
+      },
+      {
+        "id": "az",
+        "stage": "campfire-outdoor",
+        "event": "esllaf",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T12:15:00+02:00",
+          "end": "2023-06-04T12:55:00+02:00"
+        }
+      },
+      {
+        "id": "a0",
+        "stage": "rajska-zahrada",
+        "event": "7lxjzl",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T11:15:00+02:00",
+          "end": "2023-06-04T12:00:00+02:00"
+        }
+      },
+      {
+        "id": "a1",
+        "stage": "lustrovy-sal",
+        "event": "axdm9t",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:25:00+02:00",
+          "end": "2023-06-03T17:35:00+02:00"
+        }
+      },
+      {
+        "id": "a2",
+        "stage": "klenbovy-sal",
+        "event": "p9una9",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:15:00+02:00",
+          "end": "2023-06-03T14:45:00+02:00"
+        }
+      },
+      {
+        "id": "a3",
+        "stage": "campfire-outdoor",
+        "event": "vayuas",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T11:00:00+02:00",
+          "end": "2023-06-04T11:45:00+02:00"
+        }
+      },
+      {
+        "id": "a4",
+        "stage": "lustrovy-sal",
+        "event": "3ka9gz",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:35:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
+        }
+      },
+      {
+        "id": "a5",
+        "stage": "lustrovy-sal",
+        "event": "kkaz8h",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T16:15:00+02:00",
+          "end": "2023-06-04T17:00:00+02:00"
+        }
+      },
+      {
+        "id": "a6",
+        "stage": "campfire-outdoor",
+        "event": "rdhxzb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:45:00+02:00"
+        }
+      },
+      {
+        "id": "a7",
+        "stage": "campfire-outdoor",
+        "event": "7ydeft",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:45:00+02:00",
+          "end": "2023-06-03T15:05:00+02:00"
+        }
+      },
+      {
+        "id": "a8",
+        "stage": "klenbovy-sal",
+        "event": "r3ectq",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:30:00+02:00"
+        }
+      },
+      {
+        "id": "a9",
+        "stage": "klenbovy-sal",
+        "event": "uvv38z",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T12:45:00+02:00",
+          "end": "2023-06-03T13:30:00+02:00"
+        }
+      },
+      {
+        "id": "ba",
+        "stage": "campfire-outdoor",
+        "event": "w7ka7w",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:00:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
+        }
+      },
+      {
+        "id": "bb",
+        "stage": "klenbovy-sal",
+        "event": "ypsb3r",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:45:00+02:00",
+          "end": "2023-06-03T15:30:00+02:00"
+        }
+      },
+      {
+        "id": "bc",
+        "stage": "lustrovy-sal",
+        "event": "97qelm",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T12:30:00+02:00",
+          "end": "2023-06-03T13:15:00+02:00"
+        }
+      },
+      {
+        "id": "bd",
+        "stage": "lustrovy-sal",
+        "event": "h8zecs",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T17:00:00+02:00",
+          "end": "2023-06-04T17:30:00+02:00"
+        }
+      },
+      {
+        "id": "be",
+        "stage": "knihovna",
+        "event": "xvpt9c",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:00:00+02:00",
+          "end": "2023-06-03T15:45:00+02:00"
+        }
+      },
+      {
+        "id": "bf",
+        "stage": "lustrovy-sal",
+        "event": "xpflwb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:45:00+02:00",
+          "end": "2023-06-03T12:30:00+02:00"
+        }
+      },
+      {
+        "id": "bg",
+        "stage": "lustrovy-sal",
+        "event": "mph3ab",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:15:00+02:00"
+        }
+      },
+      {
+        "id": "bh",
+        "stage": "klenbovy-sal",
+        "event": "zcayjb",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T13:30:00+02:00",
+          "end": "2023-06-04T14:15:00+02:00"
+        }
+      },
+      {
+        "id": "bi",
+        "stage": "rajska-zahrada",
+        "event": "7srlpr",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:30:00+02:00"
+        }
+      },
+      {
+        "id": "bj",
+        "stage": "knihovna",
+        "event": "vur3sz",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "bk",
+        "stage": "klenbovy-sal",
+        "event": "tvzbz7",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T12:00:00+02:00",
+          "end": "2023-06-03T12:45:00+02:00"
+        }
+      },
+      {
+        "id": "bl",
+        "stage": "lustrovy-sal",
+        "event": "qh73vp",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "bm",
+        "stage": "campfire-outdoor",
+        "event": "p3qrwv",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:45:00+02:00",
+          "end": "2023-06-03T18:30:00+02:00"
+        }
+      },
+      {
+        "id": "bn",
+        "stage": "rajska-zahrada",
+        "event": "8hyshm",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:45:00+02:00",
+          "end": "2023-06-03T11:05:00+02:00"
+        }
+      },
+      {
+        "id": "bo",
+        "stage": "campfire-indoor",
+        "event": "jnkqdn",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:00:00+02:00",
+          "end": "2023-06-03T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "bp",
+        "stage": "lustrovy-sal",
+        "event": "zuyrh7",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:00:00+02:00",
+          "end": "2023-06-03T14:45:00+02:00"
+        }
+      },
+      {
+        "id": "bq",
+        "stage": "knihovna",
+        "event": "8jm7la",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T12:30:00+02:00",
+          "end": "2023-06-03T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "br",
+        "stage": "knihovna",
+        "event": "xhd9rq",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T16:30:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
+        }
+      },
+      {
+        "id": "bs",
+        "stage": "knihovna",
+        "event": "7xm3jk",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:45:00+02:00",
+          "end": "2023-06-03T19:00:00+02:00"
+        }
+      },
+      {
+        "id": "bt",
+        "stage": "klenbovy-sal",
+        "event": "u97gem",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:30:00+02:00",
+          "end": "2023-06-03T12:00:00+02:00"
+        }
+      },
+      {
+        "id": "bu",
+        "stage": "lustrovy-sal",
+        "event": "trkts9",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:45:00+02:00",
+          "end": "2023-06-03T15:30:00+02:00"
+        }
+      },
+      {
+        "id": "bv",
+        "stage": "lustrovy-sal",
+        "event": "nuqnnr",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:30:00+02:00",
+          "end": "2023-06-04T16:00:00+02:00"
+        }
+      },
+      {
+        "id": "bw",
+        "stage": "lustrovy-sal",
+        "event": "a3cvwf",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:45:00+02:00",
+          "end": "2023-06-04T15:30:00+02:00"
+        }
+      },
+      {
+        "id": "bx",
+        "stage": "rajska-zahrada",
+        "event": "wnuwjq",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:05:00+02:00",
+          "end": "2023-06-03T11:50:00+02:00"
+        }
+      },
+      {
+        "id": "by",
+        "stage": "lustrovy-sal",
+        "event": "7yrec7",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:30:00+02:00",
+          "end": "2023-06-03T16:15:00+02:00"
+        }
+      },
+      {
+        "id": "bz",
+        "stage": "lustrovy-sal",
+        "event": "999mvd",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T12:15:00+02:00",
+          "end": "2023-06-04T13:00:00+02:00"
+        }
+      },
+      {
+        "id": "b0",
+        "stage": "rajska-zahrada",
+        "event": "k3clmy",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:00:00+02:00",
+          "end": "2023-06-03T14:50:00+02:00"
+        }
+      },
+      {
+        "id": "b1",
+        "stage": "rajska-zahrada",
+        "event": "kedt7t",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:45:00+02:00"
+        }
+      },
+      {
+        "id": "b2",
+        "stage": "rajska-zahrada",
+        "event": "tlx7am",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T12:00:00+02:00",
+          "end": "2023-06-03T12:45:00+02:00"
+        }
+      },
+      {
+        "id": "b3",
+        "stage": "campfire-outdoor",
+        "event": "gbdhzk",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:15:00+02:00",
+          "end": "2023-06-03T12:00:00+02:00"
+        }
+      },
+      {
+        "id": "b4",
+        "stage": "rajska-zahrada",
+        "event": "rmnnhb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T09:45:00+02:00",
+          "end": "2023-06-03T10:00:00+02:00"
+        }
+      },
+      {
+        "id": "b5",
+        "stage": "knihovna",
+        "event": "jl7hct",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:45:00+02:00",
+          "end": "2023-06-03T16:30:00+02:00"
+        }
+      },
+      {
+        "id": "b6",
+        "stage": "rajska-zahrada",
+        "event": "wy9dhd",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T15:00:00+02:00",
+          "end": "2023-06-03T16:15:00+02:00"
+        }
+      },
+      {
+        "id": "b7",
+        "stage": "knihovna",
+        "event": "lqhknm",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T12:15:00+02:00",
+          "end": "2023-06-04T13:15:00+02:00"
+        }
+      },
+      {
+        "id": "b8",
+        "stage": "klenbovy-sal",
+        "event": "3h9wvy",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:15:00+02:00",
+          "end": "2023-06-04T14:40:00+02:00"
+        }
+      },
+      {
+        "id": "b9",
+        "stage": "knihovna",
+        "event": "uhfqnn",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:15:00+02:00",
+          "end": "2023-06-03T12:30:00+02:00"
+        }
+      },
+      {
+        "id": "ca",
+        "stage": "lustrovy-sal",
+        "event": "bwzanq",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:45:00+02:00",
+          "end": "2023-06-04T11:30:00+02:00"
+        }
+      },
+      {
+        "id": "cb",
+        "stage": "lustrovy-sal",
+        "event": "apazac",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T18:00:00+02:00",
+          "end": "2023-06-03T19:00:00+02:00"
+        }
+      },
+      {
+        "id": "cc",
+        "stage": "rajska-zahrada",
+        "event": "awkdfc",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T13:15:00+02:00",
+          "end": "2023-06-04T13:55:00+02:00"
+        }
+      },
+      {
+        "id": "cd",
+        "stage": "rajska-zahrada",
+        "event": "twxrus",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:30:00+02:00",
+          "end": "2023-06-03T18:15:00+02:00"
+        }
+      },
+      {
+        "id": "ce",
+        "stage": "campfire-outdoor",
+        "event": "ya8qag",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:15:00+02:00",
+          "end": "2023-06-04T11:00:00+02:00"
+        }
+      },
+      {
+        "id": "cf",
+        "stage": "knihovna",
+        "event": "drepkt",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "cg",
+        "stage": "rajska-zahrada",
+        "event": "9mfgcl",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:00:00+02:00",
+          "end": "2023-06-04T14:45:00+02:00"
+        }
+      },
+      {
+        "id": "ch",
+        "stage": "rajska-zahrada",
+        "event": "m3yc99",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:00:00+02:00",
+          "end": "2023-06-03T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "ci",
+        "stage": "rajska-zahrada",
+        "event": "eqfufu",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T17:30:00+02:00",
+          "end": "2023-06-04T17:45:00+02:00"
+        }
+      },
+      {
+        "id": "cj",
+        "stage": "klenbovy-sal",
+        "event": "ejwr8f",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:30:00+02:00",
+          "end": "2023-06-04T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "ck",
+        "stage": "knihovna",
+        "event": "furanp",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T13:15:00+02:00",
+          "end": "2023-06-04T14:15:00+02:00"
+        }
+      },
+      {
+        "id": "cl",
+        "stage": "campfire-outdoor",
+        "event": "l3f8jx",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:45:00+02:00",
+          "end": "2023-06-03T14:45:00+02:00"
+        }
+      },
+      {
+        "id": "cm",
+        "stage": "klenbovy-sal",
+        "event": "7ept99",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T12:00:00+02:00",
+          "end": "2023-06-04T12:45:00+02:00"
+        }
+      },
+      {
+        "id": "cn",
+        "stage": "klenbovy-sal",
+        "event": "3xnjrt",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T13:30:00+02:00",
+          "end": "2023-06-03T14:05:00+02:00"
+        }
+      },
+      {
+        "id": "co",
+        "stage": "knihovna",
+        "event": "xlmfqt",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T09:00:00+02:00",
+          "end": "2023-06-04T10:00:00+02:00"
+        }
+      },
+      {
+        "id": "cp",
+        "stage": "klenbovy-sal",
+        "event": "789mam",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T11:15:00+02:00",
+          "end": "2023-06-04T12:00:00+02:00"
+        }
+      },
+      {
+        "id": "cq",
+        "stage": "campfire-outdoor",
+        "event": "gkplvz",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:00:00+02:00",
+          "end": "2023-06-04T15:00:00+02:00"
+        }
+      },
+      {
+        "id": "cr",
+        "stage": "rajska-zahrada",
+        "event": "asxb3t",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T16:15:00+02:00"
+        }
+      },
+      {
+        "id": "cs",
+        "stage": "knihovna",
+        "event": "c7v799",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:15:00+02:00",
+          "end": "2023-06-04T16:30:00+02:00"
+        }
+      },
+      {
+        "id": "ct",
+        "stage": "lustrovy-sal",
+        "event": "jyzbnf",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:00:00+02:00",
+          "end": "2023-06-03T11:45:00+02:00"
+        }
+      },
+      {
+        "id": "cu",
+        "stage": "campfire-outdoor",
+        "event": "brrqjb",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T19:00:00+02:00",
+          "end": "2023-06-03T20:30:00+02:00"
+        }
+      },
+      {
+        "id": "cv",
+        "stage": "rajska-zahrada",
+        "event": "qsudxa",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T21:00:00+02:00",
+          "end": "2023-06-04T00:00:00+02:00"
+        }
+      }
+    ]
   },
   "stats": {
     "counts": {
@@ -3018,8 +3960,9 @@
       "events": 94,
       "stages": 6,
       "faqs": 5,
-      "partners": 17
+      "partners": 17,
+      "schedule": 94
     }
   },
-  "time": "2023-05-25T19:56:51.157Z"
+  "time": "2023-05-25T19:57:51.410Z"
 }
