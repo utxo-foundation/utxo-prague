@@ -184,8 +184,8 @@
 - id: dy87a8
   type: talk
   name: >-
-    Aktuálni ekonomická situace a její vliv na cenu jednotlivých investičních
-    aktiv.
+    Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních
+    aktiv
   speakers:
     - libor-flossler
   duration: 45
@@ -195,7 +195,7 @@
     dnes vyplatí investovat, na co si dát pozor a jak omezit riziko na minimum?
     Liborův pohled na aktuální ekonomickou situaci a jeho názor na to, jak dnes
     nakládat s riziky a jak by mohlo vypadat investiční portfolio.
-  track: spolecnost
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: 9989p3
   type: campfire
   name: Bitcoin maximalismus - feature nebo bug?
@@ -372,7 +372,8 @@
   name: Co hýbe světem Metaverse
   speakers:
     - julie-sislerova
-  duration: 20
+    - artur-sychov
+  duration: 45
   description: ''
   track: nft
 - id: r3ectq
@@ -382,6 +383,7 @@
     - radek-svarz
   duration: 30
   description: "DeFi i práce s NFT stojí na principu, že uživatelé mají plnou kontrolu nad svými prostředky. To vyžaduje důvěru v několik technologií a obezřetné jednání. \r\n\r\nPodepisováním transakce uživatel výslovně potvrzuje, že rozumí tomu, co podepisuje. Je toto platný předpoklad?\r\n\r\nSlepé podepisování transakcí způsobilo ztráty uživatelům v řádech milionů USD.\r\n\r\nProbereme útoky i možná řešení."
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: uvv38z
   type: talk
   name: VR/AR + AI + Blockchain = <3
@@ -400,7 +402,7 @@
   name: NFT jako vstupenka
   speakers:
     - antonin-jilek
-  duration: 45
+  duration: 20
   description: ''
   track: nft
 - id: ypsb3r
@@ -467,7 +469,7 @@
   type: panel
   name: Impact DAOs
   speakers:
-    - vladimir-pinker
+    - jacob-jelen
     - vojtech-olbrecht
     - dalibor-cerny
   duration: 60
@@ -844,7 +846,7 @@
     krypta pro firmu. Cílem je návštěvníkům poskytnout informace pro
     vyhodnocení, zda a jak krypto implementovat a na co si dát pozor, aby se
     firma nedostala do problémů s úřady.
-  track: regulace
+  track: kryptopodnikani
 - id: 9mfgcl
   type: talk
   name: Liberland - první decentralizovaná autonomní vláda
@@ -1009,3 +1011,10 @@
   duration: 180
   description: ''
   track: !<tag:yaml.org,2002:js/undefined> ''
+- id: eut83q
+  type: talk
+  name: 'Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let'
+  speakers: []
+  duration: 45
+  description: ''
+  track: defi
