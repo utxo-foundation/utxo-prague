@@ -30,4 +30,4 @@ specDef:
 #  - type: projects
   - type: team
 #  - type: practical-info
-#  - type: schedule
+  - type: schedule
