@@ -31,8 +31,8 @@
     "eventId": "tqmyhb",
     "name": "Diskuze/panelovka lidí, kteří tvoří content o kryptu",
     "period": {
-      "start": "2023-06-03T15:45:00+02:00",
-      "end": "2023-06-03T16:30:00+02:00"
+      "start": "2023-06-03T16:15:00+02:00",
+      "end": "2023-06-03T17:00:00+02:00"
     }
   },
   {
@@ -40,8 +40,8 @@
     "eventId": "nxpqtx",
     "name": "Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?",
     "period": {
-      "start": "2023-06-03T15:30:00+02:00",
-      "end": "2023-06-03T16:15:00+02:00"
+      "start": "2023-06-03T14:45:00+02:00",
+      "end": "2023-06-03T15:30:00+02:00"
     }
   },
   {
@@ -85,8 +85,8 @@
     "eventId": "jptwkd",
     "name": "Holky ve web3 a Metaverse",
     "period": {
-      "start": "2023-06-04T12:00:00+02:00",
-      "end": "2023-06-04T13:15:00+02:00"
+      "start": "2023-06-04T11:30:00+02:00",
+      "end": "2023-06-04T12:45:00+02:00"
     }
   },
   {
@@ -94,8 +94,8 @@
     "eventId": "3mwenq",
     "name": "Vnímání světa kryptoměn z pozice institucionálního investora v roce 2023 (po pádu FTX)",
     "period": {
-      "start": "2023-06-04T12:45:00+02:00",
-      "end": "2023-06-04T13:30:00+02:00"
+      "start": "2023-06-04T12:15:00+02:00",
+      "end": "2023-06-04T13:00:00+02:00"
     }
   },
   {
@@ -112,8 +112,8 @@
     "eventId": "wke3pb",
     "name": "Secret Network a soukromí jako služba",
     "period": {
-      "start": "2023-06-03T10:00:00+02:00",
-      "end": "2023-06-03T10:45:00+02:00"
+      "start": "2023-06-03T13:15:00+02:00",
+      "end": "2023-06-03T14:00:00+02:00"
     }
   },
   {
@@ -130,8 +130,8 @@
     "eventId": "vjlrdv",
     "name": "Krypto a nemovitosti",
     "period": {
-      "start": "2023-06-04T10:00:00+02:00",
-      "end": "2023-06-04T10:45:00+02:00"
+      "start": "2023-06-04T14:00:00+02:00",
+      "end": "2023-06-04T14:45:00+02:00"
     }
   },
   {
@@ -148,14 +148,14 @@
     "eventId": "x9rgpd",
     "name": "Rok v Sorare aneb Dá se živit sledováním fotbalu?",
     "period": {
-      "start": "2023-06-04T15:00:00+02:00",
-      "end": "2023-06-04T15:45:00+02:00"
+      "start": "2023-06-04T15:15:00+02:00",
+      "end": "2023-06-04T16:00:00+02:00"
     }
   },
   {
     "id": "ar",
     "eventId": "dy87a8",
-    "name": "Aktuálni ekonomická situace a její vliv na cenu jednotlivých investičních aktiv.",
+    "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
     "period": {
       "start": "2023-06-04T14:00:00+02:00",
       "end": "2023-06-04T14:45:00+02:00"
@@ -166,8 +166,8 @@
     "eventId": "9989p3",
     "name": "Bitcoin maximalismus - feature nebo bug?",
     "period": {
-      "start": "2023-06-03T13:00:00+02:00",
-      "end": "2023-06-03T13:45:00+02:00"
+      "start": "2023-06-03T12:45:00+02:00",
+      "end": "2023-06-03T13:30:00+02:00"
     }
   },
   {
@@ -175,8 +175,8 @@
     "eventId": "f3qqdj",
     "name": "Jak se bránit nocoinerům",
     "period": {
-      "start": "2023-06-04T13:00:00+02:00",
-      "end": "2023-06-04T13:45:00+02:00"
+      "start": "2023-06-04T14:15:00+02:00",
+      "end": "2023-06-04T15:00:00+02:00"
     }
   },
   {
@@ -184,8 +184,8 @@
     "eventId": "3y8esm",
     "name": "KryptoVláďa komunitní campfire",
     "period": {
-      "start": "2023-06-03T15:15:00+02:00",
-      "end": "2023-06-03T15:45:00+02:00"
+      "start": "2023-06-03T14:30:00+02:00",
+      "end": "2023-06-03T15:00:00+02:00"
     }
   },
   {
@@ -202,8 +202,8 @@
     "eventId": "3vrsv8",
     "name": "Meta protokoly nad Bitcoinom",
     "period": {
-      "start": "2023-06-03T10:45:00+02:00",
-      "end": "2023-06-03T11:30:00+02:00"
+      "start": "2023-06-03T11:00:00+02:00",
+      "end": "2023-06-03T11:45:00+02:00"
     }
   },
   {
@@ -211,8 +211,8 @@
     "eventId": "9gbjwt",
     "name": "Využití NFT při tokenizaci byznysů: proč, jak a k čemu?",
     "period": {
-      "start": "2023-06-03T12:00:00+02:00",
-      "end": "2023-06-03T12:45:00+02:00"
+      "start": "2023-06-03T10:00:00+02:00",
+      "end": "2023-06-03T10:45:00+02:00"
     }
   },
   {
@@ -229,8 +229,8 @@
     "eventId": "7lxjzl",
     "name": "Krypto-filantropie roste i v bear-marketu. Proč jí věnovat pozornost?",
     "period": {
-      "start": "2023-06-04T11:15:00+02:00",
-      "end": "2023-06-04T12:00:00+02:00"
+      "start": "2023-06-04T10:45:00+02:00",
+      "end": "2023-06-04T11:30:00+02:00"
     }
   },
   {
@@ -238,8 +238,8 @@
     "eventId": "p9una9",
     "name": "Koruna česká na blockchainu (CZK stablecoin) po roce",
     "period": {
-      "start": "2023-06-03T14:15:00+02:00",
-      "end": "2023-06-03T14:45:00+02:00"
+      "start": "2023-06-03T10:30:00+02:00",
+      "end": "2023-06-03T11:00:00+02:00"
     }
   },
   {
@@ -247,8 +247,8 @@
     "eventId": "vayuas",
     "name": "Jak na rizika DeFi půjček a APUS.finance AMA",
     "period": {
-      "start": "2023-06-04T11:00:00+02:00",
-      "end": "2023-06-04T11:45:00+02:00"
+      "start": "2023-06-04T13:15:00+02:00",
+      "end": "2023-06-04T14:00:00+02:00"
     }
   },
   {
@@ -265,8 +265,8 @@
     "eventId": "rdhxzb",
     "name": "Šmíráci - co o vás sbírají web3 a finanční aplikace",
     "period": {
-      "start": "2023-06-03T10:00:00+02:00",
-      "end": "2023-06-03T10:45:00+02:00"
+      "start": "2023-06-03T12:00:00+02:00",
+      "end": "2023-06-03T12:45:00+02:00"
     }
   },
   {
@@ -274,8 +274,8 @@
     "eventId": "7ydeft",
     "name": "Co hýbe světem Metaverse",
     "period": {
-      "start": "2023-06-03T14:45:00+02:00",
-      "end": "2023-06-03T15:05:00+02:00"
+      "start": "2023-06-03T15:15:00+02:00",
+      "end": "2023-06-03T16:00:00+02:00"
     }
   },
   {
@@ -283,8 +283,8 @@
     "eventId": "r3ectq",
     "name": "Jak přijít o peníze - slepé podepisování smart kontraktů",
     "period": {
-      "start": "2023-06-04T10:00:00+02:00",
-      "end": "2023-06-04T10:30:00+02:00"
+      "start": "2023-06-03T17:45:00+02:00",
+      "end": "2023-06-03T18:15:00+02:00"
     }
   },
   {
@@ -292,8 +292,8 @@
     "eventId": "uvv38z",
     "name": "VR/AR + AI + Blockchain = <3",
     "period": {
-      "start": "2023-06-03T12:45:00+02:00",
-      "end": "2023-06-03T13:30:00+02:00"
+      "start": "2023-06-03T12:30:00+02:00",
+      "end": "2023-06-03T13:15:00+02:00"
     }
   },
   {
@@ -301,8 +301,8 @@
     "eventId": "w7ka7w",
     "name": "NFT jako vstupenka",
     "period": {
-      "start": "2023-06-03T17:00:00+02:00",
-      "end": "2023-06-03T17:45:00+02:00"
+      "start": "2023-06-03T18:00:00+02:00",
+      "end": "2023-06-03T18:20:00+02:00"
     }
   },
   {
@@ -310,8 +310,8 @@
     "eventId": "ypsb3r",
     "name": "DIGITALNÍ IDENTITA: minulost, současnost, budoucnost.",
     "period": {
-      "start": "2023-06-03T14:45:00+02:00",
-      "end": "2023-06-03T15:30:00+02:00"
+      "start": "2023-06-03T14:00:00+02:00",
+      "end": "2023-06-03T14:45:00+02:00"
     }
   },
   {
@@ -364,8 +364,8 @@
     "eventId": "zcayjb",
     "name": "Decentralizované směnárny - co nabízí a proč je využívat?",
     "period": {
-      "start": "2023-06-04T13:30:00+02:00",
-      "end": "2023-06-04T14:15:00+02:00"
+      "start": "2023-06-04T10:00:00+02:00",
+      "end": "2023-06-04T10:45:00+02:00"
     }
   },
   {
@@ -391,8 +391,8 @@
     "eventId": "tvzbz7",
     "name": "Jak si najít a udržet progresivní práci ve Web3?",
     "period": {
-      "start": "2023-06-03T12:00:00+02:00",
-      "end": "2023-06-03T12:45:00+02:00"
+      "start": "2023-06-03T11:45:00+02:00",
+      "end": "2023-06-03T12:30:00+02:00"
     }
   },
   {
@@ -400,8 +400,8 @@
     "eventId": "qh73vp",
     "name": "Strategie pro správu investičního portfolia krypto aktiv",
     "period": {
-      "start": "2023-06-04T13:00:00+02:00",
-      "end": "2023-06-04T13:45:00+02:00"
+      "start": "2023-06-04T10:00:00+02:00",
+      "end": "2023-06-04T10:45:00+02:00"
     }
   },
   {
@@ -409,8 +409,8 @@
     "eventId": "p3qrwv",
     "name": "Jaké existují svobodné peníze?",
     "period": {
-      "start": "2023-06-03T17:45:00+02:00",
-      "end": "2023-06-03T18:30:00+02:00"
+      "start": "2023-06-03T17:00:00+02:00",
+      "end": "2023-06-03T17:45:00+02:00"
     }
   },
   {
@@ -472,8 +472,8 @@
     "eventId": "u97gem",
     "name": "Úvod do NFT",
     "period": {
-      "start": "2023-06-03T11:30:00+02:00",
-      "end": "2023-06-03T12:00:00+02:00"
+      "start": "2023-06-03T10:00:00+02:00",
+      "end": "2023-06-03T10:30:00+02:00"
     }
   },
   {
@@ -490,8 +490,8 @@
     "eventId": "nuqnnr",
     "name": "PoW vs. PoS - výhody a nevýhody",
     "period": {
-      "start": "2023-06-04T15:30:00+02:00",
-      "end": "2023-06-04T16:00:00+02:00"
+      "start": "2023-06-04T15:45:00+02:00",
+      "end": "2023-06-04T16:15:00+02:00"
     }
   },
   {
@@ -499,8 +499,8 @@
     "eventId": "a3cvwf",
     "name": "Bitcoin and cryptocurrencies as the most powerful liberalizing tool of global opportunism",
     "period": {
-      "start": "2023-06-04T14:45:00+02:00",
-      "end": "2023-06-04T15:30:00+02:00"
+      "start": "2023-06-04T15:00:00+02:00",
+      "end": "2023-06-04T15:45:00+02:00"
     }
   },
   {
@@ -508,8 +508,8 @@
     "eventId": "wnuwjq",
     "name": "Ako Bitcoin a cypherpunk technológie zvyšujú našu slobodu?",
     "period": {
-      "start": "2023-06-03T11:05:00+02:00",
-      "end": "2023-06-03T11:50:00+02:00"
+      "start": "2023-06-03T11:15:00+02:00",
+      "end": "2023-06-03T12:00:00+02:00"
     }
   },
   {
@@ -607,8 +607,8 @@
     "eventId": "3h9wvy",
     "name": "Web3 and Polkadot",
     "period": {
-      "start": "2023-06-04T14:15:00+02:00",
-      "end": "2023-06-04T14:40:00+02:00"
+      "start": "2023-06-04T15:45:00+02:00",
+      "end": "2023-06-04T16:10:00+02:00"
     }
   },
   {
@@ -643,8 +643,8 @@
     "eventId": "awkdfc",
     "name": "Pohled na loňský a příští rok v DeFi",
     "period": {
-      "start": "2023-06-04T13:15:00+02:00",
-      "end": "2023-06-04T13:55:00+02:00"
+      "start": "2023-06-04T13:00:00+02:00",
+      "end": "2023-06-04T13:40:00+02:00"
     }
   },
   {
@@ -661,8 +661,8 @@
     "eventId": "ya8qag",
     "name": "Od nováčka k lovci: Cesta do světa Crypto Airdropů",
     "period": {
-      "start": "2023-06-04T10:15:00+02:00",
-      "end": "2023-06-04T11:00:00+02:00"
+      "start": "2023-06-04T10:00:00+02:00",
+      "end": "2023-06-04T10:45:00+02:00"
     }
   },
   {
@@ -706,8 +706,8 @@
     "eventId": "ejwr8f",
     "name": "Vybíráme x86 hardware na stavbu bitcoinového nodu (prezentace)",
     "period": {
-      "start": "2023-06-04T10:30:00+02:00",
-      "end": "2023-06-04T11:15:00+02:00"
+      "start": "2023-06-04T10:45:00+02:00",
+      "end": "2023-06-04T11:30:00+02:00"
     }
   },
   {
@@ -724,8 +724,8 @@
     "eventId": "l3f8jx",
     "name": "Bankless: web3 media business, aneb business v cryptu",
     "period": {
-      "start": "2023-06-03T13:45:00+02:00",
-      "end": "2023-06-03T14:45:00+02:00"
+      "start": "2023-06-03T13:30:00+02:00",
+      "end": "2023-06-03T14:30:00+02:00"
     }
   },
   {
@@ -733,8 +733,8 @@
     "eventId": "7ept99",
     "name": "Význam komunít a dôležitosť networkingu (nielen) v krypte",
     "period": {
-      "start": "2023-06-04T12:00:00+02:00",
-      "end": "2023-06-04T12:45:00+02:00"
+      "start": "2023-06-04T13:00:00+02:00",
+      "end": "2023-06-04T13:45:00+02:00"
     }
   },
   {
@@ -742,8 +742,8 @@
     "eventId": "3xnjrt",
     "name": "Investuj jako fond",
     "period": {
-      "start": "2023-06-03T13:30:00+02:00",
-      "end": "2023-06-03T14:05:00+02:00"
+      "start": "2023-06-03T15:30:00+02:00",
+      "end": "2023-06-03T16:05:00+02:00"
     }
   },
   {
@@ -760,8 +760,8 @@
     "eventId": "789mam",
     "name": "Krypto podnikatelé mezi paragrafy",
     "period": {
-      "start": "2023-06-04T11:15:00+02:00",
-      "end": "2023-06-04T12:00:00+02:00"
+      "start": "2023-06-04T13:00:00+02:00",
+      "end": "2023-06-04T13:45:00+02:00"
     }
   },
   {
@@ -769,8 +769,8 @@
     "eventId": "gkplvz",
     "name": "Krypto-samo-regulace: Hacker vs. právník",
     "period": {
-      "start": "2023-06-04T14:00:00+02:00",
-      "end": "2023-06-04T15:00:00+02:00"
+      "start": "2023-06-04T11:15:00+02:00",
+      "end": "2023-06-04T12:15:00+02:00"
     }
   },
   {
@@ -814,8 +814,17 @@
     "eventId": "qsudxa",
     "name": "Sobotní párty by Somnium Space",
     "period": {
-      "start": "2023-06-03T21:00:00+02:00",
-      "end": "2023-06-04T00:00:00+02:00"
+      "start": "2023-06-03T20:00:00+02:00",
+      "end": "2023-06-03T23:00:00+02:00"
+    }
+  },
+  {
+    "id": "cw",
+    "eventId": "eut83q",
+    "name": "Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let",
+    "period": {
+      "start": "2023-06-04T11:30:00+02:00",
+      "end": "2023-06-04T12:15:00+02:00"
     }
   }
 ]

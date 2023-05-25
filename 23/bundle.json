@@ -1817,13 +1817,12 @@
       {
         "id": "dy87a8",
         "type": "talk",
-        "name": "Aktuálni ekonomická situace a její vliv na cenu jednotlivých investičních aktiv.",
+        "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
         "speakers": [
           "libor-flossler"
         ],
         "duration": 45,
-        "description": "Přednáška Libora z YouTube kanálu Investocka. Zkazili jsme si peníze. Pokud nepodstupujeme investiční riziko, náš majetek ztrácí na hodnotě. Do čeho se dnes vyplatí investovat, na co si dát pozor a jak omezit riziko na minimum? Liborův pohled na aktuální ekonomickou situaci a jeho názor na to, jak dnes nakládat s riziky a jak by mohlo vypadat investiční portfolio.",
-        "track": "spolecnost"
+        "description": "Přednáška Libora z YouTube kanálu Investocka. Zkazili jsme si peníze. Pokud nepodstupujeme investiční riziko, náš majetek ztrácí na hodnotě. Do čeho se dnes vyplatí investovat, na co si dát pozor a jak omezit riziko na minimum? Liborův pohled na aktuální ekonomickou situaci a jeho názor na to, jak dnes nakládat s riziky a jak by mohlo vypadat investiční portfolio."
       },
       {
         "id": "9989p3",
@@ -1993,9 +1992,10 @@
         "type": "campfire",
         "name": "Co hýbe světem Metaverse",
         "speakers": [
-          "julie-sislerova"
+          "julie-sislerova",
+          "artur-sychov"
         ],
-        "duration": 20,
+        "duration": 45,
         "description": "",
         "track": "nft"
       },
@@ -2027,7 +2027,7 @@
         "speakers": [
           "antonin-jilek"
         ],
-        "duration": 45,
+        "duration": 20,
         "description": "",
         "track": "nft"
       },
@@ -2092,7 +2092,7 @@
         "type": "panel",
         "name": "Impact DAOs",
         "speakers": [
-          "vladimir-pinker",
+          "jacob-jelen",
           "vojtech-olbrecht",
           "dalibor-cerny"
         ],
@@ -2484,7 +2484,7 @@
         ],
         "duration": 75,
         "description": "Workshop bude zaměřený na 7 nejčastějších způsobů implementace krypta do firmy, jejího podnikání a procesů. U jednotlivých způsobů si vysvětlíme hlavní právní, daňové a účetní souvislosti a projdeme hlavní výhody zavedení krypta pro firmu. Cílem je návštěvníkům poskytnout informace pro vyhodnocení, zda a jak krypto implementovat a na co si dát pozor, aby se firma nedostala do problémů s úřady.",
-        "track": "regulace"
+        "track": "kryptopodnikani"
       },
       {
         "id": "9mfgcl",
@@ -2656,6 +2656,15 @@
         "speakers": [],
         "duration": 180,
         "description": ""
+      },
+      {
+        "id": "eut83q",
+        "type": "talk",
+        "name": "Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let",
+        "speakers": [],
+        "duration": 45,
+        "description": "",
+        "track": "defi"
       }
     ],
     "stages": [
@@ -3027,7 +3036,7 @@
       },
       {
         "id": "ab",
-        "stage": "lustrovy-sal",
+        "stage": "klenbovy-sal",
         "event": "uttjmv",
         "date": "2023-06-04",
         "period": {
@@ -3051,8 +3060,8 @@
         "event": "tqmyhb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:45:00+02:00",
-          "end": "2023-06-03T16:30:00+02:00"
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:00:00+02:00"
         }
       },
       {
@@ -3061,8 +3070,8 @@
         "event": "nxpqtx",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:30:00+02:00",
-          "end": "2023-06-03T16:15:00+02:00"
+          "start": "2023-06-03T14:45:00+02:00",
+          "end": "2023-06-03T15:30:00+02:00"
         }
       },
       {
@@ -3111,8 +3120,8 @@
         "event": "jptwkd",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T12:00:00+02:00",
-          "end": "2023-06-04T13:15:00+02:00"
+          "start": "2023-06-04T11:30:00+02:00",
+          "end": "2023-06-04T12:45:00+02:00"
         }
       },
       {
@@ -3121,8 +3130,8 @@
         "event": "3mwenq",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T12:45:00+02:00",
-          "end": "2023-06-04T13:30:00+02:00"
+          "start": "2023-06-04T12:15:00+02:00",
+          "end": "2023-06-04T13:00:00+02:00"
         }
       },
       {
@@ -3141,8 +3150,8 @@
         "event": "wke3pb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:00:00+02:00",
-          "end": "2023-06-03T10:45:00+02:00"
+          "start": "2023-06-03T13:15:00+02:00",
+          "end": "2023-06-03T14:00:00+02:00"
         }
       },
       {
@@ -3157,12 +3166,12 @@
       },
       {
         "id": "ao",
-        "stage": "lustrovy-sal",
+        "stage": "klenbovy-sal",
         "event": "vjlrdv",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T10:00:00+02:00",
-          "end": "2023-06-04T10:45:00+02:00"
+          "start": "2023-06-04T14:00:00+02:00",
+          "end": "2023-06-04T14:45:00+02:00"
         }
       },
       {
@@ -3181,8 +3190,8 @@
         "event": "x9rgpd",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:00:00+02:00",
-          "end": "2023-06-04T15:45:00+02:00"
+          "start": "2023-06-04T15:15:00+02:00",
+          "end": "2023-06-04T16:00:00+02:00"
         }
       },
       {
@@ -3201,8 +3210,8 @@
         "event": "9989p3",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:00:00+02:00",
-          "end": "2023-06-03T13:45:00+02:00"
+          "start": "2023-06-03T12:45:00+02:00",
+          "end": "2023-06-03T13:30:00+02:00"
         }
       },
       {
@@ -3211,8 +3220,8 @@
         "event": "f3qqdj",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T13:00:00+02:00",
-          "end": "2023-06-04T13:45:00+02:00"
+          "start": "2023-06-04T14:15:00+02:00",
+          "end": "2023-06-04T15:00:00+02:00"
         }
       },
       {
@@ -3221,8 +3230,8 @@
         "event": "3y8esm",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:15:00+02:00",
-          "end": "2023-06-03T15:45:00+02:00"
+          "start": "2023-06-03T14:30:00+02:00",
+          "end": "2023-06-03T15:00:00+02:00"
         }
       },
       {
@@ -3241,8 +3250,8 @@
         "event": "3vrsv8",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:45:00+02:00",
-          "end": "2023-06-03T11:30:00+02:00"
+          "start": "2023-06-03T11:00:00+02:00",
+          "end": "2023-06-03T11:45:00+02:00"
         }
       },
       {
@@ -3251,8 +3260,8 @@
         "event": "9gbjwt",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T12:00:00+02:00",
-          "end": "2023-06-03T12:45:00+02:00"
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:45:00+02:00"
         }
       },
       {
@@ -3281,8 +3290,8 @@
         "event": "7lxjzl",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T11:15:00+02:00",
-          "end": "2023-06-04T12:00:00+02:00"
+          "start": "2023-06-04T10:45:00+02:00",
+          "end": "2023-06-04T11:30:00+02:00"
         }
       },
       {
@@ -3301,8 +3310,8 @@
         "event": "p9una9",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:15:00+02:00",
-          "end": "2023-06-03T14:45:00+02:00"
+          "start": "2023-06-03T10:30:00+02:00",
+          "end": "2023-06-03T11:00:00+02:00"
         }
       },
       {
@@ -3311,8 +3320,8 @@
         "event": "vayuas",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T11:00:00+02:00",
-          "end": "2023-06-04T11:45:00+02:00"
+          "start": "2023-06-04T13:15:00+02:00",
+          "end": "2023-06-04T14:00:00+02:00"
         }
       },
       {
@@ -3341,8 +3350,8 @@
         "event": "rdhxzb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:00:00+02:00",
-          "end": "2023-06-03T10:45:00+02:00"
+          "start": "2023-06-03T12:00:00+02:00",
+          "end": "2023-06-03T12:45:00+02:00"
         }
       },
       {
@@ -3351,28 +3360,28 @@
         "event": "7ydeft",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:45:00+02:00",
-          "end": "2023-06-03T15:05:00+02:00"
+          "start": "2023-06-03T15:15:00+02:00",
+          "end": "2023-06-03T16:00:00+02:00"
         }
       },
       {
         "id": "a8",
         "stage": "klenbovy-sal",
         "event": "r3ectq",
-        "date": "2023-06-04",
+        "date": "2023-06-03",
         "period": {
-          "start": "2023-06-04T10:00:00+02:00",
-          "end": "2023-06-04T10:30:00+02:00"
+          "start": "2023-06-03T17:45:00+02:00",
+          "end": "2023-06-03T18:15:00+02:00"
         }
       },
       {
         "id": "a9",
-        "stage": "klenbovy-sal",
+        "stage": "lustrovy-sal",
         "event": "uvv38z",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T12:45:00+02:00",
-          "end": "2023-06-03T13:30:00+02:00"
+          "start": "2023-06-03T12:30:00+02:00",
+          "end": "2023-06-03T13:15:00+02:00"
         }
       },
       {
@@ -3381,8 +3390,8 @@
         "event": "w7ka7w",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:00:00+02:00",
-          "end": "2023-06-03T17:45:00+02:00"
+          "start": "2023-06-03T18:00:00+02:00",
+          "end": "2023-06-03T18:20:00+02:00"
         }
       },
       {
@@ -3391,13 +3400,13 @@
         "event": "ypsb3r",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:45:00+02:00",
-          "end": "2023-06-03T15:30:00+02:00"
+          "start": "2023-06-03T14:00:00+02:00",
+          "end": "2023-06-03T14:45:00+02:00"
         }
       },
       {
         "id": "bc",
-        "stage": "lustrovy-sal",
+        "stage": "klenbovy-sal",
         "event": "97qelm",
         "date": "2023-06-03",
         "period": {
@@ -3451,8 +3460,8 @@
         "event": "zcayjb",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T13:30:00+02:00",
-          "end": "2023-06-04T14:15:00+02:00"
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
         }
       },
       {
@@ -3481,8 +3490,8 @@
         "event": "tvzbz7",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T12:00:00+02:00",
-          "end": "2023-06-03T12:45:00+02:00"
+          "start": "2023-06-03T11:45:00+02:00",
+          "end": "2023-06-03T12:30:00+02:00"
         }
       },
       {
@@ -3491,8 +3500,8 @@
         "event": "qh73vp",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T13:00:00+02:00",
-          "end": "2023-06-04T13:45:00+02:00"
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
         }
       },
       {
@@ -3501,8 +3510,8 @@
         "event": "p3qrwv",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:45:00+02:00",
-          "end": "2023-06-03T18:30:00+02:00"
+          "start": "2023-06-03T17:00:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
         }
       },
       {
@@ -3571,8 +3580,8 @@
         "event": "u97gem",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T11:30:00+02:00",
-          "end": "2023-06-03T12:00:00+02:00"
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:30:00+02:00"
         }
       },
       {
@@ -3587,12 +3596,12 @@
       },
       {
         "id": "bv",
-        "stage": "lustrovy-sal",
+        "stage": "klenbovy-sal",
         "event": "nuqnnr",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:30:00+02:00",
-          "end": "2023-06-04T16:00:00+02:00"
+          "start": "2023-06-04T15:45:00+02:00",
+          "end": "2023-06-04T16:15:00+02:00"
         }
       },
       {
@@ -3601,8 +3610,8 @@
         "event": "a3cvwf",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:45:00+02:00",
-          "end": "2023-06-04T15:30:00+02:00"
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T15:45:00+02:00"
         }
       },
       {
@@ -3611,8 +3620,8 @@
         "event": "wnuwjq",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T11:05:00+02:00",
-          "end": "2023-06-03T11:50:00+02:00"
+          "start": "2023-06-03T11:15:00+02:00",
+          "end": "2023-06-03T12:00:00+02:00"
         }
       },
       {
@@ -3717,12 +3726,12 @@
       },
       {
         "id": "b8",
-        "stage": "klenbovy-sal",
+        "stage": "lustrovy-sal",
         "event": "3h9wvy",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:15:00+02:00",
-          "end": "2023-06-04T14:40:00+02:00"
+          "start": "2023-06-04T15:45:00+02:00",
+          "end": "2023-06-04T16:10:00+02:00"
         }
       },
       {
@@ -3761,8 +3770,8 @@
         "event": "awkdfc",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T13:15:00+02:00",
-          "end": "2023-06-04T13:55:00+02:00"
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:40:00+02:00"
         }
       },
       {
@@ -3781,8 +3790,8 @@
         "event": "ya8qag",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T10:15:00+02:00",
-          "end": "2023-06-04T11:00:00+02:00"
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
         }
       },
       {
@@ -3831,8 +3840,8 @@
         "event": "ejwr8f",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T10:30:00+02:00",
-          "end": "2023-06-04T11:15:00+02:00"
+          "start": "2023-06-04T10:45:00+02:00",
+          "end": "2023-06-04T11:30:00+02:00"
         }
       },
       {
@@ -3851,18 +3860,18 @@
         "event": "l3f8jx",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:45:00+02:00",
-          "end": "2023-06-03T14:45:00+02:00"
+          "start": "2023-06-03T13:30:00+02:00",
+          "end": "2023-06-03T14:30:00+02:00"
         }
       },
       {
         "id": "cm",
-        "stage": "klenbovy-sal",
+        "stage": "lustrovy-sal",
         "event": "7ept99",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T12:00:00+02:00",
-          "end": "2023-06-04T12:45:00+02:00"
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:45:00+02:00"
         }
       },
       {
@@ -3871,8 +3880,8 @@
         "event": "3xnjrt",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:30:00+02:00",
-          "end": "2023-06-03T14:05:00+02:00"
+          "start": "2023-06-03T15:30:00+02:00",
+          "end": "2023-06-03T16:05:00+02:00"
         }
       },
       {
@@ -3891,8 +3900,8 @@
         "event": "789mam",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T11:15:00+02:00",
-          "end": "2023-06-04T12:00:00+02:00"
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:45:00+02:00"
         }
       },
       {
@@ -3901,8 +3910,8 @@
         "event": "gkplvz",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:00:00+02:00",
-          "end": "2023-06-04T15:00:00+02:00"
+          "start": "2023-06-04T11:15:00+02:00",
+          "end": "2023-06-04T12:15:00+02:00"
         }
       },
       {
@@ -3951,8 +3960,18 @@
         "event": "qsudxa",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T21:00:00+02:00",
-          "end": "2023-06-04T00:00:00+02:00"
+          "start": "2023-06-03T20:00:00+02:00",
+          "end": "2023-06-03T23:00:00+02:00"
+        }
+      },
+      {
+        "id": "cw",
+        "stage": "lustrovy-sal",
+        "event": "eut83q",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T11:30:00+02:00",
+          "end": "2023-06-04T12:15:00+02:00"
         }
       }
     ]
@@ -3962,12 +3981,12 @@
       "speakers": 73,
       "tracks": 11,
       "event-types": 7,
-      "events": 94,
+      "events": 95,
       "stages": 6,
       "faqs": 5,
       "partners": 17,
-      "schedule": 94
+      "schedule": 95
     }
   },
-  "time": "2023-05-25T20:40:30.897Z"
+  "time": "2023-05-25T21:48:21.864Z"
 }

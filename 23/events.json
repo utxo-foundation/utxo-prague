@@ -189,13 +189,12 @@
   {
     "id": "dy87a8",
     "type": "talk",
-    "name": "Aktuálni ekonomická situace a její vliv na cenu jednotlivých investičních aktiv.",
+    "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
     "speakers": [
       "libor-flossler"
     ],
     "duration": 45,
-    "description": "Přednáška Libora z YouTube kanálu Investocka. Zkazili jsme si peníze. Pokud nepodstupujeme investiční riziko, náš majetek ztrácí na hodnotě. Do čeho se dnes vyplatí investovat, na co si dát pozor a jak omezit riziko na minimum? Liborův pohled na aktuální ekonomickou situaci a jeho názor na to, jak dnes nakládat s riziky a jak by mohlo vypadat investiční portfolio.",
-    "track": "spolecnost"
+    "description": "Přednáška Libora z YouTube kanálu Investocka. Zkazili jsme si peníze. Pokud nepodstupujeme investiční riziko, náš majetek ztrácí na hodnotě. Do čeho se dnes vyplatí investovat, na co si dát pozor a jak omezit riziko na minimum? Liborův pohled na aktuální ekonomickou situaci a jeho názor na to, jak dnes nakládat s riziky a jak by mohlo vypadat investiční portfolio."
   },
   {
     "id": "9989p3",
@@ -365,9 +364,10 @@
     "type": "campfire",
     "name": "Co hýbe světem Metaverse",
     "speakers": [
-      "julie-sislerova"
+      "julie-sislerova",
+      "artur-sychov"
     ],
-    "duration": 20,
+    "duration": 45,
     "description": "",
     "track": "nft"
   },
@@ -399,7 +399,7 @@
     "speakers": [
       "antonin-jilek"
     ],
-    "duration": 45,
+    "duration": 20,
     "description": "",
     "track": "nft"
   },
@@ -464,7 +464,7 @@
     "type": "panel",
     "name": "Impact DAOs",
     "speakers": [
-      "vladimir-pinker",
+      "jacob-jelen",
       "vojtech-olbrecht",
       "dalibor-cerny"
     ],
@@ -856,7 +856,7 @@
     ],
     "duration": 75,
     "description": "Workshop bude zaměřený na 7 nejčastějších způsobů implementace krypta do firmy, jejího podnikání a procesů. U jednotlivých způsobů si vysvětlíme hlavní právní, daňové a účetní souvislosti a projdeme hlavní výhody zavedení krypta pro firmu. Cílem je návštěvníkům poskytnout informace pro vyhodnocení, zda a jak krypto implementovat a na co si dát pozor, aby se firma nedostala do problémů s úřady.",
-    "track": "regulace"
+    "track": "kryptopodnikani"
   },
   {
     "id": "9mfgcl",
@@ -1028,5 +1028,14 @@
     "speakers": [],
     "duration": 180,
     "description": ""
+  },
+  {
+    "id": "eut83q",
+    "type": "talk",
+    "name": "Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let",
+    "speakers": [],
+    "duration": 45,
+    "description": "",
+    "track": "defi"
   }
 ]
