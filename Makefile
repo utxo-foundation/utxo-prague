@@ -96,3 +96,9 @@ schedule-pdf:
 
 id:
 	deno run --unstable --allow-read utils/schedule-id.js
+
+install:
+	deno cache ./utils/*.js
+
+pretalx-sync:
+	deno run --unstable --allow-read --allow-write --allow-net --allow-env utils/pretalx-sync.js $(entry) $(cmd)

@@ -1,5 +1,5 @@
 import { format, parse } from "https://deno.land/std@0.139.0/datetime/mod.ts";
-import { createHash } from "https://deno.land/std/hash/mod.ts";
+import { createHash } from "https://deno.land/std@0.160.0/hash/mod.ts";
 import { UTXOEngine } from "./engine.js";
 import { isPeriodOverlap } from "./periods.js";
 import { genId } from "./genid.js";

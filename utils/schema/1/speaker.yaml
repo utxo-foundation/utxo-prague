@@ -79,3 +79,5 @@ properties:
           type: string
           format: date-time
     title: Dostupnosti
+  pretalxId:
+    type: string

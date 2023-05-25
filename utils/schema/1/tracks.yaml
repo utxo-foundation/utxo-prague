@@ -17,3 +17,5 @@ items:
       type: string
     hidden:
       type: boolean
+    pretalxId:
+      type: string
