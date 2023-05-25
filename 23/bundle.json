@@ -7,6 +7,11 @@
     "2023-06-03",
     "2023-06-04"
   ],
+  "scheduleTimes": [
+    "1/09:45-20:00/Sobota 3.6.",
+    "1/19:00-22:00/Somnium Party (sobota 4.6.)",
+    "2/09:00-19:00/Neděle 4.6."
+  ],
   "place": "Gabriel Loci, Praha",
   "country": "Czech Republic",
   "links": {
@@ -3964,5 +3969,5 @@
       "schedule": 94
     }
   },
-  "time": "2023-05-25T19:57:51.410Z"
+  "time": "2023-05-25T20:40:30.897Z"
 }
