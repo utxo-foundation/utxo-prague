@@ -230,6 +230,7 @@
         "bio": "Technical educator, PhD in statistics",
         "orgs": "Technical educator [web3 foundation](https://web3.foundation/)\n",
         "caption": "Technical educator, PhD in statistics\n",
+        "desc": "Filippo has a PhD in statistics & drone engineering. He previously taught statistical computing and data analysis. Filippo strongly believes in the Web3 vision of having a privacy-focused, secure, and decentralized internet where power is given back to the users. The complexity of Web3 technology can be intimidating, and it is still a major blocking element behind mainstream adoption. Filippo is excited to educate professionals and the general public about Web3 and blockchain technology.\n",
         "tracks": [
           "zaklady",
           "alty"
@@ -735,6 +736,24 @@
         "photos": [
           "web:jpg",
           "twitter:jpg"
+        ]
+      },
+      {
+        "id": "marianna-sadecka",
+        "name": "Marianna Sádecká",
+        "twitter": "SadeckaMarianna",
+        "bio": "Moderátorka",
+        "orgs": "Spoluzakladateľka [Paralelná Polis Bratislava](https://paralelnapolis.sk/homepage/), [Slovak Students for Liberty](https://www.studentsforliberty.sk/), [liberation.travel](https://liberation.travel/).\n",
+        "caption": "Moderátorka\n",
+        "tracks": [
+          "zaklady",
+          "btc",
+          "spolecnost"
+        ],
+        "country": "sk",
+        "desc": "Marianna Sádecká is Austrian Economist, co-founder of Slovak Students for Liberty and Paralelná Polis Bratislava, moderator of digital security podcast Lokálhosť, writer, psychonaut and liberation-traveler.\n",
+        "photos": [
+          "web:webp"
         ]
       },
       {
@@ -1747,12 +1766,12 @@
   },
   "stats": {
     "counts": {
-      "speakers": 72,
+      "speakers": 73,
       "tracks": 10,
       "event-types": 7,
       "faqs": 5,
       "partners": 17
     }
   },
-  "time": "2023-05-25T13:44:20.493Z"
+  "time": "2023-05-25T18:38:35.709Z"
 }
