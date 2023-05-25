@@ -495,19 +495,6 @@
   country: cz
   lead: true
 
-- id: bozena-rezab
-  name: Bozena Rezab
-  twitter: anestetica
-  orgs: |
-    CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)
-  caption: |
-    CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)
-  desc:
-    Bozena Rezab je generální ředitelkou a spoluzakladatelkou GAMEE, herní platformy s více než 40 miliony uživatelů spojující metaverse, hráče, značky a we3 komunity ve hře. Bozeny rolí je strategie GAMEE a představování práv na digitální vlastnictví a hodnotu blockchainu hernímu publiku. Před GAMEE byla zodpovědná za růst YouTube na evropských trzích.
-  tracks: [ nft ]
-  country: cz
-  lead: true
-
 - id: vojtech-olbrecht
   name: Vojtěch Olbrecht
   twitter: vojtecholbrecht
