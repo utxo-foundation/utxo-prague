@@ -23,6 +23,8 @@
     "speakers": "https://spec.utxo.cz/23/speakers.json",
     "tracks": "https://spec.utxo.cz/23/tracks.json",
     "event-types": "https://spec.utxo.cz/23/event-types.json",
+    "events": "https://spec.utxo.cz/23/events.json",
+    "stages": "https://spec.utxo.cz/23/stages.json",
     "faqs": "https://spec.utxo.cz/23/faqs.json",
     "partners": "https://spec.utxo.cz/23/partners.json",
     "team": "https://spec.utxo.cz/23/team.json"
@@ -30,11 +32,13 @@
   "stats": {
     "counts": {
       "speakers": 73,
-      "tracks": 10,
+      "tracks": 11,
       "event-types": 7,
+      "events": 77,
+      "stages": 10,
       "faqs": 5,
       "partners": 17
     }
   },
-  "time": "2023-05-25T18:38:35.709Z"
+  "time": "2023-05-25T18:44:42.769Z"
 }

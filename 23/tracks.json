@@ -53,6 +53,11 @@
     "examples": "* odluka peněz od státu\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* představení lokálních krypto-komunit\n* fenomén maximalismu\n"
   },
   {
+    "id": "kryptopodnikani",
+    "name": "Krypto a podnikání",
+    "shortname": "Kryptopodnikání"
+  },
+  {
     "id": "other",
     "name": "Ostatní",
     "hidden": true
