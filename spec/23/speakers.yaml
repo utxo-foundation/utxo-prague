@@ -783,6 +783,8 @@
     Technical educator [web3 foundation](https://web3.foundation/)
   caption: |
     Technical educator, PhD in statistics
+  desc: |
+    Filippo has a PhD in statistics & drone engineering. He previously taught statistical computing and data analysis. Filippo strongly believes in the Web3 vision of having a privacy-focused, secure, and decentralized internet where power is given back to the users. The complexity of Web3 technology can be intimidating, and it is still a major blocking element behind mainstream adoption. Filippo is excited to educate professionals and the general public about Web3 and blockchain technology.
   tracks: [ zaklady, alty ]
   country: ch
 
@@ -991,3 +993,16 @@
   country: cz
   desc: |
     René má 14 let zkušeností ve vedoucích funkcích managementu, včetně nadnárodních společností jako Red Bull a Unilever. Má více než 8 let zkušeností jako podnikatel a 6 let zkušeností jako investor do kryptoměn s rozsáhlou sítí kontaktů a partnerství, kterou vybudoval také díky pořádání krypto podcastu. René řídí denní provoz v Moonhill Capital, dohlíží na jeho růst a rozhoduje o klíčových strategických a administrativních otázkách. Je také členem skupiny Bitcoach. V současnosti poskytuje poradenství a je také členem rad investičních struktur DAO, čemuž se intenzivně věnuje.
+
+- id: marianna-sadecka
+  name: Marianna Sádecká
+  Twitter: SadeckaMarianna
+  bio: Moderátorka
+  orgs: |
+    Spoluzakladateľka [Paralelná Polis Bratislava](https://paralelnapolis.sk/homepage/), [Slovak Students for Liberty](https://www.studentsforliberty.sk/), [liberation.travel](https://liberation.travel/).
+  caption: |
+    Moderátorka
+  tracks: [ zaklady, bitcoin, spolecnost ]
+  country: sk
+  desc: |
+    Marianna Sádecká is Austrian Economist, co-founder of Slovak Students for Liberty and Paralelná Polis Bratislava, moderator of digital security podcast Lokálhosť, writer, psychonaut and liberation-traveler.
