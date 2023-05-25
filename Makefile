@@ -102,3 +102,6 @@ install:
 
 pretalx-sync:
 	deno run --unstable --allow-read --allow-write --allow-net --allow-env utils/pretalx-sync.js $(entry) $(cmd)
+
+psync:
+	make pretalx-sync entry=23 cmd=talks

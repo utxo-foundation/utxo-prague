@@ -1,3 +1,11 @@
+- id: 7h7da8
+  type: campfire
+  name: DeFi a jiné walletky na cestách
+  speakers:
+    - huge
+  duration: 30
+  description: "Přehled nejlepších řešení pro správu svých assetů a daos na cestách, v telefonu \r\nPřehled nejlepších řešení pro správu svých assetů a daos na cestách, v telefonu \r\nPřehled nejlepších řešení pro správu svých assetů a daos na cestách, v telefonu, nejspíše se zaměřením na android OS"
+  track: defi
 - id: uttjmv
   type: talk
   name: NFT projekty a právo v kostce
@@ -10,6 +18,7 @@
     řešit měly) spoustu právních otázek - od vztahu k vlastní náplni projektu,
     přes IP až po vztah k zákazníkovi. Jaké jsou ty základní právní oblasti, na
     které pamatovat a jak se s nimi vypořádat? Společně se na to podíváme.
+  track: nft
 - id: 3tcyng
   type: workshop
   name: Kryptoměnové analogie
@@ -79,7 +88,7 @@
     bezpečnost, jaké technologie se používají a jak se zvyšuje bezpečnost
     on-chain programů. Na závěr shrneme největší hacky v Solana ecosystému v
     loňském roce.
-  track: other
+  track: alty
 - id: mbezkd
   type: talk
   name: Auditem bezpečnost nezačíná ani nekončí
@@ -95,6 +104,7 @@
     - julie-sislerova
   duration: 75
   description: ''
+  track: nft
 - id: 3mwenq
   type: talk
   name: >-
@@ -108,6 +118,7 @@
     institucionálních investorů. Euforii z roku 2021 vystřídala převládající
     skepse. Oklepali se už institucionální investoři z pádu burzy FTX a na ní
     navázaných bankrotů, nebo kryptoměny stále vnímají jako toxické prostředí?
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: ae3sxw
   type: panel
   name: Trading kryptoměn
@@ -123,6 +134,15 @@
     kvantitativní přístup využívající strojové učení, Jakub se řídí, jak
     technickými indikátory, tak analýzou fundamentu, kterou si osvojil za roky
     působení na kryptoměnové scéně.
+  track: !<tag:yaml.org,2002:js/undefined> ''
+- id: wke3pb
+  type: talk
+  name: Secret Network a soukromí jako služba
+  speakers:
+    - jiri-cepelka
+  duration: 45
+  description: "Secret Network a soukromí jako služba.\r\n\r\nSecret Network je privacy L0 a L1 blockchain s programovatelným soukromím, kdokoliv si může určit co a s kým bude sdílet, pokud nechce může vše nechat skryté a je jedno jestli jde o váš zůstatek, půjčky nebo hlasování v DAO.\r\nTohle je to co by jsme od smart kontrakt blockchainu s ochranou soukromí čekali, ale Secret Network jde mnohem dál......."
+  track: spolecnost
 - id: zhascq
   type: talk
   name: >-
@@ -140,6 +160,7 @@
     - frantisek-kudrna
   duration: 45
   description: ''
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: aefxhc
   type: talk
   name: Tokenomics design aneb Jak nedopadnout jako Luna a Celsius
@@ -148,6 +169,33 @@
   duration: 45
   description: "V posledním roce jsme byli svědky kolapsu řady velkých kryptoprojektů, mezi nejznámějšími například Luna nebo Celsius. Co tyto krachy spojovalo? Především špatně navržená tokenomika, která projekty už od počátku odsuzovala k zániku. \r\n\r\nJak se podobné situaci vyhnout? Základní principy designu tokenomik i praktick"
   track: kryptopodnikani
+- id: x9rgpd
+  type: talk
+  name: Rok v Sorare aneb Dá se živit sledováním fotbalu?
+  speakers:
+    - milan-marcak
+  duration: 45
+  description: >-
+    Milan Marčák, Sorare specialista společnosti Altlift, popíše své zkušenost z
+    posledního roku v prostředí NFT virtuální fotbalové ligy Sorare. Těšit se
+    můžete na základní přehled Sorare platforem, stejně jako praktické tipy pro
+    tvorbu Vašich vlastních týmů.
+  track: nft
+- id: dy87a8
+  type: talk
+  name: >-
+    Aktuálni ekonomická situace a její vliv na cenu jednotlivých investičních
+    aktiv.
+  speakers:
+    - libor-flossler
+  duration: 45
+  description: >-
+    Přednáška Libora z YouTube kanálu Investocka. Zkazili jsme si peníze. Pokud
+    nepodstupujeme investiční riziko, náš majetek ztrácí na hodnotě. Do čeho se
+    dnes vyplatí investovat, na co si dát pozor a jak omezit riziko na minimum?
+    Liborův pohled na aktuální ekonomickou situaci a jeho názor na to, jak dnes
+    nakládat s riziky a jak by mohlo vypadat investiční portfolio.
+  track: spolecnost
 - id: 9989p3
   type: campfire
   name: Bitcoin maximalismus - feature nebo bug?
@@ -168,7 +216,7 @@
     argumentovat? Jejich argumenty jsou vražedné, útočí sice slovně, ale ve
     skupinách :) Každý z nás je má kolem sebe. NOCOINEŘI! Jak se bránit jejich
     útokům a rozumně jim argumentovat?
-  track: other
+  track: spolecnost
 - id: 3y8esm
   type: campfire
   name: KryptoVláďa komunitní campfire
@@ -180,7 +228,7 @@
     Ethereum, Cosmos a obecně myšlenku kryptoměn. Povíme si, jak to celé
     vzniklo, co se nám podařilo a mluvit budeme i o Czech Cosmos Instutut, který
     komunita založila. Nebo si připravte záludné otázky a Vláďa vám na ně odpoví
-  track: other
+  track: spolecnost
 - id: e3gt7v
   type: workshop
   name: Uniswap V3 - opravdové DeFi
@@ -232,6 +280,14 @@
     mají? Co tento přístup přináší samotným fanouškům? Jaké benefity z toho
     fanoušci mají? Šlo by vylepšit současné řešení?
   track: nft
+- id: esllaf
+  type: talk
+  name: 'Podvody s Vaší nadějí, jak to poznat a předcházet tomu.'
+  speakers:
+    - jiri-skrivan
+  duration: 40
+  description: ''
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: 7lxjzl
   type: talk
   name: Krypto-filantropie roste i v bear-marketu. Proč jí věnovat pozornost?
@@ -245,6 +301,7 @@
     platformě, která bude spuštěná před UTXO. Chci ji představit v Lightning
     Talku a pak trochu víc pohovořit i o krypto-filantropii v delším talku nebo
     campfiru. Dávám na to 2 různé proposaly.
+  track: spolecnost
 - id: axdm9t
   type: lightning
   name: Krypto-dárcovská platforma Donat.Network.
@@ -259,6 +316,20 @@
     Talku a pak trochu víc pohovořit i o krypto-filantropii v delším talku nebo
     campfiru. Dávám na to 2 různé proposaly.
   track: spolecnost
+- id: p9una9
+  type: other
+  name: Koruna česká na blockchainu (CZK stablecoin) po roce
+  speakers:
+    - radek-svarz
+  duration: 30
+  description: >-
+    Po loňském panelu a přednášce o CZK stablecoinu a navazujícím dCZK think
+    tanku se kryptokomunita stále zajímá o tuto tématiku. Na přednášce získáte
+    aktuální informace o stavu diskuzí a projektech, včetně on-chain kurzu CZK.
+    Jaké jsou zkušenosti referenčních stablecoinů s dramatickým rokem 2022?
+    Přijďte probrat nové informace o otázce centralizovaného, či
+    decentralizovaného CZK stablecoinu.
+  track: defi
 - id: vayuas
   type: campfire
   name: Jak na rizika DeFi půjček a APUS.finance AMA
@@ -266,6 +337,7 @@
     - radek-svarz
   duration: 45
   description: "Vzhledem k loňskému velkému zájmu opět probereme, jak kalkulovat s riziky při zakládání půjčky, udržování i při změně půjčky. Jak se vyhnout likvidacím? Proběhly nějaké v 2022? Témata - LTV, CR, Debt in front, klouzavé průměry, hedging, opce apod. A také \"zeptej se APUS.finance na cokoli\". \r\nCampfire nebude nahráván."
+  track: defi
 - id: 3ka9gz
   type: lightning
   name: APUS Finance - decentralizované bankovnictví
@@ -286,6 +358,7 @@
     - metapavel
   duration: 45
   description: ''
+  track: spolecnost
 - id: rdhxzb
   type: campfire
   name: Šmíráci - co o vás sbírají web3 a finanční aplikace
@@ -293,7 +366,7 @@
     - radek-svarz
   duration: 45
   description: "Během tohoto campfiru se podíváme na “šmíráky”. A to jak na tradiční bankovní aplikace, tak na web3 / DeFi dapky.\r\n\r\nCo všechno o nás sbírají? A proč?\r\n\r\nJak šmírování poznat?\r\n\r\nJe to vůbec důležité řešit, nebo to uživatelům nevadí?\r\n\r\nJsou nějaké alternativy?\r\n\r\nTento campfire nebude nahráván."
-  track: other
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: 7ydeft
   type: campfire
   name: Co hýbe světem Metaverse
@@ -302,6 +375,13 @@
   duration: 20
   description: ''
   track: nft
+- id: r3ectq
+  type: talk
+  name: Jak přijít o peníze - slepé podepisování smart kontraktů
+  speakers:
+    - radek-svarz
+  duration: 30
+  description: "DeFi i práce s NFT stojí na principu, že uživatelé mají plnou kontrolu nad svými prostředky. To vyžaduje důvěru v několik technologií a obezřetné jednání. \r\n\r\nPodepisováním transakce uživatel výslovně potvrzuje, že rozumí tomu, co podepisuje. Je toto platný předpoklad?\r\n\r\nSlepé podepisování transakcí způsobilo ztráty uživatelům v řádech milionů USD.\r\n\r\nProbereme útoky i možná řešení."
 - id: uvv38z
   type: talk
   name: VR/AR + AI + Blockchain = <3
@@ -355,6 +435,7 @@
     - samuela-davidova
   duration: 30
   description: "Norma jako sociální konstrukt: jak se nezbláznit, když si uvědomíme, že světu už nerozumíme a on nerozumí nám.\r\n(Nejen crypto) Komunita: pochopení, nalezení a/nebo vytvoření svého místa. V přednášce představím různé protínající se perspektivy na koncept normy a pocitu i potřebě někam patřit."
+  track: spolecnost
 - id: xvpt9c
   type: workshop
   name: 'Jak na POAP: Naučte se tvořit a distribuovat vlastní digitální tokeny'
@@ -369,6 +450,19 @@
     větší. Cílem workshopu je naučit účastníky jednoduchý postup, jak POAP
     vytvořit, distribuovat a zapsat na blockchain.
   track: nft
+- id: xpflwb
+  type: talk
+  name: 'Dolarové stablecoiny: existuje decentralizovaná alternativa?'
+  speakers:
+    - jakub-duhonsky
+  duration: 45
+  description: >-
+    Téměř všichni držíme v portfoliu nějaké dolarové stablecoiny, ať už dolaru
+    věříme nebo nikoliv. Za uplynulý rok se objevila škála neočekávaných rizik
+    od pádu UST přes depeg USDC až po zásah regulátorů vůči BUSD. Stejně tak
+    slábne role i kurz samotného dolaru. Existuje decentralizovaná alternativa?
+    A jaké jsou alternativy pohybujeme-li se v DeFi?
+  track: defi
 - id: mph3ab
   type: panel
   name: Impact DAOs
@@ -379,6 +473,19 @@
   duration: 60
   description: "Panelová diskuze o dopadu, governance a právním nastavení Impact DAOs, nejen v českém prostředí. \r\nDAOs jsou nový způsob ekonomické spolupráce v online prostředí a jako takové se potýkají s množstvím nejasností, mimo jiné z pohledu práva a governance. \r\nV rámci panelu se budeme bavit o způsobech, jak je možné DAO v našem či mezinárodním prostředí nastavit."
   track: spolecnost
+- id: zcayjb
+  type: talk
+  name: Decentralizované směnárny - co nabízí a proč je využívat?
+  speakers:
+    - ivo-cechman
+  duration: 45
+  description: >-
+    Problémy mnoha centralizovaných projektů jako FTX či Celsius v roce 2022
+    způsobily značné zvýšení pozornost světa decentralizovaných financí. A tento
+    trend díky regulátorům hrozícím zpřísněným dohledem nad kryptoměnami jen
+    pokračuje. Dokáže ale DeFi nahradit potřeby uživatelů centralizovaných
+    platforem, konkrétně centralizovaných burz? A co naopak nabízí navíc?
+  track: defi
 - id: 7srlpr
   type: panel
   name: 'Umění a kreativita v éře NFT, AI, Metaverse a Web 3.0'
@@ -402,6 +509,19 @@
   duration: 75
   description: "Zajímá tě krypto a chceš si nějaké koupit. Jenže nevíš, jak na to?\r\nCoinmate ve spolupráci s Holky v kryptu realizují workshop pro začátečníky, kteří se chtějí dozvědět více o tom, jak fungují kryptoměny a co vše investování do krypta přináší. \r\nZjistíš, co investování do kryptoměn obnáší, jak krypto vlastně funguje, jak krypto nakoupit a co s ním pak dělat?"
   track: zaklady
+- id: tvzbz7
+  type: talk
+  name: Jak si najít a udržet progresivní práci ve Web3?
+  speakers:
+    - damsky
+  duration: 45
+  description: >-
+    V této prezentaci se podíváme na to, jak si najít progresivní práci ve Web3
+    z pohledu COO Eventové společnosti ve Web3 a Head of Operations v KodaDotu,
+    NFT marketplace na Polkadotu. Probereme výzvy spojené s hledáním práce,
+    udržováním pozice, rozvojem a zvládáním stresu při posouvání se ve Web3
+    prostředí.
+  track: spolecnost
 - id: qh73vp
   type: talk
   name: Strategie pro správu investičního portfolia krypto aktiv
@@ -415,6 +535,7 @@
     zisku. Porozumění dynamickému a inovativnímu prostředí krypto aktiv vám
     pomůže vyvarovat se běžných chyb a zajistit úspěšné investice do tohoto
     segmentu.
+  track: zaklady
 - id: p3qrwv
   type: campfire
   name: Jaké existují svobodné peníze?
@@ -447,7 +568,7 @@
     nějak zaplácat. Plác plác. UTXO je nejlepší. Smrt maxíkům všeho druhu.
     Milujeme UTXO. Maj tam dobrý pivo. Tak prej mám jen 179 znaků. Už 213.
     Super. Tak ještě čtyřicet a jsem tam. JO!)
-  track: other
+  track: spolecnost
 - id: zuyrh7
   type: talk
   name: 'HODL v bull marketu, nebo brát zisky?'
@@ -459,7 +580,7 @@
     odprodávat? Obecná odpověď neexistuje. Pojďme se ale pobavit o možných
     scénářích a životních situacích, kdy postupný výběr zisku dává smysl. Jak si
     strategii nastavit a jak to nejlépe celé automatizovat?
-  track: zaklady
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: 8jm7la
   type: workshop
   name: Automatizované strategie na Štosuj.cz
@@ -471,6 +592,7 @@
     další chystané strategie pro jednoduché automatické obchody. Víš, jak
     přemýšlet nad svojí exit strategií? Nebo jak rebalancovat své portfolio?
     Přijď si pro inspiraci a omrkni náš projekt.
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: xhd9rq
   type: workshop
   name: 'Vexl - ukázka aplikace, jak správně vexlovat'
@@ -483,6 +605,26 @@
     ukážeme, jak vytvořit nabídku, jak reagovat na nabídky. Následně si řekneme
     i nějaké zásady, jak vexlovat.
   track: btc
+- id: 7xm3jk
+  type: workshop
+  name: Jak na výpočet zdanění kryptoměn v nástroji WhaleBooks
+  speakers:
+    - ondrej-varga
+  duration: 75
+  description: >-
+    Teorie zdanění kryptoměn doplněná o praktické ukázky českého nástroje
+    WhaleBooks.com. Dozvíte se, jak spočítat daňové přiznání z kryptoměn pro
+    fyzické osoby. Právnické osoby získají možnost práce s účetní osnovou a
+    zaúčtování transakcí do účetního software.
+  track: zaklady
+- id: u97gem
+  type: other
+  name: Úvod do NFT
+  speakers:
+    - niftyape
+  duration: 30
+  description: ''
+  track: nft
 - id: trkts9
   type: talk
   name: 'Enterprise blockchain: Proč firmy potřebují blockchain a blockchain firmy'
@@ -586,7 +728,7 @@
     - vladimir-pinker
   duration: 15
   description: ''
-  track: other
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: jl7hct
   type: campfire
   name: 'Diskuze: Kryptopodnikání v Čechách v době nadcházejících regulací'
@@ -597,14 +739,14 @@
   track: regulace
 - id: wy9dhd
   type: panel
-  name: Panel - investice
+  name: 'Investice - kam, kdy, jak, proč'
   speakers:
     - david-stancel
     - lukas-kovanda
     - anna-pichova
   duration: 75
   description: ''
-  track: spolecnost
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: lqhknm
   type: workshop
   name: How to start using Polkadot
@@ -652,11 +794,10 @@
 - id: apazac
   type: other
   name: Violoncellový koncert
-  speakers:
-    - tereza-starostova
+  speakers: []
   duration: 60
   description: ''
-  track: other
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: awkdfc
   type: other
   name: Pohled na loňský a příští rok v DeFi
@@ -671,7 +812,7 @@
   track: defi
 - id: twxrus
   type: talk
-  name: 'Lukáš Kovanda - Pády bank, selhání fiatu a krypto (TBA)'
+  name: 'Pády bank, selhání fiatu a krypto (TBA)'
   speakers:
     - lukas-kovanda
   duration: 45
@@ -737,6 +878,22 @@
     - antonin-jilek
   duration: 15
   description: ''
+- id: ejwr8f
+  type: talk
+  name: Vybíráme x86 hardware na stavbu bitcoinového nodu (prezentace)
+  speakers:
+    - jan-cerny
+  duration: 45
+  description: ''
+  track: btc
+- id: furanp
+  type: workshop
+  name: Vybíráme x86 hardware na stavbu bitcoinového nodu (workshop)
+  speakers:
+    - jan-cerny
+  duration: 60
+  description: ''
+  track: btc
 - id: l3f8jx
   type: campfire
   name: 'Bankless: web3 media business, aneb business v cryptu'
@@ -768,7 +925,34 @@
     znalosti, schopnosti a sebekontrolu. Jádro přednášky je, jak takovou věc
     zvládají a dělají profesionálové. Na základě talku by měl investor získat
     základní přehled o tom, jak správně řešit vstupy a výstupy z kryptoměn.
-  track: zaklady
+  track: !<tag:yaml.org,2002:js/undefined> ''
+- id: xlmfqt
+  type: other
+  name: >-
+    Kryptomediácia pre upokojenie mysle od inflácie fiat peňazí aj volatility
+    bitcoinu
+  speakers:
+    - marianna-sadecka
+  duration: 60
+  description: >-
+    Kryptomeditácia pre hodlerov aj používateľov kryptomien na skľudnenie mysle
+    rozbúranej nielen volatilitou kryptomien, infláciou, ale aj inými
+    starosťami. Sústredenie sa na svoj dych a na prítomný okamih a pripraviť sa
+    na ďalšie prednášky konferencie. HOOO-DLLLLL...
+  track: !<tag:yaml.org,2002:js/undefined> ''
+- id: 789mam
+  type: talk
+  name: Krypto podnikatelé mezi paragrafy
+  speakers:
+    - radim-kozub
+  duration: 45
+  description: >-
+    Prakticky zaměřená přednáška pro krypto podnikatele a všechny ostatní
+    zájemce o krypto právo. Nejdéle působící krypto právníci na trhu Ti dají
+    přehled základních požadavků na kryptopodnikání z pohledu českého práva. Ať
+    už jsi trader, směnárník, portfolio manager nebo NFT vizionář, těšíme se na
+    Tebe!
+  track: regulace
 - id: gkplvz
   type: campfire
   name: 'Krypto-samo-regulace: Hacker vs. právník'
@@ -784,12 +968,25 @@
   track: spolecnost
 - id: asxb3t
   type: panel
-  name: TBA
+  name: Kde koupit krypto?
   speakers:
     - david-stancel
   duration: 75
-  description: ''
+  description: >-
+    "Kde koupit krypto?" je panelová diskuze o tom, jak se dají nejlépe pořídit
+    kryptoměny v Česku. Odborníci z oblasti CEX, DEX, peer-to-peer směn a
+    kryptomatů přinášejí různé pohledy a srovnávají výhody a rizika těchto
+    možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně
+    nakupovat kryptoměny. Moderuje David Stancel.
   track: defi
+- id: c7v799
+  type: workshop
+  name: Digitální sebeobrana
+  speakers:
+    - sodomak
+  duration: 75
+  description: ''
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: jyzbnf
   type: talk
   name: Authencity.io
@@ -797,20 +994,18 @@
     - artur-sychov
   duration: 45
   description: ''
-  track: nft
+  track: spolecnost
 - id: brrqjb
   type: other
   name: Venkovní performance - TBA
-  speakers:
-    - tereza-starostova
+  speakers: []
   duration: 90
   description: ''
-  track: other
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: qsudxa
   type: other
-  name: Sobotní afterparty by Somnium Space
-  speakers:
-    - tereza-starostova
+  name: Sobotní párty by Somnium Space
+  speakers: []
   duration: 180
   description: ''
-  track: other
+  track: !<tag:yaml.org,2002:js/undefined> ''

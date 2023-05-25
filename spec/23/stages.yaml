@@ -14,6 +14,7 @@
   streams:
     - '1/08:45-19:30/jJUn50_iyFI'
     - '2/09:45-19:15/osNm7D1R3rw'
+  pretalxId: 🍎 Rajská zahrada
 
 - id: lustrovy-sal
   name: 'P2 Lustrový sál'
@@ -31,6 +32,7 @@
   streams:
     - '1/09:15-19:30/e73I-rQBozk'
     - '2/09:45-18:30/WCoAJhVLLbM'
+  pretalxId: 💡 Lustrový sál
 
 - id: klenbovy-sal
   name: 'P3 Klenbový sál'
@@ -48,23 +50,7 @@
   streams:
     - '1/09:15-19:30/tkRVtaCCgwk'
     - '2/09:45-18:30/GZ5FFWTleTk'
-
-- id: exit-room
-  name: 'P4 Exit room'
-  types: [ talk ]
-  capacity:
-    seat: 70
-    stand: 30
-  exclusivity: 0.4
-  times:
-    - '1/09:30-13:30'
-    - '1/14:00-19:30'
-    - '2/10:00-13:30'
-    - '2/14:00-18:30'
-  livestream: true
-  streams:
-    - '1/09:15-19:30/ku_qtzNsotg'
-    - '2/09:45-18:30/Gsf9ubuh7rU'
+  pretalxId: 🏛️ Klenbový sál
 
 - id: knihovna
   name: 'W1 Knihovna'
@@ -78,19 +64,7 @@
     - '1/14:00-19:30'
     - '2/10:00-13:30'
     - '2/14:00-18:30'
-
-- id: white-workshop-room
-  name: 'W2 Table room'
-  types: [ workshop ]
-  capacity:
-    seat: 35
-    stand: 15
-  exclusivity: 0.5
-  times:
-    - '1/09:30-13:30'
-    - '1/14:00-19:30'
-    - '2/10:00-13:30'
-    - '2/14:00-18:30'
+  pretalxId: 📚 Knihovna
 
 - id: campfire-outdoor
   name: '🔥 C1 Campfire (venku)'
@@ -103,6 +77,7 @@
     - '1/12:30-17:00'
     - '2/10:00-12:00'
     - '2/12:30-18:30'
+  pretalxId: 🔥 Venkovní campfire
 
 - id: campfire-indoor
   name: '🔥 C2 Campfire (uvnitř)'
@@ -115,24 +90,14 @@
     - '1/12:30-19:00'
     - '2/10:00-12:00'
     - '2/12:30-18:00'
+  pretalxId: 🕯️ Vnitřní campfire
 
-- id: nft-chillout
-  name: NFT chillout
-  types: [ nft-event ]
-  capacity:
-    seat: 30
-    stand: 40
-  times:
-    - '1/09:30-20:00'
-    - '2/10:00-18:00'
-  hidden: true
-
-- id: pitevna
-  name: Pitevna
-  types: [ other ]
-  capacity:
-    seat: 0
-    stand: 150
-  times:
-    - '1/16:00-23:59'
+#- id: pitevna
+#  name: Pitevna
+#  types: [ other ]
+#  capacity:
+#    seat: 0
+#    stand: 150
+#  times:
+#    - '1/16:00-23:59'
 

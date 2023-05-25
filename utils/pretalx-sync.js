@@ -1,6 +1,8 @@
 import { config } from "https://deno.land/x/dotenv/mod.ts";
 import { UTXOEngine } from "./engine.js";
 import { dump } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
+import { genId } from "./genid.js";
+import { format } from "https://deno.land/std@0.139.0/datetime/mod.ts";
 
 config({ path: ".env", export: true });
 
@@ -10,26 +12,34 @@ await utxo.init();
 const [entry, cmd] = Deno.args;
 const speakers = utxo.entries[entry].specs.speakers;
 
-function findSpeaker(pretalxId, name) {
-  const res = speakers.find((s) => s.pretalxId === pretalxId);
+function findSpeaker(id, name) {
+  const res = speakers.find((s) => s.pretalxId === id);
   if (!res) {
-    console.error(`Warning: Non-existing speaker: ${pretalxId} ${name}`);
+    console.error(`Warning: Non-existing speaker: ${id} ${name}`);
     return null;
   }
   return res.id;
 }
-function findType(pretalxId) {
+function findType(id) {
   const res = utxo.entries[entry].specs["event-types"].find((et) =>
-    et.pretalxId === pretalxId
+    et.pretalxId === id
   );
   return res ? res.id : undefined;
 }
 
-function findTrack(pretalxId) {
-  const res = utxo.entries[entry].specs.tracks.find((t) =>
-    t.name === pretalxId
-  );
+function findTrack(id) {
+  const res = utxo.entries[entry].specs.tracks.find((t) => t.name === id);
   return res ? res.id : undefined;
+}
+
+function findStage(id) {
+  const res = utxo.entries[entry].specs.stages.find((s) => s.pretalxId === id);
+  return res ? res.id : undefined;
+}
+
+async function writeFile(fn, data) {
+  await Deno.writeTextFile(fn, dump(data));
+  console.log(`File written: ${fn}`);
 }
 
 const commands = {
@@ -46,9 +56,11 @@ const commands = {
     const json = await resp.json();
     console.log(`confirmed proposal count: ${json.results.length}`);
     const out = [];
+    const outSchedule = [];
     for (const item of json.results) {
+      const eventId = item.code.toLowerCase();
       const i = {
-        id: item.code.toLowerCase(),
+        id: eventId,
         type: findType(item.submission_type.en),
         name: item.title,
         speakers: item.speakers.map((sp) => findSpeaker(sp.code, sp.name))
@@ -60,10 +72,21 @@ const commands = {
         i.track = findTrack(item.track.en);
       }
       out.push(i);
+      if (item.slot) {
+        outSchedule.push({
+          id: genId(outSchedule.map((o) => o.id)),
+          stage: findStage(item.slot.room.en),
+          event: eventId,
+          date: format(new Date(item.slot.start), "yyyy-MM-dd"),
+          period: {
+            start: item.slot.start,
+            end: item.slot.end,
+          },
+        });
+      }
     }
-    const fn = `./spec/${entry}/events.yaml`;
-    await Deno.writeTextFile(fn, dump(out));
-    console.log(`Done: ${fn}`);
+    await writeFile(`./spec/${entry}/events.yaml`, out);
+    await writeFile(`./spec/${entry}/schedule.yaml`, outSchedule);
   },
 };
 
