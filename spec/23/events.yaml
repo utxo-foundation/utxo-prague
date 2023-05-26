@@ -99,11 +99,17 @@
   track: eth
 - id: jptwkd
   type: panel
-  name: Holky ve web3 a Metaverse
+  name: Holky v Metaverse
   speakers:
+    - tereza-starostova
     - julie-sislerova
+    - jana-kubatova
   duration: 75
-  description: ''
+  description: >-
+    Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také
+    vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnes
+    postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse
+    a jakým aktivitám se věnujeme?
   track: nft
 - id: 3mwenq
   type: talk
@@ -295,12 +301,11 @@
     - jacob-jelen
   duration: 45
   description: >-
-    Založil jsem neziskovku a platformu Donat.Network, která podporuje
-    krypto-dárcovství v Česku a bude poskytovat nejjednodušší možný způsob
-    přijímání darů. Asi 20 neziskovek už projevilo zájem být mezi prvními na
-    platformě, která bude spuštěná před UTXO. Chci ji představit v Lightning
-    Talku a pak trochu víc pohovořit i o krypto-filantropii v delším talku nebo
-    campfiru. Dávám na to 2 různé proposaly.
+    Krypto dárcovství láme rekordy i v bear marketu. Podíváme se, jak tento
+    opomíjený use-case pomohl Ukrajině, jaké výhody i peripetie přináší dárcům a
+    neziskovkám. Řekneme si proč tomuto trendu věnovat pozornost a představíme
+    dárcovskou platformu Donat.Network, která pomáhá neziskovkám jít s dobou a
+    adoptovat krypto.
   track: spolecnost
 - id: axdm9t
   type: lightning
@@ -369,12 +374,16 @@
   track: !<tag:yaml.org,2002:js/undefined> ''
 - id: 7ydeft
   type: campfire
-  name: Co hýbe světem Metaverse
+  name: 'Metaverse: budoucnost nebo slepá ulička?'
   speakers:
     - julie-sislerova
     - artur-sychov
   duration: 45
-  description: ''
+  description: >-
+    Prvotní nadšení kolem metaverse rychle opadlo a nyní přichází vystřízlivění.
+    Co bude dál? Má metaverse budoucnost, nebo je to jen slepá ulička? Kde jsme
+    a co nám chybí, aby se metaverse stal skutečností? Co nám může přinést a o
+    co nás může připravit?
   track: nft
 - id: r3ectq
   type: talk
@@ -556,7 +565,7 @@
   name: 'Hudba v éře blockchainu a AI: překonávání výzev a cesta k masové adopci'
   speakers:
     - matej-zimak
-  duration: 20
+  duration: 30
   description: ''
   track: nft
 - id: jnkqdn
@@ -588,7 +597,7 @@
   name: Automatizované strategie na Štosuj.cz
   speakers:
     - lubos-kovarik
-  duration: 75
+  duration: 45
   description: >-
     Nejen DCA pravidelné spoření, ale nově na Štosuj.cz také grid trading a
     další chystané strategie pro jednoduché automatické obchody. Víš, jak
@@ -695,6 +704,7 @@
   speakers:
     - roman-valihrach
     - kirill-juran
+    - radim-kozub
   duration: 50
   description: "Máte (nebo chystáte) byznys spojený s kryptoměnami a nevíte, jak se vás dotkne regulace? Přijďte se poradit s Romanem Valihrachem a Františkem Vinopalem, kteří vám rádi nasdílí své zkušenosti.\r\nRomanova burza Coinmate momentálně vynakládá značné úsilí, na to aby se k nadcházející regulaci připravila. Mají tak momentálně jedno z nejlepších know-how, týkající se tohoto tématu v ČR."
   track: kryptopodnikani
@@ -972,6 +982,7 @@
   type: panel
   name: Kde koupit krypto?
   speakers:
+    - vladimir-pinker
     - david-stancel
   duration: 75
   description: >-
@@ -1017,4 +1028,26 @@
   speakers: []
   duration: 45
   description: ''
+  track: defi
+- id: 977dyd
+  type: campfire
+  name: Security campfire
+  speakers: []
+  duration: 30
+  description: >-
+    Campfire k základům uživatelské bezpečnosti v oblasti kryptoměn. Držíte své
+    tokeny na burze, máte softwarovou peněženku, anebo vlastníte hardware
+    wallet? Víte, do jakých problému se v poslední době zapletla společnost
+    Ledger? Diskutujte o svých obavách a názorech s bezpečnostními experty z EY.
+  track: zaklady
+- id: u3mhnw
+  type: talk
+  name: 'Polkadot DEXy: MEV ochrana, efektivita a nové trendy v tradingu'
+  speakers: []
+  duration: 45
+  description: >-
+    Decentralizované burzy (DEXy) na Polkadot přináší do tradingu různé
+    inovativní přístupy, ať už je to ochrana před front-runningem a MEV (Miner
+    Extractable Value), gassless swaps, single-sided likvidita, nebo propojení s
+    jinými ekosystémy jako Cosmos nebo Ethereum.
   track: defi
