@@ -1729,12 +1729,14 @@
       {
         "id": "jptwkd",
         "type": "panel",
-        "name": "Holky ve web3 a Metaverse",
+        "name": "Holky v Metaverse",
         "speakers": [
-          "julie-sislerova"
+          "tereza-starostova",
+          "julie-sislerova",
+          "jana-kubatova"
         ],
         "duration": 75,
-        "description": "",
+        "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnes postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnujeme?",
         "track": "nft"
       },
       {
@@ -1918,7 +1920,7 @@
           "jacob-jelen"
         ],
         "duration": 45,
-        "description": "Založil jsem neziskovku a platformu Donat.Network, která podporuje krypto-dárcovství v Česku a bude poskytovat nejjednodušší možný způsob přijímání darů. Asi 20 neziskovek už projevilo zájem být mezi prvními na platformě, která bude spuštěná před UTXO. Chci ji představit v Lightning Talku a pak trochu víc pohovořit i o krypto-filantropii v delším talku nebo campfiru. Dávám na to 2 různé proposaly.",
+        "description": "Krypto dárcovství láme rekordy i v bear marketu. Podíváme se, jak tento opomíjený use-case pomohl Ukrajině, jaké výhody i peripetie přináší dárcům a neziskovkám. Řekneme si proč tomuto trendu věnovat pozornost a představíme dárcovskou platformu Donat.Network, která pomáhá neziskovkám jít s dobou a adoptovat krypto.",
         "track": "spolecnost"
       },
       {
@@ -1989,13 +1991,13 @@
       {
         "id": "7ydeft",
         "type": "campfire",
-        "name": "Co hýbe světem Metaverse",
+        "name": "Metaverse: budoucnost nebo slepá ulička?",
         "speakers": [
           "julie-sislerova",
           "artur-sychov"
         ],
         "duration": 45,
-        "description": "",
+        "description": "Prvotní nadšení kolem metaverse rychle opadlo a nyní přichází vystřízlivění. Co bude dál? Má metaverse budoucnost, nebo je to jen slepá ulička? Kde jsme a co nám chybí, aby se metaverse stal skutečností? Co nám může přinést a o co nás může připravit?",
         "track": "nft"
       },
       {
@@ -2174,7 +2176,7 @@
         "speakers": [
           "matej-zimak"
         ],
-        "duration": 20,
+        "duration": 30,
         "description": "",
         "track": "nft"
       },
@@ -2206,7 +2208,7 @@
         "speakers": [
           "lubos-kovarik"
         ],
-        "duration": 75,
+        "duration": 45,
         "description": "Nejen DCA pravidelné spoření, ale nově na Štosuj.cz také grid trading a další chystané strategie pro jednoduché automatické obchody. Víš, jak přemýšlet nad svojí exit strategií? Nebo jak rebalancovat své portfolio? Přijď si pro inspiraci a omrkni náš projekt."
       },
       {
@@ -2314,7 +2316,8 @@
         "name": "Kryptopodnikání v Čechách v době nadcházejících regulací",
         "speakers": [
           "roman-valihrach",
-          "kirill-juran"
+          "kirill-juran",
+          "radim-kozub"
         ],
         "duration": 50,
         "description": "Máte (nebo chystáte) byznys spojený s kryptoměnami a nevíte, jak se vás dotkne regulace? Přijďte se poradit s Romanem Valihrachem a Františkem Vinopalem, kteří vám rádi nasdílí své zkušenosti.\r\nRomanova burza Coinmate momentálně vynakládá značné úsilí, na to aby se k nadcházející regulaci připravila. Mají tak momentálně jedno z nejlepších know-how, týkající se tohoto tématu v ČR.",
@@ -2613,6 +2616,7 @@
         "type": "panel",
         "name": "Kde koupit krypto?",
         "speakers": [
+          "vladimir-pinker",
           "david-stancel"
         ],
         "duration": 75,
@@ -2663,6 +2667,24 @@
         "speakers": [],
         "duration": 45,
         "description": "",
+        "track": "defi"
+      },
+      {
+        "id": "977dyd",
+        "type": "campfire",
+        "name": "Security campfire",
+        "speakers": [],
+        "duration": 30,
+        "description": "Campfire k základům uživatelské bezpečnosti v oblasti kryptoměn. Držíte své tokeny na burze, máte softwarovou peněženku, anebo vlastníte hardware wallet? Víte, do jakých problému se v poslední době zapletla společnost Ledger? Diskutujte o svých obavách a názorech s bezpečnostními experty z EY.",
+        "track": "zaklady"
+      },
+      {
+        "id": "u3mhnw",
+        "type": "talk",
+        "name": "Polkadot DEXy: MEV ochrana, efektivita a nové trendy v tradingu",
+        "speakers": [],
+        "duration": 45,
+        "description": "Decentralizované burzy (DEXy) na Polkadot přináší do tradingu různé inovativní přístupy, ať už je to ochrana před front-runningem a MEV (Miner Extractable Value), gassless swaps, single-sided likvidita, nebo propojení s jinými ekosystémy jako Cosmos nebo Ethereum.",
         "track": "defi"
       }
     ],
@@ -3079,8 +3101,8 @@
         "event": "kklvje",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:45:00+02:00",
-          "end": "2023-06-03T15:00:00+02:00"
+          "start": "2023-06-03T12:30:00+02:00",
+          "end": "2023-06-03T13:45:00+02:00"
         }
       },
       {
@@ -3145,12 +3167,12 @@
       },
       {
         "id": "am",
-        "stage": "klenbovy-sal",
+        "stage": "lustrovy-sal",
         "event": "wke3pb",
-        "date": "2023-06-03",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T13:15:00+02:00",
-          "end": "2023-06-03T14:00:00+02:00"
+          "start": "2023-06-04T16:15:00+02:00",
+          "end": "2023-06-04T17:00:00+02:00"
         }
       },
       {
@@ -3335,12 +3357,12 @@
       },
       {
         "id": "a5",
-        "stage": "lustrovy-sal",
+        "stage": "klenbovy-sal",
         "event": "kkaz8h",
-        "date": "2023-06-04",
+        "date": "2023-06-03",
         "period": {
-          "start": "2023-06-04T16:15:00+02:00",
-          "end": "2023-06-04T17:00:00+02:00"
+          "start": "2023-06-03T13:15:00+02:00",
+          "end": "2023-06-03T14:00:00+02:00"
         }
       },
       {
@@ -3429,8 +3451,8 @@
         "event": "xvpt9c",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:00:00+02:00",
-          "end": "2023-06-03T15:45:00+02:00"
+          "start": "2023-06-03T14:45:00+02:00",
+          "end": "2023-06-03T15:30:00+02:00"
         }
       },
       {
@@ -3439,8 +3461,8 @@
         "event": "xpflwb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T11:45:00+02:00",
-          "end": "2023-06-03T12:30:00+02:00"
+          "start": "2023-06-03T14:00:00+02:00",
+          "end": "2023-06-03T14:45:00+02:00"
         }
       },
       {
@@ -3539,8 +3561,8 @@
         "event": "zuyrh7",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:00:00+02:00",
-          "end": "2023-06-03T14:45:00+02:00"
+          "start": "2023-06-03T11:45:00+02:00",
+          "end": "2023-06-03T12:30:00+02:00"
         }
       },
       {
@@ -3549,8 +3571,8 @@
         "event": "8jm7la",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T12:30:00+02:00",
-          "end": "2023-06-03T13:45:00+02:00"
+          "start": "2023-06-03T14:00:00+02:00",
+          "end": "2023-06-03T14:45:00+02:00"
         }
       },
       {
@@ -3559,8 +3581,8 @@
         "event": "xhd9rq",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T16:30:00+02:00",
-          "end": "2023-06-03T17:45:00+02:00"
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:30:00+02:00"
         }
       },
       {
@@ -3569,8 +3591,8 @@
         "event": "7xm3jk",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:45:00+02:00",
-          "end": "2023-06-03T19:00:00+02:00"
+          "start": "2023-06-03T17:30:00+02:00",
+          "end": "2023-06-03T18:45:00+02:00"
         }
       },
       {
@@ -3699,8 +3721,8 @@
         "event": "jl7hct",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:45:00+02:00",
-          "end": "2023-06-03T16:30:00+02:00"
+          "start": "2023-06-03T15:30:00+02:00",
+          "end": "2023-06-03T16:15:00+02:00"
         }
       },
       {
@@ -3972,6 +3994,26 @@
           "start": "2023-06-04T11:30:00+02:00",
           "end": "2023-06-04T12:15:00+02:00"
         }
+      },
+      {
+        "id": "cx",
+        "stage": "campfire-outdoor",
+        "event": "977dyd",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:45:00+02:00",
+          "end": "2023-06-04T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "cy",
+        "stage": "klenbovy-sal",
+        "event": "u3mhnw",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T16:15:00+02:00",
+          "end": "2023-06-04T17:00:00+02:00"
+        }
       }
     ]
   },
@@ -3980,12 +4022,12 @@
       "speakers": 73,
       "tracks": 11,
       "event-types": 7,
-      "events": 95,
+      "events": 97,
       "stages": 6,
       "faqs": 5,
       "partners": 17,
-      "schedule": 95
+      "schedule": 97
     }
   },
-  "time": "2023-05-26T21:55:01.922Z"
+  "time": "2023-05-26T23:21:51.205Z"
 }

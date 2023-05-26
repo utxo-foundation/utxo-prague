@@ -49,8 +49,8 @@
     "eventId": "kklvje",
     "name": "Jak používat bitcoin",
     "period": {
-      "start": "2023-06-03T13:45:00+02:00",
-      "end": "2023-06-03T15:00:00+02:00"
+      "start": "2023-06-03T12:30:00+02:00",
+      "end": "2023-06-03T13:45:00+02:00"
     }
   },
   {
@@ -83,7 +83,7 @@
   {
     "id": "aj",
     "eventId": "jptwkd",
-    "name": "Holky ve web3 a Metaverse",
+    "name": "Holky v Metaverse",
     "period": {
       "start": "2023-06-04T11:30:00+02:00",
       "end": "2023-06-04T12:45:00+02:00"
@@ -112,8 +112,8 @@
     "eventId": "wke3pb",
     "name": "Secret Network a soukromí jako služba",
     "period": {
-      "start": "2023-06-03T13:15:00+02:00",
-      "end": "2023-06-03T14:00:00+02:00"
+      "start": "2023-06-04T16:15:00+02:00",
+      "end": "2023-06-04T17:00:00+02:00"
     }
   },
   {
@@ -256,8 +256,8 @@
     "eventId": "kkaz8h",
     "name": "DIGITÁLNÍ BUDOUCNOST: Bez blockchainu jsme na cestě k ztrátě svobody...",
     "period": {
-      "start": "2023-06-04T16:15:00+02:00",
-      "end": "2023-06-04T17:00:00+02:00"
+      "start": "2023-06-03T13:15:00+02:00",
+      "end": "2023-06-03T14:00:00+02:00"
     }
   },
   {
@@ -272,7 +272,7 @@
   {
     "id": "a7",
     "eventId": "7ydeft",
-    "name": "Co hýbe světem Metaverse",
+    "name": "Metaverse: budoucnost nebo slepá ulička?",
     "period": {
       "start": "2023-06-03T15:15:00+02:00",
       "end": "2023-06-03T16:00:00+02:00"
@@ -337,8 +337,8 @@
     "eventId": "xvpt9c",
     "name": "Jak na POAP: Naučte se tvořit a distribuovat vlastní digitální tokeny",
     "period": {
-      "start": "2023-06-03T15:00:00+02:00",
-      "end": "2023-06-03T15:45:00+02:00"
+      "start": "2023-06-03T14:45:00+02:00",
+      "end": "2023-06-03T15:30:00+02:00"
     }
   },
   {
@@ -346,8 +346,8 @@
     "eventId": "xpflwb",
     "name": "Dolarové stablecoiny: existuje decentralizovaná alternativa?",
     "period": {
-      "start": "2023-06-03T11:45:00+02:00",
-      "end": "2023-06-03T12:30:00+02:00"
+      "start": "2023-06-03T14:00:00+02:00",
+      "end": "2023-06-03T14:45:00+02:00"
     }
   },
   {
@@ -436,8 +436,8 @@
     "eventId": "zuyrh7",
     "name": "HODL v bull marketu, nebo brát zisky?",
     "period": {
-      "start": "2023-06-03T14:00:00+02:00",
-      "end": "2023-06-03T14:45:00+02:00"
+      "start": "2023-06-03T11:45:00+02:00",
+      "end": "2023-06-03T12:30:00+02:00"
     }
   },
   {
@@ -445,8 +445,8 @@
     "eventId": "8jm7la",
     "name": "Automatizované strategie na Štosuj.cz",
     "period": {
-      "start": "2023-06-03T12:30:00+02:00",
-      "end": "2023-06-03T13:45:00+02:00"
+      "start": "2023-06-03T14:00:00+02:00",
+      "end": "2023-06-03T14:45:00+02:00"
     }
   },
   {
@@ -454,8 +454,8 @@
     "eventId": "xhd9rq",
     "name": "Vexl - ukázka aplikace, jak správně vexlovat",
     "period": {
-      "start": "2023-06-03T16:30:00+02:00",
-      "end": "2023-06-03T17:45:00+02:00"
+      "start": "2023-06-03T16:15:00+02:00",
+      "end": "2023-06-03T17:30:00+02:00"
     }
   },
   {
@@ -463,8 +463,8 @@
     "eventId": "7xm3jk",
     "name": "Jak na výpočet zdanění kryptoměn v nástroji WhaleBooks",
     "period": {
-      "start": "2023-06-03T17:45:00+02:00",
-      "end": "2023-06-03T19:00:00+02:00"
+      "start": "2023-06-03T17:30:00+02:00",
+      "end": "2023-06-03T18:45:00+02:00"
     }
   },
   {
@@ -580,8 +580,8 @@
     "eventId": "jl7hct",
     "name": "Diskuze: Kryptopodnikání v Čechách v době nadcházejících regulací",
     "period": {
-      "start": "2023-06-03T15:45:00+02:00",
-      "end": "2023-06-03T16:30:00+02:00"
+      "start": "2023-06-03T15:30:00+02:00",
+      "end": "2023-06-03T16:15:00+02:00"
     }
   },
   {
@@ -825,6 +825,24 @@
     "period": {
       "start": "2023-06-04T11:30:00+02:00",
       "end": "2023-06-04T12:15:00+02:00"
+    }
+  },
+  {
+    "id": "cx",
+    "eventId": "977dyd",
+    "name": "Security campfire",
+    "period": {
+      "start": "2023-06-04T10:45:00+02:00",
+      "end": "2023-06-04T11:15:00+02:00"
+    }
+  },
+  {
+    "id": "cy",
+    "eventId": "u3mhnw",
+    "name": "Polkadot DEXy: MEV ochrana, efektivita a nové trendy v tradingu",
+    "period": {
+      "start": "2023-06-04T16:15:00+02:00",
+      "end": "2023-06-04T17:00:00+02:00"
     }
   }
 ]
