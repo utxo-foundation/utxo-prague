@@ -1120,7 +1120,7 @@
     Strategy & Operations
   tracks: [ zaklady, regulace, spolecnost ]
   country: cz
-  pretalxId: 
+  pretalxId: YFXEUB
 
 - id: pavel-kahoun
   name: Pavel Kahoun
@@ -1212,7 +1212,7 @@
   orgs: |
     Zakladatel [Liquidity Labs](https://liquidity.digital/labs)
   caption: |
-    Zakladatel Liquidity Labs, "Python maximalista" a Matfyzák
+    Zakladatel Liquidity Labs, "Python maximalista"
   tracks: [ defi, spolecnost ]
   web:
     url: https://www.janskoda.cz/
@@ -1257,7 +1257,7 @@
   orgs: |
     Předseda [České kryptoměnové asociace](https://www.ckma.cz/cs/).
   caption: |
-    Regulatory & Compliance lawyer, Startup Counsel in Fintech & Crypto
+    Regulatory & Compliance lawyer
   tracks: [ regulace, spolecnost ]
   web:
     url: https://www.ckma.cz/cs/
@@ -1265,3 +1265,16 @@
   desc: |
     S Bitcoinem jsem se poprvé setkal na přelomu 2013-2014. Paradoxně na pracovních setkáních v Bruselu, kde jsme s kolegy dojednávali podobu regulatorního rámce pro fungování finančního trhu. V té době žádný z úředníků nebral Bitcoin vážně - považovali jej za hračku pro ajťáky. Přes angažmá na Ministerstvu financí a v několika českých bankách jsem se v roce 2017 seznámil s Danielem a Romanem z Coinmate. Dnes jim pomáhám řídit rizika spjatá s provozováním kryptoměnové burzy a umožnit lidem bezpečné investování do kryptoměn.
   pretalxId: 39MT7J
+
+- id: yangwao
+  name: yangwao
+  twitter: yangwao
+  bio: Progresivní web3 kouzelník, Solarpunk futurist
+  orgs: |
+    [KodaDot](https://kodadot.xyz/) CEO
+  caption: |
+    Progresivní web3 kouzelník, Solarpunk futurist
+  tracks: [ dao ]
+  country: sk
+  desc: |
+    🔆 🌘 Solar ⚔️  Lunar punk ⏳💾  Accumulating History 🦠🧠 Senescent cells are bad 🥽🖼️  @KodaDot @SubWorkBled
