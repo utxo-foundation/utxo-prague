@@ -1079,3 +1079,189 @@
   desc: |
     Marianna Sádecká is Austrian Economist, co-founder of Slovak Students for Liberty and Paralelná Polis Bratislava, moderator of digital security podcast Lokálhosť, writer, psychonaut and liberation-traveler.
   pretalxId: YVAKLD
+
+- id: atris
+  name: Atris
+  twitter: atris_eth
+  bio: Softwarový inženýr, fanda svobody a soukromí
+  orgs: |
+    Full-stack blockchain dev [GitcoinDAO](https://linktr.ee/gitcoinlinks).
+  caption: |
+    Softwarový inženýr, fanda svobody a soukromí
+  tracks: [ zaklady, btc, eth, defi, dao, spolecnost ]
+  country: cz
+  desc: |
+    Softwarový inženýr s láskou pro svobodu a ochranu soukromí.
+  pretalxId: JG8CLQ
+
+- id: viki-val
+  name: Viki Val
+  twitter: vikiival
+  bio: Crafting the world, one pixel at a time
+  orgs: |
+    Co-founder & CTO of [KodaDot](https://kodadot.xyz/), Experimental brewer [SubWork](https://subwork.xyz/).
+  caption: |
+    Crafting the world, one pixel at a time
+  tracks: [ zaklady, nft ]
+  country: sk
+  desc: |
+    Co-founder of @KodaDot
+    Experimental brewer @SubWorkBled
+    Crafting the world, one pixel at a time.
+  pretalxId: TMQGMQ
+
+- id: tomas-hajek
+  name: Tomáš Hájek
+  twitter: krakenfx
+  bio: Strategy & Operations
+  orgs: |
+    [Kraken](https://www.kraken.com/) Digital Asset Exchange.
+  caption: |
+    Strategy & Operations
+  tracks: [ zaklady, regulace, spolecnost ]
+  country: cz
+  pretalxId: 
+
+- id: pavel-kahoun
+  name: Pavel Kahoun
+  twitter: paulkadotter
+  bio: Kryptoměnový nadšenec, Polkadot ambassador
+  orgs: |
+    Spoluzakladatel [Polkadotters](https://twitter.com/polkadotterss).
+  caption: |
+    Kryptoměnový nadšenec, Polkadot ambassador
+  tracks: [ defi, alty, spolecnost ]
+  country: cz
+  pretalxId: W7VZNR
+
+- id: patrik-gudev
+  name: Patrik Gudev
+  twitter: GudevPatrik
+  bio: VR music production in metaverse
+  orgs: |
+    CEO [Museverse](https://museverse.xyz/).
+  caption: |
+    VR music production in metaverse.
+  tracks: [ nft ]
+  country: cz
+  pretalxId: JZZELV
+
+- id: milan-peschl
+  name: Milan Peschl
+  twitter: milanpeschl
+  bio: CEO & Founder, Gaming Expert
+  orgs: |
+    Founder of [Degenheim](https://linktr.ee/degenheim).
+  caption: |
+    CEO & Founder, Gaming Expert
+  tracks: [ eth, nft, spolecnost ]
+  country: cz
+  desc: |
+    CEO & Founder of Degenheim, self-taught designer, developer, tech SaaS startup co-founder and entrepreneur. Spent multiple years optimizing products, brands and customer experiences in multiple industries, including crypto anti-fraud detection & tracking, gaming, healthcare, consulting, government services, digitalization of Europe, real estate and e-commerce, aiding companies ranging up to multi-billion dollar revenues and valuations.
+    Extremely passionate gamer and gaming expert pursuing the dream of empowering gamers by leveraging Web3 ownership and creating fair, user-centric game experiences and economies.
+  pretalxId: 8R3RV7
+
+- id: martin-kabrhel
+  name: Martin Kabrhel
+  twitter: martinkabrhell
+  bio: Matematik, podnikatel a hráč pokeru.
+  orgs: |
+    [Entropiq](https://www.entropiq.gg/) Founder, [Ematiq a.s.](https://www.ematiq.com/) CEO
+  caption: |
+    Matematik, podnikatel a hráč pokeru.
+  lead: true
+  tracks: [ spolecnost ]
+  web:
+    url: https://martinkabrhel.com/
+  country: cz
+  desc: |
+    Matematik, podnikatel a hráč pokeru. Kromě pokeru se věnuje hlavně své datově-analytické firmě Ematiq a svému esportovému klubu Entropiq.
+  pretalxId: N8HVXD
+  
+- id: martin-fisera 
+  name: Martin Fišera
+  bio: Produktový manažer a krypto nadšenec
+  orgs: |
+    Chief Product Officer v [Coinmate.io](https://coinmate.io/).
+  caption: |
+    Produktový manažer a krypto nadšenec
+  tracks: [ zaklady, btc, spolecnost ]
+  country: cz
+  desc: |
+    Ke kryptoměnám jsem se dostal už v roce 2016, kdy jsem začal ve volném čase studovat principy fungování bitcoinu a blockchainu. Trvalo to jen pár týdnů a byl jsem celou oblastí kompletně pohlcený. Od té doby se jednalo o můj největší volnočasový koníček a bylo jen otázkou času, kdy spojím “příjemné s užitečným” a kryptoměnám se začnu věnovat i profesně. S Romanem (CEO) a Nikosem (zástupcem VC fondu Miton) jsme si padli do oka a já jsem našel svůj nový pracovní “domov” v Coinmate. Můžu tak významně zasáhnout do vývoje v krypto světě a přinést produkty, které naši zákazníci ocení.
+  pretalxId: G37SM8
+    
+- id: lukas-vozda
+  name: Lukas Vozda
+  twitter: lukasvozda
+  bio: Nadšenec do technologií s backgroundem v datech
+  orgs: |
+    Co-founder [Databy](https://www.databy.io/)
+  caption: |
+    Nadšenec do technologií s backgroundem v datech
+  tracks: [ btc, eth, dao, alty, spolecnost ]
+  country: cz
+  desc: |
+    Co-founder datového studia Databy, kde jsem pod marketingovou skupinou Proficio 8 let působil na pozici Head of Analytics. Mám silný background v tom, jak funguje dnešní internet, jaká data se o nás sbírají a co se s nimi dá dělat. Po večerech studuji alternativní řešení (blockchainy), které by mohly přinést lepší zítřky - největší potenciál vidím v ICP.
+  pretalxId: 8NR8JG
+    
+- id: jan-skoda
+  name: Jan Škoda
+  twitter: jan_skoda
+  bio: Zakladatel Liquidity Labs, "Python maximalista" a Matfyzák
+  orgs: |
+    Zakladatel [Liquidity Labs](https://liquidity.digital/labs)
+  caption: |
+    Zakladatel Liquidity Labs, "Python maximalista" a Matfyzák
+  tracks: [ defi, spolecnost ]
+  web:
+    url: https://www.janskoda.cz/
+  country: cz
+  desc: |
+    Zakladatel Liquidity Labs, "Python maximalista" a absolvent AI na MFF UK. Před založením svého market-making projektu pracoval v pražské tradingové firmě Quantlane nebo organizoval Korespondenční Seminář z Programování a jeho tábory pro středoškoláky.
+  pretalxId: LCGGP7
+        
+- id: jan-brukner
+  name: Jan Brukner
+  twitter: janbrukner
+  bio: idea maker | artist | director
+  orgs: |
+    zakladatel [ideavisualize](http://www.visualize.cz/) / freelancer
+  caption: |
+    idea maker | artist | director
+  tracks: [ nft ]
+  web:
+    url: http://www.janbrukner.com
+  country: cz
+  desc: |
+    Jan se pohybuje ve filmovém průmyslu a 3D virtuálních světech více jak 20 let. Vedle komerční tvorby a spolupráce s řadou studií a reklamních agentur, se deset věnoval výuce 3D animace na umělecké škole Václava Hollara. Zajímá se o inovativní nástroje a alternativní technologie, které se snaží zapojovat do reálné audiovizuální produkce. V současnosti pracuje také jako režisér v nově vznikajícím ateliéru IDEA VISUALIZE, kde se zaměřuje na vizualizaci nápadů a kreativní multimediální produkci.
+  pretalxId: FDKKNH
+        
+- id: ivan-klbik
+  name: Ivan Klbík
+  bio: Bezpečnostní konzultant
+  orgs: |
+    [Ernst & Young](https://www.ey.com/cs_cz).
+  caption: |
+    Bezpečnostní konzultant
+  tracks: [ zaklady, spolecnost ]
+  country: cz
+  desc: |
+    Konzultant kybernetické bezpečnosti se zájmem o svět kryptoměn a technologii blockchainu.
+    Ivan získal mnoho zkušeností z různých školení zaměřených na bezpečnost, včetně školení bezpečnosti Smart Contractů ve spolupráci s odborníky z týmu EY Blockchain Security z Izraele.
+  pretalxId: QWYZZ9
+        
+- id: frantisek-vinopal
+  name: František Vinopal
+  bio: Regulatory & Compliance lawyer, Startup Counsel in Fintech & Crypto
+  orgs: |
+    Předseda [České kryptoměnové asociace](https://www.ckma.cz/cs/).
+  caption: |
+    Regulatory & Compliance lawyer, Startup Counsel in Fintech & Crypto
+  tracks: [ regulace, spolecnost ]
+  web:
+    url: https://www.ckma.cz/cs/
+  country: cz
+  desc: |
+    S Bitcoinem jsem se poprvé setkal na přelomu 2013-2014. Paradoxně na pracovních setkáních v Bruselu, kde jsme s kolegy dojednávali podobu regulatorního rámce pro fungování finančního trhu. V té době žádný z úředníků nebral Bitcoin vážně - považovali jej za hračku pro ajťáky. Přes angažmá na Ministerstvu financí a v několika českých bankách jsem se v roce 2017 seznámil s Danielem a Romanem z Coinmate. Dnes jim pomáhám řídit rizika spjatá s provozováním kryptoměnové burzy a umožnit lidem bezpečné investování do kryptoměn.
+  pretalxId: 39MT7J
