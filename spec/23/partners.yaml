@@ -25,9 +25,21 @@
   web:
     url: https://polkadotters.medium.com/
 
+- id: nft-space
+  name: NFT Space
+  type: community
+  web:
+    url: https://www.nftspace.cz/
+
   
 # Sponsors
 # ======================
+- id: polkadot
+  name: Polkadot
+  type: sponsor
+  web:
+    url: https://polkadot.network/
+
 - id: coinmate
   name: Coinmate
   type: sponsor
@@ -45,9 +57,16 @@
   type: sponsor
   web:
     url: https://www.anycoin.cz/
+    
+- id: somnium-space
+  name: Somnium Space
+  type: sponsor
+  web:
+    url: https://www.anycoin.cz/
+    
 
 
-# Press partners
+# Partners
 # ======================
 
 - id: finex-cz
@@ -104,11 +123,13 @@
   web:
     url: https://www.instagram.com/kryptodenik/
 
-- id: nft-space
-  name: NFT Space
+- id: develit
+  name: Develit.io
   type: medium
   web:
-    url: https://www.nftspace.cz/
+    url: https://develit.io
+
+
 
 
 # Suppliers
