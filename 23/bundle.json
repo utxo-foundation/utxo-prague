@@ -2888,6 +2888,28 @@
         ]
       },
       {
+        "id": "nft-space",
+        "name": "NFT Space",
+        "type": "community",
+        "web": {
+          "url": "https://www.nftspace.cz/"
+        },
+        "photos": [
+          "web:svg"
+        ]
+      },
+      {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "type": "sponsor",
+        "web": {
+          "url": "https://polkadot.network/"
+        },
+        "photos": [
+          "web:svg"
+        ]
+      },
+      {
         "id": "coinmate",
         "name": "Coinmate",
         "type": "sponsor",
@@ -2912,6 +2934,17 @@
       {
         "id": "anycoin",
         "name": "Anycoin",
+        "type": "sponsor",
+        "web": {
+          "url": "https://www.anycoin.cz/"
+        },
+        "photos": [
+          "web:png"
+        ]
+      },
+      {
+        "id": "somnium-space",
+        "name": "Somnium Space",
         "type": "sponsor",
         "web": {
           "url": "https://www.anycoin.cz/"
@@ -3020,11 +3053,11 @@
         ]
       },
       {
-        "id": "nft-space",
-        "name": "NFT Space",
+        "id": "develit",
+        "name": "Develit.io",
         "type": "medium",
         "web": {
-          "url": "https://www.nftspace.cz/"
+          "url": "https://develit.io"
         },
         "photos": [
           "web:svg"
@@ -4025,9 +4058,9 @@
       "events": 97,
       "stages": 6,
       "faqs": 5,
-      "partners": 17,
+      "partners": 20,
       "schedule": 97
     }
   },
-  "time": "2023-05-26T23:21:51.205Z"
+  "time": "2023-05-29T12:27:19.274Z"
 }
