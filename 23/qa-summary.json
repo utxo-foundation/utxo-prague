@@ -175,8 +175,8 @@
     "eventId": "e3gt7v",
     "name": "Uniswap V3 - opravdové DeFi",
     "period": {
-      "start": "2023-06-04T11:15:00+02:00",
-      "end": "2023-06-04T12:15:00+02:00"
+      "start": "2023-06-04T12:00:00+02:00",
+      "end": "2023-06-04T13:00:00+02:00"
     }
   },
   {
@@ -319,8 +319,8 @@
     "eventId": "xvpt9c",
     "name": "Jak na POAP: Naučte se tvořit a distribuovat vlastní digitální tokeny",
     "period": {
-      "start": "2023-06-04T14:15:00+02:00",
-      "end": "2023-06-04T15:00:00+02:00"
+      "start": "2023-06-04T11:15:00+02:00",
+      "end": "2023-06-04T12:00:00+02:00"
     }
   },
   {
@@ -616,8 +616,8 @@
     "eventId": "lqhknm",
     "name": "How to start using Polkadot",
     "period": {
-      "start": "2023-06-04T12:15:00+02:00",
-      "end": "2023-06-04T13:15:00+02:00"
+      "start": "2023-06-04T14:00:00+02:00",
+      "end": "2023-06-04T15:00:00+02:00"
     }
   },
   {
@@ -733,8 +733,8 @@
     "eventId": "furanp",
     "name": "Vybíráme x86 hardware na stavbu bitcoinového nodu (workshop)",
     "period": {
-      "start": "2023-06-04T13:15:00+02:00",
-      "end": "2023-06-04T14:15:00+02:00"
+      "start": "2023-06-04T13:00:00+02:00",
+      "end": "2023-06-04T14:00:00+02:00"
     }
   },
   {
