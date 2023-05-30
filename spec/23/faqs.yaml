@@ -24,5 +24,9 @@
 
 - question: Budou přednášky vysílané živě?
   answer: |
-    Ano, vše bude zdarma dostupné na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).
+    Přednášky z hlavní stage budou vysílané živě zdarma na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).
+
+- question: Jaké platby budete podporovat u stánků?
+  answer: |
+    U stánků s občerstvením bude možné platit pouze Lightning BTC nebo platebními kartami. Platby v hotovosti nebudou možné.
  
