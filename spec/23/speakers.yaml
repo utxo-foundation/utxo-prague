@@ -187,7 +187,7 @@
   country: cz
   desc: |
     Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku. Nejblíže je mi ovšem [Polkadot](https://polkadot.network/), proto jsme založili značku [Polkadotters](https://polkadotters.medium.com/) pod kterou pravidelně píšeme pro mezinárodní publikum a zároveň provozujeme validátory na Polkadotu, Kusamě a téměr všech ostatních parachainech.
-  #pretalxId: X
+  pretalxId: XYQSQC
 
 - id: radek-svarz
   name: Radek Švarz
@@ -480,7 +480,7 @@
   tracks: [ zaklady, btc, eth, defi ]
   country: sk
   lead: true
-  # pretalxId: X
+  pretalxId: 8HXCTV
 
 - id: vladimir-pinker
   name: Vladimír Pinker
@@ -830,7 +830,7 @@
   web:
     url: https://pwn.xyz/
   country: cz
-  #pretalxId: X
+  pretalxId: AZCLF8
 
 - id: filippo-franchini
   name: Filippo Franchini
@@ -1279,3 +1279,87 @@
   country: sk
   desc: |
     🔆 🌘 Solar ⚔️  Lunar punk ⏳💾  Accumulating History 🦠🧠 Senescent cells are bad 🥽🖼️  @KodaDot @SubWorkBled
+  pretalxId: YX3EL7
+        
+- id: nataliya-grimberg
+  name: Nataliya Grimberg
+  bio: Web3 Fashion & Luxury Consultant
+  orgs: |
+    Metaverse Fashion Expert at [Somnium Space](https://somniumspace.com/), Digital Fashion Consultant at MOYA
+  caption: |
+    Web3 Fashion & Luxury Consultant
+  tracks: [ nft ]
+  web:
+    url: www.msha.ke/futurist
+  country: cz
+  desc: |
+    Nataliya is a Web3 fashion and luxury strategist building a new generation of digital experiences and reporting on the newest developments in the field as a speaker and trend forecaster. She works with luxury and tech companies to help them navigate the rapidly changing landscape of the metaverse industry with future-proof strategies.
+  pretalxId: LVJ3L3
+        
+- id: tomas-vlasak
+  name: Tomáš Vlasák
+  nickname: Krypto Tomáš
+  twitter: KryptoTomasCZ
+  bio: DeFi konzultant
+  orgs: |
+    Investor na volné noze
+  caption: |
+    DeFi konzultant
+  tracks: [ defi ]
+  country: cz
+  desc: |
+    Akciový a krypto investor.
+  pretalxId: DAEAV8
+        
+- id: lea-petrasova
+  name: Lea Petrášová
+  lead: true
+  twitter: LeaPetras
+  bio: Spoluzakladatelka, CEO
+  orgs: |
+    [Vexl](https://vexl.it)
+  caption: |
+    Spoluzakladatelka, CEO
+  tracks: [ btc, regulace ]
+  web:
+    url: https://vexl.it
+  country: sk
+  desc: |
+    Lea je spoluzakladatelkou a CEO společnosti Vexl, mobilní aplikace, která usnadňuje obchodování s bitcoiny tak, jak bylo zamýšleno: peer-to-peer a bez KYC.
+  pretalxId: MX9NKW
+                
+- id: six
+  name: Six
+  twitter: sixTheDave
+  bio: Web3 security auditor and consultant
+  orgs: |
+    Founder of [CCTF](https://cryptoctf.org/) and [Polkadot](https://polkadot.network/) Head Ambassador.
+  caption: |
+    Web3 security auditor and consultant
+  tracks: [ nft ]
+  web:
+    url: Sixthedave.me
+  country: hu
+  desc: |
+    Founder of CCTF and Polkadot Head Ambassador. Web3 security auditor and consultant.
+  pretalxId: GY7UG3
+        
+- id: markoinether
+  name: markoInEther
+  twitter: markoinether
+  bio: A surfing addict, decentralization & DVT evangelist
+  orgs: |
+    [SSV DAO](https://ssv.network/dao/) contributor.
+  caption: |
+    A surfing addict, decentralization & DVT evangelist
+  tracks: [ eth, defi ]
+  web:
+    url: https://www.youtube.com/@markoinether
+  country: sk
+  desc: |
+    A surfing addict, decentralization & DVT evangelist. 
+    Currently working on DVT tech and decentralizing staking infrastructure using distributed validator technology as SSV DAO contributor.
+    Involved with the Ethereum ecosystem since 2016 organizing Ethereum meetups in Bratislava and volunteering at Devcon4, 6.  Have been working on various staking projects since 2020. 
+    Check my blog if you want to read my [rambling on ETH staking](https://medium.com/@MarkoInEther) and crypto in general, my [shitposting track record](https://twitter.com/markoinether) on twitter or [awesome-ssv repo](https://github.com/bloxapp/awesome-ssv/) if you are a builder interested in Eth staking.
+  pretalxId: ZXKJZP
+                
