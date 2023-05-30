@@ -1937,17 +1937,6 @@
         "track": "zaklady"
       },
       {
-        "id": "tqmyhb",
-        "type": "campfire",
-        "name": "Diskuze/panelovka lidí, kteří tvoří content o kryptu",
-        "speakers": [
-          "dominika-v"
-        ],
-        "duration": 45,
-        "description": "Diskuze nadšenců do krypta, kteří tvoří content o kryptu. Mají sílu podporovat mánii kolem krypta nebo naopak přinášet střízlivé názory na pros&cons kryptoměn. Jaká je jejich zkušenost, odkud čerpají zdroje a  jak se měnil jejich názor na krypto.  Co funguje a jaké témata nejvíce rezonují veřejností?",
-        "track": "spolecnost"
-      },
-      {
         "id": "nxpqtx",
         "type": "talk",
         "name": "Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?",
@@ -2013,7 +2002,7 @@
           "jana-kubatova"
         ],
         "duration": 75,
-        "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnes postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnujeme?",
+        "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnešní postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnuje?",
         "track": "nft"
       },
       {
@@ -2082,17 +2071,6 @@
         "track": "kryptopodnikani"
       },
       {
-        "id": "x9rgpd",
-        "type": "talk",
-        "name": "Rok v Sorare aneb Dá se živit sledováním fotbalu?",
-        "speakers": [
-          "milan-marcak"
-        ],
-        "duration": 45,
-        "description": "Milan Marčák, Sorare specialista společnosti Altlift, popíše své zkušenost z posledního roku v prostředí NFT virtuální fotbalové ligy Sorare. Těšit se můžete na základní přehled Sorare platforem, stejně jako praktické tipy pro tvorbu Vašich vlastních týmů.",
-        "track": "nft"
-      },
-      {
         "id": "dy87a8",
         "type": "talk",
         "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
@@ -2149,12 +2127,12 @@
       {
         "id": "3vrsv8",
         "type": "talk",
-        "name": "Meta protokoly nad Bitcoinom",
+        "name": "Bitcoin-back everything!",
         "speakers": [
           "martin-matejka"
         ],
         "duration": 45,
-        "description": "Bitcoinová sieť ako základná vrstva umožňuje vznik meta protokolov rozširujúcich funkcionalitu a možnosti použitia bitcoinu. Každý už asi počul niečo o Lightning Network alebo Liquid. Tento talk bude o menej známych ale o to zaujímavejších protokoloch ako RGB, Taro, Fedi a Ordinals",
+        "description": "Mnohí z vás poznajú Bitcoin ako nástroj na rozšírenie osobnej a finančnej slobody a využívajú ho ako peer-to-peer platobný systém, prípadne ako sôsob uchovania hodnôt. Poďme preskúmať ďalšiu možnosť ktorá by mala byť v toolkite každého bitcoinera: bitcoin ako univerzálny kolaterál.",
         "track": "btc"
       },
       {
@@ -2323,7 +2301,7 @@
       {
         "id": "97qelm",
         "type": "talk",
-        "name": "Blockchain jako institucionální technologie",
+        "name": "Trhy, firmy, stát a... blockchain? Blockchain jako nový způsob lidské spolupráce",
         "speakers": [
           "vojtech-olbrecht"
         ],
@@ -2395,7 +2373,8 @@
         "name": "Umění a kreativita v éře NFT, AI, Metaverse a Web 3.0",
         "speakers": [
           "julie-sislerova",
-          "jana-kubatova"
+          "jana-kubatova",
+          "jan-brukner"
         ],
         "duration": 75,
         "description": "Jak nové technologie zasahují do umění a vnímání samotné podstaty kreativity? Umělá \"Inteligence\" se učí z obrazů a fotografií umělců z celého světa a přináší neuvěřitelné nástroje pro nový typ tvorby. Virtuální realita umožňuje se hlouběji ponořit do příběhu a prozkoumávat nové digitální světy. Blockchain a NFT vytvořily nekonečný prostor pro sdílení umění.",
@@ -2414,6 +2393,26 @@
         "track": "zaklady"
       },
       {
+        "id": "vu7bua",
+        "type": "talk",
+        "name": "ICP jako 3. největší inovace v kryptu po BTC & ETH",
+        "speakers": [
+          "lukas-vozda"
+        ],
+        "duration": 30,
+        "description": "Rád bych povyprávěl o potenciálu, který se skrývá v Internet Computer Protocolu (ICP) od Dfinity foundation. Jsem přes 2 roky aktivní v jejich komunitě a podílel jsem se i na vývoji menších projektů. Podle mého názoru jediná platforma, kde lze realizovat 100 % on-chain projekty. Odhalím také možnosti, které přinese přímá integrace BTC a ETH blockchainů.",
+        "track": "alty"
+      },
+      {
+        "id": "gdv8qy",
+        "type": "talk",
+        "name": "Tipy a triky na (Degen) DeFi",
+        "speakers": [],
+        "duration": 55,
+        "description": "",
+        "track": "defi"
+      },
+      {
         "id": "tvzbz7",
         "type": "talk",
         "name": "Jak si najít a udržet progresivní práci ve Web3?",
@@ -2422,7 +2421,7 @@
         ],
         "duration": 45,
         "description": "V této prezentaci se podíváme na to, jak si najít progresivní práci ve Web3 z pohledu COO Eventové společnosti ve Web3 a Head of Operations v KodaDotu, NFT marketplace na Polkadotu. Probereme výzvy spojené s hledáním práce, udržováním pozice, rozvojem a zvládáním stresu při posouvání se ve Web3 prostředí.",
-        "track": "spolecnost"
+        "track": "defi"
       },
       {
         "id": "qh73vp",
@@ -2451,7 +2450,8 @@
         "type": "other",
         "name": "Hudba v éře blockchainu a AI: překonávání výzev a cesta k masové adopci",
         "speakers": [
-          "matej-zimak"
+          "matej-zimak",
+          "patrik-gudev"
         ],
         "duration": 30,
         "description": "",
@@ -2465,7 +2465,7 @@
           "petr-lukac"
         ],
         "duration": 45,
-        "description": "rozhovor se zajímavým hostem. (chce to po mě 250 znaků, tak to tu musím nějak zaplácat. Plác plác. UTXO je nejlepší. Smrt maxíkům všeho druhu. Milujeme UTXO. Maj tam dobrý pivo. Tak prej mám jen 179 znaků. Už 213. Super. Tak ještě čtyřicet a jsem tam. JO!)",
+        "description": "Rozhovor se zajímavým hostem: Bitcoin is dead. Nebo není? probereme, co se děje kolem nejstarší kryptoměny, jaké vznikají nové protokoly i zbytečný balast, který je v ekosystému stále objevuje. KryptoSpace bude na UTXO s Martinem Matějkou z FireFish.",
         "track": "spolecnost"
       },
       {
@@ -2487,6 +2487,16 @@
         ],
         "duration": 45,
         "description": "Nejen DCA pravidelné spoření, ale nově na Štosuj.cz také grid trading a další chystané strategie pro jednoduché automatické obchody. Víš, jak přemýšlet nad svojí exit strategií? Nebo jak rebalancovat své portfolio? Přijď si pro inspiraci a omrkni náš projekt."
+      },
+      {
+        "id": "gppvnd",
+        "type": "talk",
+        "name": "Algo-trading v kryptu",
+        "speakers": [
+          "jan-skoda"
+        ],
+        "duration": 45,
+        "description": "Jak funguje algoritmické obchodování, market-making a HFT v kryptu? Jaká je zde role market-makerů, poskytovatelů likvidity? Jaké problémy mají DEXy oproti centralizovaným burzám? Jak fungují manipulace trhem nebo insider trading a jak s nimi market-makeři bojují? A mají retailoví tradeři šanci proti institucím?"
       },
       {
         "id": "xhd9rq",
@@ -2531,6 +2541,16 @@
         "duration": 45,
         "description": "Když se řekne blockchain, pravděpodobně se nám všem jako první vybaví pojmy jako Bitcoin nebo krypto, což je jen špička celého ledovce. Tato technologie toho přináší mnohem více a já věřím, že má potenciál naprosto změnit to, jak funguje náš současný byznysový ekosystém a obecně společnost.",
         "track": "kryptopodnikani"
+      },
+      {
+        "id": "v7fhcj",
+        "type": "campfire",
+        "name": "Gamer Centric Economies - Web3 ako revolúcia monetizácie gamingu",
+        "speakers": [
+          "milan-peschl"
+        ],
+        "duration": 45,
+        "description": "Napriek tomu, že hráči sú zvyknutí \"vlastniť\" digitálne assety už posledných 20 rokov a platiť za ne, nikdy ich v skutočnosti nevlastnili. Správne uchytenie Web3 ako technológie ukrýva potenciál k revolúcii monetizácie gamingu v prospech hráčov. Predstavte si, že zrazu každá hra a hráč môže mať rovnaké možnosti ako CS:GO a ich $50M secondary market so skinmi. Bez bariér a vendor locku."
       },
       {
         "id": "nuqnnr",
@@ -2593,6 +2613,7 @@
         "name": "Kryptopodnikání v Čechách v době nadcházejících regulací",
         "speakers": [
           "roman-valihrach",
+          "frantisek-vinopal",
           "kirill-juran",
           "radim-kozub"
         ],
@@ -2649,7 +2670,8 @@
         "type": "campfire",
         "name": "Diskuze: Kryptopodnikání v Čechách v době nadcházejících regulací",
         "speakers": [
-          "roman-valihrach"
+          "roman-valihrach",
+          "frantisek-vinopal"
         ],
         "duration": 45,
         "description": "",
@@ -2662,7 +2684,8 @@
         "speakers": [
           "david-stancel",
           "lukas-kovanda",
-          "anna-pichova"
+          "anna-pichova",
+          "martin-kabrhel"
         ],
         "duration": 75,
         "description": ""
@@ -2675,7 +2698,7 @@
           "filippo-franchini"
         ],
         "duration": 60,
-        "description": "Workshop / Demo showing how to create an account, transfer tokens, stake, and vote in governance.\r\nmax 40-60min lenght. Vyplnuji abstrakt za speakera, bude to v angličtině :. V rámci mega sponzorství. Asi make sense v knihovně, ať uděláme fotky/natočíme :D",
+        "description": "Join us for an interactive workshop/demo on Polkadot, designed for beginners who are eager to explore the world of blockchain and decentralized governance. In this session, we will guide you through the essential steps of creating a Polkadot account, transferring tokens, staking, and participating in the governance process.",
         "track": "alty"
       },
       {
@@ -2715,9 +2738,9 @@
       {
         "id": "apazac",
         "type": "other",
-        "name": "Violoncellový koncert",
+        "name": "Violoncellový koncert - Keishiro Mikawa & Juraj Skoda",
         "speakers": [],
-        "duration": 60,
+        "duration": 45,
         "description": ""
       },
       {
@@ -2858,7 +2881,7 @@
       {
         "id": "xlmfqt",
         "type": "other",
-        "name": "Kryptomediácia pre upokojenie mysle od inflácie fiat peňazí aj volatility bitcoinu",
+        "name": "Kryptomeditácia pre upokojenie mysle od inflácie fiat peňazí aj volatility bitcoinu",
         "speakers": [
           "marianna-sadecka"
         ],
@@ -2894,7 +2917,9 @@
         "name": "Kde koupit krypto?",
         "speakers": [
           "vladimir-pinker",
-          "david-stancel"
+          "david-stancel",
+          "martin-fisera",
+          "tomas-hajek"
         ],
         "duration": 75,
         "description": "\"Kde koupit krypto?\" je panelová diskuze o tom, jak se dají nejlépe pořídit kryptoměny v Česku. Odborníci z oblasti CEX, DEX, peer-to-peer směn a kryptomatů přinášejí různé pohledy a srovnávají výhody a rizika těchto možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně nakupovat kryptoměny. Moderuje David Stancel.",
@@ -2924,18 +2949,18 @@
       {
         "id": "brrqjb",
         "type": "other",
-        "name": "Venkovní performance - TBA",
+        "name": "DJ set by Chevii²",
         "speakers": [],
-        "duration": 90,
+        "duration": 120,
         "description": ""
       },
       {
         "id": "qsudxa",
         "type": "other",
-        "name": "Sobotní párty by Somnium Space",
+        "name": "Sobotní párty by Crypto Portal, Somnium Space & Museverse",
         "speakers": [],
-        "duration": 180,
-        "description": ""
+        "duration": 265,
+        "description": "Unikátní párty spojená s VR expreience vás čeká už první večer UTXO! Těšit se můžete na:\r\n\r\n21:05-21:50 - Piqi Miqi \r\n21:50 - 22:20 - Somnium Space DJ Blake Hotz \r\n22:20 - 24:00 - DJ Aurelien\r\n24:00 - 01:30 - DJ Sam Gittis\r\n\r\nDěkujeme partnerům párty:\r\n- Somnium Space\r\n- M﻿useverse.xyz\r\n- HATA\r\n- P﻿olkadot"
       },
       {
         "id": "eut83q",
@@ -2950,18 +2975,139 @@
         "id": "977dyd",
         "type": "campfire",
         "name": "Security campfire",
-        "speakers": [],
+        "speakers": [
+          "ivan-klbik"
+        ],
         "duration": 30,
         "description": "Campfire k základům uživatelské bezpečnosti v oblasti kryptoměn. Držíte své tokeny na burze, máte softwarovou peněženku, anebo vlastníte hardware wallet? Víte, do jakých problému se v poslední době zapletla společnost Ledger? Diskutujte o svých obavách a názorech s bezpečnostními experty z EY.",
         "track": "zaklady"
       },
       {
+        "id": "tjj738",
+        "type": "talk",
+        "name": "Veřejné finance kvadraticky",
+        "speakers": [
+          "atris"
+        ],
+        "duration": 45,
+        "description": "Veřejné finance - nekonečné téma, které nemá žádné jasné řešení - nebo ano? Kvadratické hlasování nabízí nové způsoby, jak se shodnout na rozdělení veřejných prostředků. Umožňuje najít kompromis mezi systémy \"jeden člověk - jeden hlas\" a \"jeden dolar - jeden hlas\", které oba trpí velkými nedostatky. V digitálním světě se již těší velkému užitku, můžeme ho aplikovat i v reálném světě?",
+        "track": "spolecnost"
+      },
+      {
         "id": "u3mhnw",
         "type": "talk",
         "name": "Polkadot DEXy: MEV ochrana, efektivita a nové trendy v tradingu",
-        "speakers": [],
+        "speakers": [
+          "pavel-kahoun"
+        ],
         "duration": 45,
         "description": "Decentralizované burzy (DEXy) na Polkadot přináší do tradingu různé inovativní přístupy, ať už je to ochrana před front-runningem a MEV (Miner Extractable Value), gassless swaps, single-sided likvidita, nebo propojení s jinými ekosystémy jako Cosmos nebo Ethereum.",
+        "track": "defi"
+      },
+      {
+        "id": "tfbmpe",
+        "type": "talk",
+        "name": "Kraken - TBA",
+        "speakers": [
+          "tomas-hajek"
+        ],
+        "duration": 45,
+        "description": ""
+      },
+      {
+        "id": "d3svyq",
+        "type": "workshop",
+        "name": "Somnium Space: NFTs and decentralized asset streaming",
+        "speakers": [],
+        "duration": 60,
+        "description": "",
+        "track": "nft"
+      },
+      {
+        "id": "t3cznp",
+        "type": "talk",
+        "name": "Jak rozdistribuovat $450k v open-source projektu a u toho vést Web3 startup",
+        "speakers": [],
+        "duration": 25,
+        "description": "",
+        "track": "dao"
+      },
+      {
+        "id": "7uxvpl",
+        "type": "talk",
+        "name": "NFT standardy na Polkadotu - Kam směřují?",
+        "speakers": [
+          "viki-val"
+        ],
+        "duration": 25,
+        "description": "",
+        "track": "nft"
+      },
+      {
+        "id": "eha3zs",
+        "type": "campfire",
+        "name": "Demokratizace treasuries a governance v kryptu - Jak se rovnat velrybám a co můžeme udělat pro úspěšný proposal?",
+        "speakers": [
+          "damsky"
+        ],
+        "duration": 30,
+        "description": "",
+        "track": "dao"
+      },
+      {
+        "id": "tehyka",
+        "type": "talk",
+        "name": "Ethereum Protocol Fellowship: Jak se stát Ethereum core vývojářem",
+        "speakers": [],
+        "duration": 20,
+        "description": "The Ethereum Protocol Fellowship is a permissionless fellowship program that helps to streamline the process of becoming a core developer. Applications are now opened and everyone interested in Ethereum core protocol is welcomed to apply! Come to visit the talk and learn more about the program and core development.",
+        "track": "eth"
+      },
+      {
+        "id": "8z37gz",
+        "type": "campfire",
+        "name": "Inovace na poli mostů mezi blockchainy",
+        "speakers": [],
+        "duration": 30,
+        "description": "",
+        "track": "alty"
+      },
+      {
+        "id": "janpcp",
+        "type": "workshop",
+        "name": "Jakou peněženku si vybrat pro interakci na Polkadotu?",
+        "speakers": [
+          "damsky"
+        ],
+        "duration": 60,
+        "description": "",
+        "track": "zaklady"
+      },
+      {
+        "id": "8hllua",
+        "type": "talk",
+        "name": "Life in Web3",
+        "speakers": [],
+        "duration": 40,
+        "description": "The World is changing with an astonishing speed and Web3 might be the answer to how we handle our governance, communities and finances. The talk presents the process of change and real life examples through Polkadot's ecosystem.  For the syllabus, please see the description.",
+        "track": "dao"
+      },
+      {
+        "id": "cuv8zx",
+        "type": "talk",
+        "name": "Od Etherea k Polkadotu: Odvážný krok zakladatele k přelomovému projektu",
+        "speakers": [],
+        "duration": 30,
+        "description": "Představení Polkadotu - Přelomového krypto projektu od jednoho ze zakladatelů a architektů Etherea - Gavina Wooda. Odhalení klíčových vlastností, technologií a filozofie, které z něj činí revoluci ve světě kryptoměn a perspektivní projekt pro budoucnost.",
+        "track": "alty"
+      },
+      {
+        "id": "py8axc",
+        "type": "other",
+        "name": "Endgame, finálny stav Ethereum stakingu…🚀",
+        "speakers": [],
+        "duration": 30,
+        "description": "Prečo každý ETH hodler nestakuje svoje ETH? \r\nPokúsim sa túto otázku zodpovedať, budem rozprávať sa o dynamike súčasného Ethereum staking ekosystému, prečo a ako sa môže v budúcnosti vyvíjať a ako bude vyzerať finálny stav.\r\n\r\nZ tejto prednášky si odnesieš lepšie pochopenie Ethereum staking ekosystému a kam sa môže v budúcnosti hýbať.",
         "track": "defi"
       }
     ],
@@ -3359,10 +3505,10 @@
         "id": "aa",
         "stage": "campfire-outdoor",
         "event": "7h7da8",
-        "date": "2023-06-03",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T10:45:00+02:00",
-          "end": "2023-06-03T11:15:00+02:00"
+          "start": "2023-06-04T13:45:00+02:00",
+          "end": "2023-06-04T14:15:00+02:00"
         }
       },
       {
@@ -3381,32 +3527,22 @@
         "event": "3tcyng",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:15:00+02:00",
-          "end": "2023-06-04T15:15:00+02:00"
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T16:00:00+02:00"
         }
       },
       {
         "id": "ad",
-        "stage": "campfire-outdoor",
-        "event": "tqmyhb",
-        "date": "2023-06-03",
-        "period": {
-          "start": "2023-06-03T16:15:00+02:00",
-          "end": "2023-06-03T17:00:00+02:00"
-        }
-      },
-      {
-        "id": "ae",
         "stage": "klenbovy-sal",
         "event": "nxpqtx",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:45:00+02:00",
-          "end": "2023-06-03T15:30:00+02:00"
+          "start": "2023-06-03T15:30:00+02:00",
+          "end": "2023-06-03T16:15:00+02:00"
         }
       },
       {
-        "id": "af",
+        "id": "ae",
         "stage": "knihovna",
         "event": "kklvje",
         "date": "2023-06-03",
@@ -3416,7 +3552,7 @@
         }
       },
       {
-        "id": "ag",
+        "id": "af",
         "stage": "lustrovy-sal",
         "event": "9tjnas",
         "date": "2023-06-03",
@@ -3426,27 +3562,27 @@
         }
       },
       {
-        "id": "ah",
-        "stage": "lustrovy-sal",
+        "id": "ag",
+        "stage": "klenbovy-sal",
         "event": "ehalmb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:30:00+02:00",
-          "end": "2023-06-03T10:55:00+02:00"
+          "start": "2023-06-03T18:30:00+02:00",
+          "end": "2023-06-03T18:55:00+02:00"
         }
       },
       {
-        "id": "ai",
+        "id": "ah",
         "stage": "klenbovy-sal",
         "event": "mbezkd",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:00:00+02:00",
-          "end": "2023-06-03T17:45:00+02:00"
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:00:00+02:00"
         }
       },
       {
-        "id": "aj",
+        "id": "ai",
         "stage": "rajska-zahrada",
         "event": "jptwkd",
         "date": "2023-06-04",
@@ -3456,17 +3592,17 @@
         }
       },
       {
-        "id": "ak",
-        "stage": "klenbovy-sal",
+        "id": "aj",
+        "stage": "lustrovy-sal",
         "event": "3mwenq",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:00:00+02:00",
-          "end": "2023-06-04T15:45:00+02:00"
+          "start": "2023-06-04T13:45:00+02:00",
+          "end": "2023-06-04T14:30:00+02:00"
         }
       },
       {
-        "id": "al",
+        "id": "ak",
         "stage": "rajska-zahrada",
         "event": "ae3sxw",
         "date": "2023-06-04",
@@ -3476,37 +3612,37 @@
         }
       },
       {
-        "id": "am",
+        "id": "al",
         "stage": "lustrovy-sal",
         "event": "wke3pb",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T16:15:00+02:00",
-          "end": "2023-06-04T17:00:00+02:00"
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:45:00+02:00"
+        }
+      },
+      {
+        "id": "am",
+        "stage": "klenbovy-sal",
+        "event": "zhascq",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:30:00+02:00",
+          "end": "2023-06-03T18:15:00+02:00"
         }
       },
       {
         "id": "an",
         "stage": "klenbovy-sal",
-        "event": "zhascq",
-        "date": "2023-06-03",
+        "event": "vjlrdv",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T16:15:00+02:00",
-          "end": "2023-06-03T17:00:00+02:00"
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:45:00+02:00"
         }
       },
       {
         "id": "ao",
-        "stage": "klenbovy-sal",
-        "event": "vjlrdv",
-        "date": "2023-06-04",
-        "period": {
-          "start": "2023-06-04T14:00:00+02:00",
-          "end": "2023-06-04T14:45:00+02:00"
-        }
-      },
-      {
-        "id": "ap",
         "stage": "lustrovy-sal",
         "event": "aefxhc",
         "date": "2023-06-03",
@@ -3516,37 +3652,27 @@
         }
       },
       {
-        "id": "aq",
-        "stage": "lustrovy-sal",
-        "event": "x9rgpd",
-        "date": "2023-06-04",
-        "period": {
-          "start": "2023-06-04T13:00:00+02:00",
-          "end": "2023-06-04T13:45:00+02:00"
-        }
-      },
-      {
-        "id": "ar",
+        "id": "ap",
         "stage": "lustrovy-sal",
         "event": "dy87a8",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:00:00+02:00",
-          "end": "2023-06-04T14:45:00+02:00"
+          "start": "2023-06-04T14:30:00+02:00",
+          "end": "2023-06-04T15:15:00+02:00"
         }
       },
       {
-        "id": "as",
+        "id": "aq",
         "stage": "campfire-outdoor",
         "event": "9989p3",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T12:45:00+02:00",
-          "end": "2023-06-03T13:30:00+02:00"
+          "start": "2023-06-03T13:45:00+02:00",
+          "end": "2023-06-03T14:30:00+02:00"
         }
       },
       {
-        "id": "at",
+        "id": "ar",
         "stage": "campfire-outdoor",
         "event": "f3qqdj",
         "date": "2023-06-04",
@@ -3556,17 +3682,17 @@
         }
       },
       {
-        "id": "au",
+        "id": "as",
         "stage": "campfire-outdoor",
         "event": "3y8esm",
-        "date": "2023-06-03",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T14:30:00+02:00",
-          "end": "2023-06-03T15:00:00+02:00"
+          "start": "2023-06-04T13:00:00+02:00",
+          "end": "2023-06-04T13:30:00+02:00"
         }
       },
       {
-        "id": "av",
+        "id": "at",
         "stage": "knihovna",
         "event": "e3gt7v",
         "date": "2023-06-04",
@@ -3576,37 +3702,37 @@
         }
       },
       {
-        "id": "aw",
-        "stage": "klenbovy-sal",
+        "id": "au",
+        "stage": "lustrovy-sal",
         "event": "3vrsv8",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T11:00:00+02:00",
-          "end": "2023-06-03T11:45:00+02:00"
+          "start": "2023-06-03T11:45:00+02:00",
+          "end": "2023-06-03T12:30:00+02:00"
         }
       },
       {
-        "id": "ax",
+        "id": "av",
         "stage": "campfire-outdoor",
         "event": "9gbjwt",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:00:00+02:00",
-          "end": "2023-06-03T10:45:00+02:00"
+          "start": "2023-06-03T17:00:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
         }
       },
       {
-        "id": "ay",
+        "id": "aw",
         "stage": "lustrovy-sal",
         "event": "qulwqp",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:15:00+02:00",
-          "end": "2023-06-03T17:25:00+02:00"
+          "start": "2023-06-03T19:00:00+02:00",
+          "end": "2023-06-03T19:10:00+02:00"
         }
       },
       {
-        "id": "az",
+        "id": "ax",
         "stage": "klenbovy-sal",
         "event": "esllaf",
         "date": "2023-06-04",
@@ -3616,7 +3742,7 @@
         }
       },
       {
-        "id": "a0",
+        "id": "ay",
         "stage": "rajska-zahrada",
         "event": "7lxjzl",
         "date": "2023-06-04",
@@ -3626,47 +3752,47 @@
         }
       },
       {
-        "id": "a1",
+        "id": "az",
         "stage": "lustrovy-sal",
         "event": "axdm9t",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:25:00+02:00",
-          "end": "2023-06-03T17:35:00+02:00"
+          "start": "2023-06-03T19:15:00+02:00",
+          "end": "2023-06-03T19:25:00+02:00"
         }
       },
       {
-        "id": "a2",
+        "id": "a0",
         "stage": "klenbovy-sal",
         "event": "p9una9",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:30:00+02:00",
-          "end": "2023-06-03T11:00:00+02:00"
+          "start": "2023-06-03T17:00:00+02:00",
+          "end": "2023-06-03T17:30:00+02:00"
         }
       },
       {
-        "id": "a3",
+        "id": "a1",
         "stage": "campfire-outdoor",
         "event": "vayuas",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T13:15:00+02:00",
-          "end": "2023-06-04T14:00:00+02:00"
+          "start": "2023-06-04T16:15:00+02:00",
+          "end": "2023-06-04T17:00:00+02:00"
         }
       },
       {
-        "id": "a4",
+        "id": "a2",
         "stage": "lustrovy-sal",
         "event": "3ka9gz",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:35:00+02:00",
-          "end": "2023-06-03T17:45:00+02:00"
+          "start": "2023-06-03T19:30:00+02:00",
+          "end": "2023-06-03T19:40:00+02:00"
         }
       },
       {
-        "id": "a5",
+        "id": "a3",
         "stage": "klenbovy-sal",
         "event": "kkaz8h",
         "date": "2023-06-03",
@@ -3676,37 +3802,37 @@
         }
       },
       {
-        "id": "a6",
+        "id": "a4",
         "stage": "campfire-outdoor",
         "event": "rdhxzb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T12:00:00+02:00",
-          "end": "2023-06-03T12:45:00+02:00"
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:45:00+02:00"
         }
       },
       {
-        "id": "a7",
+        "id": "a5",
         "stage": "campfire-outdoor",
         "event": "7ydeft",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:15:00+02:00",
-          "end": "2023-06-03T16:00:00+02:00"
+          "start": "2023-06-03T15:30:00+02:00",
+          "end": "2023-06-03T16:15:00+02:00"
         }
       },
       {
-        "id": "a8",
-        "stage": "klenbovy-sal",
+        "id": "a6",
+        "stage": "lustrovy-sal",
         "event": "r3ectq",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T17:45:00+02:00",
-          "end": "2023-06-03T18:15:00+02:00"
+          "start": "2023-06-03T18:30:00+02:00",
+          "end": "2023-06-03T19:00:00+02:00"
         }
       },
       {
-        "id": "a9",
+        "id": "a7",
         "stage": "lustrovy-sal",
         "event": "uvv38z",
         "date": "2023-06-03",
@@ -3716,17 +3842,17 @@
         }
       },
       {
-        "id": "ba",
+        "id": "a8",
         "stage": "campfire-outdoor",
         "event": "w7ka7w",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T18:00:00+02:00",
-          "end": "2023-06-03T18:20:00+02:00"
+          "start": "2023-06-03T11:15:00+02:00",
+          "end": "2023-06-03T11:35:00+02:00"
         }
       },
       {
-        "id": "bb",
+        "id": "a9",
         "stage": "klenbovy-sal",
         "event": "ypsb3r",
         "date": "2023-06-03",
@@ -3736,7 +3862,7 @@
         }
       },
       {
-        "id": "bc",
+        "id": "ba",
         "stage": "klenbovy-sal",
         "event": "97qelm",
         "date": "2023-06-03",
@@ -3746,27 +3872,27 @@
         }
       },
       {
-        "id": "bd",
+        "id": "bb",
         "stage": "lustrovy-sal",
         "event": "h8zecs",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T17:00:00+02:00",
-          "end": "2023-06-04T17:30:00+02:00"
+          "start": "2023-06-04T17:15:00+02:00",
+          "end": "2023-06-04T17:45:00+02:00"
         }
       },
       {
-        "id": "be",
+        "id": "bc",
         "stage": "knihovna",
         "event": "xvpt9c",
-        "date": "2023-06-03",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T14:45:00+02:00",
-          "end": "2023-06-03T15:30:00+02:00"
+          "start": "2023-06-04T14:15:00+02:00",
+          "end": "2023-06-04T15:00:00+02:00"
         }
       },
       {
-        "id": "bf",
+        "id": "bd",
         "stage": "lustrovy-sal",
         "event": "xpflwb",
         "date": "2023-06-03",
@@ -3776,7 +3902,7 @@
         }
       },
       {
-        "id": "bg",
+        "id": "be",
         "stage": "lustrovy-sal",
         "event": "mph3ab",
         "date": "2023-06-03",
@@ -3786,7 +3912,7 @@
         }
       },
       {
-        "id": "bh",
+        "id": "bf",
         "stage": "klenbovy-sal",
         "event": "zcayjb",
         "date": "2023-06-04",
@@ -3796,7 +3922,7 @@
         }
       },
       {
-        "id": "bi",
+        "id": "bg",
         "stage": "rajska-zahrada",
         "event": "7srlpr",
         "date": "2023-06-03",
@@ -3806,13 +3932,33 @@
         }
       },
       {
-        "id": "bj",
+        "id": "bh",
         "stage": "knihovna",
         "event": "vur3sz",
         "date": "2023-06-03",
         "period": {
           "start": "2023-06-03T10:00:00+02:00",
           "end": "2023-06-03T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "bi",
+        "stage": "lustrovy-sal",
+        "event": "vu7bua",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:15:00+02:00",
+          "end": "2023-06-04T15:45:00+02:00"
+        }
+      },
+      {
+        "id": "bj",
+        "stage": "campfire-outdoor",
+        "event": "gdv8qy",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T11:35:00+02:00",
+          "end": "2023-06-03T12:30:00+02:00"
         }
       },
       {
@@ -3839,10 +3985,10 @@
         "id": "bm",
         "stage": "campfire-outdoor",
         "event": "p3qrwv",
-        "date": "2023-06-03",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T17:00:00+02:00",
-          "end": "2023-06-03T17:45:00+02:00"
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
         }
       },
       {
@@ -3861,18 +4007,18 @@
         "event": "jnkqdn",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:00:00+02:00",
-          "end": "2023-06-03T13:45:00+02:00"
+          "start": "2023-06-03T12:30:00+02:00",
+          "end": "2023-06-03T13:15:00+02:00"
         }
       },
       {
         "id": "bp",
-        "stage": "lustrovy-sal",
+        "stage": "klenbovy-sal",
         "event": "zuyrh7",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T11:45:00+02:00",
-          "end": "2023-06-03T12:30:00+02:00"
+          "start": "2023-06-03T11:00:00+02:00",
+          "end": "2023-06-03T11:45:00+02:00"
         }
       },
       {
@@ -3881,12 +4027,22 @@
         "event": "8jm7la",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:00:00+02:00",
-          "end": "2023-06-03T14:45:00+02:00"
+          "start": "2023-06-03T13:45:00+02:00",
+          "end": "2023-06-03T14:30:00+02:00"
         }
       },
       {
         "id": "br",
+        "stage": "klenbovy-sal",
+        "event": "gppvnd",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T14:30:00+02:00",
+          "end": "2023-06-04T15:15:00+02:00"
+        }
+      },
+      {
+        "id": "bs",
         "stage": "knihovna",
         "event": "xhd9rq",
         "date": "2023-06-03",
@@ -3896,7 +4052,7 @@
         }
       },
       {
-        "id": "bs",
+        "id": "bt",
         "stage": "knihovna",
         "event": "7xm3jk",
         "date": "2023-06-03",
@@ -3906,17 +4062,17 @@
         }
       },
       {
-        "id": "bt",
-        "stage": "klenbovy-sal",
+        "id": "bu",
+        "stage": "lustrovy-sal",
         "event": "u97gem",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T10:00:00+02:00",
-          "end": "2023-06-03T10:30:00+02:00"
+          "start": "2023-06-03T10:30:00+02:00",
+          "end": "2023-06-03T11:00:00+02:00"
         }
       },
       {
-        "id": "bu",
+        "id": "bv",
         "stage": "lustrovy-sal",
         "event": "trkts9",
         "date": "2023-06-03",
@@ -3926,27 +4082,37 @@
         }
       },
       {
-        "id": "bv",
-        "stage": "klenbovy-sal",
-        "event": "nuqnnr",
-        "date": "2023-06-04",
-        "period": {
-          "start": "2023-06-04T15:45:00+02:00",
-          "end": "2023-06-04T16:15:00+02:00"
-        }
-      },
-      {
         "id": "bw",
-        "stage": "lustrovy-sal",
-        "event": "a3cvwf",
-        "date": "2023-06-04",
+        "stage": "campfire-outdoor",
+        "event": "v7fhcj",
+        "date": "2023-06-03",
         "period": {
-          "start": "2023-06-04T15:00:00+02:00",
-          "end": "2023-06-04T15:45:00+02:00"
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:00:00+02:00"
         }
       },
       {
         "id": "bx",
+        "stage": "klenbovy-sal",
+        "event": "nuqnnr",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:15:00+02:00",
+          "end": "2023-06-04T15:45:00+02:00"
+        }
+      },
+      {
+        "id": "by",
+        "stage": "lustrovy-sal",
+        "event": "a3cvwf",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T16:30:00+02:00",
+          "end": "2023-06-04T17:15:00+02:00"
+        }
+      },
+      {
+        "id": "bz",
         "stage": "rajska-zahrada",
         "event": "wnuwjq",
         "date": "2023-06-03",
@@ -3956,7 +4122,7 @@
         }
       },
       {
-        "id": "by",
+        "id": "b0",
         "stage": "lustrovy-sal",
         "event": "7yrec7",
         "date": "2023-06-03",
@@ -3966,7 +4132,7 @@
         }
       },
       {
-        "id": "bz",
+        "id": "b1",
         "stage": "lustrovy-sal",
         "event": "999mvd",
         "date": "2023-06-04",
@@ -3976,7 +4142,7 @@
         }
       },
       {
-        "id": "b0",
+        "id": "b2",
         "stage": "rajska-zahrada",
         "event": "k3clmy",
         "date": "2023-06-03",
@@ -3986,7 +4152,7 @@
         }
       },
       {
-        "id": "b1",
+        "id": "b3",
         "stage": "rajska-zahrada",
         "event": "kedt7t",
         "date": "2023-06-03",
@@ -3996,7 +4162,7 @@
         }
       },
       {
-        "id": "b2",
+        "id": "b4",
         "stage": "rajska-zahrada",
         "event": "tlx7am",
         "date": "2023-06-03",
@@ -4006,17 +4172,17 @@
         }
       },
       {
-        "id": "b3",
+        "id": "b5",
         "stage": "campfire-outdoor",
         "event": "gbdhzk",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T11:15:00+02:00",
-          "end": "2023-06-03T12:00:00+02:00"
+          "start": "2023-06-03T12:30:00+02:00",
+          "end": "2023-06-03T13:15:00+02:00"
         }
       },
       {
-        "id": "b4",
+        "id": "b6",
         "stage": "rajska-zahrada",
         "event": "rmnnhb",
         "date": "2023-06-03",
@@ -4026,7 +4192,7 @@
         }
       },
       {
-        "id": "b5",
+        "id": "b7",
         "stage": "knihovna",
         "event": "jl7hct",
         "date": "2023-06-03",
@@ -4036,7 +4202,7 @@
         }
       },
       {
-        "id": "b6",
+        "id": "b8",
         "stage": "rajska-zahrada",
         "event": "wy9dhd",
         "date": "2023-06-03",
@@ -4046,7 +4212,7 @@
         }
       },
       {
-        "id": "b7",
+        "id": "b9",
         "stage": "knihovna",
         "event": "lqhknm",
         "date": "2023-06-04",
@@ -4056,17 +4222,17 @@
         }
       },
       {
-        "id": "b8",
-        "stage": "lustrovy-sal",
+        "id": "ca",
+        "stage": "klenbovy-sal",
         "event": "3h9wvy",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:45:00+02:00",
-          "end": "2023-06-04T16:10:00+02:00"
+          "start": "2023-06-04T17:15:00+02:00",
+          "end": "2023-06-04T17:40:00+02:00"
         }
       },
       {
-        "id": "b9",
+        "id": "cb",
         "stage": "knihovna",
         "event": "uhfqnn",
         "date": "2023-06-03",
@@ -4076,7 +4242,7 @@
         }
       },
       {
-        "id": "ca",
+        "id": "cc",
         "stage": "lustrovy-sal",
         "event": "bwzanq",
         "date": "2023-06-04",
@@ -4086,17 +4252,17 @@
         }
       },
       {
-        "id": "cb",
+        "id": "cd",
         "stage": "lustrovy-sal",
         "event": "apazac",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T18:00:00+02:00",
-          "end": "2023-06-03T19:00:00+02:00"
+          "start": "2023-06-03T20:15:00+02:00",
+          "end": "2023-06-03T21:00:00+02:00"
         }
       },
       {
-        "id": "cc",
+        "id": "ce",
         "stage": "rajska-zahrada",
         "event": "awkdfc",
         "date": "2023-06-04",
@@ -4106,7 +4272,7 @@
         }
       },
       {
-        "id": "cd",
+        "id": "cf",
         "stage": "rajska-zahrada",
         "event": "twxrus",
         "date": "2023-06-03",
@@ -4116,17 +4282,17 @@
         }
       },
       {
-        "id": "ce",
+        "id": "cg",
         "stage": "campfire-outdoor",
         "event": "ya8qag",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T10:00:00+02:00",
-          "end": "2023-06-04T10:45:00+02:00"
+          "start": "2023-06-04T15:30:00+02:00",
+          "end": "2023-06-04T16:15:00+02:00"
         }
       },
       {
-        "id": "cf",
+        "id": "ch",
         "stage": "knihovna",
         "event": "drepkt",
         "date": "2023-06-04",
@@ -4136,7 +4302,7 @@
         }
       },
       {
-        "id": "cg",
+        "id": "ci",
         "stage": "rajska-zahrada",
         "event": "9mfgcl",
         "date": "2023-06-04",
@@ -4146,7 +4312,7 @@
         }
       },
       {
-        "id": "ch",
+        "id": "cj",
         "stage": "rajska-zahrada",
         "event": "m3yc99",
         "date": "2023-06-03",
@@ -4156,17 +4322,17 @@
         }
       },
       {
-        "id": "ci",
+        "id": "ck",
         "stage": "rajska-zahrada",
         "event": "eqfufu",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T17:30:00+02:00",
-          "end": "2023-06-04T17:45:00+02:00"
+          "start": "2023-06-04T18:00:00+02:00",
+          "end": "2023-06-04T18:15:00+02:00"
         }
       },
       {
-        "id": "cj",
+        "id": "cl",
         "stage": "klenbovy-sal",
         "event": "ejwr8f",
         "date": "2023-06-04",
@@ -4176,7 +4342,7 @@
         }
       },
       {
-        "id": "ck",
+        "id": "cm",
         "stage": "knihovna",
         "event": "furanp",
         "date": "2023-06-04",
@@ -4186,17 +4352,17 @@
         }
       },
       {
-        "id": "cl",
+        "id": "cn",
         "stage": "campfire-outdoor",
         "event": "l3f8jx",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:30:00+02:00",
-          "end": "2023-06-03T14:30:00+02:00"
+          "start": "2023-06-03T14:30:00+02:00",
+          "end": "2023-06-03T15:30:00+02:00"
         }
       },
       {
-        "id": "cm",
+        "id": "co",
         "stage": "campfire-outdoor",
         "event": "7ept99",
         "date": "2023-06-04",
@@ -4206,17 +4372,17 @@
         }
       },
       {
-        "id": "cn",
+        "id": "cp",
         "stage": "klenbovy-sal",
         "event": "3xnjrt",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:30:00+02:00",
-          "end": "2023-06-03T16:05:00+02:00"
+          "start": "2023-06-03T14:45:00+02:00",
+          "end": "2023-06-03T15:20:00+02:00"
         }
       },
       {
-        "id": "co",
+        "id": "cq",
         "stage": "knihovna",
         "event": "xlmfqt",
         "date": "2023-06-04",
@@ -4226,17 +4392,17 @@
         }
       },
       {
-        "id": "cp",
-        "stage": "klenbovy-sal",
+        "id": "cr",
+        "stage": "lustrovy-sal",
         "event": "789mam",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T13:00:00+02:00",
-          "end": "2023-06-04T13:45:00+02:00"
+          "start": "2023-06-04T15:45:00+02:00",
+          "end": "2023-06-04T16:30:00+02:00"
         }
       },
       {
-        "id": "cq",
+        "id": "cs",
         "stage": "campfire-outdoor",
         "event": "gkplvz",
         "date": "2023-06-04",
@@ -4246,7 +4412,7 @@
         }
       },
       {
-        "id": "cr",
+        "id": "ct",
         "stage": "rajska-zahrada",
         "event": "asxb3t",
         "date": "2023-06-04",
@@ -4256,17 +4422,17 @@
         }
       },
       {
-        "id": "cs",
+        "id": "cu",
         "stage": "knihovna",
         "event": "c7v799",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:15:00+02:00",
-          "end": "2023-06-04T16:30:00+02:00"
+          "start": "2023-06-04T16:00:00+02:00",
+          "end": "2023-06-04T17:15:00+02:00"
         }
       },
       {
-        "id": "ct",
+        "id": "cv",
         "stage": "lustrovy-sal",
         "event": "jyzbnf",
         "date": "2023-06-03",
@@ -4276,27 +4442,27 @@
         }
       },
       {
-        "id": "cu",
+        "id": "cw",
         "stage": "campfire-outdoor",
         "event": "brrqjb",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T19:00:00+02:00",
-          "end": "2023-06-03T20:30:00+02:00"
+          "start": "2023-06-03T18:00:00+02:00",
+          "end": "2023-06-03T20:00:00+02:00"
         }
       },
       {
-        "id": "cv",
+        "id": "cx",
         "stage": "rajska-zahrada",
         "event": "qsudxa",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T20:00:00+02:00",
-          "end": "2023-06-03T23:00:00+02:00"
+          "start": "2023-06-03T21:05:00+02:00",
+          "end": "2023-06-04T01:30:00+02:00"
         }
       },
       {
-        "id": "cw",
+        "id": "cy",
         "stage": "lustrovy-sal",
         "event": "eut83q",
         "date": "2023-06-04",
@@ -4306,7 +4472,7 @@
         }
       },
       {
-        "id": "cx",
+        "id": "cz",
         "stage": "campfire-outdoor",
         "event": "977dyd",
         "date": "2023-06-04",
@@ -4316,13 +4482,133 @@
         }
       },
       {
-        "id": "cy",
+        "id": "c0",
+        "stage": "klenbovy-sal",
+        "event": "tjj738",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:45:00+02:00",
+          "end": "2023-06-04T16:30:00+02:00"
+        }
+      },
+      {
+        "id": "c1",
         "stage": "klenbovy-sal",
         "event": "u3mhnw",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T16:15:00+02:00",
-          "end": "2023-06-04T17:00:00+02:00"
+          "start": "2023-06-04T13:45:00+02:00",
+          "end": "2023-06-04T14:30:00+02:00"
+        }
+      },
+      {
+        "id": "c2",
+        "stage": "rajska-zahrada",
+        "event": "tfbmpe",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
+        }
+      },
+      {
+        "id": "c3",
+        "stage": "knihovna",
+        "event": "d3svyq",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T14:30:00+02:00",
+          "end": "2023-06-03T15:30:00+02:00"
+        }
+      },
+      {
+        "id": "c4",
+        "stage": "rajska-zahrada",
+        "event": "t3cznp",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T18:30:00+02:00",
+          "end": "2023-06-03T18:55:00+02:00"
+        }
+      },
+      {
+        "id": "c5",
+        "stage": "klenbovy-sal",
+        "event": "7uxvpl",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:00:00+02:00",
+          "end": "2023-06-03T10:25:00+02:00"
+        }
+      },
+      {
+        "id": "c6",
+        "stage": "campfire-outdoor",
+        "event": "eha3zs",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:45:00+02:00",
+          "end": "2023-06-03T11:15:00+02:00"
+        }
+      },
+      {
+        "id": "c7",
+        "stage": "rajska-zahrada",
+        "event": "tehyka",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T17:30:00+02:00",
+          "end": "2023-06-04T17:50:00+02:00"
+        }
+      },
+      {
+        "id": "c8",
+        "stage": "campfire-outdoor",
+        "event": "8z37gz",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T15:30:00+02:00"
+        }
+      },
+      {
+        "id": "c9",
+        "stage": "knihovna",
+        "event": "janpcp",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T18:45:00+02:00",
+          "end": "2023-06-03T19:45:00+02:00"
+        }
+      },
+      {
+        "id": "da",
+        "stage": "klenbovy-sal",
+        "event": "8hllua",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T16:30:00+02:00",
+          "end": "2023-06-04T17:10:00+02:00"
+        }
+      },
+      {
+        "id": "db",
+        "stage": "klenbovy-sal",
+        "event": "cuv8zx",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T10:30:00+02:00",
+          "end": "2023-06-03T11:00:00+02:00"
+        }
+      },
+      {
+        "id": "dc",
+        "stage": "lustrovy-sal",
+        "event": "py8axc",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T17:30:00+02:00",
+          "end": "2023-06-03T18:00:00+02:00"
         }
       }
     ]
@@ -4332,12 +4618,12 @@
       "speakers": 87,
       "tracks": 11,
       "event-types": 7,
-      "events": 97,
+      "events": 111,
       "stages": 6,
       "faqs": 5,
       "partners": 20,
-      "schedule": 97
+      "schedule": 111
     }
   },
-  "time": "2023-05-30T13:17:53.781Z"
+  "time": "2023-05-30T16:24:05.959Z"
 }

@@ -33,17 +33,6 @@
     "track": "zaklady"
   },
   {
-    "id": "tqmyhb",
-    "type": "campfire",
-    "name": "Diskuze/panelovka lidí, kteří tvoří content o kryptu",
-    "speakers": [
-      "dominika-v"
-    ],
-    "duration": 45,
-    "description": "Diskuze nadšenců do krypta, kteří tvoří content o kryptu. Mají sílu podporovat mánii kolem krypta nebo naopak přinášet střízlivé názory na pros&cons kryptoměn. Jaká je jejich zkušenost, odkud čerpají zdroje a  jak se měnil jejich názor na krypto.  Co funguje a jaké témata nejvíce rezonují veřejností?",
-    "track": "spolecnost"
-  },
-  {
     "id": "nxpqtx",
     "type": "talk",
     "name": "Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?",
@@ -109,7 +98,7 @@
       "jana-kubatova"
     ],
     "duration": 75,
-    "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnes postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnujeme?",
+    "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnešní postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnuje?",
     "track": "nft"
   },
   {
@@ -178,17 +167,6 @@
     "track": "kryptopodnikani"
   },
   {
-    "id": "x9rgpd",
-    "type": "talk",
-    "name": "Rok v Sorare aneb Dá se živit sledováním fotbalu?",
-    "speakers": [
-      "milan-marcak"
-    ],
-    "duration": 45,
-    "description": "Milan Marčák, Sorare specialista společnosti Altlift, popíše své zkušenost z posledního roku v prostředí NFT virtuální fotbalové ligy Sorare. Těšit se můžete na základní přehled Sorare platforem, stejně jako praktické tipy pro tvorbu Vašich vlastních týmů.",
-    "track": "nft"
-  },
-  {
     "id": "dy87a8",
     "type": "talk",
     "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
@@ -245,12 +223,12 @@
   {
     "id": "3vrsv8",
     "type": "talk",
-    "name": "Meta protokoly nad Bitcoinom",
+    "name": "Bitcoin-back everything!",
     "speakers": [
       "martin-matejka"
     ],
     "duration": 45,
-    "description": "Bitcoinová sieť ako základná vrstva umožňuje vznik meta protokolov rozširujúcich funkcionalitu a možnosti použitia bitcoinu. Každý už asi počul niečo o Lightning Network alebo Liquid. Tento talk bude o menej známych ale o to zaujímavejších protokoloch ako RGB, Taro, Fedi a Ordinals",
+    "description": "Mnohí z vás poznajú Bitcoin ako nástroj na rozšírenie osobnej a finančnej slobody a využívajú ho ako peer-to-peer platobný systém, prípadne ako sôsob uchovania hodnôt. Poďme preskúmať ďalšiu možnosť ktorá by mala byť v toolkite každého bitcoinera: bitcoin ako univerzálny kolaterál.",
     "track": "btc"
   },
   {
@@ -419,7 +397,7 @@
   {
     "id": "97qelm",
     "type": "talk",
-    "name": "Blockchain jako institucionální technologie",
+    "name": "Trhy, firmy, stát a... blockchain? Blockchain jako nový způsob lidské spolupráce",
     "speakers": [
       "vojtech-olbrecht"
     ],
@@ -491,7 +469,8 @@
     "name": "Umění a kreativita v éře NFT, AI, Metaverse a Web 3.0",
     "speakers": [
       "julie-sislerova",
-      "jana-kubatova"
+      "jana-kubatova",
+      "jan-brukner"
     ],
     "duration": 75,
     "description": "Jak nové technologie zasahují do umění a vnímání samotné podstaty kreativity? Umělá \"Inteligence\" se učí z obrazů a fotografií umělců z celého světa a přináší neuvěřitelné nástroje pro nový typ tvorby. Virtuální realita umožňuje se hlouběji ponořit do příběhu a prozkoumávat nové digitální světy. Blockchain a NFT vytvořily nekonečný prostor pro sdílení umění.",
@@ -510,6 +489,26 @@
     "track": "zaklady"
   },
   {
+    "id": "vu7bua",
+    "type": "talk",
+    "name": "ICP jako 3. největší inovace v kryptu po BTC & ETH",
+    "speakers": [
+      "lukas-vozda"
+    ],
+    "duration": 30,
+    "description": "Rád bych povyprávěl o potenciálu, který se skrývá v Internet Computer Protocolu (ICP) od Dfinity foundation. Jsem přes 2 roky aktivní v jejich komunitě a podílel jsem se i na vývoji menších projektů. Podle mého názoru jediná platforma, kde lze realizovat 100 % on-chain projekty. Odhalím také možnosti, které přinese přímá integrace BTC a ETH blockchainů.",
+    "track": "alty"
+  },
+  {
+    "id": "gdv8qy",
+    "type": "talk",
+    "name": "Tipy a triky na (Degen) DeFi",
+    "speakers": [],
+    "duration": 55,
+    "description": "",
+    "track": "defi"
+  },
+  {
     "id": "tvzbz7",
     "type": "talk",
     "name": "Jak si najít a udržet progresivní práci ve Web3?",
@@ -518,7 +517,7 @@
     ],
     "duration": 45,
     "description": "V této prezentaci se podíváme na to, jak si najít progresivní práci ve Web3 z pohledu COO Eventové společnosti ve Web3 a Head of Operations v KodaDotu, NFT marketplace na Polkadotu. Probereme výzvy spojené s hledáním práce, udržováním pozice, rozvojem a zvládáním stresu při posouvání se ve Web3 prostředí.",
-    "track": "spolecnost"
+    "track": "defi"
   },
   {
     "id": "qh73vp",
@@ -547,7 +546,8 @@
     "type": "other",
     "name": "Hudba v éře blockchainu a AI: překonávání výzev a cesta k masové adopci",
     "speakers": [
-      "matej-zimak"
+      "matej-zimak",
+      "patrik-gudev"
     ],
     "duration": 30,
     "description": "",
@@ -561,7 +561,7 @@
       "petr-lukac"
     ],
     "duration": 45,
-    "description": "rozhovor se zajímavým hostem. (chce to po mě 250 znaků, tak to tu musím nějak zaplácat. Plác plác. UTXO je nejlepší. Smrt maxíkům všeho druhu. Milujeme UTXO. Maj tam dobrý pivo. Tak prej mám jen 179 znaků. Už 213. Super. Tak ještě čtyřicet a jsem tam. JO!)",
+    "description": "Rozhovor se zajímavým hostem: Bitcoin is dead. Nebo není? probereme, co se děje kolem nejstarší kryptoměny, jaké vznikají nové protokoly i zbytečný balast, který je v ekosystému stále objevuje. KryptoSpace bude na UTXO s Martinem Matějkou z FireFish.",
     "track": "spolecnost"
   },
   {
@@ -583,6 +583,16 @@
     ],
     "duration": 45,
     "description": "Nejen DCA pravidelné spoření, ale nově na Štosuj.cz také grid trading a další chystané strategie pro jednoduché automatické obchody. Víš, jak přemýšlet nad svojí exit strategií? Nebo jak rebalancovat své portfolio? Přijď si pro inspiraci a omrkni náš projekt."
+  },
+  {
+    "id": "gppvnd",
+    "type": "talk",
+    "name": "Algo-trading v kryptu",
+    "speakers": [
+      "jan-skoda"
+    ],
+    "duration": 45,
+    "description": "Jak funguje algoritmické obchodování, market-making a HFT v kryptu? Jaká je zde role market-makerů, poskytovatelů likvidity? Jaké problémy mají DEXy oproti centralizovaným burzám? Jak fungují manipulace trhem nebo insider trading a jak s nimi market-makeři bojují? A mají retailoví tradeři šanci proti institucím?"
   },
   {
     "id": "xhd9rq",
@@ -627,6 +637,16 @@
     "duration": 45,
     "description": "Když se řekne blockchain, pravděpodobně se nám všem jako první vybaví pojmy jako Bitcoin nebo krypto, což je jen špička celého ledovce. Tato technologie toho přináší mnohem více a já věřím, že má potenciál naprosto změnit to, jak funguje náš současný byznysový ekosystém a obecně společnost.",
     "track": "kryptopodnikani"
+  },
+  {
+    "id": "v7fhcj",
+    "type": "campfire",
+    "name": "Gamer Centric Economies - Web3 ako revolúcia monetizácie gamingu",
+    "speakers": [
+      "milan-peschl"
+    ],
+    "duration": 45,
+    "description": "Napriek tomu, že hráči sú zvyknutí \"vlastniť\" digitálne assety už posledných 20 rokov a platiť za ne, nikdy ich v skutočnosti nevlastnili. Správne uchytenie Web3 ako technológie ukrýva potenciál k revolúcii monetizácie gamingu v prospech hráčov. Predstavte si, že zrazu každá hra a hráč môže mať rovnaké možnosti ako CS:GO a ich $50M secondary market so skinmi. Bez bariér a vendor locku."
   },
   {
     "id": "nuqnnr",
@@ -689,6 +709,7 @@
     "name": "Kryptopodnikání v Čechách v době nadcházejících regulací",
     "speakers": [
       "roman-valihrach",
+      "frantisek-vinopal",
       "kirill-juran",
       "radim-kozub"
     ],
@@ -745,7 +766,8 @@
     "type": "campfire",
     "name": "Diskuze: Kryptopodnikání v Čechách v době nadcházejících regulací",
     "speakers": [
-      "roman-valihrach"
+      "roman-valihrach",
+      "frantisek-vinopal"
     ],
     "duration": 45,
     "description": "",
@@ -758,7 +780,8 @@
     "speakers": [
       "david-stancel",
       "lukas-kovanda",
-      "anna-pichova"
+      "anna-pichova",
+      "martin-kabrhel"
     ],
     "duration": 75,
     "description": ""
@@ -771,7 +794,7 @@
       "filippo-franchini"
     ],
     "duration": 60,
-    "description": "Workshop / Demo showing how to create an account, transfer tokens, stake, and vote in governance.\r\nmax 40-60min lenght. Vyplnuji abstrakt za speakera, bude to v angličtině :. V rámci mega sponzorství. Asi make sense v knihovně, ať uděláme fotky/natočíme :D",
+    "description": "Join us for an interactive workshop/demo on Polkadot, designed for beginners who are eager to explore the world of blockchain and decentralized governance. In this session, we will guide you through the essential steps of creating a Polkadot account, transferring tokens, staking, and participating in the governance process.",
     "track": "alty"
   },
   {
@@ -811,9 +834,9 @@
   {
     "id": "apazac",
     "type": "other",
-    "name": "Violoncellový koncert",
+    "name": "Violoncellový koncert - Keishiro Mikawa & Juraj Skoda",
     "speakers": [],
-    "duration": 60,
+    "duration": 45,
     "description": ""
   },
   {
@@ -954,7 +977,7 @@
   {
     "id": "xlmfqt",
     "type": "other",
-    "name": "Kryptomediácia pre upokojenie mysle od inflácie fiat peňazí aj volatility bitcoinu",
+    "name": "Kryptomeditácia pre upokojenie mysle od inflácie fiat peňazí aj volatility bitcoinu",
     "speakers": [
       "marianna-sadecka"
     ],
@@ -990,7 +1013,9 @@
     "name": "Kde koupit krypto?",
     "speakers": [
       "vladimir-pinker",
-      "david-stancel"
+      "david-stancel",
+      "martin-fisera",
+      "tomas-hajek"
     ],
     "duration": 75,
     "description": "\"Kde koupit krypto?\" je panelová diskuze o tom, jak se dají nejlépe pořídit kryptoměny v Česku. Odborníci z oblasti CEX, DEX, peer-to-peer směn a kryptomatů přinášejí různé pohledy a srovnávají výhody a rizika těchto možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně nakupovat kryptoměny. Moderuje David Stancel.",
@@ -1020,18 +1045,18 @@
   {
     "id": "brrqjb",
     "type": "other",
-    "name": "Venkovní performance - TBA",
+    "name": "DJ set by Chevii²",
     "speakers": [],
-    "duration": 90,
+    "duration": 120,
     "description": ""
   },
   {
     "id": "qsudxa",
     "type": "other",
-    "name": "Sobotní párty by Somnium Space",
+    "name": "Sobotní párty by Crypto Portal, Somnium Space & Museverse",
     "speakers": [],
-    "duration": 180,
-    "description": ""
+    "duration": 265,
+    "description": "Unikátní párty spojená s VR expreience vás čeká už první večer UTXO! Těšit se můžete na:\r\n\r\n21:05-21:50 - Piqi Miqi \r\n21:50 - 22:20 - Somnium Space DJ Blake Hotz \r\n22:20 - 24:00 - DJ Aurelien\r\n24:00 - 01:30 - DJ Sam Gittis\r\n\r\nDěkujeme partnerům párty:\r\n- Somnium Space\r\n- M﻿useverse.xyz\r\n- HATA\r\n- P﻿olkadot"
   },
   {
     "id": "eut83q",
@@ -1046,18 +1071,139 @@
     "id": "977dyd",
     "type": "campfire",
     "name": "Security campfire",
-    "speakers": [],
+    "speakers": [
+      "ivan-klbik"
+    ],
     "duration": 30,
     "description": "Campfire k základům uživatelské bezpečnosti v oblasti kryptoměn. Držíte své tokeny na burze, máte softwarovou peněženku, anebo vlastníte hardware wallet? Víte, do jakých problému se v poslední době zapletla společnost Ledger? Diskutujte o svých obavách a názorech s bezpečnostními experty z EY.",
     "track": "zaklady"
   },
   {
+    "id": "tjj738",
+    "type": "talk",
+    "name": "Veřejné finance kvadraticky",
+    "speakers": [
+      "atris"
+    ],
+    "duration": 45,
+    "description": "Veřejné finance - nekonečné téma, které nemá žádné jasné řešení - nebo ano? Kvadratické hlasování nabízí nové způsoby, jak se shodnout na rozdělení veřejných prostředků. Umožňuje najít kompromis mezi systémy \"jeden člověk - jeden hlas\" a \"jeden dolar - jeden hlas\", které oba trpí velkými nedostatky. V digitálním světě se již těší velkému užitku, můžeme ho aplikovat i v reálném světě?",
+    "track": "spolecnost"
+  },
+  {
     "id": "u3mhnw",
     "type": "talk",
     "name": "Polkadot DEXy: MEV ochrana, efektivita a nové trendy v tradingu",
-    "speakers": [],
+    "speakers": [
+      "pavel-kahoun"
+    ],
     "duration": 45,
     "description": "Decentralizované burzy (DEXy) na Polkadot přináší do tradingu různé inovativní přístupy, ať už je to ochrana před front-runningem a MEV (Miner Extractable Value), gassless swaps, single-sided likvidita, nebo propojení s jinými ekosystémy jako Cosmos nebo Ethereum.",
+    "track": "defi"
+  },
+  {
+    "id": "tfbmpe",
+    "type": "talk",
+    "name": "Kraken - TBA",
+    "speakers": [
+      "tomas-hajek"
+    ],
+    "duration": 45,
+    "description": ""
+  },
+  {
+    "id": "d3svyq",
+    "type": "workshop",
+    "name": "Somnium Space: NFTs and decentralized asset streaming",
+    "speakers": [],
+    "duration": 60,
+    "description": "",
+    "track": "nft"
+  },
+  {
+    "id": "t3cznp",
+    "type": "talk",
+    "name": "Jak rozdistribuovat $450k v open-source projektu a u toho vést Web3 startup",
+    "speakers": [],
+    "duration": 25,
+    "description": "",
+    "track": "dao"
+  },
+  {
+    "id": "7uxvpl",
+    "type": "talk",
+    "name": "NFT standardy na Polkadotu - Kam směřují?",
+    "speakers": [
+      "viki-val"
+    ],
+    "duration": 25,
+    "description": "",
+    "track": "nft"
+  },
+  {
+    "id": "eha3zs",
+    "type": "campfire",
+    "name": "Demokratizace treasuries a governance v kryptu - Jak se rovnat velrybám a co můžeme udělat pro úspěšný proposal?",
+    "speakers": [
+      "damsky"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "dao"
+  },
+  {
+    "id": "tehyka",
+    "type": "talk",
+    "name": "Ethereum Protocol Fellowship: Jak se stát Ethereum core vývojářem",
+    "speakers": [],
+    "duration": 20,
+    "description": "The Ethereum Protocol Fellowship is a permissionless fellowship program that helps to streamline the process of becoming a core developer. Applications are now opened and everyone interested in Ethereum core protocol is welcomed to apply! Come to visit the talk and learn more about the program and core development.",
+    "track": "eth"
+  },
+  {
+    "id": "8z37gz",
+    "type": "campfire",
+    "name": "Inovace na poli mostů mezi blockchainy",
+    "speakers": [],
+    "duration": 30,
+    "description": "",
+    "track": "alty"
+  },
+  {
+    "id": "janpcp",
+    "type": "workshop",
+    "name": "Jakou peněženku si vybrat pro interakci na Polkadotu?",
+    "speakers": [
+      "damsky"
+    ],
+    "duration": 60,
+    "description": "",
+    "track": "zaklady"
+  },
+  {
+    "id": "8hllua",
+    "type": "talk",
+    "name": "Life in Web3",
+    "speakers": [],
+    "duration": 40,
+    "description": "The World is changing with an astonishing speed and Web3 might be the answer to how we handle our governance, communities and finances. The talk presents the process of change and real life examples through Polkadot's ecosystem.  For the syllabus, please see the description.",
+    "track": "dao"
+  },
+  {
+    "id": "cuv8zx",
+    "type": "talk",
+    "name": "Od Etherea k Polkadotu: Odvážný krok zakladatele k přelomovému projektu",
+    "speakers": [],
+    "duration": 30,
+    "description": "Představení Polkadotu - Přelomového krypto projektu od jednoho ze zakladatelů a architektů Etherea - Gavina Wooda. Odhalení klíčových vlastností, technologií a filozofie, které z něj činí revoluci ve světě kryptoměn a perspektivní projekt pro budoucnost.",
+    "track": "alty"
+  },
+  {
+    "id": "py8axc",
+    "type": "other",
+    "name": "Endgame, finálny stav Ethereum stakingu…🚀",
+    "speakers": [],
+    "duration": 30,
+    "description": "Prečo každý ETH hodler nestakuje svoje ETH? \r\nPokúsim sa túto otázku zodpovedať, budem rozprávať sa o dynamike súčasného Ethereum staking ekosystému, prečo a ako sa môže v budúcnosti vyvíjať a ako bude vyzerať finálny stav.\r\n\r\nZ tejto prednášky si odnesieš lepšie pochopenie Ethereum staking ekosystému a kam sa môže v budúcnosti hýbať.",
     "track": "defi"
   }
 ]
