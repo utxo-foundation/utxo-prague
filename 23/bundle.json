@@ -3264,7 +3264,11 @@
       },
       {
         "question": "Budou přednášky vysílané živě?",
-        "answer": "Ano, vše bude zdarma dostupné na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).\n"
+        "answer": "Přednášky z hlavní stage budou vysílané živě zdarma na doméně UTXO.TV (a [YouTube](https://www.youtube.com/channel/UCXLBCW1pstQPQf-4zRESepA)).\n"
+      },
+      {
+        "question": "Jaké platby budete podporovat u stánků?",
+        "answer": "U stánků s občerstvením bude možné platit pouze Lightning BTC nebo platebními kartami. Platby v hotovosti nebudou možné.\n"
       }
     ],
     "partners": [
@@ -4620,10 +4624,10 @@
       "event-types": 7,
       "events": 111,
       "stages": 6,
-      "faqs": 5,
+      "faqs": 6,
       "partners": 20,
       "schedule": 111
     }
   },
-  "time": "2023-05-30T17:21:25.554Z"
+  "time": "2023-05-30T18:28:05.317Z"
 }
