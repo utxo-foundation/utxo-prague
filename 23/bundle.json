@@ -1652,6 +1652,7 @@
         "bio": "Strategy & Operations",
         "orgs": "[Kraken](https://www.kraken.com/) Digital Asset Exchange.\n",
         "caption": "Strategy & Operations\n",
+        "lead": true,
         "tracks": [
           "zaklady",
           "regulace",
@@ -4338,5 +4339,5 @@
       "schedule": 97
     }
   },
-  "time": "2023-05-29T21:22:16.545Z"
+  "time": "2023-05-30T13:17:53.781Z"
 }
