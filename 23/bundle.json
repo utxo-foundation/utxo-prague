@@ -3370,7 +3370,7 @@
         "name": "Somnium Space",
         "type": "sponsor",
         "web": {
-          "url": "https://www.anycoin.cz/"
+          "url": "https://somniumspace.com/"
         },
         "photos": [
           "web:png"
@@ -4625,5 +4625,5 @@
       "schedule": 111
     }
   },
-  "time": "2023-05-30T18:38:24.078Z"
+  "time": "2023-05-30T19:46:12.953Z"
 }
