@@ -136,8 +136,8 @@
   event: e3gt7v
   date: '2023-06-04'
   period:
-    start: '2023-06-04T11:15:00+02:00'
-    end: '2023-06-04T12:15:00+02:00'
+    start: '2023-06-04T12:00:00+02:00'
+    end: '2023-06-04T13:00:00+02:00'
 - id: au
   stage: lustrovy-sal
   event: 3vrsv8
@@ -269,8 +269,8 @@
   event: xvpt9c
   date: '2023-06-04'
   period:
-    start: '2023-06-04T14:15:00+02:00'
-    end: '2023-06-04T15:00:00+02:00'
+    start: '2023-06-04T11:15:00+02:00'
+    end: '2023-06-04T12:00:00+02:00'
 - id: bd
   stage: lustrovy-sal
   event: xpflwb
@@ -500,8 +500,8 @@
   event: lqhknm
   date: '2023-06-04'
   period:
-    start: '2023-06-04T12:15:00+02:00'
-    end: '2023-06-04T13:15:00+02:00'
+    start: '2023-06-04T14:00:00+02:00'
+    end: '2023-06-04T15:00:00+02:00'
 - id: ca
   stage: klenbovy-sal
   event: 3h9wvy
@@ -591,8 +591,8 @@
   event: furanp
   date: '2023-06-04'
   period:
-    start: '2023-06-04T13:15:00+02:00'
-    end: '2023-06-04T14:15:00+02:00'
+    start: '2023-06-04T13:00:00+02:00'
+    end: '2023-06-04T14:00:00+02:00'
 - id: cn
   stage: campfire-outdoor
   event: l3f8jx
