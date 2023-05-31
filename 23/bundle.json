@@ -820,6 +820,26 @@
         ]
       },
       {
+        "id": "lea-petrasova",
+        "name": "Lea Petrášová",
+        "lead": true,
+        "twitter": "LeaPetras",
+        "bio": "Spoluzakladatelka, CEO",
+        "orgs": "[Vexl](https://vexl.it)\n",
+        "caption": "Spoluzakladatelka, CEO\n",
+        "tracks": [
+          "btc",
+          "regulace"
+        ],
+        "web": {
+          "url": "https://vexl.it"
+        },
+        "country": "sk",
+        "desc": "Lea je spoluzakladatelkou a CEO společnosti Vexl, mobilní aplikace, která usnadňuje obchodování s bitcoiny tak, jak bylo zamýšleno: peer-to-peer a bez KYC.\n",
+        "pretalxId": "MX9NKW",
+        "photos": []
+      },
+      {
         "id": "libor-flossler",
         "nickname": "Investocka",
         "name": "Libor Flössler",
@@ -940,10 +960,30 @@
         ],
         "country": "sk",
         "lead": true,
+        "pretalxId": "8HXCTV",
         "photos": [
           "web:jpg",
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "markoinether",
+        "name": "markoInEther",
+        "twitter": "markoinether",
+        "bio": "A surfing addict, decentralization & DVT evangelist",
+        "orgs": "[SSV DAO](https://ssv.network/dao/) contributor.\n",
+        "caption": "A surfing addict, decentralization & DVT evangelist\n",
+        "tracks": [
+          "eth",
+          "defi"
+        ],
+        "web": {
+          "url": "https://www.youtube.com/@markoinether"
+        },
+        "country": "sk",
+        "desc": "A surfing addict, decentralization & DVT evangelist. \nCurrently working on DVT tech and decentralizing staking infrastructure using distributed validator technology as SSV DAO contributor.\nInvolved with the Ethereum ecosystem since 2016 organizing Ethereum meetups in Bratislava and volunteering at Devcon4, 6.  Have been working on various staking projects since 2020. \nCheck my blog if you want to read my [rambling on ETH staking](https://medium.com/@MarkoInEther) and crypto in general, my [shitposting track record](https://twitter.com/markoinether) on twitter or [awesome-ssv repo](https://github.com/bloxapp/awesome-ssv/) if you are a builder interested in Eth staking.\n",
+        "pretalxId": "ZXKJZP",
+        "photos": []
       },
       {
         "id": "martin-bok",
@@ -1020,29 +1060,6 @@
         "country": "cz",
         "desc": "Matematik, podnikatel a hráč pokeru. Kromě pokeru se věnuje hlavně své datově-analytické firmě Ematiq a svému esportovému klubu Entropiq.\n",
         "pretalxId": "N8HVXD",
-        "photos": [
-          "web:webp",
-          "twitter:jpg"
-        ]
-      },
-      {
-        "id": "martin-matejka",
-        "name": "Martin Matejka",
-        "twitter": "MatejkaMar",
-        "bio": "Founder a vývojář platformy",
-        "caption": "Founder a vývojář platformy Firefish.io\n",
-        "orgs": "[firefish.io](https://firefish.io/)\n",
-        "tracks": [
-          "btc",
-          "defi",
-          "spolecnost"
-        ],
-        "web": {
-          "url": "https://firefish.io/"
-        },
-        "country": "sk",
-        "desc": "Martin se celý život pohybuje na finančních trzích. V rámci tradičních financí dlouhé roky vedl úspěšný tradingový tým obchodující s energetickými komoditami. Od roku 2021 se plně věnuje Bitcoinu. Nejdříve spoluzaložil hedge fond Stratosphere a od loňského roku pak vyvíjí platformu Firefish.io, která umožňuje využití Bitcoinu jako finančního kolaterálu.\n",
-        "pretalxId": "AWZZDN",
         "photos": [
           "web:webp",
           "twitter:jpg"
@@ -1176,6 +1193,23 @@
           "web:jpg",
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "nataliya-grimberg",
+        "name": "Nataliya Grimberg",
+        "bio": "Web3 Fashion & Luxury Consultant",
+        "orgs": "Metaverse Fashion Expert at [Somnium Space](https://somniumspace.com/), Digital Fashion Consultant at MOYA\n",
+        "caption": "Web3 Fashion & Luxury Consultant\n",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://www.msha.ke/futurist"
+        },
+        "country": "cz",
+        "desc": "Nataliya is a Web3 fashion and luxury strategist building a new generation of digital experiences and reporting on the newest developments in the field as a speaker and trend forecaster. She works with luxury and tech companies to help them navigate the rapidly changing landscape of the metaverse industry with future-proof strategies.\n",
+        "pretalxId": "LVJ3L3",
+        "photos": []
       },
       {
         "id": "niftyape",
@@ -1428,6 +1462,7 @@
         ],
         "country": "cz",
         "desc": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku. Nejblíže je mi ovšem [Polkadot](https://polkadot.network/), proto jsme založili značku [Polkadotters](https://polkadotters.medium.com/) pod kterou pravidelně píšeme pro mezinárodní publikum a zároveň provozujeme validátory na Polkadotu, Kusamě a téměr všech ostatních parachainech.\n",
+        "pretalxId": "XYQSQC",
         "photos": [
           "web:jpg",
           "twitter:jpg"
@@ -1526,7 +1561,7 @@
         "name": "Samuela Davidova",
         "twitter": "samremotegirl",
         "bio": "Thinker | Doer | Rethinking Life",
-        "orgs": "[The Freeist](https://thefreeist.com/)\n",
+        "orgs": "Author [The Freeist](https://thefreeist.com/), ambasador konference [DeGameFi](https://degamefi.io/)\n",
         "caption": "Thinker | Doer | Rethinking Life\n",
         "tracks": [
           "spolecnost"
@@ -1541,6 +1576,24 @@
           "web:webp",
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "six",
+        "name": "Six",
+        "twitter": "sixTheDave",
+        "bio": "Web3 security auditor and consultant",
+        "orgs": "Founder of [CCTF](https://cryptoctf.org/) and [Polkadot](https://polkadot.network/) Head Ambassador.\n",
+        "caption": "Web3 security auditor and consultant\n",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://sixthedave.me"
+        },
+        "country": "hu",
+        "desc": "Founder of CCTF and Polkadot Head Ambassador. Web3 security auditor and consultant.\n",
+        "pretalxId": "GY7UG3",
+        "photos": []
       },
       {
         "id": "stanislav-simek",
@@ -1600,6 +1653,7 @@
           "url": "https://pwn.xyz/"
         },
         "country": "cz",
+        "pretalxId": "AZCLF8",
         "photos": [
           "web:webp",
           "twitter:jpg"
@@ -1664,6 +1718,22 @@
           "web:webp",
           "twitter:jpg"
         ]
+      },
+      {
+        "id": "tomas-vlasak",
+        "name": "Tomáš Vlasák",
+        "nickname": "Krypto Tomáš",
+        "twitter": "KryptoTomasCZ",
+        "bio": "DeFi konzultant",
+        "orgs": "Investor na volné noze\n",
+        "caption": "DeFi konzultant\n",
+        "tracks": [
+          "defi"
+        ],
+        "country": "cz",
+        "desc": "Akciový a krypto investor.\n",
+        "pretalxId": "DAEAV8",
+        "photos": []
       },
       {
         "id": "urza",
@@ -1791,6 +1861,7 @@
         ],
         "country": "sk",
         "desc": "🔆 🌘 Solar ⚔️  Lunar punk ⏳💾  Accumulating History 🦠🧠 Senescent cells are bad 🥽🖼️  @KodaDot @SubWorkBled\n",
+        "pretalxId": "YX3EL7",
         "photos": [
           "web:webp",
           "twitter:jpg"
@@ -1999,7 +2070,8 @@
         "speakers": [
           "tereza-starostova",
           "julie-sislerova",
-          "jana-kubatova"
+          "jana-kubatova",
+          "nataliya-grimberg"
         ],
         "duration": 75,
         "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnešní postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnuje?",
@@ -2128,9 +2200,7 @@
         "id": "3vrsv8",
         "type": "talk",
         "name": "Bitcoin-back everything!",
-        "speakers": [
-          "martin-matejka"
-        ],
+        "speakers": [],
         "duration": 45,
         "description": "Mnohí z vás poznajú Bitcoin ako nástroj na rozšírenie osobnej a finančnej slobody a využívajú ho ako peer-to-peer platobný systém, prípadne ako sôsob uchovania hodnôt. Poďme preskúmať ďalšiu možnosť ktorá by mala byť v toolkite každého bitcoinera: bitcoin ako univerzálny kolaterál.",
         "track": "btc"
@@ -2407,8 +2477,10 @@
         "id": "gdv8qy",
         "type": "talk",
         "name": "Tipy a triky na (Degen) DeFi",
-        "speakers": [],
-        "duration": 55,
+        "speakers": [
+          "tomas-vlasak"
+        ],
+        "duration": 45,
         "description": "",
         "track": "defi"
       },
@@ -2695,7 +2767,8 @@
         "type": "workshop",
         "name": "How to start using Polkadot",
         "speakers": [
-          "filippo-franchini"
+          "filippo-franchini",
+          "petr-mensik"
         ],
         "duration": 60,
         "description": "Join us for an interactive workshop/demo on Polkadot, designed for beginners who are eager to explore the world of blockchain and decentralized governance. In this session, we will guide you through the essential steps of creating a Polkadot account, transferring tokens, staking, and participating in the governance process.",
@@ -2741,7 +2814,7 @@
         "name": "Violoncellový koncert - Keishiro Mikawa & Juraj Skoda",
         "speakers": [],
         "duration": 45,
-        "description": ""
+        "description": "Další částí večerního programu je unikátní violoncellový koncert, který jste si loni tolik chválili! V Lustrovém sále nás čeká 45 minut vážné hudby v moderním pojetí. Těšit se můžete na umělce:\r\n- Keishiro Mikawa - https://instagram.com/keishiro_mikawa_vc\r\n- Juraj Skoda https://instagram.com/jurajskoda_cello"
       },
       {
         "id": "awkdfc",
@@ -2919,7 +2992,8 @@
           "vladimir-pinker",
           "david-stancel",
           "martin-fisera",
-          "tomas-hajek"
+          "tomas-hajek",
+          "lea-petrasova"
         ],
         "duration": 75,
         "description": "\"Kde koupit krypto?\" je panelová diskuze o tom, jak se dají nejlépe pořídit kryptoměny v Česku. Odborníci z oblasti CEX, DEX, peer-to-peer směn a kryptomatů přinášejí různé pohledy a srovnávají výhody a rizika těchto možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně nakupovat kryptoměny. Moderuje David Stancel.",
@@ -2949,10 +3023,10 @@
       {
         "id": "brrqjb",
         "type": "other",
-        "name": "DJ set by Chevii²",
+        "name": "Live DJs - Downtempo / House Music vibe",
         "speakers": [],
         "duration": 120,
-        "description": ""
+        "description": "Od 18:00 se večerní program začne pomalu rozjíždět u venkovních food trucků! Těšit se můžete na Downtempo / House Music vibe od DJs: Chevii2 (Sebastian Paiza) https://www.instagram.com/paizagram. S přibližujícím se violoncellovým koncertem bude venkovní část pomalu končit a ve 20:00 se program přesune do Lustrového sálu."
       },
       {
         "id": "qsudxa",
@@ -2966,7 +3040,9 @@
         "id": "eut83q",
         "type": "talk",
         "name": "Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let",
-        "speakers": [],
+        "speakers": [
+          "steve-fau"
+        ],
         "duration": 45,
         "description": "",
         "track": "defi"
@@ -3005,16 +3081,6 @@
         "track": "defi"
       },
       {
-        "id": "tfbmpe",
-        "type": "talk",
-        "name": "Kraken - TBA",
-        "speakers": [
-          "tomas-hajek"
-        ],
-        "duration": 45,
-        "description": ""
-      },
-      {
         "id": "d3svyq",
         "type": "workshop",
         "name": "Somnium Space: NFTs and decentralized asset streaming",
@@ -3027,7 +3093,9 @@
         "id": "t3cznp",
         "type": "talk",
         "name": "Jak rozdistribuovat $450k v open-source projektu a u toho vést Web3 startup",
-        "speakers": [],
+        "speakers": [
+          "yangwao"
+        ],
         "duration": 25,
         "description": "",
         "track": "dao"
@@ -3058,7 +3126,9 @@
         "id": "tehyka",
         "type": "talk",
         "name": "Ethereum Protocol Fellowship: Jak se stát Ethereum core vývojářem",
-        "speakers": [],
+        "speakers": [
+          "mario-havel"
+        ],
         "duration": 20,
         "description": "The Ethereum Protocol Fellowship is a permissionless fellowship program that helps to streamline the process of becoming a core developer. Applications are now opened and everyone interested in Ethereum core protocol is welcomed to apply! Come to visit the talk and learn more about the program and core development.",
         "track": "eth"
@@ -3067,7 +3137,9 @@
         "id": "8z37gz",
         "type": "campfire",
         "name": "Inovace na poli mostů mezi blockchainy",
-        "speakers": [],
+        "speakers": [
+          "petr-mensik"
+        ],
         "duration": 30,
         "description": "",
         "track": "alty"
@@ -3087,7 +3159,9 @@
         "id": "8hllua",
         "type": "talk",
         "name": "Life in Web3",
-        "speakers": [],
+        "speakers": [
+          "six"
+        ],
         "duration": 40,
         "description": "The World is changing with an astonishing speed and Web3 might be the answer to how we handle our governance, communities and finances. The talk presents the process of change and real life examples through Polkadot's ecosystem.  For the syllabus, please see the description.",
         "track": "dao"
@@ -3096,7 +3170,9 @@
         "id": "cuv8zx",
         "type": "talk",
         "name": "Od Etherea k Polkadotu: Odvážný krok zakladatele k přelomovému projektu",
-        "speakers": [],
+        "speakers": [
+          "petr-mensik"
+        ],
         "duration": 30,
         "description": "Představení Polkadotu - Přelomového krypto projektu od jednoho ze zakladatelů a architektů Etherea - Gavina Wooda. Odhalení klíčových vlastností, technologií a filozofie, které z něj činí revoluci ve světě kryptoměn a perspektivní projekt pro budoucnost.",
         "track": "alty"
@@ -3105,10 +3181,21 @@
         "id": "py8axc",
         "type": "other",
         "name": "Endgame, finálny stav Ethereum stakingu…🚀",
-        "speakers": [],
+        "speakers": [
+          "markoinether"
+        ],
         "duration": 30,
         "description": "Prečo každý ETH hodler nestakuje svoje ETH? \r\nPokúsim sa túto otázku zodpovedať, budem rozprávať sa o dynamike súčasného Ethereum staking ekosystému, prečo a ako sa môže v budúcnosti vyvíjať a ako bude vyzerať finálny stav.\r\n\r\nZ tejto prednášky si odnesieš lepšie pochopenie Ethereum staking ekosystému a kam sa môže v budúcnosti hýbať.",
         "track": "defi"
+      },
+      {
+        "id": "u8zmrl",
+        "type": "campfire",
+        "name": "Coinbureau",
+        "speakers": [],
+        "duration": 45,
+        "description": "",
+        "track": "spolecnost"
       }
     ],
     "stages": [
@@ -3517,8 +3604,8 @@
         "event": "uttjmv",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T11:30:00+02:00",
-          "end": "2023-06-04T12:15:00+02:00"
+          "start": "2023-06-04T10:45:00+02:00",
+          "end": "2023-06-04T11:30:00+02:00"
         }
       },
       {
@@ -3657,8 +3744,8 @@
         "event": "dy87a8",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:30:00+02:00",
-          "end": "2023-06-04T15:15:00+02:00"
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T15:45:00+02:00"
         }
       },
       {
@@ -3667,8 +3754,8 @@
         "event": "9989p3",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T13:45:00+02:00",
-          "end": "2023-06-03T14:30:00+02:00"
+          "start": "2023-06-03T13:30:00+02:00",
+          "end": "2023-06-03T14:15:00+02:00"
         }
       },
       {
@@ -3677,8 +3764,8 @@
         "event": "f3qqdj",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:15:00+02:00",
-          "end": "2023-06-04T15:00:00+02:00"
+          "start": "2023-06-04T16:15:00+02:00",
+          "end": "2023-06-04T17:00:00+02:00"
         }
       },
       {
@@ -3713,7 +3800,7 @@
       },
       {
         "id": "av",
-        "stage": "campfire-outdoor",
+        "stage": "campfire-indoor",
         "event": "9gbjwt",
         "date": "2023-06-03",
         "period": {
@@ -3733,12 +3820,12 @@
       },
       {
         "id": "ax",
-        "stage": "klenbovy-sal",
+        "stage": "lustrovy-sal",
         "event": "esllaf",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T12:15:00+02:00",
-          "end": "2023-06-04T12:55:00+02:00"
+          "start": "2023-06-04T16:30:00+02:00",
+          "end": "2023-06-04T17:10:00+02:00"
         }
       },
       {
@@ -3777,8 +3864,8 @@
         "event": "vayuas",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T16:15:00+02:00",
-          "end": "2023-06-04T17:00:00+02:00"
+          "start": "2023-06-04T14:15:00+02:00",
+          "end": "2023-06-04T15:00:00+02:00"
         }
       },
       {
@@ -3817,8 +3904,8 @@
         "event": "7ydeft",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T15:30:00+02:00",
-          "end": "2023-06-03T16:15:00+02:00"
+          "start": "2023-06-03T15:15:00+02:00",
+          "end": "2023-06-03T16:00:00+02:00"
         }
       },
       {
@@ -3947,8 +4034,8 @@
         "event": "vu7bua",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:15:00+02:00",
-          "end": "2023-06-04T15:45:00+02:00"
+          "start": "2023-06-04T14:30:00+02:00",
+          "end": "2023-06-04T15:00:00+02:00"
         }
       },
       {
@@ -3958,7 +4045,7 @@
         "date": "2023-06-03",
         "period": {
           "start": "2023-06-03T11:35:00+02:00",
-          "end": "2023-06-03T12:30:00+02:00"
+          "end": "2023-06-03T12:20:00+02:00"
         }
       },
       {
@@ -3985,10 +4072,10 @@
         "id": "bm",
         "stage": "campfire-outdoor",
         "event": "p3qrwv",
-        "date": "2023-06-04",
+        "date": "2023-06-03",
         "period": {
-          "start": "2023-06-04T10:00:00+02:00",
-          "end": "2023-06-04T10:45:00+02:00"
+          "start": "2023-06-03T17:00:00+02:00",
+          "end": "2023-06-03T17:45:00+02:00"
         }
       },
       {
@@ -4037,8 +4124,8 @@
         "event": "gppvnd",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T14:30:00+02:00",
-          "end": "2023-06-04T15:15:00+02:00"
+          "start": "2023-06-04T15:45:00+02:00",
+          "end": "2023-06-04T16:30:00+02:00"
         }
       },
       {
@@ -4085,10 +4172,10 @@
         "id": "bw",
         "stage": "campfire-outdoor",
         "event": "v7fhcj",
-        "date": "2023-06-03",
+        "date": "2023-06-04",
         "period": {
-          "start": "2023-06-03T16:15:00+02:00",
-          "end": "2023-06-03T17:00:00+02:00"
+          "start": "2023-06-04T15:30:00+02:00",
+          "end": "2023-06-04T16:15:00+02:00"
         }
       },
       {
@@ -4097,18 +4184,18 @@
         "event": "nuqnnr",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:15:00+02:00",
-          "end": "2023-06-04T15:45:00+02:00"
+          "start": "2023-06-04T14:30:00+02:00",
+          "end": "2023-06-04T15:00:00+02:00"
         }
       },
       {
         "id": "by",
-        "stage": "lustrovy-sal",
+        "stage": "rajska-zahrada",
         "event": "a3cvwf",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T16:30:00+02:00",
-          "end": "2023-06-04T17:15:00+02:00"
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
         }
       },
       {
@@ -4247,8 +4334,8 @@
         "event": "bwzanq",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T10:45:00+02:00",
-          "end": "2023-06-04T11:30:00+02:00"
+          "start": "2023-06-04T11:30:00+02:00",
+          "end": "2023-06-04T12:15:00+02:00"
         }
       },
       {
@@ -4287,8 +4374,8 @@
         "event": "ya8qag",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:30:00+02:00",
-          "end": "2023-06-04T16:15:00+02:00"
+          "start": "2023-06-04T10:00:00+02:00",
+          "end": "2023-06-04T10:45:00+02:00"
         }
       },
       {
@@ -4337,8 +4424,8 @@
         "event": "ejwr8f",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T10:45:00+02:00",
-          "end": "2023-06-04T11:30:00+02:00"
+          "start": "2023-06-04T11:30:00+02:00",
+          "end": "2023-06-04T12:15:00+02:00"
         }
       },
       {
@@ -4357,8 +4444,8 @@
         "event": "l3f8jx",
         "date": "2023-06-03",
         "period": {
-          "start": "2023-06-03T14:30:00+02:00",
-          "end": "2023-06-03T15:30:00+02:00"
+          "start": "2023-06-03T14:15:00+02:00",
+          "end": "2023-06-03T15:15:00+02:00"
         }
       },
       {
@@ -4467,8 +4554,8 @@
         "event": "eut83q",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T11:30:00+02:00",
-          "end": "2023-06-04T12:15:00+02:00"
+          "start": "2023-06-04T10:45:00+02:00",
+          "end": "2023-06-04T11:30:00+02:00"
         }
       },
       {
@@ -4487,8 +4574,8 @@
         "event": "tjj738",
         "date": "2023-06-04",
         "period": {
-          "start": "2023-06-04T15:45:00+02:00",
-          "end": "2023-06-04T16:30:00+02:00"
+          "start": "2023-06-04T15:00:00+02:00",
+          "end": "2023-06-04T15:45:00+02:00"
         }
       },
       {
@@ -4503,16 +4590,6 @@
       },
       {
         "id": "c2",
-        "stage": "rajska-zahrada",
-        "event": "tfbmpe",
-        "date": "2023-06-04",
-        "period": {
-          "start": "2023-06-04T10:00:00+02:00",
-          "end": "2023-06-04T10:45:00+02:00"
-        }
-      },
-      {
-        "id": "c3",
         "stage": "knihovna",
         "event": "d3svyq",
         "date": "2023-06-03",
@@ -4522,7 +4599,7 @@
         }
       },
       {
-        "id": "c4",
+        "id": "c3",
         "stage": "rajska-zahrada",
         "event": "t3cznp",
         "date": "2023-06-03",
@@ -4532,7 +4609,7 @@
         }
       },
       {
-        "id": "c5",
+        "id": "c4",
         "stage": "klenbovy-sal",
         "event": "7uxvpl",
         "date": "2023-06-03",
@@ -4542,7 +4619,7 @@
         }
       },
       {
-        "id": "c6",
+        "id": "c5",
         "stage": "campfire-outdoor",
         "event": "eha3zs",
         "date": "2023-06-03",
@@ -4552,7 +4629,7 @@
         }
       },
       {
-        "id": "c7",
+        "id": "c6",
         "stage": "rajska-zahrada",
         "event": "tehyka",
         "date": "2023-06-04",
@@ -4562,7 +4639,7 @@
         }
       },
       {
-        "id": "c8",
+        "id": "c7",
         "stage": "campfire-outdoor",
         "event": "8z37gz",
         "date": "2023-06-04",
@@ -4572,7 +4649,7 @@
         }
       },
       {
-        "id": "c9",
+        "id": "c8",
         "stage": "knihovna",
         "event": "janpcp",
         "date": "2023-06-03",
@@ -4582,7 +4659,7 @@
         }
       },
       {
-        "id": "da",
+        "id": "c9",
         "stage": "klenbovy-sal",
         "event": "8hllua",
         "date": "2023-06-04",
@@ -4592,7 +4669,7 @@
         }
       },
       {
-        "id": "db",
+        "id": "da",
         "stage": "klenbovy-sal",
         "event": "cuv8zx",
         "date": "2023-06-03",
@@ -4602,7 +4679,7 @@
         }
       },
       {
-        "id": "dc",
+        "id": "db",
         "stage": "lustrovy-sal",
         "event": "py8axc",
         "date": "2023-06-03",
@@ -4610,12 +4687,22 @@
           "start": "2023-06-03T17:30:00+02:00",
           "end": "2023-06-03T18:00:00+02:00"
         }
+      },
+      {
+        "id": "dc",
+        "stage": "campfire-outdoor",
+        "event": "u8zmrl",
+        "date": "2023-06-03",
+        "period": {
+          "start": "2023-06-03T16:15:00+02:00",
+          "end": "2023-06-03T17:00:00+02:00"
+        }
       }
     ]
   },
   "stats": {
     "counts": {
-      "speakers": 87,
+      "speakers": 91,
       "tracks": 11,
       "event-types": 7,
       "events": 111,
@@ -4625,5 +4712,5 @@
       "schedule": 111
     }
   },
-  "time": "2023-05-30T19:47:06.855Z"
+  "time": "2023-05-31T15:08:18.566Z"
 }

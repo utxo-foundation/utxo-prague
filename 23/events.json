@@ -95,7 +95,8 @@
     "speakers": [
       "tereza-starostova",
       "julie-sislerova",
-      "jana-kubatova"
+      "jana-kubatova",
+      "nataliya-grimberg"
     ],
     "duration": 75,
     "description": "Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také vytvořit nové a spravedlivější příležitosti pro všechny. Jaké je dnešní postavení žen ve světě web3 a metaverse? Co je iniciativa Holky v Metaverse a jakým aktivitám se věnuje?",
@@ -224,9 +225,7 @@
     "id": "3vrsv8",
     "type": "talk",
     "name": "Bitcoin-back everything!",
-    "speakers": [
-      "martin-matejka"
-    ],
+    "speakers": [],
     "duration": 45,
     "description": "Mnohí z vás poznajú Bitcoin ako nástroj na rozšírenie osobnej a finančnej slobody a využívajú ho ako peer-to-peer platobný systém, prípadne ako sôsob uchovania hodnôt. Poďme preskúmať ďalšiu možnosť ktorá by mala byť v toolkite každého bitcoinera: bitcoin ako univerzálny kolaterál.",
     "track": "btc"
@@ -503,8 +502,10 @@
     "id": "gdv8qy",
     "type": "talk",
     "name": "Tipy a triky na (Degen) DeFi",
-    "speakers": [],
-    "duration": 55,
+    "speakers": [
+      "tomas-vlasak"
+    ],
+    "duration": 45,
     "description": "",
     "track": "defi"
   },
@@ -791,7 +792,8 @@
     "type": "workshop",
     "name": "How to start using Polkadot",
     "speakers": [
-      "filippo-franchini"
+      "filippo-franchini",
+      "petr-mensik"
     ],
     "duration": 60,
     "description": "Join us for an interactive workshop/demo on Polkadot, designed for beginners who are eager to explore the world of blockchain and decentralized governance. In this session, we will guide you through the essential steps of creating a Polkadot account, transferring tokens, staking, and participating in the governance process.",
@@ -837,7 +839,7 @@
     "name": "Violoncellový koncert - Keishiro Mikawa & Juraj Skoda",
     "speakers": [],
     "duration": 45,
-    "description": ""
+    "description": "Další částí večerního programu je unikátní violoncellový koncert, který jste si loni tolik chválili! V Lustrovém sále nás čeká 45 minut vážné hudby v moderním pojetí. Těšit se můžete na umělce:\r\n- Keishiro Mikawa - https://instagram.com/keishiro_mikawa_vc\r\n- Juraj Skoda https://instagram.com/jurajskoda_cello"
   },
   {
     "id": "awkdfc",
@@ -1015,7 +1017,8 @@
       "vladimir-pinker",
       "david-stancel",
       "martin-fisera",
-      "tomas-hajek"
+      "tomas-hajek",
+      "lea-petrasova"
     ],
     "duration": 75,
     "description": "\"Kde koupit krypto?\" je panelová diskuze o tom, jak se dají nejlépe pořídit kryptoměny v Česku. Odborníci z oblasti CEX, DEX, peer-to-peer směn a kryptomatů přinášejí různé pohledy a srovnávají výhody a rizika těchto možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně nakupovat kryptoměny. Moderuje David Stancel.",
@@ -1045,10 +1048,10 @@
   {
     "id": "brrqjb",
     "type": "other",
-    "name": "DJ set by Chevii²",
+    "name": "Live DJs - Downtempo / House Music vibe",
     "speakers": [],
     "duration": 120,
-    "description": ""
+    "description": "Od 18:00 se večerní program začne pomalu rozjíždět u venkovních food trucků! Těšit se můžete na Downtempo / House Music vibe od DJs: Chevii2 (Sebastian Paiza) https://www.instagram.com/paizagram. S přibližujícím se violoncellovým koncertem bude venkovní část pomalu končit a ve 20:00 se program přesune do Lustrového sálu."
   },
   {
     "id": "qsudxa",
@@ -1062,7 +1065,9 @@
     "id": "eut83q",
     "type": "talk",
     "name": "Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let",
-    "speakers": [],
+    "speakers": [
+      "steve-fau"
+    ],
     "duration": 45,
     "description": "",
     "track": "defi"
@@ -1101,16 +1106,6 @@
     "track": "defi"
   },
   {
-    "id": "tfbmpe",
-    "type": "talk",
-    "name": "Kraken - TBA",
-    "speakers": [
-      "tomas-hajek"
-    ],
-    "duration": 45,
-    "description": ""
-  },
-  {
     "id": "d3svyq",
     "type": "workshop",
     "name": "Somnium Space: NFTs and decentralized asset streaming",
@@ -1123,7 +1118,9 @@
     "id": "t3cznp",
     "type": "talk",
     "name": "Jak rozdistribuovat $450k v open-source projektu a u toho vést Web3 startup",
-    "speakers": [],
+    "speakers": [
+      "yangwao"
+    ],
     "duration": 25,
     "description": "",
     "track": "dao"
@@ -1154,7 +1151,9 @@
     "id": "tehyka",
     "type": "talk",
     "name": "Ethereum Protocol Fellowship: Jak se stát Ethereum core vývojářem",
-    "speakers": [],
+    "speakers": [
+      "mario-havel"
+    ],
     "duration": 20,
     "description": "The Ethereum Protocol Fellowship is a permissionless fellowship program that helps to streamline the process of becoming a core developer. Applications are now opened and everyone interested in Ethereum core protocol is welcomed to apply! Come to visit the talk and learn more about the program and core development.",
     "track": "eth"
@@ -1163,7 +1162,9 @@
     "id": "8z37gz",
     "type": "campfire",
     "name": "Inovace na poli mostů mezi blockchainy",
-    "speakers": [],
+    "speakers": [
+      "petr-mensik"
+    ],
     "duration": 30,
     "description": "",
     "track": "alty"
@@ -1183,7 +1184,9 @@
     "id": "8hllua",
     "type": "talk",
     "name": "Life in Web3",
-    "speakers": [],
+    "speakers": [
+      "six"
+    ],
     "duration": 40,
     "description": "The World is changing with an astonishing speed and Web3 might be the answer to how we handle our governance, communities and finances. The talk presents the process of change and real life examples through Polkadot's ecosystem.  For the syllabus, please see the description.",
     "track": "dao"
@@ -1192,7 +1195,9 @@
     "id": "cuv8zx",
     "type": "talk",
     "name": "Od Etherea k Polkadotu: Odvážný krok zakladatele k přelomovému projektu",
-    "speakers": [],
+    "speakers": [
+      "petr-mensik"
+    ],
     "duration": 30,
     "description": "Představení Polkadotu - Přelomového krypto projektu od jednoho ze zakladatelů a architektů Etherea - Gavina Wooda. Odhalení klíčových vlastností, technologií a filozofie, které z něj činí revoluci ve světě kryptoměn a perspektivní projekt pro budoucnost.",
     "track": "alty"
@@ -1201,9 +1206,20 @@
     "id": "py8axc",
     "type": "other",
     "name": "Endgame, finálny stav Ethereum stakingu…🚀",
-    "speakers": [],
+    "speakers": [
+      "markoinether"
+    ],
     "duration": 30,
     "description": "Prečo každý ETH hodler nestakuje svoje ETH? \r\nPokúsim sa túto otázku zodpovedať, budem rozprávať sa o dynamike súčasného Ethereum staking ekosystému, prečo a ako sa môže v budúcnosti vyvíjať a ako bude vyzerať finálny stav.\r\n\r\nZ tejto prednášky si odnesieš lepšie pochopenie Ethereum staking ekosystému a kam sa môže v budúcnosti hýbať.",
     "track": "defi"
+  },
+  {
+    "id": "u8zmrl",
+    "type": "campfire",
+    "name": "Coinbureau",
+    "speakers": [],
+    "duration": 45,
+    "description": "",
+    "track": "spolecnost"
   }
 ]
