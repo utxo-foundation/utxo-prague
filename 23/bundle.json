@@ -837,7 +837,10 @@
         "country": "sk",
         "desc": "Lea je spoluzakladatelkou a CEO společnosti Vexl, mobilní aplikace, která usnadňuje obchodování s bitcoiny tak, jak bylo zamýšleno: peer-to-peer a bez KYC.\n",
         "pretalxId": "MX9NKW",
-        "photos": []
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
       },
       {
         "id": "libor-flossler",
@@ -983,7 +986,10 @@
         "country": "sk",
         "desc": "A surfing addict, decentralization & DVT evangelist. \nCurrently working on DVT tech and decentralizing staking infrastructure using distributed validator technology as SSV DAO contributor.\nInvolved with the Ethereum ecosystem since 2016 organizing Ethereum meetups in Bratislava and volunteering at Devcon4, 6.  Have been working on various staking projects since 2020. \nCheck my blog if you want to read my [rambling on ETH staking](https://medium.com/@MarkoInEther) and crypto in general, my [shitposting track record](https://twitter.com/markoinether) on twitter or [awesome-ssv repo](https://github.com/bloxapp/awesome-ssv/) if you are a builder interested in Eth staking.\n",
         "pretalxId": "ZXKJZP",
-        "photos": []
+        "photos": [
+          "web:webp",
+          "twitter:jpg"
+        ]
       },
       {
         "id": "martin-bok",
@@ -1209,7 +1215,9 @@
         "country": "cz",
         "desc": "Nataliya is a Web3 fashion and luxury strategist building a new generation of digital experiences and reporting on the newest developments in the field as a speaker and trend forecaster. She works with luxury and tech companies to help them navigate the rapidly changing landscape of the metaverse industry with future-proof strategies.\n",
         "pretalxId": "LVJ3L3",
-        "photos": []
+        "photos": [
+          "web:webp"
+        ]
       },
       {
         "id": "niftyape",
@@ -1593,7 +1601,9 @@
         "country": "hu",
         "desc": "Founder of CCTF and Polkadot Head Ambassador. Web3 security auditor and consultant.\n",
         "pretalxId": "GY7UG3",
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "stanislav-simek",
@@ -1733,7 +1743,9 @@
         "country": "cz",
         "desc": "Akciový a krypto investor.\n",
         "pretalxId": "DAEAV8",
-        "photos": []
+        "photos": [
+          "twitter:jpg"
+        ]
       },
       {
         "id": "urza",
@@ -4712,5 +4724,5 @@
       "schedule": 111
     }
   },
-  "time": "2023-05-31T15:08:18.566Z"
+  "time": "2023-05-31T15:15:17.981Z"
 }
