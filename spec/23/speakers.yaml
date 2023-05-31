@@ -1326,7 +1326,19 @@
   country: hu
   desc: |
     Founder of CCTF and Polkadot Head Ambassador. Web3 security auditor and consultant.
-  pretalxId: GY7UG3
+  pretalxId: GY7UG3          
+  
+- id: daniel-krupka
+  name: Daniel Krupka
+  twitter: krupda42
+  bio: Head of research
+  orgs: |
+    [Coinbureau](https://www.coinbureau.com/)
+  caption: |
+    Head of research
+  tracks: [ eth, spolecnost ]
+  country: cz
+  #pretalxId: 
         
 - id: markoinether
   name: markoInEther
