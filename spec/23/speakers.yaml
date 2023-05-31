@@ -1338,6 +1338,7 @@
     Head of research
   tracks: [ eth, spolecnost ]
   country: cz
+  lead: true
   #pretalxId: 
         
 - id: markoinether
