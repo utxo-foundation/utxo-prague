@@ -171,6 +171,20 @@
     ]
   },
   {
+    "id": "daniel-krupka",
+    "name": "Daniel Krupka",
+    "twitter": "krupda42",
+    "bio": "Head of research",
+    "orgs": "[Coinbureau](https://www.coinbureau.com/)\n",
+    "caption": "Head of research\n",
+    "tracks": [
+      "eth",
+      "spolecnost"
+    ],
+    "country": "cz",
+    "photos": []
+  },
+  {
     "id": "david-marak",
     "name": "David Mařák",
     "twitter": "DavidMarakXR",

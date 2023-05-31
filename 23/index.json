@@ -36,7 +36,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 91,
+      "speakers": 92,
       "tracks": 11,
       "event-types": 7,
       "events": 111,
@@ -46,5 +46,5 @@
       "schedule": 111
     }
   },
-  "time": "2023-05-31T15:15:17.981Z"
+  "time": "2023-05-31T16:37:20.937Z"
 }
