@@ -183,7 +183,9 @@
     ],
     "country": "cz",
     "lead": true,
-    "photos": []
+    "photos": [
+      "twitter:jpg"
+    ]
   },
   {
     "id": "david-marak",
