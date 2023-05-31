@@ -1274,7 +1274,7 @@
     Web3 Fashion & Luxury Consultant
   tracks: [ nft ]
   web:
-    url: www.msha.ke/futurist
+    url: https://www.msha.ke/futurist
   country: cz
   desc: |
     Nataliya is a Web3 fashion and luxury strategist building a new generation of digital experiences and reporting on the newest developments in the field as a speaker and trend forecaster. She works with luxury and tech companies to help them navigate the rapidly changing landscape of the metaverse industry with future-proof strategies.
@@ -1322,7 +1322,7 @@
     Web3 security auditor and consultant
   tracks: [ nft ]
   web:
-    url: Sixthedave.me
+    url: https://sixthedave.me
   country: hu
   desc: |
     Founder of CCTF and Polkadot Head Ambassador. Web3 security auditor and consultant.

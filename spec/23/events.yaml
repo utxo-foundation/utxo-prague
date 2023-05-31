@@ -91,6 +91,7 @@
     - tereza-starostova
     - julie-sislerova
     - jana-kubatova
+    - nataliya-grimberg
   duration: 75
   description: >-
     Metaverse má obrovský potenciál nejen změnit globální ekonomiku, ale také
@@ -226,8 +227,7 @@
 - id: 3vrsv8
   type: talk
   name: Bitcoin-back everything!
-  speakers:
-    - martin-matejka
+  speakers: []
   duration: 45
   description: >-
     Mnohí z vás poznajú Bitcoin ako nástroj na rozšírenie osobnej a finančnej
@@ -514,8 +514,9 @@
 - id: gdv8qy
   type: talk
   name: Tipy a triky na (Degen) DeFi
-  speakers: []
-  duration: 55
+  speakers:
+    - tomas-vlasak
+  duration: 45
   description: ''
   track: defi
 - id: tvzbz7
@@ -793,6 +794,7 @@
   name: How to start using Polkadot
   speakers:
     - filippo-franchini
+    - petr-mensik
   duration: 60
   description: >-
     Join us for an interactive workshop/demo on Polkadot, designed for beginners
@@ -842,7 +844,7 @@
   name: Violoncellový koncert - Keishiro Mikawa & Juraj Skoda
   speakers: []
   duration: 45
-  description: ''
+  description: "Další částí večerního programu je unikátní violoncellový koncert, který jste si loni tolik chválili! V Lustrovém sále nás čeká 45 minut vážné hudby v moderním pojetí. Těšit se můžete na umělce:\r\n- Keishiro Mikawa - https://instagram.com/keishiro_mikawa_vc\r\n- Juraj Skoda https://instagram.com/jurajskoda_cello"
   track: !<tag:yaml.org,2002:js/undefined> ''
 - id: awkdfc
   type: other
@@ -924,6 +926,7 @@
     - antonin-jilek
   duration: 15
   description: ''
+  track: !<tag:yaml.org,2002:js/undefined> ''
 - id: ejwr8f
   type: talk
   name: Vybíráme x86 hardware na stavbu bitcoinového nodu (prezentace)
@@ -1020,6 +1023,7 @@
     - david-stancel
     - martin-fisera
     - tomas-hajek
+    - lea-petrasova
   duration: 75
   description: >-
     "Kde koupit krypto?" je panelová diskuze o tom, jak se dají nejlépe pořídit
@@ -1046,10 +1050,15 @@
   track: spolecnost
 - id: brrqjb
   type: other
-  name: DJ set by Chevii²
+  name: Live DJs - Downtempo / House Music vibe
   speakers: []
   duration: 120
-  description: ''
+  description: >-
+    Od 18:00 se večerní program začne pomalu rozjíždět u venkovních food trucků!
+    Těšit se můžete na Downtempo / House Music vibe od DJs: Chevii2 (Sebastian
+    Paiza) https://www.instagram.com/paizagram. S přibližujícím se
+    violoncellovým koncertem bude venkovní část pomalu končit a ve 20:00 se
+    program přesune do Lustrového sálu.
   track: !<tag:yaml.org,2002:js/undefined> ''
 - id: qsudxa
   type: other
@@ -1061,7 +1070,8 @@
 - id: eut83q
   type: talk
   name: 'Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let'
-  speakers: []
+  speakers:
+    - steve-fau
   duration: 45
   description: ''
   track: defi
@@ -1103,13 +1113,6 @@
     Extractable Value), gassless swaps, single-sided likvidita, nebo propojení s
     jinými ekosystémy jako Cosmos nebo Ethereum.
   track: defi
-- id: tfbmpe
-  type: talk
-  name: Kraken - TBA
-  speakers:
-    - tomas-hajek
-  duration: 45
-  description: ''
 - id: d3svyq
   type: workshop
   name: 'Somnium Space: NFTs and decentralized asset streaming'
@@ -1120,7 +1123,8 @@
 - id: t3cznp
   type: talk
   name: Jak rozdistribuovat $450k v open-source projektu a u toho vést Web3 startup
-  speakers: []
+  speakers:
+    - yangwao
   duration: 25
   description: ''
   track: dao
@@ -1145,7 +1149,8 @@
 - id: tehyka
   type: talk
   name: 'Ethereum Protocol Fellowship: Jak se stát Ethereum core vývojářem'
-  speakers: []
+  speakers:
+    - mario-havel
   duration: 20
   description: >-
     The Ethereum Protocol Fellowship is a permissionless fellowship program that
@@ -1157,7 +1162,8 @@
 - id: 8z37gz
   type: campfire
   name: Inovace na poli mostů mezi blockchainy
-  speakers: []
+  speakers:
+    - petr-mensik
   duration: 30
   description: ''
   track: alty
@@ -1172,7 +1178,8 @@
 - id: 8hllua
   type: talk
   name: Life in Web3
-  speakers: []
+  speakers:
+    - six
   duration: 40
   description: >-
     The World is changing with an astonishing speed and Web3 might be the answer
@@ -1183,7 +1190,8 @@
 - id: cuv8zx
   type: talk
   name: 'Od Etherea k Polkadotu: Odvážný krok zakladatele k přelomovému projektu'
-  speakers: []
+  speakers:
+    - petr-mensik
   duration: 30
   description: >-
     Představení Polkadotu - Přelomového krypto projektu od jednoho ze
@@ -1194,7 +1202,15 @@
 - id: py8axc
   type: other
   name: "Endgame, finálny stav Ethereum stakingu…\U0001F680"
-  speakers: []
+  speakers:
+    - markoinether
   duration: 30
   description: "Prečo každý ETH hodler nestakuje svoje ETH? \r\nPokúsim sa túto otázku zodpovedať, budem rozprávať sa o dynamike súčasného Ethereum staking ekosystému, prečo a ako sa môže v budúcnosti vyvíjať a ako bude vyzerať finálny stav.\r\n\r\nZ tejto prednášky si odnesieš lepšie pochopenie Ethereum staking ekosystému a kam sa môže v budúcnosti hýbať."
   track: defi
+- id: u8zmrl
+  type: campfire
+  name: Coinbureau
+  speakers: []
+  duration: 45
+  description: ''
+  track: spolecnost
