@@ -186,7 +186,8 @@
         "tracks": [
           "zaklady",
           "dao",
-          "spolecnost"
+          "spolecnost",
+          "polkadot"
         ],
         "country": "cz",
         "desc": "Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.\n",
@@ -1937,6 +1938,12 @@
         "name": "Ethereum a smart-kontrakty obecně",
         "shortname": "Ethereum",
         "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
+      },
+      {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "shortname": "Polkadot",
+        "examples": "* Polkadot\n"
       },
       {
         "id": "defi",
@@ -4755,7 +4762,7 @@
   "stats": {
     "counts": {
       "speakers": 93,
-      "tracks": 11,
+      "tracks": 12,
       "event-types": 7,
       "events": 111,
       "stages": 6,
@@ -4764,5 +4771,5 @@
       "schedule": 111
     }
   },
-  "time": "2023-06-01T10:04:53.474Z"
+  "time": "2023-06-01T16:26:52.290Z"
 }

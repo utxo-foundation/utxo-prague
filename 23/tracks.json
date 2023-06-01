@@ -17,6 +17,12 @@
     "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
   },
   {
+    "id": "polkadot",
+    "name": "Polkadot",
+    "shortname": "Polkadot",
+    "examples": "* Polkadot\n"
+  },
+  {
     "id": "defi",
     "name": "Decentralizované finance (DeFi)",
     "shortname": "DeFi",
