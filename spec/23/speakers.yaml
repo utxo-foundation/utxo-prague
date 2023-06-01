@@ -1371,8 +1371,9 @@
     Digitální umělec
   tracks: [ nft ]
   web:
-    url: www.posterlad.com
+    url: https://www.posterlad.com
   country: cz
   desc: |
     PosterLad je projekt digitálního umělce Vratislava Pecky. Své práce vystavoval na mnoha místech v různých koutech světa, jeho NFT tvorba byla pak vystavena i na několika virtuálních a NFT výstavách, naposledy na NFTNYC nebo v pařížské aukční síni FauveParis. Projekt byl oceněn několika mezinárodními designovými cenami. Na konci roku 2020 byl přijat na platformu SuperRare. Je aktivní jak v tradičním uměleckém světě, tak v prostředí NFT.
   pretalxId: FKQV8V
+  lead: true
