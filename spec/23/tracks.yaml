@@ -26,6 +26,12 @@
     * vývoj smart-kontraktů (solidity)
     * MEV - Miner Extractable Value
 
+- id: polkadot
+  name: Polkadot
+  shortname: Polkadot
+  examples: |
+    * Polkadot
+
 - id: defi
   name: Decentralizované finance (DeFi)
   shortname: DeFi
