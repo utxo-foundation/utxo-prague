@@ -1091,6 +1091,25 @@
         ]
       },
       {
+        "id": "mopo680",
+        "name": "Martin Paulini",
+        "nickname": "mOpO680",
+        "twitter": "mopo680",
+        "bio": "NFT believer | Web 3.0 | Crypto enthusiast",
+        "orgs": "[NFT Space CZ/SK](https://www.nftspace.cz/) co-founder\n",
+        "caption": "NFT believer | Web 3.0 | Crypto enthusiast\n",
+        "tracks": [
+          "nft"
+        ],
+        "web": {
+          "url": "https://www.posterlad.com"
+        },
+        "country": "cz",
+        "desc": "NFT believer | Web 3.0 | Crypto enthusiast | NFT Space CZ/SK - co-founder | BAYC owner |\n",
+        "pretalxId": "TMFCDK",
+        "photos": []
+      },
+      {
         "id": "matej-curda",
         "name": "Matěj Čurda",
         "twitter": "MattCurda",
@@ -4905,7 +4924,7 @@
   },
   "stats": {
     "counts": {
-      "speakers": 93,
+      "speakers": 94,
       "tracks": 12,
       "event-types": 7,
       "events": 117,
@@ -4915,5 +4934,5 @@
       "schedule": 117
     }
   },
-  "time": "2023-06-02T15:51:48.954Z"
+  "time": "2023-06-02T15:56:32.989Z"
 }
