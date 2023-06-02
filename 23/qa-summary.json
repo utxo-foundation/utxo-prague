@@ -19,6 +19,15 @@
   },
   {
     "id": "ac",
+    "eventId": "sbz97r",
+    "name": "Nejčastější chyby NFT projektů a jak jim předejít",
+    "period": {
+      "start": "2023-06-04T12:15:00+02:00",
+      "end": "2023-06-04T13:00:00+02:00"
+    }
+  },
+  {
+    "id": "ad",
     "eventId": "3tcyng",
     "name": "Kryptoměnové analogie",
     "period": {
@@ -27,7 +36,7 @@
     }
   },
   {
-    "id": "ad",
+    "id": "ae",
     "eventId": "nxpqtx",
     "name": "Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?",
     "period": {
@@ -36,7 +45,7 @@
     }
   },
   {
-    "id": "ae",
+    "id": "af",
     "eventId": "kklvje",
     "name": "Jak používat bitcoin",
     "period": {
@@ -45,7 +54,7 @@
     }
   },
   {
-    "id": "af",
+    "id": "ag",
     "eventId": "9tjnas",
     "name": "Bitcoin jako pojistka proti geopolitickým rizikům.",
     "period": {
@@ -54,16 +63,16 @@
     }
   },
   {
-    "id": "ag",
+    "id": "ah",
     "eventId": "ehalmb",
     "name": "Rok na Solaně pohledem auditora",
     "period": {
-      "start": "2023-06-03T18:30:00+02:00",
-      "end": "2023-06-03T18:55:00+02:00"
+      "start": "2023-06-03T17:30:00+02:00",
+      "end": "2023-06-03T17:55:00+02:00"
     }
   },
   {
-    "id": "ah",
+    "id": "ai",
     "eventId": "mbezkd",
     "name": "Auditem bezpečnost nezačíná ani nekončí",
     "period": {
@@ -72,7 +81,7 @@
     }
   },
   {
-    "id": "ai",
+    "id": "aj",
     "eventId": "jptwkd",
     "name": "Holky v Metaverse",
     "period": {
@@ -81,7 +90,7 @@
     }
   },
   {
-    "id": "aj",
+    "id": "ak",
     "eventId": "3mwenq",
     "name": "Vnímání světa kryptoměn z pozice institucionálního investora v roce 2023 (po pádu FTX)",
     "period": {
@@ -90,7 +99,7 @@
     }
   },
   {
-    "id": "ak",
+    "id": "al",
     "eventId": "ae3sxw",
     "name": "Trading kryptoměn",
     "period": {
@@ -99,7 +108,7 @@
     }
   },
   {
-    "id": "al",
+    "id": "am",
     "eventId": "wke3pb",
     "name": "Secret Network a soukromí jako služba",
     "period": {
@@ -108,7 +117,7 @@
     }
   },
   {
-    "id": "am",
+    "id": "an",
     "eventId": "zhascq",
     "name": "Nejčastější chyby blockchainových start-upů. Na co si dát pozor při podnikání v kryptu?",
     "period": {
@@ -117,7 +126,7 @@
     }
   },
   {
-    "id": "an",
+    "id": "ao",
     "eventId": "vjlrdv",
     "name": "Krypto a nemovitosti",
     "period": {
@@ -126,16 +135,16 @@
     }
   },
   {
-    "id": "ao",
+    "id": "ap",
     "eventId": "aefxhc",
     "name": "Tokenomics design aneb Jak nedopadnout jako Luna a Celsius",
     "period": {
-      "start": "2023-06-03T13:15:00+02:00",
-      "end": "2023-06-03T14:00:00+02:00"
+      "start": "2023-06-03T11:45:00+02:00",
+      "end": "2023-06-03T12:30:00+02:00"
     }
   },
   {
-    "id": "ap",
+    "id": "aq",
     "eventId": "dy87a8",
     "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
     "period": {
@@ -144,7 +153,7 @@
     }
   },
   {
-    "id": "aq",
+    "id": "ar",
     "eventId": "9989p3",
     "name": "Bitcoin maximalismus - feature nebo bug?",
     "period": {
@@ -153,7 +162,7 @@
     }
   },
   {
-    "id": "ar",
+    "id": "as",
     "eventId": "f3qqdj",
     "name": "Jak se bránit nocoinerům",
     "period": {
@@ -162,7 +171,7 @@
     }
   },
   {
-    "id": "as",
+    "id": "at",
     "eventId": "3y8esm",
     "name": "KryptoVláďa komunitní campfire",
     "period": {
@@ -171,7 +180,7 @@
     }
   },
   {
-    "id": "at",
+    "id": "au",
     "eventId": "e3gt7v",
     "name": "Uniswap V3 - opravdové DeFi",
     "period": {
@@ -180,25 +189,7 @@
     }
   },
   {
-    "id": "au",
-    "eventId": "3vrsv8",
-    "name": "Bitcoin-back everything!",
-    "period": {
-      "start": "2023-06-03T11:45:00+02:00",
-      "end": "2023-06-03T12:30:00+02:00"
-    }
-  },
-  {
     "id": "av",
-    "eventId": "9gbjwt",
-    "name": "Využití NFT při tokenizaci byznysů: proč, jak a k čemu?",
-    "period": {
-      "start": "2023-06-03T17:00:00+02:00",
-      "end": "2023-06-03T17:45:00+02:00"
-    }
-  },
-  {
-    "id": "ax",
     "eventId": "esllaf",
     "name": "Podvody s Vaší nadějí, jak to poznat a předcházet tomu.",
     "period": {
@@ -207,7 +198,7 @@
     }
   },
   {
-    "id": "ay",
+    "id": "aw",
     "eventId": "7lxjzl",
     "name": "Krypto-filantropie roste i v bear-marketu. Proč jí věnovat pozornost?",
     "period": {
@@ -216,7 +207,7 @@
     }
   },
   {
-    "id": "a0",
+    "id": "ay",
     "eventId": "p9una9",
     "name": "Koruna česká na blockchainu (CZK stablecoin) po roce",
     "period": {
@@ -225,7 +216,7 @@
     }
   },
   {
-    "id": "a1",
+    "id": "az",
     "eventId": "vayuas",
     "name": "Jak na rizika DeFi půjček a APUS.finance AMA",
     "period": {
@@ -234,7 +225,7 @@
     }
   },
   {
-    "id": "a3",
+    "id": "a1",
     "eventId": "kkaz8h",
     "name": "DIGITÁLNÍ BUDOUCNOST: Bez blockchainu jsme na cestě k ztrátě svobody...",
     "period": {
@@ -243,7 +234,7 @@
     }
   },
   {
-    "id": "a4",
+    "id": "a2",
     "eventId": "rdhxzb",
     "name": "Šmíráci - co o vás sbírají web3 a finanční aplikace",
     "period": {
@@ -252,7 +243,7 @@
     }
   },
   {
-    "id": "a5",
+    "id": "a3",
     "eventId": "7ydeft",
     "name": "Metaverse: budoucnost nebo slepá ulička?",
     "period": {
@@ -261,7 +252,7 @@
     }
   },
   {
-    "id": "a6",
+    "id": "a4",
     "eventId": "r3ectq",
     "name": "Jak přijít o peníze - slepé podepisování smart kontraktů",
     "period": {
@@ -270,7 +261,7 @@
     }
   },
   {
-    "id": "a7",
+    "id": "a5",
     "eventId": "uvv38z",
     "name": "VR/AR + AI + Blockchain = <3",
     "period": {
@@ -279,16 +270,7 @@
     }
   },
   {
-    "id": "a8",
-    "eventId": "w7ka7w",
-    "name": "NFT jako vstupenka",
-    "period": {
-      "start": "2023-06-03T11:15:00+02:00",
-      "end": "2023-06-03T11:35:00+02:00"
-    }
-  },
-  {
-    "id": "a9",
+    "id": "a6",
     "eventId": "ypsb3r",
     "name": "DIGITALNÍ IDENTITA: minulost, současnost, budoucnost.",
     "period": {
@@ -297,7 +279,7 @@
     }
   },
   {
-    "id": "ba",
+    "id": "a7",
     "eventId": "97qelm",
     "name": "Trhy, firmy, stát a... blockchain? Blockchain jako nový způsob lidské spolupráce",
     "period": {
@@ -306,7 +288,7 @@
     }
   },
   {
-    "id": "bb",
+    "id": "a8",
     "eventId": "h8zecs",
     "name": "Být normální",
     "period": {
@@ -315,7 +297,7 @@
     }
   },
   {
-    "id": "bc",
+    "id": "a9",
     "eventId": "xvpt9c",
     "name": "Jak na POAP: Naučte se tvořit a distribuovat vlastní digitální tokeny",
     "period": {
@@ -324,7 +306,7 @@
     }
   },
   {
-    "id": "bd",
+    "id": "ba",
     "eventId": "xpflwb",
     "name": "Dolarové stablecoiny: existuje decentralizovaná alternativa?",
     "period": {
@@ -333,7 +315,7 @@
     }
   },
   {
-    "id": "be",
+    "id": "bc",
     "eventId": "mph3ab",
     "name": "Impact DAOs",
     "period": {
@@ -342,7 +324,7 @@
     }
   },
   {
-    "id": "bf",
+    "id": "bd",
     "eventId": "zcayjb",
     "name": "Decentralizované směnárny - co nabízí a proč je využívat?",
     "period": {
@@ -351,7 +333,7 @@
     }
   },
   {
-    "id": "bg",
+    "id": "be",
     "eventId": "7srlpr",
     "name": "Umění a kreativita v éře NFT, AI, Metaverse a Web 3.0",
     "period": {
@@ -360,7 +342,7 @@
     }
   },
   {
-    "id": "bh",
+    "id": "bf",
     "eventId": "vur3sz",
     "name": "Základy investování do kryptoměn",
     "period": {
@@ -369,7 +351,7 @@
     }
   },
   {
-    "id": "bi",
+    "id": "bg",
     "eventId": "vu7bua",
     "name": "ICP jako 3. největší inovace v kryptu po BTC & ETH",
     "period": {
@@ -378,7 +360,7 @@
     }
   },
   {
-    "id": "bj",
+    "id": "bh",
     "eventId": "gdv8qy",
     "name": "Tipy a triky na (Degen) DeFi",
     "period": {
@@ -387,7 +369,7 @@
     }
   },
   {
-    "id": "bk",
+    "id": "bi",
     "eventId": "tvzbz7",
     "name": "Jak si najít a udržet progresivní práci ve Web3?",
     "period": {
@@ -396,7 +378,7 @@
     }
   },
   {
-    "id": "bl",
+    "id": "bj",
     "eventId": "qh73vp",
     "name": "Strategie pro správu investičního portfolia krypto aktiv",
     "period": {
@@ -405,7 +387,7 @@
     }
   },
   {
-    "id": "bm",
+    "id": "bk",
     "eventId": "p3qrwv",
     "name": "Jaké existují svobodné peníze?",
     "period": {
@@ -414,7 +396,7 @@
     }
   },
   {
-    "id": "bn",
+    "id": "bl",
     "eventId": "8hyshm",
     "name": "Hudba v éře blockchainu a AI: překonávání výzev a cesta k masové adopci",
     "period": {
@@ -423,16 +405,16 @@
     }
   },
   {
-    "id": "bo",
+    "id": "bm",
     "eventId": "jnkqdn",
-    "name": "KryptoSpace Campfire No. 1",
+    "name": "KryptoSpace Campfire No. 1 w. Daniel Krupka (Coinbureau)",
     "period": {
-      "start": "2023-06-03T12:30:00+02:00",
-      "end": "2023-06-03T13:15:00+02:00"
+      "start": "2023-06-03T16:00:00+02:00",
+      "end": "2023-06-03T16:45:00+02:00"
     }
   },
   {
-    "id": "bp",
+    "id": "bn",
     "eventId": "zuyrh7",
     "name": "HODL v bull marketu, nebo brát zisky?",
     "period": {
@@ -441,7 +423,7 @@
     }
   },
   {
-    "id": "bq",
+    "id": "bo",
     "eventId": "8jm7la",
     "name": "Automatizované strategie na Štosuj.cz",
     "period": {
@@ -450,7 +432,7 @@
     }
   },
   {
-    "id": "br",
+    "id": "bp",
     "eventId": "gppvnd",
     "name": "Algo-trading v kryptu",
     "period": {
@@ -459,7 +441,7 @@
     }
   },
   {
-    "id": "bs",
+    "id": "bq",
     "eventId": "xhd9rq",
     "name": "Vexl - ukázka aplikace, jak správně vexlovat",
     "period": {
@@ -468,7 +450,7 @@
     }
   },
   {
-    "id": "bt",
+    "id": "br",
     "eventId": "7xm3jk",
     "name": "Jak na výpočet zdanění kryptoměn v nástroji WhaleBooks",
     "period": {
@@ -477,7 +459,7 @@
     }
   },
   {
-    "id": "bu",
+    "id": "bs",
     "eventId": "u97gem",
     "name": "Úvod do NFT",
     "period": {
@@ -486,7 +468,7 @@
     }
   },
   {
-    "id": "bv",
+    "id": "bt",
     "eventId": "trkts9",
     "name": "Enterprise blockchain: Proč firmy potřebují blockchain a blockchain firmy",
     "period": {
@@ -495,7 +477,7 @@
     }
   },
   {
-    "id": "bw",
+    "id": "bu",
     "eventId": "v7fhcj",
     "name": "Gamer Centric Economies - Web3 ako revolúcia monetizácie gamingu",
     "period": {
@@ -504,7 +486,7 @@
     }
   },
   {
-    "id": "bx",
+    "id": "bv",
     "eventId": "nuqnnr",
     "name": "PoW vs. PoS - výhody a nevýhody",
     "period": {
@@ -513,7 +495,7 @@
     }
   },
   {
-    "id": "by",
+    "id": "bw",
     "eventId": "a3cvwf",
     "name": "Bitcoin and cryptocurrencies as the most powerful liberalizing tool of global opportunism",
     "period": {
@@ -522,7 +504,7 @@
     }
   },
   {
-    "id": "bz",
+    "id": "bx",
     "eventId": "wnuwjq",
     "name": "Ako Bitcoin a cypherpunk technológie zvyšujú našu slobodu?",
     "period": {
@@ -531,16 +513,16 @@
     }
   },
   {
-    "id": "b0",
+    "id": "by",
     "eventId": "7yrec7",
     "name": "Kryptomeny pre podnikateľov",
     "period": {
-      "start": "2023-06-03T15:30:00+02:00",
-      "end": "2023-06-03T16:15:00+02:00"
+      "start": "2023-06-03T13:15:00+02:00",
+      "end": "2023-06-03T14:00:00+02:00"
     }
   },
   {
-    "id": "b1",
+    "id": "bz",
     "eventId": "999mvd",
     "name": "Konec kryptopeněženek",
     "period": {
@@ -549,7 +531,7 @@
     }
   },
   {
-    "id": "b2",
+    "id": "b0",
     "eventId": "k3clmy",
     "name": "Kryptopodnikání v Čechách v době nadcházejících regulací",
     "period": {
@@ -558,7 +540,7 @@
     }
   },
   {
-    "id": "b3",
+    "id": "b1",
     "eventId": "kedt7t",
     "name": "Právní a daňové hacky pro velký kluky a holky",
     "period": {
@@ -567,7 +549,7 @@
     }
   },
   {
-    "id": "b4",
+    "id": "b2",
     "eventId": "tlx7am",
     "name": "Peníze – internet ze starověku",
     "period": {
@@ -576,7 +558,7 @@
     }
   },
   {
-    "id": "b5",
+    "id": "b3",
     "eventId": "gbdhzk",
     "name": "Diskuze k přednášce Právní a daňové hacky pro velký kluky a holky",
     "period": {
@@ -585,7 +567,7 @@
     }
   },
   {
-    "id": "b6",
+    "id": "b4",
     "eventId": "rmnnhb",
     "name": "Zahájení UTXO 2023",
     "period": {
@@ -594,7 +576,7 @@
     }
   },
   {
-    "id": "b7",
+    "id": "b5",
     "eventId": "jl7hct",
     "name": "Diskuze: Kryptopodnikání v Čechách v době nadcházejících regulací",
     "period": {
@@ -603,7 +585,7 @@
     }
   },
   {
-    "id": "b8",
+    "id": "b6",
     "eventId": "wy9dhd",
     "name": "Investice - kam, kdy, jak, proč",
     "period": {
@@ -612,7 +594,7 @@
     }
   },
   {
-    "id": "b9",
+    "id": "b7",
     "eventId": "lqhknm",
     "name": "How to start using Polkadot",
     "period": {
@@ -621,7 +603,7 @@
     }
   },
   {
-    "id": "ca",
+    "id": "b8",
     "eventId": "3h9wvy",
     "name": "Web3 and Polkadot",
     "period": {
@@ -630,7 +612,7 @@
     }
   },
   {
-    "id": "cb",
+    "id": "b9",
     "eventId": "uhfqnn",
     "name": "Jak na kryptoměny, bezpečně a prakticky",
     "period": {
@@ -639,7 +621,7 @@
     }
   },
   {
-    "id": "cc",
+    "id": "ca",
     "eventId": "bwzanq",
     "name": "Bitcoin a privátní bankovnictví",
     "period": {
@@ -648,7 +630,7 @@
     }
   },
   {
-    "id": "cd",
+    "id": "cb",
     "eventId": "apazac",
     "name": "Violoncellový koncert - Keishiro Mikawa & Juraj Skoda",
     "period": {
@@ -657,7 +639,7 @@
     }
   },
   {
-    "id": "ce",
+    "id": "cc",
     "eventId": "awkdfc",
     "name": "Pohled na loňský a příští rok v DeFi",
     "period": {
@@ -666,7 +648,7 @@
     }
   },
   {
-    "id": "cf",
+    "id": "cd",
     "eventId": "twxrus",
     "name": "Pády bank, selhání fiatu a krypto (TBA)",
     "period": {
@@ -675,7 +657,7 @@
     }
   },
   {
-    "id": "cg",
+    "id": "ce",
     "eventId": "ya8qag",
     "name": "Od nováčka k lovci: Cesta do světa Crypto Airdropů",
     "period": {
@@ -684,7 +666,7 @@
     }
   },
   {
-    "id": "ch",
+    "id": "cf",
     "eventId": "drepkt",
     "name": "7 tipů, jak legálně využít krypto ve vaší firmě",
     "period": {
@@ -693,7 +675,7 @@
     }
   },
   {
-    "id": "ci",
+    "id": "cg",
     "eventId": "9mfgcl",
     "name": "Liberland - první decentralizovaná autonomní vláda",
     "period": {
@@ -702,7 +684,7 @@
     }
   },
   {
-    "id": "cj",
+    "id": "ch",
     "eventId": "m3yc99",
     "name": "Somnium Space",
     "period": {
@@ -711,7 +693,7 @@
     }
   },
   {
-    "id": "ck",
+    "id": "ci",
     "eventId": "eqfufu",
     "name": "Slavnostní zakončení",
     "period": {
@@ -720,7 +702,7 @@
     }
   },
   {
-    "id": "cl",
+    "id": "cj",
     "eventId": "ejwr8f",
     "name": "Vybíráme x86 hardware na stavbu bitcoinového nodu (prezentace)",
     "period": {
@@ -729,7 +711,7 @@
     }
   },
   {
-    "id": "cm",
+    "id": "ck",
     "eventId": "furanp",
     "name": "Vybíráme x86 hardware na stavbu bitcoinového nodu (workshop)",
     "period": {
@@ -738,7 +720,7 @@
     }
   },
   {
-    "id": "cn",
+    "id": "cl",
     "eventId": "l3f8jx",
     "name": "Bankless: web3 media business, aneb business v cryptu",
     "period": {
@@ -747,7 +729,7 @@
     }
   },
   {
-    "id": "co",
+    "id": "cm",
     "eventId": "7ept99",
     "name": "Význam komunít a dôležitosť networkingu (nielen) v krypte",
     "period": {
@@ -756,7 +738,7 @@
     }
   },
   {
-    "id": "cp",
+    "id": "cn",
     "eventId": "3xnjrt",
     "name": "Investuj jako fond",
     "period": {
@@ -765,7 +747,7 @@
     }
   },
   {
-    "id": "cq",
+    "id": "co",
     "eventId": "xlmfqt",
     "name": "Kryptomeditácia pre upokojenie mysle od inflácie fiat peňazí aj volatility bitcoinu",
     "period": {
@@ -774,7 +756,7 @@
     }
   },
   {
-    "id": "cr",
+    "id": "cp",
     "eventId": "789mam",
     "name": "Krypto podnikatelé mezi paragrafy",
     "period": {
@@ -783,7 +765,7 @@
     }
   },
   {
-    "id": "cs",
+    "id": "cq",
     "eventId": "gkplvz",
     "name": "Krypto-samo-regulace: Hacker vs. právník",
     "period": {
@@ -792,16 +774,16 @@
     }
   },
   {
-    "id": "ct",
+    "id": "cr",
     "eventId": "asxb3t",
-    "name": "Kde koupit krypto?",
+    "name": "Kde koupit a prodat krypto?",
     "period": {
       "start": "2023-06-04T15:00:00+02:00",
       "end": "2023-06-04T16:15:00+02:00"
     }
   },
   {
-    "id": "cu",
+    "id": "cs",
     "eventId": "c7v799",
     "name": "Digitální sebeobrana",
     "period": {
@@ -810,7 +792,7 @@
     }
   },
   {
-    "id": "cv",
+    "id": "ct",
     "eventId": "jyzbnf",
     "name": "Authencity.io",
     "period": {
@@ -819,7 +801,7 @@
     }
   },
   {
-    "id": "cw",
+    "id": "cu",
     "eventId": "brrqjb",
     "name": "Live DJs - Downtempo / House Music vibe",
     "period": {
@@ -828,7 +810,7 @@
     }
   },
   {
-    "id": "cx",
+    "id": "cv",
     "eventId": "qsudxa",
     "name": "Sobotní párty by Crypto Portal, Somnium Space & Museverse",
     "period": {
@@ -837,7 +819,7 @@
     }
   },
   {
-    "id": "cy",
+    "id": "cw",
     "eventId": "eut83q",
     "name": "Filosofie dluhu: Jak může DeFi převrátit naruby koncept starý tisíce let",
     "period": {
@@ -846,7 +828,7 @@
     }
   },
   {
-    "id": "cz",
+    "id": "cx",
     "eventId": "977dyd",
     "name": "Security campfire",
     "period": {
@@ -855,7 +837,7 @@
     }
   },
   {
-    "id": "c0",
+    "id": "cy",
     "eventId": "tjj738",
     "name": "Veřejné finance kvadraticky",
     "period": {
@@ -864,7 +846,7 @@
     }
   },
   {
-    "id": "c1",
+    "id": "cz",
     "eventId": "u3mhnw",
     "name": "Polkadot DEXy: MEV ochrana, efektivita a nové trendy v tradingu",
     "period": {
@@ -873,7 +855,7 @@
     }
   },
   {
-    "id": "c2",
+    "id": "c0",
     "eventId": "d3svyq",
     "name": "Somnium Space: NFTs and decentralized asset streaming",
     "period": {
@@ -882,7 +864,7 @@
     }
   },
   {
-    "id": "c3",
+    "id": "c1",
     "eventId": "t3cznp",
     "name": "Jak rozdistribuovat $450k v open-source projektu a u toho vést Web3 startup",
     "period": {
@@ -891,7 +873,7 @@
     }
   },
   {
-    "id": "c4",
+    "id": "c2",
     "eventId": "7uxvpl",
     "name": "NFT standardy na Polkadotu - Kam směřují?",
     "period": {
@@ -900,7 +882,7 @@
     }
   },
   {
-    "id": "c5",
+    "id": "c3",
     "eventId": "eha3zs",
     "name": "Demokratizace treasuries a governance v kryptu - Jak se rovnat velrybám a co můžeme udělat pro úspěšný proposal?",
     "period": {
@@ -909,7 +891,7 @@
     }
   },
   {
-    "id": "c6",
+    "id": "c4",
     "eventId": "tehyka",
     "name": "Ethereum Protocol Fellowship: Jak se stát Ethereum core vývojářem",
     "period": {
@@ -918,7 +900,7 @@
     }
   },
   {
-    "id": "c7",
+    "id": "c5",
     "eventId": "8z37gz",
     "name": "Inovace na poli mostů mezi blockchainy",
     "period": {
@@ -927,7 +909,7 @@
     }
   },
   {
-    "id": "c8",
+    "id": "c6",
     "eventId": "janpcp",
     "name": "Jakou peněženku si vybrat pro interakci na Polkadotu?",
     "period": {
@@ -936,7 +918,7 @@
     }
   },
   {
-    "id": "c9",
+    "id": "c7",
     "eventId": "8hllua",
     "name": "Life in Web3",
     "period": {
@@ -945,7 +927,7 @@
     }
   },
   {
-    "id": "da",
+    "id": "c8",
     "eventId": "cuv8zx",
     "name": "Od Etherea k Polkadotu: Odvážný krok zakladatele k přelomovému projektu",
     "period": {
@@ -954,21 +936,93 @@
     }
   },
   {
-    "id": "db",
+    "id": "c9",
     "eventId": "py8axc",
     "name": "Endgame, finálny stav Ethereum stakingu…🚀",
     "period": {
-      "start": "2023-06-03T17:30:00+02:00",
-      "end": "2023-06-03T18:00:00+02:00"
+      "start": "2023-06-03T15:30:00+02:00",
+      "end": "2023-06-03T16:00:00+02:00"
+    }
+  },
+  {
+    "id": "da",
+    "eventId": "terdhq",
+    "name": "Rozhovor - KryptoVláďa vs. KristiKlaudy (Bankless)",
+    "period": {
+      "start": "2023-06-03T10:00:00+02:00",
+      "end": "2023-06-03T10:30:00+02:00"
+    }
+  },
+  {
+    "id": "db",
+    "eventId": "ttubb7",
+    "name": "Rozhovor - KryptoVláďa vs. Jacob Jelen (Donat.Network)",
+    "period": {
+      "start": "2023-06-03T10:30:00+02:00",
+      "end": "2023-06-03T11:00:00+02:00"
     }
   },
   {
     "id": "dc",
-    "eventId": "u8zmrl",
-    "name": "Coinbureau",
+    "eventId": "qfwvkf",
+    "name": "Rozhovor - KryptoVláďa vs. Jan Kamlach (Chráníme Peníze)",
     "period": {
-      "start": "2023-06-03T16:15:00+02:00",
-      "end": "2023-06-03T17:00:00+02:00"
+      "start": "2023-06-03T11:00:00+02:00",
+      "end": "2023-06-03T11:30:00+02:00"
+    }
+  },
+  {
+    "id": "dd",
+    "eventId": "vvamqh",
+    "name": "Rozhovor - KryptoVláďa vs. Roman Valihrach (Coinmate)",
+    "period": {
+      "start": "2023-06-03T12:00:00+02:00",
+      "end": "2023-06-03T12:30:00+02:00"
+    }
+  },
+  {
+    "id": "de",
+    "eventId": "t3ammc",
+    "name": "Rozhovor - KryptoVláďa vs. Urza (Svobodný přístav)",
+    "period": {
+      "start": "2023-06-03T13:00:00+02:00",
+      "end": "2023-06-03T13:30:00+02:00"
+    }
+  },
+  {
+    "id": "df",
+    "eventId": "f78q7w",
+    "name": "Rozhovor - KryptoVláďa vs. René Darmoš (Moonhill)",
+    "period": {
+      "start": "2023-06-03T14:00:00+02:00",
+      "end": "2023-06-03T14:30:00+02:00"
+    }
+  },
+  {
+    "id": "dg",
+    "eventId": "fve9pt",
+    "name": "Rozhovor - KryptoVláďa vs. Cryptonda (Develit.io)",
+    "period": {
+      "start": "2023-06-03T15:00:00+02:00",
+      "end": "2023-06-03T15:30:00+02:00"
+    }
+  },
+  {
+    "id": "dh",
+    "eventId": "xjgknn",
+    "name": "Rozhovor - KryptoVláďa vs. Lukáš Kovanda (Trinity Bank)",
+    "period": {
+      "start": "2023-06-03T18:30:00+02:00",
+      "end": "2023-06-03T19:00:00+02:00"
+    }
+  },
+  {
+    "id": "di",
+    "eventId": "zwfm8q",
+    "name": "Rozhovor - KryptoVláďa vs. Jakub Jedlinský (Altlift)",
+    "period": {
+      "start": "2023-06-03T15:30:00+02:00",
+      "end": "2023-06-03T16:00:00+02:00"
     }
   }
 ]

@@ -96,8 +96,8 @@
     "pretalxId": "📚 Knihovna"
   },
   {
-    "id": "campfire-outdoor",
-    "name": "🔥 C1 Campfire (venku)",
+    "id": "campfire",
+    "name": "🔥 Campfire",
     "types": [
       "campfire"
     ],
@@ -111,11 +111,11 @@
       "2/10:00-12:00",
       "2/12:30-18:30"
     ],
-    "pretalxId": "🔥 Venkovní campfire"
+    "pretalxId": "🔥 Campfire"
   },
   {
-    "id": "campfire-indoor",
-    "name": "🔥 C2 Campfire (uvnitř)",
+    "id": "studio",
+    "name": "🎤 Studio\"",
     "types": [
       "campfire"
     ],
@@ -129,6 +129,6 @@
       "2/10:00-12:00",
       "2/12:30-18:00"
     ],
-    "pretalxId": "🕯️ Vnitřní campfire"
+    "pretalxId": "🎤 Studio"
   }
 ]

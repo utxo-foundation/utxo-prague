@@ -22,6 +22,16 @@
     "track": "nft"
   },
   {
+    "id": "sbz97r",
+    "type": "talk",
+    "name": "Nejčastější chyby NFT projektů a jak jim předejít",
+    "speakers": [
+      "jan-zibner"
+    ],
+    "duration": 45,
+    "description": "Za poslední roky jsme byli svědky nástupu množství NFT projektů. A ne všechny byly bezchybné. V Artiffine jsme mnohým z nich pomáhali k úspěchu. Jaké jsou ty nejčastější chyby, kterých jsme si přitom všimli a jaká řešení jsme pro ně připravili? Pojďme se na to podívat."
+  },
+  {
     "id": "3tcyng",
     "type": "workshop",
     "name": "Kryptoměnové analogie",
@@ -222,37 +232,6 @@
     "track": "defi"
   },
   {
-    "id": "3vrsv8",
-    "type": "talk",
-    "name": "Bitcoin-back everything!",
-    "speakers": [],
-    "duration": 45,
-    "description": "Mnohí z vás poznajú Bitcoin ako nástroj na rozšírenie osobnej a finančnej slobody a využívajú ho ako peer-to-peer platobný systém, prípadne ako sôsob uchovania hodnôt. Poďme preskúmať ďalšiu možnosť ktorá by mala byť v toolkite každého bitcoinera: bitcoin ako univerzálny kolaterál.",
-    "track": "btc"
-  },
-  {
-    "id": "9gbjwt",
-    "type": "campfire",
-    "name": "Využití NFT při tokenizaci byznysů: proč, jak a k čemu?",
-    "speakers": [
-      "petr-kika"
-    ],
-    "duration": 45,
-    "description": "Co aktuálně stojí v cestě adopci technologie NFT do klasických byznysů? Co technologie NFT byznysům přinese? Ve kterých byznysech je největší potenciál pro využití NFT? Jaký přínos bude mít pro zákazníky? Jaké možnosti NFT přinesou influencerům a creators economy? Proč se už tvůrci nebudou muset bát smazání svých pracně budovaných značek a profilů na sociálních sítích spjatých se ztrátou komunity?",
-    "track": "nft"
-  },
-  {
-    "id": "qulwqp",
-    "type": "lightning",
-    "name": "Tokenizace fanouškovských komunit: využití kryptoměn a NFT ve fotbale",
-    "speakers": [
-      "petr-kika"
-    ],
-    "duration": 10,
-    "description": "Jaký je současný přístup TOP fotbalových klubů? Proč využívají kryptoměny a NFT? Jaký blockchain k tomu využívají? Jaké mobilní aplikace pro fanoušky mají? Co tento přístup přináší samotným fanouškům? Jaké benefity z toho fanoušci mají? Šlo by vylepšit současné řešení?",
-    "track": "nft"
-  },
-  {
     "id": "esllaf",
     "type": "talk",
     "name": "Podvody s Vaší nadějí, jak to poznat a předcházet tomu.",
@@ -270,7 +249,7 @@
       "jacob-jelen"
     ],
     "duration": 45,
-    "description": "Krypto dárcovství láme rekordy i v bear marketu. Podíváme se, jak tento opomíjený use-case pomohl Ukrajině, jaké výhody i peripetie přináší dárcům a neziskovkám. Řekneme si proč tomuto trendu věnovat pozornost a představíme dárcovskou platformu Donat.Network, která pomáhá neziskovkám jít s dobou a adoptovat krypto.",
+    "description": "Přednáška v Češtině! Krypto dárcovství láme rekordy i v bear marketu. Podíváme se, jak tento opomíjený use-case pomohl Ukrajině, jaké výhody i peripetie přináší dárcům a neziskovkám. Řekneme si proč tomuto trendu věnovat pozornost a představíme dárcovskou platformu Donat.Network, která pomáhá neziskovkám jít s dobou a adoptovat krypto.",
     "track": "spolecnost"
   },
   {
@@ -281,7 +260,7 @@
       "jacob-jelen"
     ],
     "duration": 10,
-    "description": "Založil jsem neziskovku a platformu Donat.Network, která podporuje krypto-dárcovství v Česku a bude poskytovat nejjednodušší možný způsob přijímání darů. Asi 20 neziskovek už projevilo zájem být mezi prvními na platformě, která bude spuštěná před UTXO. Chci ji představit v Lightning Talku a pak trochu víc pohovořit i o krypto-filantropii v delším talku nebo campfiru. Dávám na to 2 různé proposaly.",
+    "description": "Donat.Network buduje řešení pro darování kryptoměn, které dobročinným organizacím poskytuje jednoduchý způsob, jak přijímat Bitcoin a další coiny/tokeny, bez jakýchkoliv technických či účetních starostí navíc. Mohou se tak více věnovat plnění své mise!",
     "track": "spolecnost"
   },
   {
@@ -367,19 +346,8 @@
     "speakers": [
       "david-marak"
     ],
-    "duration": 45,
+    "duration": 30,
     "description": "Blockchain je jen část skládanky. Evoluce internetu se děje na všech frontách a je dobré o nich přemýšlet jako o celku. AI, Metaverse a Blockchain nejsou konkurenční témata, ale součást jedné velké vize, kterou bych vám v tomto talk rád představil. Jak může blockchain těžit z momentálního hypu okolo AI..atd",
-    "track": "nft"
-  },
-  {
-    "id": "w7ka7w",
-    "type": "campfire",
-    "name": "NFT jako vstupenka",
-    "speakers": [
-      "antonin-jilek"
-    ],
-    "duration": 20,
-    "description": "",
     "track": "nft"
   },
   {
@@ -439,6 +407,17 @@
     "track": "defi"
   },
   {
+    "id": "audvwc",
+    "type": "lightning",
+    "name": "Asia Web3 Ecosystem Intro",
+    "speakers": [
+      "lc-young"
+    ],
+    "duration": 8,
+    "description": "Overview of the current state of the blockchain industry in Asia\r\n- Popular projects intro (specific features and trends)\r\n- The challenges and opportunities faced by blockchain startups in Asia, and some notable success stories.\r\n- Web3 Marketing in Asia",
+    "track": "spolecnost"
+  },
+  {
     "id": "mph3ab",
     "type": "panel",
     "name": "Impact DAOs",
@@ -469,7 +448,8 @@
     "speakers": [
       "julie-sislerova",
       "jana-kubatova",
-      "jan-brukner"
+      "jan-brukner",
+      "vratislav-pecka"
     ],
     "duration": 75,
     "description": "Jak nové technologie zasahují do umění a vnímání samotné podstaty kreativity? Umělá \"Inteligence\" se učí z obrazů a fotografií umělců z celého světa a přináší neuvěřitelné nástroje pro nový typ tvorby. Virtuální realita umožňuje se hlouběji ponořit do příběhu a prozkoumávat nové digitální světy. Blockchain a NFT vytvořily nekonečný prostor pro sdílení umění.",
@@ -557,12 +537,12 @@
   {
     "id": "jnkqdn",
     "type": "campfire",
-    "name": "KryptoSpace Campfire No. 1",
+    "name": "KryptoSpace Campfire No. 1 w. Daniel Krupka (Coinbureau)",
     "speakers": [
       "petr-lukac"
     ],
     "duration": 45,
-    "description": "Rozhovor se zajímavým hostem: Bitcoin is dead. Nebo není? probereme, co se děje kolem nejstarší kryptoměny, jaké vznikají nové protokoly i zbytečný balast, který je v ekosystému stále objevuje. KryptoSpace bude na UTXO s Martinem Matějkou z FireFish.",
+    "description": "",
     "track": "spolecnost"
   },
   {
@@ -715,7 +695,7 @@
       "radim-kozub"
     ],
     "duration": 50,
-    "description": "Máte (nebo chystáte) byznys spojený s kryptoměnami a nevíte, jak se vás dotkne regulace? Přijďte se poradit s Romanem Valihrachem a Františkem Vinopalem, kteří vám rádi nasdílí své zkušenosti.\r\nRomanova burza Coinmate momentálně vynakládá značné úsilí, na to aby se k nadcházející regulaci připravila. Mají tak momentálně jedno z nejlepších know-how, týkající se tohoto tématu v ČR.",
+    "description": "Máte (nebo chystáte) byznys spojený s kryptoměnami a nevíte, jak se vás dotkne regulace? Přijďte se poradit s Romanem Valihrachem a Františkem Vinopalem, kteří vám rádi nasdílí své zkušenosti.\r\nPřijďte se poradit s Romanem Valihrachem, Františkem Vinopalem a Radimem Kozubem, kteří vám nasdílí své zkušenosti. Moderovat bude Kirill Juran.",
     "track": "kryptopodnikani"
   },
   {
@@ -1012,7 +992,7 @@
   {
     "id": "asxb3t",
     "type": "panel",
-    "name": "Kde koupit krypto?",
+    "name": "Kde koupit a prodat krypto?",
     "speakers": [
       "vladimir-pinker",
       "david-stancel",
@@ -1021,7 +1001,7 @@
       "lea-petrasova"
     ],
     "duration": 75,
-    "description": "\"Kde koupit krypto?\" je panelová diskuze o tom, jak se dají nejlépe pořídit kryptoměny v Česku. Odborníci z oblasti CEX, DEX, peer-to-peer směn a kryptomatů přinášejí různé pohledy a srovnávají výhody a rizika těchto možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně nakupovat kryptoměny. Moderuje David Stancel.",
+    "description": "\"Kde koupit krypto?\" je panelová diskuze o tom, jak se dají nejlépe pořídit kryptoměny v Česku. Odborníci z oblasti CEX, DEX a peer-to-peer směn přinášejí různé pohledy a srovnávají výhody a rizika těchto možností. Přidejte se k diskusi a zjistěte, jak nejbezpečněji a efektivně nakupovat kryptoměny. Moderuje David Stancel.",
     "track": "defi"
   },
   {
@@ -1214,12 +1194,110 @@
     "track": "defi"
   },
   {
-    "id": "u8zmrl",
-    "type": "campfire",
-    "name": "Coinbureau",
-    "speakers": [],
-    "duration": 45,
+    "id": "terdhq",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. KristiKlaudy (Bankless)",
+    "speakers": [
+      "kristina-klaudyova",
+      "vladimir-pinker"
+    ],
+    "duration": 30,
     "description": "",
     "track": "spolecnost"
+  },
+  {
+    "id": "ttubb7",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Jacob Jelen (Donat.Network)",
+    "speakers": [
+      "jacob-jelen",
+      "vladimir-pinker"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "spolecnost"
+  },
+  {
+    "id": "qfwvkf",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Jan Kamlach (Chráníme Peníze)",
+    "speakers": [
+      "vladimir-pinker",
+      "jan-kamlach"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "spolecnost"
+  },
+  {
+    "id": "vvamqh",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Roman Valihrach (Coinmate)",
+    "speakers": [
+      "vladimir-pinker",
+      "roman-valihrach"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "regulace"
+  },
+  {
+    "id": "t3ammc",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Urza (Svobodný přístav)",
+    "speakers": [
+      "vladimir-pinker",
+      "urza"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "spolecnost"
+  },
+  {
+    "id": "f78q7w",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. René Darmoš (Moonhill)",
+    "speakers": [
+      "vladimir-pinker",
+      "rene-darmos"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "defi"
+  },
+  {
+    "id": "fve9pt",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Cryptonda (Develit.io)",
+    "speakers": [
+      "vladimir-pinker",
+      "antonin-jilek"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "nft"
+  },
+  {
+    "id": "xjgknn",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Lukáš Kovanda (Trinity Bank)",
+    "speakers": [
+      "vladimir-pinker",
+      "lukas-kovanda"
+    ],
+    "duration": 30,
+    "description": ""
+  },
+  {
+    "id": "zwfm8q",
+    "type": "other",
+    "name": "Rozhovor - KryptoVláďa vs. Jakub Jedlinský (Altlift)",
+    "speakers": [
+      "jakub-jedlinsky",
+      "vladimir-pinker"
+    ],
+    "duration": 30,
+    "description": "",
+    "track": "defi"
   }
 ]
