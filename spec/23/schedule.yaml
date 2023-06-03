@@ -31,36 +31,36 @@
   event: nxpqtx
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:30:00+02:00'
-    end: '2023-06-03T16:15:00+02:00'
+    start: '2023-06-03T16:00:00+02:00'
+    end: '2023-06-03T16:45:00+02:00'
 - id: af
   stage: knihovna
   event: kklvje
   date: '2023-06-03'
   period:
-    start: '2023-06-03T12:30:00+02:00'
-    end: '2023-06-03T13:45:00+02:00'
+    start: '2023-06-03T13:00:00+02:00'
+    end: '2023-06-03T14:15:00+02:00'
 - id: ag
   stage: lustrovy-sal
   event: 9tjnas
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:00:00+02:00'
-    end: '2023-06-03T10:30:00+02:00'
+    start: '2023-06-03T10:30:00+02:00'
+    end: '2023-06-03T11:00:00+02:00'
 - id: ah
   stage: klenbovy-sal
   event: ehalmb
   date: '2023-06-03'
   period:
-    start: '2023-06-03T17:30:00+02:00'
-    end: '2023-06-03T17:55:00+02:00'
+    start: '2023-06-03T18:00:00+02:00'
+    end: '2023-06-03T18:25:00+02:00'
 - id: ai
   stage: klenbovy-sal
   event: mbezkd
   date: '2023-06-03'
   period:
-    start: '2023-06-03T16:15:00+02:00'
-    end: '2023-06-03T17:00:00+02:00'
+    start: '2023-06-03T16:45:00+02:00'
+    end: '2023-06-03T17:30:00+02:00'
 - id: aj
   stage: rajska-zahrada
   event: jptwkd
@@ -94,8 +94,8 @@
   event: zhascq
   date: '2023-06-03'
   period:
-    start: '2023-06-03T17:30:00+02:00'
-    end: '2023-06-03T18:15:00+02:00'
+    start: '2023-06-03T18:00:00+02:00'
+    end: '2023-06-03T18:45:00+02:00'
 - id: ao
   stage: klenbovy-sal
   event: vjlrdv
@@ -108,8 +108,8 @@
   event: aefxhc
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:45:00+02:00'
-    end: '2023-06-03T12:30:00+02:00'
+    start: '2023-06-03T12:15:00+02:00'
+    end: '2023-06-03T13:00:00+02:00'
 - id: aq
   stage: lustrovy-sal
   event: dy87a8
@@ -122,8 +122,8 @@
   event: 9989p3
   date: '2023-06-03'
   period:
-    start: '2023-06-03T13:30:00+02:00'
-    end: '2023-06-03T14:15:00+02:00'
+    start: '2023-06-03T14:00:00+02:00'
+    end: '2023-06-03T14:45:00+02:00'
 - id: as
   stage: campfire
   event: f3qqdj
@@ -164,15 +164,15 @@
   event: axdm9t
   date: '2023-06-03'
   period:
-    start: '2023-06-03T19:15:00+02:00'
-    end: '2023-06-03T19:25:00+02:00'
+    start: '2023-06-03T19:45:00+02:00'
+    end: '2023-06-03T19:55:00+02:00'
 - id: ay
   stage: klenbovy-sal
   event: p9una9
   date: '2023-06-03'
   period:
-    start: '2023-06-03T17:00:00+02:00'
-    end: '2023-06-03T17:30:00+02:00'
+    start: '2023-06-03T17:30:00+02:00'
+    end: '2023-06-03T18:00:00+02:00'
 - id: az
   stage: campfire
   event: vayuas
@@ -185,57 +185,57 @@
   event: 3ka9gz
   date: '2023-06-03'
   period:
-    start: '2023-06-03T19:30:00+02:00'
-    end: '2023-06-03T19:40:00+02:00'
+    start: '2023-06-03T20:00:00+02:00'
+    end: '2023-06-03T20:10:00+02:00'
 - id: a1
   stage: klenbovy-sal
   event: kkaz8h
   date: '2023-06-03'
   period:
-    start: '2023-06-03T13:15:00+02:00'
-    end: '2023-06-03T14:00:00+02:00'
+    start: '2023-06-03T13:45:00+02:00'
+    end: '2023-06-03T14:30:00+02:00'
 - id: a2
   stage: campfire
   event: rdhxzb
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:00:00+02:00'
-    end: '2023-06-03T10:45:00+02:00'
+    start: '2023-06-03T10:30:00+02:00'
+    end: '2023-06-03T11:15:00+02:00'
 - id: a3
   stage: campfire
   event: 7ydeft
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:15:00+02:00'
-    end: '2023-06-03T16:00:00+02:00'
+    start: '2023-06-03T15:45:00+02:00'
+    end: '2023-06-03T16:30:00+02:00'
 - id: a4
   stage: lustrovy-sal
   event: r3ectq
   date: '2023-06-03'
   period:
-    start: '2023-06-03T18:30:00+02:00'
-    end: '2023-06-03T19:00:00+02:00'
+    start: '2023-06-03T19:00:00+02:00'
+    end: '2023-06-03T19:30:00+02:00'
 - id: a5
   stage: lustrovy-sal
   event: uvv38z
   date: '2023-06-03'
   period:
-    start: '2023-06-03T12:30:00+02:00'
-    end: '2023-06-03T13:15:00+02:00'
+    start: '2023-06-03T13:00:00+02:00'
+    end: '2023-06-03T13:30:00+02:00'
 - id: a6
   stage: klenbovy-sal
   event: ypsb3r
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:00:00+02:00'
-    end: '2023-06-03T14:45:00+02:00'
+    start: '2023-06-03T14:30:00+02:00'
+    end: '2023-06-03T15:15:00+02:00'
 - id: a7
   stage: klenbovy-sal
   event: 97qelm
   date: '2023-06-03'
   period:
-    start: '2023-06-03T12:30:00+02:00'
-    end: '2023-06-03T13:15:00+02:00'
+    start: '2023-06-03T13:00:00+02:00'
+    end: '2023-06-03T13:45:00+02:00'
 - id: a8
   stage: lustrovy-sal
   event: h8zecs
@@ -255,565 +255,558 @@
   event: xpflwb
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:00:00+02:00'
-    end: '2023-06-03T14:45:00+02:00'
+    start: '2023-06-03T14:30:00+02:00'
+    end: '2023-06-03T15:15:00+02:00'
 - id: bb
-  stage: lustrovy-sal
-  event: audvwc
-  date: '2023-06-03'
-  period:
-    start: '2023-06-03T19:45:00+02:00'
-    end: '2023-06-03T19:53:00+02:00'
-- id: bc
   stage: lustrovy-sal
   event: mph3ab
   date: '2023-06-03'
   period:
-    start: '2023-06-03T16:15:00+02:00'
-    end: '2023-06-03T17:15:00+02:00'
-- id: bd
+    start: '2023-06-03T16:45:00+02:00'
+    end: '2023-06-03T17:45:00+02:00'
+- id: bc
   stage: klenbovy-sal
   event: zcayjb
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:00:00+02:00'
     end: '2023-06-04T10:45:00+02:00'
-- id: be
+- id: bd
   stage: rajska-zahrada
   event: 7srlpr
   date: '2023-06-03'
   period:
-    start: '2023-06-03T16:15:00+02:00'
-    end: '2023-06-03T17:30:00+02:00'
-- id: bf
+    start: '2023-06-03T16:45:00+02:00'
+    end: '2023-06-03T18:00:00+02:00'
+- id: be
   stage: knihovna
   event: vur3sz
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:00:00+02:00'
-    end: '2023-06-03T11:15:00+02:00'
-- id: bg
+    start: '2023-06-03T10:30:00+02:00'
+    end: '2023-06-03T11:45:00+02:00'
+- id: bf
   stage: lustrovy-sal
   event: vu7bua
   date: '2023-06-04'
   period:
     start: '2023-06-04T14:30:00+02:00'
     end: '2023-06-04T15:00:00+02:00'
-- id: bh
+- id: bg
   stage: campfire
   event: gdv8qy
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:35:00+02:00'
-    end: '2023-06-03T12:20:00+02:00'
-- id: bi
+    start: '2023-06-03T12:00:00+02:00'
+    end: '2023-06-03T12:45:00+02:00'
+- id: bh
   stage: klenbovy-sal
   event: tvzbz7
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:45:00+02:00'
-    end: '2023-06-03T12:30:00+02:00'
-- id: bj
+    start: '2023-06-03T12:15:00+02:00'
+    end: '2023-06-03T13:00:00+02:00'
+- id: bi
   stage: lustrovy-sal
   event: qh73vp
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:00:00+02:00'
     end: '2023-06-04T10:45:00+02:00'
-- id: bk
+- id: bj
   stage: campfire
   event: p3qrwv
   date: '2023-06-03'
   period:
-    start: '2023-06-03T17:00:00+02:00'
-    end: '2023-06-03T17:45:00+02:00'
-- id: bl
+    start: '2023-06-03T17:30:00+02:00'
+    end: '2023-06-03T18:15:00+02:00'
+- id: bk
   stage: rajska-zahrada
   event: 8hyshm
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:45:00+02:00'
-    end: '2023-06-03T11:05:00+02:00'
-- id: bm
+    start: '2023-06-03T11:00:00+02:00'
+    end: '2023-06-03T11:30:00+02:00'
+- id: bl
   stage: campfire
   event: jnkqdn
   date: '2023-06-03'
   period:
-    start: '2023-06-03T16:00:00+02:00'
-    end: '2023-06-03T16:45:00+02:00'
-- id: bn
+    start: '2023-06-03T16:30:00+02:00'
+    end: '2023-06-03T17:15:00+02:00'
+- id: bm
   stage: klenbovy-sal
   event: zuyrh7
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:00:00+02:00'
-    end: '2023-06-03T11:45:00+02:00'
-- id: bo
+    start: '2023-06-03T11:30:00+02:00'
+    end: '2023-06-03T12:15:00+02:00'
+- id: bn
   stage: knihovna
   event: 8jm7la
   date: '2023-06-03'
   period:
-    start: '2023-06-03T13:45:00+02:00'
-    end: '2023-06-03T14:30:00+02:00'
-- id: bp
+    start: '2023-06-03T14:15:00+02:00'
+    end: '2023-06-03T15:00:00+02:00'
+- id: bo
   stage: klenbovy-sal
   event: gppvnd
   date: '2023-06-04'
   period:
     start: '2023-06-04T15:45:00+02:00'
     end: '2023-06-04T16:30:00+02:00'
-- id: bq
+- id: bp
   stage: knihovna
   event: xhd9rq
   date: '2023-06-03'
   period:
-    start: '2023-06-03T16:15:00+02:00'
-    end: '2023-06-03T17:30:00+02:00'
-- id: br
+    start: '2023-06-03T16:45:00+02:00'
+    end: '2023-06-03T18:00:00+02:00'
+- id: bq
   stage: knihovna
   event: 7xm3jk
   date: '2023-06-03'
   period:
-    start: '2023-06-03T17:30:00+02:00'
-    end: '2023-06-03T18:45:00+02:00'
-- id: bs
+    start: '2023-06-03T18:00:00+02:00'
+    end: '2023-06-03T19:15:00+02:00'
+- id: br
   stage: lustrovy-sal
   event: u97gem
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:30:00+02:00'
-    end: '2023-06-03T11:00:00+02:00'
-- id: bt
+    start: '2023-06-03T11:00:00+02:00'
+    end: '2023-06-03T11:30:00+02:00'
+- id: bs
   stage: lustrovy-sal
   event: trkts9
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:45:00+02:00'
-    end: '2023-06-03T15:30:00+02:00'
-- id: bu
+    start: '2023-06-03T15:15:00+02:00'
+    end: '2023-06-03T16:00:00+02:00'
+- id: bt
   stage: campfire
   event: v7fhcj
   date: '2023-06-04'
   period:
     start: '2023-06-04T15:30:00+02:00'
     end: '2023-06-04T16:15:00+02:00'
-- id: bv
+- id: bu
   stage: klenbovy-sal
   event: nuqnnr
   date: '2023-06-04'
   period:
     start: '2023-06-04T14:30:00+02:00'
     end: '2023-06-04T15:00:00+02:00'
-- id: bw
+- id: bv
   stage: rajska-zahrada
   event: a3cvwf
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:00:00+02:00'
     end: '2023-06-04T10:45:00+02:00'
-- id: bx
+- id: bw
   stage: rajska-zahrada
   event: wnuwjq
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:15:00+02:00'
-    end: '2023-06-03T12:00:00+02:00'
-- id: by
+    start: '2023-06-03T11:30:00+02:00'
+    end: '2023-06-03T12:15:00+02:00'
+- id: bx
   stage: lustrovy-sal
   event: 7yrec7
   date: '2023-06-03'
   period:
-    start: '2023-06-03T13:15:00+02:00'
-    end: '2023-06-03T14:00:00+02:00'
-- id: bz
+    start: '2023-06-03T13:45:00+02:00'
+    end: '2023-06-03T14:30:00+02:00'
+- id: by
   stage: lustrovy-sal
   event: 999mvd
   date: '2023-06-04'
   period:
     start: '2023-06-04T12:15:00+02:00'
     end: '2023-06-04T13:00:00+02:00'
-- id: b0
+- id: bz
   stage: rajska-zahrada
   event: k3clmy
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:00:00+02:00'
-    end: '2023-06-03T14:50:00+02:00'
-- id: b1
+    start: '2023-06-03T14:30:00+02:00'
+    end: '2023-06-03T15:20:00+02:00'
+- id: b0
   stage: rajska-zahrada
   event: kedt7t
   date: '2023-06-03'
   period:
     start: '2023-06-03T10:00:00+02:00'
     end: '2023-06-03T10:45:00+02:00'
-- id: b2
+- id: b1
   stage: rajska-zahrada
   event: tlx7am
   date: '2023-06-03'
   period:
-    start: '2023-06-03T12:00:00+02:00'
-    end: '2023-06-03T12:45:00+02:00'
-- id: b3
+    start: '2023-06-03T12:30:00+02:00'
+    end: '2023-06-03T13:15:00+02:00'
+- id: b2
   stage: campfire
   event: gbdhzk
   date: '2023-06-03'
   period:
-    start: '2023-06-03T12:30:00+02:00'
-    end: '2023-06-03T13:15:00+02:00'
-- id: b4
+    start: '2023-06-03T13:00:00+02:00'
+    end: '2023-06-03T13:45:00+02:00'
+- id: b3
   stage: rajska-zahrada
   event: rmnnhb
   date: '2023-06-03'
   period:
     start: '2023-06-03T09:45:00+02:00'
     end: '2023-06-03T10:00:00+02:00'
-- id: b5
+- id: b4
   stage: knihovna
   event: jl7hct
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:30:00+02:00'
-    end: '2023-06-03T16:15:00+02:00'
-- id: b6
+    start: '2023-06-03T16:00:00+02:00'
+    end: '2023-06-03T16:45:00+02:00'
+- id: b5
   stage: rajska-zahrada
   event: wy9dhd
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:00:00+02:00'
-    end: '2023-06-03T16:15:00+02:00'
-- id: b7
+    start: '2023-06-03T15:30:00+02:00'
+    end: '2023-06-03T16:45:00+02:00'
+- id: b6
   stage: knihovna
   event: lqhknm
   date: '2023-06-04'
   period:
     start: '2023-06-04T14:00:00+02:00'
     end: '2023-06-04T15:00:00+02:00'
-- id: b8
+- id: b7
   stage: klenbovy-sal
   event: 3h9wvy
   date: '2023-06-04'
   period:
     start: '2023-06-04T17:15:00+02:00'
     end: '2023-06-04T17:40:00+02:00'
-- id: b9
+- id: b8
   stage: knihovna
   event: uhfqnn
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:15:00+02:00'
-    end: '2023-06-03T12:30:00+02:00'
-- id: ca
+    start: '2023-06-03T11:45:00+02:00'
+    end: '2023-06-03T13:00:00+02:00'
+- id: b9
   stage: lustrovy-sal
   event: bwzanq
   date: '2023-06-04'
   period:
     start: '2023-06-04T11:30:00+02:00'
     end: '2023-06-04T12:15:00+02:00'
-- id: cb
+- id: ca
   stage: lustrovy-sal
   event: apazac
   date: '2023-06-03'
   period:
     start: '2023-06-03T20:15:00+02:00'
     end: '2023-06-03T21:00:00+02:00'
-- id: cc
+- id: cb
   stage: rajska-zahrada
   event: awkdfc
   date: '2023-06-04'
   period:
     start: '2023-06-04T13:00:00+02:00'
     end: '2023-06-04T13:40:00+02:00'
-- id: cd
+- id: cc
   stage: rajska-zahrada
   event: twxrus
   date: '2023-06-03'
   period:
-    start: '2023-06-03T17:30:00+02:00'
-    end: '2023-06-03T18:15:00+02:00'
-- id: ce
+    start: '2023-06-03T18:00:00+02:00'
+    end: '2023-06-03T18:45:00+02:00'
+- id: cd
   stage: campfire
   event: ya8qag
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:00:00+02:00'
     end: '2023-06-04T10:45:00+02:00'
-- id: cf
+- id: ce
   stage: knihovna
   event: drepkt
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:00:00+02:00'
     end: '2023-06-04T11:15:00+02:00'
-- id: cg
+- id: cf
   stage: rajska-zahrada
   event: 9mfgcl
   date: '2023-06-04'
   period:
     start: '2023-06-04T14:00:00+02:00'
     end: '2023-06-04T14:45:00+02:00'
-- id: ch
+- id: cg
   stage: rajska-zahrada
   event: m3yc99
   date: '2023-06-03'
   period:
-    start: '2023-06-03T13:00:00+02:00'
-    end: '2023-06-03T13:45:00+02:00'
-- id: ci
+    start: '2023-06-03T13:30:00+02:00'
+    end: '2023-06-03T14:15:00+02:00'
+- id: ch
   stage: rajska-zahrada
   event: eqfufu
   date: '2023-06-04'
   period:
     start: '2023-06-04T18:00:00+02:00'
     end: '2023-06-04T18:15:00+02:00'
-- id: cj
+- id: ci
   stage: klenbovy-sal
   event: ejwr8f
   date: '2023-06-04'
   period:
     start: '2023-06-04T11:30:00+02:00'
     end: '2023-06-04T12:15:00+02:00'
-- id: ck
+- id: cj
   stage: knihovna
   event: furanp
   date: '2023-06-04'
   period:
     start: '2023-06-04T13:00:00+02:00'
     end: '2023-06-04T14:00:00+02:00'
-- id: cl
+- id: ck
   stage: campfire
   event: l3f8jx
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:15:00+02:00'
-    end: '2023-06-03T15:15:00+02:00'
-- id: cm
+    start: '2023-06-03T14:45:00+02:00'
+    end: '2023-06-03T15:45:00+02:00'
+- id: cl
   stage: campfire
   event: 7ept99
   date: '2023-06-04'
   period:
     start: '2023-06-04T12:15:00+02:00'
     end: '2023-06-04T13:00:00+02:00'
-- id: cn
+- id: cm
   stage: klenbovy-sal
   event: 3xnjrt
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:45:00+02:00'
-    end: '2023-06-03T15:20:00+02:00'
-- id: co
+    start: '2023-06-03T15:15:00+02:00'
+    end: '2023-06-03T15:50:00+02:00'
+- id: cn
   stage: knihovna
   event: xlmfqt
   date: '2023-06-04'
   period:
     start: '2023-06-04T09:00:00+02:00'
     end: '2023-06-04T10:00:00+02:00'
-- id: cp
+- id: co
   stage: lustrovy-sal
   event: 789mam
   date: '2023-06-04'
   period:
     start: '2023-06-04T15:45:00+02:00'
     end: '2023-06-04T16:30:00+02:00'
-- id: cq
+- id: cp
   stage: campfire
   event: gkplvz
   date: '2023-06-04'
   period:
     start: '2023-06-04T11:15:00+02:00'
     end: '2023-06-04T12:15:00+02:00'
-- id: cr
+- id: cq
   stage: rajska-zahrada
   event: asxb3t
   date: '2023-06-04'
   period:
     start: '2023-06-04T15:00:00+02:00'
     end: '2023-06-04T16:15:00+02:00'
-- id: cs
+- id: cr
   stage: knihovna
   event: c7v799
   date: '2023-06-04'
   period:
     start: '2023-06-04T16:00:00+02:00'
     end: '2023-06-04T17:15:00+02:00'
-- id: ct
+- id: cs
   stage: lustrovy-sal
   event: jyzbnf
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:00:00+02:00'
-    end: '2023-06-03T11:45:00+02:00'
-- id: cu
+    start: '2023-06-03T11:30:00+02:00'
+    end: '2023-06-03T12:15:00+02:00'
+- id: ct
   stage: campfire
   event: brrqjb
   date: '2023-06-03'
   period:
-    start: '2023-06-03T18:00:00+02:00'
-    end: '2023-06-03T20:00:00+02:00'
-- id: cv
+    start: '2023-06-03T18:15:00+02:00'
+    end: '2023-06-03T20:15:00+02:00'
+- id: cu
   stage: rajska-zahrada
   event: qsudxa
   date: '2023-06-03'
   period:
     start: '2023-06-03T21:05:00+02:00'
     end: '2023-06-04T01:30:00+02:00'
-- id: cw
+- id: cv
   stage: lustrovy-sal
   event: eut83q
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:45:00+02:00'
     end: '2023-06-04T11:30:00+02:00'
-- id: cx
+- id: cw
   stage: campfire
   event: 977dyd
   date: '2023-06-04'
   period:
     start: '2023-06-04T10:45:00+02:00'
     end: '2023-06-04T11:15:00+02:00'
-- id: cy
+- id: cx
   stage: klenbovy-sal
   event: tjj738
   date: '2023-06-04'
   period:
     start: '2023-06-04T15:00:00+02:00'
     end: '2023-06-04T15:45:00+02:00'
-- id: cz
+- id: cy
   stage: klenbovy-sal
   event: u3mhnw
   date: '2023-06-04'
   period:
     start: '2023-06-04T13:45:00+02:00'
     end: '2023-06-04T14:30:00+02:00'
-- id: c0
+- id: cz
   stage: knihovna
   event: d3svyq
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:30:00+02:00'
-    end: '2023-06-03T15:30:00+02:00'
-- id: c1
+    start: '2023-06-03T15:00:00+02:00'
+    end: '2023-06-03T16:00:00+02:00'
+- id: c0
   stage: rajska-zahrada
   event: t3cznp
   date: '2023-06-03'
   period:
-    start: '2023-06-03T18:30:00+02:00'
-    end: '2023-06-03T18:55:00+02:00'
-- id: c2
+    start: '2023-06-03T19:00:00+02:00'
+    end: '2023-06-03T19:25:00+02:00'
+- id: c1
   stage: klenbovy-sal
   event: 7uxvpl
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:00:00+02:00'
-    end: '2023-06-03T10:25:00+02:00'
-- id: c3
+    start: '2023-06-03T10:30:00+02:00'
+    end: '2023-06-03T10:55:00+02:00'
+- id: c2
   stage: campfire
   event: eha3zs
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:45:00+02:00'
-    end: '2023-06-03T11:15:00+02:00'
-- id: c4
+    start: '2023-06-03T11:15:00+02:00'
+    end: '2023-06-03T11:45:00+02:00'
+- id: c3
   stage: rajska-zahrada
   event: tehyka
   date: '2023-06-04'
   period:
     start: '2023-06-04T17:30:00+02:00'
     end: '2023-06-04T17:50:00+02:00'
-- id: c5
+- id: c4
   stage: campfire
   event: 8z37gz
   date: '2023-06-04'
   period:
     start: '2023-06-04T15:00:00+02:00'
     end: '2023-06-04T15:30:00+02:00'
-- id: c6
+- id: c5
   stage: knihovna
   event: janpcp
   date: '2023-06-03'
   period:
-    start: '2023-06-03T18:45:00+02:00'
-    end: '2023-06-03T19:45:00+02:00'
-- id: c7
+    start: '2023-06-03T19:15:00+02:00'
+    end: '2023-06-03T20:15:00+02:00'
+- id: c6
   stage: klenbovy-sal
   event: 8hllua
   date: '2023-06-04'
   period:
     start: '2023-06-04T16:30:00+02:00'
     end: '2023-06-04T17:10:00+02:00'
-- id: c8
+- id: c7
   stage: klenbovy-sal
   event: cuv8zx
   date: '2023-06-03'
   period:
-    start: '2023-06-03T10:30:00+02:00'
-    end: '2023-06-03T11:00:00+02:00'
-- id: c9
+    start: '2023-06-03T11:00:00+02:00'
+    end: '2023-06-03T11:30:00+02:00'
+- id: c8
   stage: lustrovy-sal
   event: py8axc
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:30:00+02:00'
-    end: '2023-06-03T16:00:00+02:00'
-- id: da
+    start: '2023-06-03T16:00:00+02:00'
+    end: '2023-06-03T16:30:00+02:00'
+- id: c9
   stage: studio
   event: terdhq
   date: '2023-06-03'
   period:
     start: '2023-06-03T10:00:00+02:00'
     end: '2023-06-03T10:30:00+02:00'
-- id: db
+- id: da
   stage: studio
   event: ttubb7
   date: '2023-06-03'
   period:
     start: '2023-06-03T10:30:00+02:00'
     end: '2023-06-03T11:00:00+02:00'
-- id: dc
+- id: db
   stage: studio
   event: qfwvkf
   date: '2023-06-03'
   period:
-    start: '2023-06-03T11:00:00+02:00'
-    end: '2023-06-03T11:30:00+02:00'
-- id: dd
+    start: '2023-06-03T11:30:00+02:00'
+    end: '2023-06-03T12:00:00+02:00'
+- id: dc
   stage: studio
   event: vvamqh
   date: '2023-06-03'
   period:
-    start: '2023-06-03T12:00:00+02:00'
-    end: '2023-06-03T12:30:00+02:00'
-- id: de
+    start: '2023-06-03T12:30:00+02:00'
+    end: '2023-06-03T13:00:00+02:00'
+- id: dd
   stage: studio
   event: t3ammc
   date: '2023-06-03'
   period:
-    start: '2023-06-03T13:00:00+02:00'
-    end: '2023-06-03T13:30:00+02:00'
-- id: df
+    start: '2023-06-03T13:30:00+02:00'
+    end: '2023-06-03T14:00:00+02:00'
+- id: de
   stage: studio
   event: f78q7w
   date: '2023-06-03'
   period:
-    start: '2023-06-03T14:00:00+02:00'
-    end: '2023-06-03T14:30:00+02:00'
-- id: dg
+    start: '2023-06-03T14:30:00+02:00'
+    end: '2023-06-03T15:00:00+02:00'
+- id: df
   stage: studio
   event: fve9pt
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:00:00+02:00'
-    end: '2023-06-03T15:30:00+02:00'
-- id: dh
+    start: '2023-06-03T15:30:00+02:00'
+    end: '2023-06-03T16:00:00+02:00'
+- id: dg
   stage: studio
   event: xjgknn
   date: '2023-06-03'
   period:
-    start: '2023-06-03T18:30:00+02:00'
-    end: '2023-06-03T19:00:00+02:00'
-- id: di
+    start: '2023-06-03T19:00:00+02:00'
+    end: '2023-06-03T19:30:00+02:00'
+- id: dh
   stage: studio
   event: zwfm8q
   date: '2023-06-03'
   period:
-    start: '2023-06-03T15:30:00+02:00'
-    end: '2023-06-03T16:00:00+02:00'
+    start: '2023-06-03T16:00:00+02:00'
+    end: '2023-06-03T16:30:00+02:00'
