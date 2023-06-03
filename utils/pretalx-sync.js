@@ -71,8 +71,7 @@ const commands = {
       if (item.track) {
         i.track = findTrack(item.track.en);
       }
-      out.push(i);
-      if (item.slot) {
+      if (item.slot && item.slot.room) {
         outSchedule.push({
           id: genId(outSchedule.map((o) => o.id)),
           stage: findStage(item.slot.room.en),
