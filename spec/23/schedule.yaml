@@ -73,8 +73,8 @@
   event: 3mwenq
   date: '2023-06-04'
   period:
-    start: '2023-06-04T13:45:00+02:00'
-    end: '2023-06-04T14:30:00+02:00'
+    start: '2023-06-04T13:00:00+02:00'
+    end: '2023-06-04T13:45:00+02:00'
 - id: al
   stage: rajska-zahrada
   event: ae3sxw
@@ -87,8 +87,8 @@
   event: wke3pb
   date: '2023-06-04'
   period:
-    start: '2023-06-04T13:00:00+02:00'
-    end: '2023-06-04T13:45:00+02:00'
+    start: '2023-06-04T13:45:00+02:00'
+    end: '2023-06-04T14:30:00+02:00'
 - id: an
   stage: lustrovy-sal
   event: zhascq
@@ -311,8 +311,8 @@
   event: qh73vp
   date: '2023-06-04'
   period:
-    start: '2023-06-04T10:00:00+02:00'
-    end: '2023-06-04T10:45:00+02:00'
+    start: '2023-06-04T10:15:00+02:00'
+    end: '2023-06-04T11:00:00+02:00'
 - id: bj
   stage: campfire
   event: p3qrwv
@@ -423,7 +423,7 @@
   event: 999mvd
   date: '2023-06-04'
   period:
-    start: '2023-06-04T12:15:00+02:00'
+    start: '2023-06-04T12:30:00+02:00'
     end: '2023-06-04T13:00:00+02:00'
 - id: bz
   stage: rajska-zahrada
@@ -500,8 +500,8 @@
   event: bwzanq
   date: '2023-06-04'
   period:
-    start: '2023-06-04T11:30:00+02:00'
-    end: '2023-06-04T12:15:00+02:00'
+    start: '2023-06-04T11:45:00+02:00'
+    end: '2023-06-04T12:30:00+02:00'
 - id: ca
   stage: lustrovy-sal
   event: apazac
@@ -521,8 +521,8 @@
   event: twxrus
   date: '2023-06-03'
   period:
-    start: '2023-06-03T18:00:00+02:00'
-    end: '2023-06-03T18:45:00+02:00'
+    start: '2023-06-03T18:15:00+02:00'
+    end: '2023-06-03T19:00:00+02:00'
 - id: cd
   stage: campfire
   event: ya8qag
@@ -654,8 +654,8 @@
   event: eut83q
   date: '2023-06-04'
   period:
-    start: '2023-06-04T10:45:00+02:00'
-    end: '2023-06-04T11:30:00+02:00'
+    start: '2023-06-04T11:00:00+02:00'
+    end: '2023-06-04T11:45:00+02:00'
 - id: cw
   stage: campfire
   event: 977dyd
@@ -689,8 +689,8 @@
   event: t3cznp
   date: '2023-06-03'
   period:
-    start: '2023-06-03T19:00:00+02:00'
-    end: '2023-06-03T19:25:00+02:00'
+    start: '2023-06-03T19:15:00+02:00'
+    end: '2023-06-03T19:40:00+02:00'
 - id: c1
   stage: klenbovy-sal
   event: 7uxvpl
@@ -801,8 +801,8 @@
   event: xjgknn
   date: '2023-06-03'
   period:
-    start: '2023-06-03T19:00:00+02:00'
-    end: '2023-06-03T19:30:00+02:00'
+    start: '2023-06-03T19:30:00+02:00'
+    end: '2023-06-03T20:00:00+02:00'
 - id: dh
   stage: studio
   event: zwfm8q
