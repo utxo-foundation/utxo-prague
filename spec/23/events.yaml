@@ -30,19 +30,6 @@
     všechny byly bezchybné. V Artiffine jsme mnohým z nich pomáhali k úspěchu.
     Jaké jsou ty nejčastější chyby, kterých jsme si přitom všimli a jaká řešení
     jsme pro ně připravili? Pojďme se na to podívat.
-- id: 3tcyng
-  type: workshop
-  name: Kryptoměnové analogie
-  speakers:
-    - dominika-v
-  duration: 60
-  description: >-
-    Cílem jsou začátečníci, kteří nerozumí technickým částem kryptoměn. Pomocí
-    hravých analogií a příkladů si naživo vyzkoušíme třeba to, jak funguje
-    hashování nebo jak probíhá Proof of work na Bitcoinu. Díky vtipným
-    přirovnáním si budete moci představit ty technické a abstraktní věci, které
-    si o kryptu všichni čtete.
-  track: zaklady
 - id: nxpqtx
   type: talk
   name: 'Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?'
