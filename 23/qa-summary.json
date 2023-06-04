@@ -28,15 +28,6 @@
   },
   {
     "id": "ad",
-    "eventId": "3tcyng",
-    "name": "Kryptoměnové analogie",
-    "period": {
-      "start": "2023-06-04T15:00:00+02:00",
-      "end": "2023-06-04T16:00:00+02:00"
-    }
-  },
-  {
-    "id": "ae",
     "eventId": "nxpqtx",
     "name": "Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?",
     "period": {
@@ -45,7 +36,7 @@
     }
   },
   {
-    "id": "af",
+    "id": "ae",
     "eventId": "kklvje",
     "name": "Jak používat bitcoin",
     "period": {
@@ -54,7 +45,7 @@
     }
   },
   {
-    "id": "ag",
+    "id": "af",
     "eventId": "9tjnas",
     "name": "Bitcoin jako pojistka proti geopolitickým rizikům.",
     "period": {
@@ -63,7 +54,7 @@
     }
   },
   {
-    "id": "ah",
+    "id": "ag",
     "eventId": "ehalmb",
     "name": "Rok na Solaně pohledem auditora",
     "period": {
@@ -72,7 +63,7 @@
     }
   },
   {
-    "id": "ai",
+    "id": "ah",
     "eventId": "mbezkd",
     "name": "Auditem bezpečnost nezačíná ani nekončí",
     "period": {
@@ -81,7 +72,7 @@
     }
   },
   {
-    "id": "aj",
+    "id": "ai",
     "eventId": "jptwkd",
     "name": "Holky v Metaverse",
     "period": {
@@ -90,7 +81,7 @@
     }
   },
   {
-    "id": "ak",
+    "id": "aj",
     "eventId": "3mwenq",
     "name": "Vnímání světa kryptoměn z pozice institucionálního investora v roce 2023 (po pádu FTX)",
     "period": {
@@ -99,7 +90,7 @@
     }
   },
   {
-    "id": "al",
+    "id": "ak",
     "eventId": "ae3sxw",
     "name": "Trading kryptoměn",
     "period": {
@@ -108,7 +99,7 @@
     }
   },
   {
-    "id": "am",
+    "id": "al",
     "eventId": "wke3pb",
     "name": "Secret Network a soukromí jako služba",
     "period": {
@@ -117,7 +108,7 @@
     }
   },
   {
-    "id": "an",
+    "id": "am",
     "eventId": "zhascq",
     "name": "Nejčastější chyby blockchainových start-upů. Na co si dát pozor při podnikání v kryptu?",
     "period": {
@@ -126,7 +117,7 @@
     }
   },
   {
-    "id": "ao",
+    "id": "an",
     "eventId": "vjlrdv",
     "name": "Krypto a nemovitosti",
     "period": {
@@ -135,7 +126,7 @@
     }
   },
   {
-    "id": "ap",
+    "id": "ao",
     "eventId": "aefxhc",
     "name": "Tokenomics design aneb Jak nedopadnout jako Luna a Celsius",
     "period": {
@@ -144,7 +135,7 @@
     }
   },
   {
-    "id": "aq",
+    "id": "ap",
     "eventId": "dy87a8",
     "name": "Aktuální ekonomická situace a její vliv na cenu jednotlivých investičních aktiv",
     "period": {
@@ -153,7 +144,7 @@
     }
   },
   {
-    "id": "ar",
+    "id": "aq",
     "eventId": "9989p3",
     "name": "Bitcoin maximalismus - feature nebo bug?",
     "period": {
@@ -162,7 +153,7 @@
     }
   },
   {
-    "id": "as",
+    "id": "ar",
     "eventId": "f3qqdj",
     "name": "Jak se bránit nocoinerům",
     "period": {
@@ -171,7 +162,7 @@
     }
   },
   {
-    "id": "at",
+    "id": "as",
     "eventId": "3y8esm",
     "name": "KryptoVláďa komunitní campfire",
     "period": {
@@ -180,7 +171,7 @@
     }
   },
   {
-    "id": "au",
+    "id": "at",
     "eventId": "e3gt7v",
     "name": "Uniswap V3 - opravdové DeFi",
     "period": {
@@ -189,7 +180,7 @@
     }
   },
   {
-    "id": "av",
+    "id": "au",
     "eventId": "esllaf",
     "name": "Podvody s Vaší nadějí, jak to poznat a předcházet tomu.",
     "period": {
@@ -198,7 +189,7 @@
     }
   },
   {
-    "id": "aw",
+    "id": "av",
     "eventId": "7lxjzl",
     "name": "Krypto-filantropie roste i v bear-marketu. Proč jí věnovat pozornost?",
     "period": {
@@ -207,7 +198,7 @@
     }
   },
   {
-    "id": "ay",
+    "id": "ax",
     "eventId": "p9una9",
     "name": "Koruna česká na blockchainu (CZK stablecoin) po roce",
     "period": {
@@ -216,7 +207,7 @@
     }
   },
   {
-    "id": "az",
+    "id": "ay",
     "eventId": "vayuas",
     "name": "Jak na rizika DeFi půjček a APUS.finance AMA",
     "period": {
@@ -225,7 +216,7 @@
     }
   },
   {
-    "id": "a1",
+    "id": "a0",
     "eventId": "kkaz8h",
     "name": "DIGITÁLNÍ BUDOUCNOST: Bez blockchainu jsme na cestě k ztrátě svobody...",
     "period": {
@@ -234,7 +225,7 @@
     }
   },
   {
-    "id": "a2",
+    "id": "a1",
     "eventId": "rdhxzb",
     "name": "Šmíráci - co o vás sbírají web3 a finanční aplikace",
     "period": {
@@ -243,7 +234,7 @@
     }
   },
   {
-    "id": "a3",
+    "id": "a2",
     "eventId": "7ydeft",
     "name": "Metaverse: budoucnost nebo slepá ulička?",
     "period": {
@@ -252,7 +243,7 @@
     }
   },
   {
-    "id": "a4",
+    "id": "a3",
     "eventId": "r3ectq",
     "name": "Jak přijít o peníze - slepé podepisování smart kontraktů",
     "period": {
@@ -261,7 +252,7 @@
     }
   },
   {
-    "id": "a5",
+    "id": "a4",
     "eventId": "uvv38z",
     "name": "VR/AR + AI + Blockchain = <3",
     "period": {
@@ -270,7 +261,7 @@
     }
   },
   {
-    "id": "a6",
+    "id": "a5",
     "eventId": "ypsb3r",
     "name": "DIGITALNÍ IDENTITA: minulost, současnost, budoucnost.",
     "period": {
@@ -279,7 +270,7 @@
     }
   },
   {
-    "id": "a7",
+    "id": "a6",
     "eventId": "97qelm",
     "name": "Trhy, firmy, stát a... blockchain? Blockchain jako nový způsob lidské spolupráce",
     "period": {
@@ -288,7 +279,7 @@
     }
   },
   {
-    "id": "a8",
+    "id": "a7",
     "eventId": "h8zecs",
     "name": "Být normální",
     "period": {
@@ -297,7 +288,7 @@
     }
   },
   {
-    "id": "a9",
+    "id": "a8",
     "eventId": "xvpt9c",
     "name": "Jak na POAP: Naučte se tvořit a distribuovat vlastní digitální tokeny",
     "period": {
@@ -306,7 +297,7 @@
     }
   },
   {
-    "id": "ba",
+    "id": "a9",
     "eventId": "xpflwb",
     "name": "Dolarové stablecoiny: existuje decentralizovaná alternativa?",
     "period": {

@@ -2091,17 +2091,6 @@
         "description": "Za poslední roky jsme byli svědky nástupu množství NFT projektů. A ne všechny byly bezchybné. V Artiffine jsme mnohým z nich pomáhali k úspěchu. Jaké jsou ty nejčastější chyby, kterých jsme si přitom všimli a jaká řešení jsme pro ně připravili? Pojďme se na to podívat."
       },
       {
-        "id": "3tcyng",
-        "type": "workshop",
-        "name": "Kryptoměnové analogie",
-        "speakers": [
-          "dominika-v"
-        ],
-        "duration": 60,
-        "description": "Cílem jsou začátečníci, kteří nerozumí technickým částem kryptoměn. Pomocí hravých analogií a příkladů si naživo vyzkoušíme třeba to, jak funguje hashování nebo jak probíhá Proof of work na Bitcoinu. Díky vtipným přirovnáním si budete moci představit ty technické a abstraktní věci, které si o kryptu všichni čtete.",
-        "track": "zaklady"
-      },
-      {
         "id": "nxpqtx",
         "type": "talk",
         "name": "Midjourney, DALL·E 2, ChatGPT... právní výzva pro web3?",
@@ -3783,16 +3772,6 @@
       },
       {
         "id": "ad",
-        "stage": "knihovna",
-        "event": "3tcyng",
-        "date": "2023-06-04",
-        "period": {
-          "start": "2023-06-04T15:00:00+02:00",
-          "end": "2023-06-04T16:00:00+02:00"
-        }
-      },
-      {
-        "id": "ae",
         "stage": "klenbovy-sal",
         "event": "nxpqtx",
         "date": "2023-06-03",
@@ -3802,7 +3781,7 @@
         }
       },
       {
-        "id": "af",
+        "id": "ae",
         "stage": "knihovna",
         "event": "kklvje",
         "date": "2023-06-03",
@@ -3812,7 +3791,7 @@
         }
       },
       {
-        "id": "ag",
+        "id": "af",
         "stage": "lustrovy-sal",
         "event": "9tjnas",
         "date": "2023-06-03",
@@ -3822,7 +3801,7 @@
         }
       },
       {
-        "id": "ah",
+        "id": "ag",
         "stage": "klenbovy-sal",
         "event": "ehalmb",
         "date": "2023-06-03",
@@ -3832,7 +3811,7 @@
         }
       },
       {
-        "id": "ai",
+        "id": "ah",
         "stage": "klenbovy-sal",
         "event": "mbezkd",
         "date": "2023-06-03",
@@ -3842,7 +3821,7 @@
         }
       },
       {
-        "id": "aj",
+        "id": "ai",
         "stage": "rajska-zahrada",
         "event": "jptwkd",
         "date": "2023-06-04",
@@ -3852,7 +3831,7 @@
         }
       },
       {
-        "id": "ak",
+        "id": "aj",
         "stage": "lustrovy-sal",
         "event": "3mwenq",
         "date": "2023-06-04",
@@ -3862,7 +3841,7 @@
         }
       },
       {
-        "id": "al",
+        "id": "ak",
         "stage": "rajska-zahrada",
         "event": "ae3sxw",
         "date": "2023-06-04",
@@ -3872,7 +3851,7 @@
         }
       },
       {
-        "id": "am",
+        "id": "al",
         "stage": "lustrovy-sal",
         "event": "wke3pb",
         "date": "2023-06-04",
@@ -3882,7 +3861,7 @@
         }
       },
       {
-        "id": "an",
+        "id": "am",
         "stage": "lustrovy-sal",
         "event": "zhascq",
         "date": "2023-06-03",
@@ -3892,7 +3871,7 @@
         }
       },
       {
-        "id": "ao",
+        "id": "an",
         "stage": "klenbovy-sal",
         "event": "vjlrdv",
         "date": "2023-06-04",
@@ -3902,7 +3881,7 @@
         }
       },
       {
-        "id": "ap",
+        "id": "ao",
         "stage": "lustrovy-sal",
         "event": "aefxhc",
         "date": "2023-06-03",
@@ -3912,7 +3891,7 @@
         }
       },
       {
-        "id": "aq",
+        "id": "ap",
         "stage": "lustrovy-sal",
         "event": "dy87a8",
         "date": "2023-06-04",
@@ -3922,7 +3901,7 @@
         }
       },
       {
-        "id": "ar",
+        "id": "aq",
         "stage": "campfire",
         "event": "9989p3",
         "date": "2023-06-03",
@@ -3932,7 +3911,7 @@
         }
       },
       {
-        "id": "as",
+        "id": "ar",
         "stage": "campfire",
         "event": "f3qqdj",
         "date": "2023-06-04",
@@ -3942,7 +3921,7 @@
         }
       },
       {
-        "id": "at",
+        "id": "as",
         "stage": "campfire",
         "event": "3y8esm",
         "date": "2023-06-04",
@@ -3952,7 +3931,7 @@
         }
       },
       {
-        "id": "au",
+        "id": "at",
         "stage": "knihovna",
         "event": "e3gt7v",
         "date": "2023-06-04",
@@ -3962,7 +3941,7 @@
         }
       },
       {
-        "id": "av",
+        "id": "au",
         "stage": "lustrovy-sal",
         "event": "esllaf",
         "date": "2023-06-04",
@@ -3972,7 +3951,7 @@
         }
       },
       {
-        "id": "aw",
+        "id": "av",
         "stage": "rajska-zahrada",
         "event": "7lxjzl",
         "date": "2023-06-04",
@@ -3982,7 +3961,7 @@
         }
       },
       {
-        "id": "ax",
+        "id": "aw",
         "stage": "lustrovy-sal",
         "event": "axdm9t",
         "date": "2023-06-03",
@@ -3992,7 +3971,7 @@
         }
       },
       {
-        "id": "ay",
+        "id": "ax",
         "stage": "klenbovy-sal",
         "event": "p9una9",
         "date": "2023-06-03",
@@ -4002,7 +3981,7 @@
         }
       },
       {
-        "id": "az",
+        "id": "ay",
         "stage": "campfire",
         "event": "vayuas",
         "date": "2023-06-04",
@@ -4012,7 +3991,7 @@
         }
       },
       {
-        "id": "a0",
+        "id": "az",
         "stage": "lustrovy-sal",
         "event": "3ka9gz",
         "date": "2023-06-03",
@@ -4022,7 +4001,7 @@
         }
       },
       {
-        "id": "a1",
+        "id": "a0",
         "stage": "klenbovy-sal",
         "event": "kkaz8h",
         "date": "2023-06-03",
@@ -4032,7 +4011,7 @@
         }
       },
       {
-        "id": "a2",
+        "id": "a1",
         "stage": "campfire",
         "event": "rdhxzb",
         "date": "2023-06-03",
@@ -4042,7 +4021,7 @@
         }
       },
       {
-        "id": "a3",
+        "id": "a2",
         "stage": "campfire",
         "event": "7ydeft",
         "date": "2023-06-03",
@@ -4052,7 +4031,7 @@
         }
       },
       {
-        "id": "a4",
+        "id": "a3",
         "stage": "lustrovy-sal",
         "event": "r3ectq",
         "date": "2023-06-03",
@@ -4062,7 +4041,7 @@
         }
       },
       {
-        "id": "a5",
+        "id": "a4",
         "stage": "lustrovy-sal",
         "event": "uvv38z",
         "date": "2023-06-03",
@@ -4072,7 +4051,7 @@
         }
       },
       {
-        "id": "a6",
+        "id": "a5",
         "stage": "klenbovy-sal",
         "event": "ypsb3r",
         "date": "2023-06-03",
@@ -4082,7 +4061,7 @@
         }
       },
       {
-        "id": "a7",
+        "id": "a6",
         "stage": "klenbovy-sal",
         "event": "97qelm",
         "date": "2023-06-03",
@@ -4092,7 +4071,7 @@
         }
       },
       {
-        "id": "a8",
+        "id": "a7",
         "stage": "lustrovy-sal",
         "event": "h8zecs",
         "date": "2023-06-04",
@@ -4102,7 +4081,7 @@
         }
       },
       {
-        "id": "a9",
+        "id": "a8",
         "stage": "knihovna",
         "event": "xvpt9c",
         "date": "2023-06-04",
@@ -4112,13 +4091,23 @@
         }
       },
       {
-        "id": "ba",
+        "id": "a9",
         "stage": "lustrovy-sal",
         "event": "xpflwb",
         "date": "2023-06-03",
         "period": {
           "start": "2023-06-03T14:30:00+02:00",
           "end": "2023-06-03T15:15:00+02:00"
+        }
+      },
+      {
+        "id": "ba",
+        "stage": "lustrovy-sal",
+        "event": "audvwc",
+        "date": "2023-06-04",
+        "period": {
+          "start": "2023-06-04T17:45:00+02:00",
+          "end": "2023-06-04T17:53:00+02:00"
         }
       },
       {
@@ -4918,12 +4907,12 @@
       "speakers": 94,
       "tracks": 12,
       "event-types": 7,
-      "events": 117,
+      "events": 116,
       "stages": 6,
       "faqs": 5,
       "partners": 20,
       "schedule": 116
     }
   },
-  "time": "2023-06-04T08:12:27.582Z"
+  "time": "2023-06-04T19:52:37.420Z"
 }
